@@ -14,12 +14,8 @@ export function formatForMONPlayer(scrapedData, provider) {
             id: ch.id,
             name: ch.name,
             type: 'single',
+            logo: ch.logo || '',
         };
-
-        // Logo
-        if (ch.logo) {
-            entry.image = { type: 'cover', url: ch.logo };
-        }
 
         // Stream URL for live matches
         if (ch.url) {
