@@ -1,57 +1,41 @@
-import CONFIG from './config.js';
-
 /**
- * Fetch matches from GaVangTV API
+ * Generic scraper - works with any source config
  */
-async function fetchMatches(queries = []) {
-    const url = `${CONFIG.api.baseUrl}${CONFIG.api.endpoint}`;
 
+async function fetchMatches(api, queries = []) {
+    const url = `${api.baseUrl}${api.endpoint}`;
     const response = await fetch(url, {
         method: 'POST',
-        headers: CONFIG.api.headers,
+        headers: api.headers,
         body: JSON.stringify({ queries }),
     });
-
-    if (!response.ok) {
-        throw new Error(`API error: ${response.status} ${response.statusText}`);
-    }
-
+    if (!response.ok) throw new Error(`API ${response.status}`);
     return response.json();
 }
 
-/**
- * Get all live matches
- */
-async function getLiveMatches() {
-    const result = await fetchMatches([
+async function getLiveMatches(api) {
+    const result = await fetchMatches(api, [
         { field: 'is_live', type: 'equal', value: true },
     ]);
-    console.log(`  🔴 Live matches: ${result.total}`);
+    console.log(`    🔴 Live: ${result.total}`);
     return result.data || [];
 }
 
-/**
- * Get upcoming matches (next 24 hours)
- */
-async function getUpcomingMatches() {
-    const result = await fetchMatches([]);
-
+async function getUpcomingMatches(api) {
+    const result = await fetchMatches(api, []);
     const now = new Date();
     const next24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
 
-    const upcoming = (result.data || []).filter((match) => {
-        if (match.is_live) return false;
-        const startDate = new Date(match.start_date);
-        return startDate >= now && startDate <= next24h;
+    const upcoming = (result.data || []).filter((m) => {
+        if (m.is_live) return false;
+        const d = new Date(m.start_date);
+        return d >= now && d <= next24h;
     });
 
-    console.log(`  📅 Upcoming (24h): ${upcoming.length} / ${result.total} total in DB`);
+    console.log(`    📅 Upcoming: ${upcoming.length}`);
     return upcoming;
 }
 
-/**
- * Build channel object from match data
- */
 function buildChannel(match) {
     const isLive = match.is_live && match.source_live;
 
@@ -64,18 +48,14 @@ function buildChannel(match) {
             title += `${match.team_1} vs ${match.team_2}`;
         }
     } else {
-        const startDate = new Date(match.start_date);
-        const timeStr = startDate.toLocaleTimeString('vi-VN', {
-            hour: '2-digit',
-            minute: '2-digit',
-            timeZone: 'Asia/Ho_Chi_Minh',
-        });
-        title += `⏰ ${timeStr} | ${match.team_1} vs ${match.team_2}`;
+        const d = new Date(match.start_date);
+        const t = d.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Ho_Chi_Minh' });
+        title += `⏰ ${t} | ${match.team_1} vs ${match.team_2}`;
     }
 
     if (match.blv) title += ` 🎙${match.blv}`;
 
-    const channel = {
+    const ch = {
         id: match.id,
         name: title,
         logo: match.team_1_logo || '',
@@ -84,33 +64,26 @@ function buildChannel(match) {
         startTime: match.start_date,
     };
 
-    if (isLive) {
-        channel.url = match.source_live;
-    }
-
-    return channel;
+    if (isLive) ch.url = match.source_live;
+    return ch;
 }
 
 /**
- * Main scrape function
+ * Scrape a single source
  */
-export async function scrapeAll() {
-    console.log('\n🐔 GaVangTV Scraper Starting...');
-    console.log(`📡 API: ${CONFIG.api.baseUrl}`);
+export async function scrapeSource(source) {
+    console.log(`\n  📡 ${source.name} (${source.api.baseUrl})`);
 
-    const [liveMatches, upcomingMatches] = await Promise.all([
-        getLiveMatches(),
-        getUpcomingMatches(),
+    const [live, upcoming] = await Promise.all([
+        getLiveMatches(source.api),
+        getUpcomingMatches(source.api),
     ]);
 
-    // Deduplicate
     const allMap = new Map();
-    liveMatches.forEach((m) => allMap.set(m.id, m));
-    upcomingMatches.forEach((m) => { if (!allMap.has(m.id)) allMap.set(m.id, m); });
+    live.forEach((m) => allMap.set(m.id, m));
+    upcoming.forEach((m) => { if (!allMap.has(m.id)) allMap.set(m.id, m); });
 
     const channels = Array.from(allMap.values()).map(buildChannel);
-
-    // Sort: live first, then by start time
     channels.sort((a, b) => {
         if (a.isLive && !b.isLive) return -1;
         if (!a.isLive && b.isLive) return 1;
@@ -118,8 +91,11 @@ export async function scrapeAll() {
     });
 
     const liveCount = channels.filter((c) => c.isLive).length;
+    console.log(`    ✅ Total: ${channels.length} | Live: ${liveCount} | Upcoming: ${channels.length - liveCount}`);
 
-    console.log(`\n✅ Total: ${channels.length} | 🔴 Live: ${liveCount} | ⏰ Upcoming: ${channels.length - liveCount}`);
-
-    return { channels, scrapedAt: new Date().toISOString(), stats: { total: channels.length, live: liveCount, upcoming: channels.length - liveCount } };
+    return {
+        channels,
+        scrapedAt: new Date().toISOString(),
+        stats: { total: channels.length, live: liveCount, upcoming: channels.length - liveCount },
+    };
 }
