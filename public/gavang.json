@@ -1414,8 +1414,37 @@
       "name": "English Premier League",
       "channels": [
         {
+          "id": "0d4f3bb983ab40268a1488630382c039",
+          "name": "Wolverhampton Wanderers vs Aston Villa | 03:00 28-02",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wolverhampton+Wanderers&t2=Aston+Villa&blv=B%C3%A1t+Gi%E1%BB%9Bi&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa56f433f9bf2608f2ccd09f31e64bf9b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 03:00 28-02",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Bát Giới",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
           "id": "0cf4d04e6e7e45d6ba7f6012456fe877",
-          "name": "Leeds United vs Manchester City | 17:30 28-02",
+          "name": "Leeds United vs Manchester City | 00:30 01-03",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
@@ -1427,7 +1456,7 @@
           },
           "labels": [
             {
-              "text": "⏰ 17:30 28-02",
+              "text": "⏰ 00:30 01-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
