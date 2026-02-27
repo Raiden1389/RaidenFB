@@ -17,6 +17,15 @@ export function formatForMONPlayer(scrapedData, provider) {
             logo: ch.logo || '',
         };
 
+        if (ch.blv) {
+            entry.labels = [{
+                text: `👨‍💼 BLV ${ch.blv}`,
+                position: 'bottom-left',
+                color: provider.color,
+                text_color: '#ffffff',
+            }];
+        }
+
         // Stream URL for live matches
         if (ch.url) {
             entry.sources = [{

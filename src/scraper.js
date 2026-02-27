@@ -39,8 +39,12 @@ async function getUpcomingMatches(api) {
 function buildChannel(match) {
     const isLive = match.is_live && match.source_live;
 
-    let title = `${match.team_1} vs ${match.team_2}`;
-    if (match.blv) title += ` BLV ${match.blv}`;
+    let title = '';
+    if (match.is_live && match.team_1_score !== null && match.team_2_score !== null) {
+        title = `${match.team_1} ${match.team_1_score} - ${match.team_2_score} ${match.team_2}`;
+    } else {
+        title = `${match.team_1} vs ${match.team_2}`;
+    }
 
     const ch = {
         id: match.id,
@@ -49,6 +53,7 @@ function buildChannel(match) {
         group: match.league || 'Other',
         isLive: !!match.is_live,
         startTime: match.start_date,
+        blv: match.blv || '',
     };
 
     if (isLive) ch.url = match.source_live;
