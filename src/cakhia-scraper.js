@@ -62,7 +62,15 @@ export async function scrapeCakhia(provider) {
         if (isLive && team1Score !== null && team2Score !== null) {
             title = `${m.home_name} ${team1Score} - ${team2Score} ${m.away_name}`;
         } else {
-            title = `${m.home_name} vs ${m.away_name}`;
+            // Add match time
+            let timeStr = '';
+            if (m.time) {
+                const d = new Date(m.time * 1000);
+                const t = d.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Ho_Chi_Minh' });
+                const day = d.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', timeZone: 'Asia/Ho_Chi_Minh' });
+                timeStr = ` | ${t} ${day}`;
+            }
+            title = `${m.home_name} vs ${m.away_name}${timeStr}`;
         }
 
         if (blv) title += ` | ${blv}`;

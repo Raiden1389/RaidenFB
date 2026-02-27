@@ -43,7 +43,14 @@ function buildChannel(match) {
     if (match.is_live && match.team_1_score !== null && match.team_2_score !== null) {
         title = `${match.team_1} ${match.team_1_score} - ${match.team_2_score} ${match.team_2}`;
     } else {
-        title = `${match.team_1} vs ${match.team_2}`;
+        let timeStr = '';
+        if (match.start_date) {
+            const d = new Date(match.start_date);
+            const t = d.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Ho_Chi_Minh' });
+            const day = d.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', timeZone: 'Asia/Ho_Chi_Minh' });
+            timeStr = ` | ${t} ${day}`;
+        }
+        title = `${match.team_1} vs ${match.team_2}${timeStr}`;
     }
 
     const ch = {
