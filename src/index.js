@@ -20,8 +20,8 @@ async function processSource(key, source) {
     fs.writeFileSync(outPath, JSON.stringify(json, null, 2), 'utf-8');
 
     const size = (fs.statSync(outPath).size / 1024).toFixed(1);
-    const total = json.groups.reduce((s, g) => s + g.channels.length, 0);
-    console.log(`    📁 ${outPath} (${size} KB, ${total} channels)`);
+    const total = (json.groups || []).reduce((s, g) => s + g.channels.length, 0);
+    console.log(`    📁 ${outPath} (${size} KB, ${json.groups.length} groups, ${total} channels)`);
 }
 
 async function main() {
