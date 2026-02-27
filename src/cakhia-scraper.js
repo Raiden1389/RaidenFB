@@ -4,6 +4,7 @@
 
 const CAKHIA_URL = 'https://artbyciara.com/';
 const SCORE_API = 'https://live.sportdb.live/api/v1/matchs/realtime';
+const LOGO_BASE = 'https://artbyciara.com/wp-content/uploads/truc-tiep/logos/football/team/';
 
 async function fetchCakhiaHTML() {
     const res = await fetch(CAKHIA_URL, {
@@ -75,10 +76,14 @@ export async function scrapeCakhia(provider) {
 
         if (blv) title += ` | ${blv}`;
 
+        const homeLogo = m.home_logo ? `${LOGO_BASE}${m.home_logo}` : '';
+        const awayLogo = m.away_logo ? `${LOGO_BASE}${m.away_logo}` : '';
+
         return {
             id: m.id,
             name: title,
-            logo: md.home_logo || '',
+            logo: homeLogo,
+            logo2: awayLogo,
             group: md.competition_full || 'Other',
             isLive,
             startTime: m.time ? new Date(m.time * 1000).toISOString() : '',

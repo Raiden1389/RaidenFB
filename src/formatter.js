@@ -32,6 +32,7 @@ export function formatForMONPlayer(scrapedData, provider) {
         if (ch.blv) cardParams.set('blv', ch.blv);
         if (ch.group) cardParams.set('lg', ch.group);
         if (ch.logo) cardParams.set('l1', ch.logo);
+        if (ch.logo2) cardParams.set('l2', ch.logo2);
         cardParams.set('s', 'vs');
         const cardUrl = `https://raidenfb-card.vercel.app/api/card?${cardParams}`;
 
