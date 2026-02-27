@@ -32,7 +32,7 @@ export function formatForMONPlayer(scrapedData, provider) {
                 contents: [{
                     streams: [{
                         id: 'default',
-                        name: ch.name,
+                        name: ch.blv ? `BLV ${ch.blv}` : 'Stream',
                         stream_links: [{
                             id: 'hls',
                             type: 'hls',
@@ -43,6 +43,7 @@ export function formatForMONPlayer(scrapedData, provider) {
             }];
         } else {
             entry.sources = [];
+            entry.enable_detail = false;
         }
 
         groupMap.get(gName).push(entry);
