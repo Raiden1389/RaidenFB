@@ -50,33 +50,11 @@ async function getUpcomingMatches() {
 }
 
 /**
- * Detect category from match data
- */
-function detectCategory(match) {
-    const searchText = `${match.league || ''} ${match.desc || ''}`.toLowerCase();
-
-    for (const [key, cat] of Object.entries(CONFIG.categories)) {
-        if (key === 'other') continue;
-        if (cat.keywords.some((kw) => searchText.includes(kw))) {
-            return { key, ...cat };
-        }
-    }
-
-    if ((match.desc || '').toUpperCase() === 'FOOTBALL') {
-        return { key: 'football', ...CONFIG.categories.football };
-    }
-
-    return { key: 'other', ...CONFIG.categories.other };
-}
-
-/**
  * Build channel object from match data
  */
 function buildChannel(match) {
-    const category = detectCategory(match);
     const isLive = match.is_live && match.source_live;
 
-    // Build title
     let title = '';
     if (match.is_live) {
         title += '🔴 ';
@@ -100,8 +78,8 @@ function buildChannel(match) {
     const channel = {
         id: match.id,
         name: title,
-        logo: match.team_1_logo || CONFIG.provider.logo,
-        group: match.league || 'Khác',
+        logo: match.team_1_logo || '',
+        group: match.league || 'Other',
         isLive: !!match.is_live,
         startTime: match.start_date,
     };
