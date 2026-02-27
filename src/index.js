@@ -14,11 +14,9 @@ async function processSource(key, source) {
     const data = await scrapeSource(source);
     const json = formatForMONPlayer(data, source.provider);
 
-    // Output: public/{key}/index.json
-    const outDir = path.join(PUBLIC, source.output);
-    fs.mkdirSync(outDir, { recursive: true });
-
-    const outPath = path.join(outDir, 'index.json');
+    // Output: public/{key}.json
+    fs.mkdirSync(PUBLIC, { recursive: true });
+    const outPath = path.join(PUBLIC, `${source.output}.json`);
     fs.writeFileSync(outPath, JSON.stringify(json, null, 2), 'utf-8');
 
     const size = (fs.statSync(outPath).size / 1024).toFixed(1);
