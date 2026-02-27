@@ -1,26 +1,45 @@
 /**
- * Format scraped data into MONPlayer JSON (VBTV format)
+ * Format scraped data into MONPlayer provider JSON (VBTV-compatible)
  */
 export function formatForMONPlayer(scrapedData, provider) {
-    const { channels, scrapedAt } = scrapedData;
+    const { channels } = scrapedData;
 
+    // Group channels
     const groupMap = new Map();
     channels.forEach((ch) => {
-        const gName = ch.isLive ? '🔴 LIVE' : (ch.group || 'Other');
+        const gName = ch.isLive ? '🔴 LIVE' : (ch.group || 'Upcoming');
         if (!groupMap.has(gName)) groupMap.set(gName, []);
 
-        const entry = { id: ch.id, name: ch.name, logo: ch.logo || '' };
+        const entry = {
+            id: ch.id,
+            name: ch.name,
+            type: 'single',
+        };
+
+        // Logo
+        if (ch.logo) {
+            entry.image = { type: 'cover', url: ch.logo };
+        }
+
+        // Stream URL for live matches
         if (ch.url) {
             entry.sources = [{
                 contents: [{
                     streams: [{
                         id: 'default',
                         name: ch.name,
-                        remote_data: { url: ch.url }
-                    }]
-                }]
+                        stream_links: [{
+                            id: 'hls',
+                            type: 'hls',
+                            url: ch.url,
+                        }],
+                    }],
+                }],
             }];
+        } else {
+            entry.sources = [];
         }
+
         groupMap.get(gName).push(entry);
     });
 
@@ -30,7 +49,12 @@ export function formatForMONPlayer(scrapedData, provider) {
             if (b.includes('LIVE')) return 1;
             return a.localeCompare(b, 'vi');
         })
-        .map(([name, chs]) => ({ name, channels: chs }));
+        .map(([name, chs]) => ({
+            id: name.toLowerCase().replace(/[^a-z0-9]/g, ''),
+            name,
+            channels: chs,
+            display: 'vertical',
+        }));
 
     return {
         id: provider.id,
@@ -40,5 +64,6 @@ export function formatForMONPlayer(scrapedData, provider) {
         url: '',
         image: { type: 'cover', url: provider.logo },
         groups,
+        option: { save_history: false, save_search_history: false, save_wishlist: false },
     };
 }

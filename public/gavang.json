@@ -10,12 +10,17 @@
   },
   "groups": [
     {
+      "id": "live",
       "name": "🔴 LIVE",
       "channels": [
         {
           "id": "1l4rjnh91owgm7v",
           "name": "🔴 Napoli U20 0-1 Torino U20 🎙Gà Siêu Ngố",
-          "logo": "https://img.rapid-api.icu/football/team/2e646c79c2cdcaea28e43d3c0e14804a/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/2e646c79c2cdcaea28e43d3c0e14804a/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -24,9 +29,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Napoli U20 0-1 Torino U20 🎙Gà Siêu Ngố",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/a6dfb8e4c3fdc32647ff6d21376121eb/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a6dfb8e4c3fdc32647ff6d21376121eb/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -37,7 +46,11 @@
         {
           "id": "3glrw7hn79pjqdy",
           "name": "🔴 S.L. Benfica de Macau 2-1 Gala FC",
-          "logo": "https://img.rapid-api.icu/football/team/10ed744a04f1bf4c0ea1e4ab02ed0b0f/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/10ed744a04f1bf4c0ea1e4ab02ed0b0f/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -46,9 +59,13 @@
                     {
                       "id": "default",
                       "name": "🔴 S.L. Benfica de Macau 2-1 Gala FC",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/ad414f53327e5aff0aef0580c5492a92/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ad414f53327e5aff0aef0580c5492a92/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -59,7 +76,11 @@
         {
           "id": "4wyrn4h67e4lq86",
           "name": "🔴 Maccabi Kabilio Jaffa 1-1 Hapoel Raanana",
-          "logo": "https://img.rapid-api.icu/football/team/ff28ffc048e18e4bff98cad8263d7c03/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/ff28ffc048e18e4bff98cad8263d7c03/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -68,9 +89,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Maccabi Kabilio Jaffa 1-1 Hapoel Raanana",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/2f2be29c5c27f99cd6793904798d971a/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/2f2be29c5c27f99cd6793904798d971a/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -81,7 +106,11 @@
         {
           "id": "965mkyhkg4enr1g",
           "name": "🔴 Bnei Yehuda Tel Aviv 1-0 Ironi Modiin",
-          "logo": "https://img.rapid-api.icu/football/team/45e037e80aeb4ddd200b4db9fc013599/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/45e037e80aeb4ddd200b4db9fc013599/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -90,9 +119,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Bnei Yehuda Tel Aviv 1-0 Ironi Modiin",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/b5f48c0d2da97ca5e5cf86a8312aba19/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/b5f48c0d2da97ca5e5cf86a8312aba19/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -103,7 +136,11 @@
         {
           "id": "dn1m1ghloe37moe",
           "name": "🔴 Hapoel Ramat Gan 1-2 Hapoel Rishon Lezion",
-          "logo": "https://img.rapid-api.icu/football/team/448ca10a62cbb404748df1b15a50b3f6/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/448ca10a62cbb404748df1b15a50b3f6/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -112,9 +149,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Hapoel Ramat Gan 1-2 Hapoel Rishon Lezion",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/233680a04ec34658e74a5618b5883e39/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/233680a04ec34658e74a5618b5883e39/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -125,7 +166,11 @@
         {
           "id": "l5ergph446vlr8k",
           "name": "🔴 Rosenborg 0-1 Vålerenga Fotball Elite",
-          "logo": "https://img.rapid-api.icu/football/team/eff63c7b2ffc10819595bdcaf66a79cf/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/eff63c7b2ffc10819595bdcaf66a79cf/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -134,9 +179,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Rosenborg 0-1 Vålerenga Fotball Elite",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/5638b9eaa8780f90c35028fe7e56e45a/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5638b9eaa8780f90c35028fe7e56e45a/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -147,7 +196,11 @@
         {
           "id": "l5ergph4e3jlr8k",
           "name": "🔴 Erokspor 2-0 Boluspor",
-          "logo": "https://img.rapid-api.icu/football/team/7005f3f9cc0d24ed32940e76dc29f356/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/7005f3f9cc0d24ed32940e76dc29f356/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -156,9 +209,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Erokspor 2-0 Boluspor",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/0953eb37af8e3dd6fa45cc65adc3d695/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0953eb37af8e3dd6fa45cc65adc3d695/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -169,7 +226,11 @@
         {
           "id": "y0or5jh88yl7qwz",
           "name": "🔴 South Africa Women 1-1 Zimbabwe Women",
-          "logo": "https://img.rapid-api.icu/football/team/2f8eeae91a0f877323f927ef68eee0d1/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/2f8eeae91a0f877323f927ef68eee0d1/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -178,9 +239,13 @@
                     {
                       "id": "default",
                       "name": "🔴 South Africa Women 1-1 Zimbabwe Women",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/44773b99ec253898a7cb4a19edde8048/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/44773b99ec253898a7cb4a19edde8048/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -191,7 +256,11 @@
         {
           "id": "3glrw7hny6ejqdy",
           "name": "🔴 Kelantan The Real Warriors 0-3 DPMM FC",
-          "logo": "https://img.rapid-api.icu/football/team/35749ad1a84927444ebc2bf325d1c1c9/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/35749ad1a84927444ebc2bf325d1c1c9/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -200,9 +269,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Kelantan The Real Warriors 0-3 DPMM FC",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/c2fc436c85f662dc04e125ae540ee83f/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c2fc436c85f662dc04e125ae540ee83f/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -213,7 +286,11 @@
         {
           "id": "4jwq2ghn0j60m0v",
           "name": "🔴 PFK Montana 0-0 Botev Plovdiv",
-          "logo": "https://img.rapid-api.icu/football/team/034d4469c5c694698eb32918b47d4f4c/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/034d4469c5c694698eb32918b47d4f4c/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -222,9 +299,13 @@
                     {
                       "id": "default",
                       "name": "🔴 PFK Montana 0-0 Botev Plovdiv",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/c49408486395112e7edfdc5be579ba58/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c49408486395112e7edfdc5be579ba58/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -235,7 +316,11 @@
         {
           "id": "k82rekhgygo1rep",
           "name": "🔴 FC Shakhtar Donetsk 1-0 Veres",
-          "logo": "https://img.rapid-api.icu/football/team/12e1c5dbe81840568955ea5269ac8d56/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/12e1c5dbe81840568955ea5269ac8d56/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -244,9 +329,13 @@
                     {
                       "id": "default",
                       "name": "🔴 FC Shakhtar Donetsk 1-0 Veres",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/d88c1deb201d8cd7cbf48a5e799778b4/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d88c1deb201d8cd7cbf48a5e799778b4/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -257,7 +346,11 @@
         {
           "id": "vjxm8gheeojdr6o",
           "name": "🔴 Chanmari FC 0-0 Gokulam Kerala FC",
-          "logo": "https://img.rapid-api.icu/football/team/5e56e8ef414c4fe2117e9eaf86b55393/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/5e56e8ef414c4fe2117e9eaf86b55393/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -266,9 +359,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Chanmari FC 0-0 Gokulam Kerala FC",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/2445febe2f74edb0f16f4bdb5e2ccae1/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/2445febe2f74edb0f16f4bdb5e2ccae1/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -279,7 +376,11 @@
         {
           "id": "x7lm7phjwyw3m2w",
           "name": "🔴 PSBS Biak Numfor 2-4 PSIM Yogyakarta",
-          "logo": "https://img.rapid-api.icu/football/team/2fef1c9b780115b42caf9130b6a79083/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/2fef1c9b780115b42caf9130b6a79083/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -288,9 +389,13 @@
                     {
                       "id": "default",
                       "name": "🔴 PSBS Biak Numfor 2-4 PSIM Yogyakarta",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/1681fc7b57ee398f064c791b4e569ae9/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1681fc7b57ee398f064c791b4e569ae9/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -301,7 +406,11 @@
         {
           "id": "2y8m4zh56778ql0",
           "name": "🔴 FK Andijon 4-0 Sogdiana Jizak",
-          "logo": "https://img.rapid-api.icu/football/team/3a7b14d9b2b871fa0c347867f22a9a06/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/3a7b14d9b2b871fa0c347867f22a9a06/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -310,9 +419,13 @@
                     {
                       "id": "default",
                       "name": "🔴 FK Andijon 4-0 Sogdiana Jizak",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/bd9237369b099817e5ac55001d448041/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/bd9237369b099817e5ac55001d448041/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -323,7 +436,11 @@
         {
           "id": "3glrw7hnp6o5qdy",
           "name": "🔴 MO Bejaia 2-0 MO Constantine",
-          "logo": "https://img.rapid-api.icu/football/team/2ad43a18c63e5af44a62e5dfbc375d11/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/2ad43a18c63e5af44a62e5dfbc375d11/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -332,9 +449,13 @@
                     {
                       "id": "default",
                       "name": "🔴 MO Bejaia 2-0 MO Constantine",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/41950d89998f764f3ba952b482c44a68/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/41950d89998f764f3ba952b482c44a68/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -345,7 +466,11 @@
         {
           "id": "6ypq3nhv3881md7",
           "name": "🔴 Pakhtakor 2-0 Qizilqum Zarafshon",
-          "logo": "https://img.rapid-api.icu/football/team/3179c699d1b7822e77c74eb810642d7e/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/3179c699d1b7822e77c74eb810642d7e/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -354,9 +479,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Pakhtakor 2-0 Qizilqum Zarafshon",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/e5c07c5a17ac4fed46f56f2bd720a0d1/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e5c07c5a17ac4fed46f56f2bd720a0d1/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -367,7 +496,11 @@
         {
           "id": "6ypq3nhvv1zvmd7",
           "name": "🔴 Bengaluru 0-2 Minerva Punjab",
-          "logo": "https://img.rapid-api.icu/football/team/f9dd138610bd82de7240f66098aa9ffe/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/f9dd138610bd82de7240f66098aa9ffe/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -376,9 +509,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Bengaluru 0-2 Minerva Punjab",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/de715e175431b96ae5919f819e3128b7/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/de715e175431b96ae5919f819e3128b7/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -389,7 +526,11 @@
         {
           "id": "965mkyhkkw6yr1g",
           "name": "🔴 Fakel Voronezh 1-0 Ural Yekaterinburg",
-          "logo": "https://img.rapid-api.icu/football/team/996806d68138060bfc4cb38e2fc61ff7/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/996806d68138060bfc4cb38e2fc61ff7/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -398,9 +539,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Fakel Voronezh 1-0 Ural Yekaterinburg",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/dadc6a9debbd1fbae040741ca58d2a46/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/dadc6a9debbd1fbae040741ca58d2a46/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -411,7 +556,11 @@
         {
           "id": "ednm9whwd118ryo",
           "name": "🔴 Araz Nakhchivan 0-1 Zira FK",
-          "logo": "https://img.rapid-api.icu/football/team/d097e7b49579aaf2a93b1df9b01cbe7f/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/d097e7b49579aaf2a93b1df9b01cbe7f/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -420,9 +569,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Araz Nakhchivan 0-1 Zira FK",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/9f9200d0a621097b9855b885a2afa469/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9f9200d0a621097b9855b885a2afa469/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -433,7 +586,11 @@
         {
           "id": "k82rekhgw00krep",
           "name": "🔴 NK Sesvete 3-0 Karlovac",
-          "logo": "https://img.rapid-api.icu/football/team/7faf7d2f9aa41ec74926af79a99ce64c/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/7faf7d2f9aa41ec74926af79a99ce64c/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -442,9 +599,13 @@
                     {
                       "id": "default",
                       "name": "🔴 NK Sesvete 3-0 Karlovac",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/0c7c59ac3124e964d6c13a3917779788/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0c7c59ac3124e964d6c13a3917779788/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -455,7 +616,11 @@
         {
           "id": "n54qllhnz1dlqvy",
           "name": "🔴 USM Annaba 1-0 US Chaouia",
-          "logo": "https://img.rapid-api.icu/football/team/7612dba657d483886edfc8d13ccfbcbe/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/7612dba657d483886edfc8d13ccfbcbe/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -464,9 +629,13 @@
                     {
                       "id": "default",
                       "name": "🔴 USM Annaba 1-0 US Chaouia",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/dce7d9efd6f82588bd765fb4e0285eec/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/dce7d9efd6f82588bd765fb4e0285eec/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -477,7 +646,11 @@
         {
           "id": "pxwrxlhy3evwryk",
           "name": "🔴 JS Bordj Menaiel 4-0 HB Chelghoum Laid",
-          "logo": "https://img.rapid-api.icu/football/team/b329cfb7ea7b51dd38a3a99da5a1b70a/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/b329cfb7ea7b51dd38a3a99da5a1b70a/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -486,9 +659,13 @@
                     {
                       "id": "default",
                       "name": "🔴 JS Bordj Menaiel 4-0 HB Chelghoum Laid",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/fb6f54a94830f4a251288b86fe106d3a/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fb6f54a94830f4a251288b86fe106d3a/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -499,7 +676,11 @@
         {
           "id": "vjxm8ghew3xdr6o",
           "name": "🔴 NC Magra 0-2 Djijel",
-          "logo": "https://img.rapid-api.icu/football/team/626e8a4013589c2d6d9419a3e9d77b9f/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/626e8a4013589c2d6d9419a3e9d77b9f/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -508,9 +689,13 @@
                     {
                       "id": "default",
                       "name": "🔴 NC Magra 0-2 Djijel",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/d7f8062101054335fdaba95d0853a698/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d7f8062101054335fdaba95d0853a698/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -521,7 +706,11 @@
         {
           "id": "x7lm7phj78p6m2w",
           "name": "🔴 Beni Oulbane 1-0 CR Beni Thour",
-          "logo": "https://img.rapid-api.icu/football/team/b8104487a093c1d5232fda467493360a/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/b8104487a093c1d5232fda467493360a/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -530,9 +719,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Beni Oulbane 1-0 CR Beni Thour",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/13258a78c1d79796df719354a984c8ef/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/13258a78c1d79796df719354a984c8ef/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -543,7 +736,11 @@
         {
           "id": "y0or5jh8o612qwz",
           "name": "🔴 NRB Teleghma 2-1 IB Khemis El Khechna",
-          "logo": "https://img.rapid-api.icu/football/team/1d2119e6fc6231666ffcd3dec8e0bbf1/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/1d2119e6fc6231666ffcd3dec8e0bbf1/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -552,9 +749,13 @@
                     {
                       "id": "default",
                       "name": "🔴 NRB Teleghma 2-1 IB Khemis El Khechna",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/4686a979939a5a0c84a9d48d84a2ab63/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4686a979939a5a0c84a9d48d84a2ab63/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -565,7 +766,11 @@
         {
           "id": "8yomo4h13880q0j",
           "name": "🔴 Buxoro FK 1-0 FK Kokand 1912",
-          "logo": "https://img.rapid-api.icu/football/team/bf19ed534e46d1eac0345e41ae2107c7/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/bf19ed534e46d1eac0345e41ae2107c7/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -574,9 +779,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Buxoro FK 1-0 FK Kokand 1912",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/dbfb111a1f06d4cad4d23f0186ab12aa/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/dbfb111a1f06d4cad4d23f0186ab12aa/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -587,7 +796,11 @@
         {
           "id": "4wyrn4h663e1q86",
           "name": "🔴 Bazar Brothers FC 1-3 Cote d'Or",
-          "logo": "https://img.rapid-api.icu/football/team/dc97a7bf7e20c9a773964e9ac0eaae54/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/dc97a7bf7e20c9a773964e9ac0eaae54/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -596,9 +809,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Bazar Brothers FC 1-3 Cote d'Or",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/4d8ee548ab840d17121f69e6556e361a/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4d8ee548ab840d17121f69e6556e361a/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -609,7 +826,11 @@
         {
           "id": "3glrw7hn1d2xqdy",
           "name": "🔴 Hermannstadt 3-1 FC Botosani 🎙Gà Siêu Gầy",
-          "logo": "https://img.rapid-api.icu/football/team/7e5b3a69f94d0ec0ad2b87c82eeb4cb6/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/7e5b3a69f94d0ec0ad2b87c82eeb4cb6/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -618,9 +839,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Hermannstadt 3-1 FC Botosani 🎙Gà Siêu Gầy",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/aee3059a8cc6dcb30bffcb36301032b2/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/aee3059a8cc6dcb30bffcb36301032b2/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -630,8 +855,12 @@
         },
         {
           "id": "4jwq2ghnn5jzm0v",
-          "name": "🔴 Portugal U19 Women 2-0 Wales Women U19",
-          "logo": "https://img.rapid-api.icu/football/team/384b123fbdea7732b216606081d529e3/image/small?v=1768601124",
+          "name": "🔴 Portugal U19 Women 3-1 Wales Women U19",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/384b123fbdea7732b216606081d529e3/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -639,10 +868,14 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "🔴 Portugal U19 Women 2-0 Wales Women U19",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/577b7e55e8a1f76ea11f2d39490d705f/playlist.m3u8"
-                      }
+                      "name": "🔴 Portugal U19 Women 3-1 Wales Women U19",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/577b7e55e8a1f76ea11f2d39490d705f/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -653,7 +886,11 @@
         {
           "id": "965mkyhk4d6xr1g",
           "name": "🔴 Verona U20 0-1 Parma U20",
-          "logo": "https://img.rapid-api.icu/football/team/eda3af5102f871943422ecc20fc7c237/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/eda3af5102f871943422ecc20fc7c237/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -662,9 +899,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Verona U20 0-1 Parma U20",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/08e1dd2d1788c70039c7bcd76f4d9016/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/08e1dd2d1788c70039c7bcd76f4d9016/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -675,7 +916,11 @@
         {
           "id": "y39mp1h66o26moj",
           "name": "🔴 KAMAZ Naberezhnye Chelny 1-1 Arsenal Tula",
-          "logo": "https://img.rapid-api.icu/football/team/96088ea3b60b8971c6a5fb2dcf15cb56/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/96088ea3b60b8971c6a5fb2dcf15cb56/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -684,9 +929,13 @@
                     {
                       "id": "default",
                       "name": "🔴 KAMAZ Naberezhnye Chelny 1-1 Arsenal Tula",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/64d337f9ab7b52020b09a01049efc133/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/64d337f9ab7b52020b09a01049efc133/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -697,7 +946,11 @@
         {
           "id": "jw2r09hk9nl9rz8",
           "name": "🔴 Real du Faso 0-0 Majestic FC",
-          "logo": "https://img.rapid-api.icu/football/team/6e6cddafeba53404e40e00a45efd4760/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/6e6cddafeba53404e40e00a45efd4760/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -706,9 +959,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Real du Faso 0-0 Majestic FC",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/6dc9e6355f2d10eb580d1ed38e129de7/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6dc9e6355f2d10eb580d1ed38e129de7/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -719,7 +976,11 @@
         {
           "id": "ednm9whwd466ryo",
           "name": "🔴 Slavia Sofia 0-2 CSKA 1948 Sofia",
-          "logo": "https://img.rapid-api.icu/football/team/676ea0b1477b79d9986c4425ed94de83/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/676ea0b1477b79d9986c4425ed94de83/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -728,9 +989,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Slavia Sofia 0-2 CSKA 1948 Sofia",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/74add90db0c65f96529264b791f2e39c/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/74add90db0c65f96529264b791f2e39c/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -741,7 +1006,11 @@
         {
           "id": "dj2ryohll6vpq1z",
           "name": "🔴 Union Sportive Bougouba 0-0 AS Korofina",
-          "logo": "https://img.rapid-api.icu/football/team/8c14b73b0d8f9e6cb3557a41f93dc702/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/8c14b73b0d8f9e6cb3557a41f93dc702/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -750,9 +1019,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Union Sportive Bougouba 0-0 AS Korofina",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/4daa19c892355f7f0a98689300e882de/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4daa19c892355f7f0a98689300e882de/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -763,7 +1036,11 @@
         {
           "id": "8yomo4h12v5eq0j",
           "name": "🔴 Zenit St. Petersburg 0-0 Baltika Kaliningrad",
-          "logo": "https://img.rapid-api.icu/football/team/6a568829a62f50d2120b85e8b5f88a2f/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/6a568829a62f50d2120b85e8b5f88a2f/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -772,9 +1049,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Zenit St. Petersburg 0-0 Baltika Kaliningrad",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/f36ea67a08852590231aefc9a02995d4/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f36ea67a08852590231aefc9a02995d4/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -785,7 +1066,11 @@
         {
           "id": "vjxm8ghej1vnr6o",
           "name": "🔴 Başakşehir Futbol Kulübü 0-0 Konyaspor 🎙Gà Siêu Bờm",
-          "logo": "https://img.rapid-api.icu/football/team/2d0c65ad181ead93aea3cd615f0357ce/image/small?v=1768601124",
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/2d0c65ad181ead93aea3cd615f0357ce/image/small?v=1768601124"
+          },
           "sources": [
             {
               "contents": [
@@ -794,9 +1079,13 @@
                     {
                       "id": "default",
                       "name": "🔴 Başakşehir Futbol Kulübü 0-0 Konyaspor 🎙Gà Siêu Bờm",
-                      "remote_data": {
-                        "url": "https://live.alilicloud.com/live/066c51b6d7cb0bf3d43a7317331c54a7/playlist.m3u8"
-                      }
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/066c51b6d7cb0bf3d43a7317331c54a7/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -804,187 +1093,319 @@
             }
           ]
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "argentinegroupbtebolidunleaguemanchester",
       "name": "Argentine Group B Tebolidun League Manchester",
       "channels": [
         {
           "id": "1l4rjnh940y9m7v",
           "name": "⏰ 21:00 | Comunicaciones BsAs vs UAI Urquiza",
-          "logo": "https://img.rapid-api.icu/football/team/147f17c4fa667f3a07b6f85062e7fbf3/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/147f17c4fa667f3a07b6f85062e7fbf3/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "australiaaleague",
       "name": "Australia A-League",
       "channels": [
         {
           "id": "1l4rjnh92kkxm7v",
           "name": "⏰ 07:00 | Brisbane Roar vs Perth Glory 🎙Gà Siêu Mõm",
-          "logo": "https://img.rapid-api.icu/football/team/19dd9f52649ba4c38c86621fce6a7f38/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/19dd9f52649ba4c38c86621fce6a7f38/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "baltiliigawomen",
       "name": "Balti Liiga Women",
       "channels": [
         {
           "id": "1l4rjdhg2zk6r7v",
           "name": "⏰ 13:30 | Tartu Ulikool Women vs RSU-MVS Women",
-          "logo": "https://img.rapid-api.icu/volleyball/team/f35f2a0c1908652199c5539f479e6ad3/image/small"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/volleyball/team/f35f2a0c1908652199c5539f479e6ad3/image/small"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "beneconference",
       "name": "BeNe Conference",
       "channels": [
         {
           "id": "1l4rjdhg34dvr7v",
           "name": "⏰ 19:00 | Advisie/SSS vs Menen",
-          "logo": "https://img.rapid-api.icu/volleyball/team/5fbae44b5187601c1f7e1f393c82f5d0/image/small"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/volleyball/team/5fbae44b5187601c1f7e1f393c82f5d0/image/small"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "braziliancampeonatogaucho",
       "name": "Brazilian Campeonato Gaucho",
       "channels": [
         {
           "id": "1l4rjnh948k9m7v",
           "name": "⏰ 21:00 | Guarany de Bage vs Avenida RS",
-          "logo": "https://img.rapid-api.icu/football/team/c5e21f6c198b391d0e6946ec4112a021/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/c5e21f6c198b391d0e6946ec4112a021/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "bulgarianfirstleague",
       "name": "Bulgarian First League",
       "channels": [
         {
           "id": "1l4rjnh9302em7v",
           "name": "⏰ 10:30 | Botev Vratsa vs Beroe Stara Zagora",
-          "logo": "https://img.rapid-api.icu/football/team/19f0ab75d63882822fa0335ee8e150e9/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/19f0ab75d63882822fa0335ee8e150e9/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "englishfootballleagueone",
       "name": "English Football League One",
       "channels": [
         {
           "id": "1l4rjnh91dz6m7v",
           "name": "⏰ 15:00 | Exeter City vs Bolton Wanderers",
-          "logo": "https://img.rapid-api.icu/football/team/b6e1fd387859fd93c2f78b35dfdb886d/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/b6e1fd387859fd93c2f78b35dfdb886d/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "englishpremierleague",
       "name": "English Premier League",
       "channels": [
         {
           "id": "0cf4d04e6e7e45d6ba7f6012456fe877",
           "name": "⏰ 17:30 | Leeds United vs Manchester City 🎙Bát Giới",
-          "logo": "https://img.rapid-api.icu/football/team/4329f1d6b239b389805c7b1f259f7905/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/4329f1d6b239b389805c7b1f259f7905/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "j2j3100yearvisionleague",
       "name": "J2/J3 100 Year Vision League",
       "channels": [
         {
           "id": "1l4rjnh947gdm7v",
           "name": "⏰ 05:00 | Sagan Tosu vs Kagoshima United",
-          "logo": "https://img.rapid-api.icu/football/team/05f75ee0056b560b32c0afd8c12d57bc/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/05f75ee0056b560b32c0afd8c12d57bc/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "liguea",
       "name": "Ligue A",
       "channels": [
         {
           "id": "1l4rjdhngy4zr7v",
           "name": "⏰ 17:00 | Toulouse vs Plessis Robinson",
-          "logo": "https://img.rapid-api.icu/volleyball/team/7f81b7bff6aedc4556ba4ddf1b0a21dd/image/small"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/volleyball/team/7f81b7bff6aedc4556ba4ddf1b0a21dd/image/small"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "ligueawomen",
       "name": "Ligue A Women",
       "channels": [
         {
           "id": "1l4rjdhng660r7v",
           "name": "⏰ 19:00 | Mulhouse Women vs Paris Women",
-          "logo": "https://img.rapid-api.icu/volleyball/team/abf234b3030c354f5d0cce64bdb7c653/image/small"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/volleyball/team/abf234b3030c354f5d0cce64bdb7c653/image/small"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "mizunodeildwomen",
       "name": "Mizunodeild Women",
       "channels": [
         {
           "id": "1l4rjdhg6v3lr7v",
           "name": "⏰ 16:00 | Volsungur Women vs Throttur Nes Women",
-          "logo": "https://img.rapid-api.icu/volleyball/team/56575de29cd7a8fb18bc17eb7838c8b3/image/small"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/volleyball/team/56575de29cd7a8fb18bc17eb7838c8b3/image/small"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "polandliga1",
       "name": "Poland Liga 1",
       "channels": [
         {
           "id": "1l4rjnh91w23m7v",
           "name": "⏰ 18:30 | Slask Wroclaw vs Chrobry Glogow",
-          "logo": "https://img.rapid-api.icu/football/team/c8201e60929980052a5a6b5ee449e19b/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/c8201e60929980052a5a6b5ee449e19b/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "serbianmozzartbetprvaliga",
       "name": "Serbian Mozzart Bet Prva Liga",
       "channels": [
         {
           "id": "1l4rjnh91p34m7v",
           "name": "⏰ 16:00 | FK Trajal Krusevac vs FK Vrsac",
-          "logo": "https://img.rapid-api.icu/football/team/aa8e3aace7580c89fef7b4edcecbd5f1/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/aa8e3aace7580c89fef7b4edcecbd5f1/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "spanishterceradivisinrfef",
       "name": "Spanish Tercera División RFEF",
       "channels": [
         {
           "id": "1l4rjnh93g98m7v",
           "name": "⏰ 16:00 | CD Lagun Onak vs SD Deusto",
-          "logo": "https://img.rapid-api.icu/football/team/76be491a86c0b64278699e1e2dafda6e/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/76be491a86c0b64278699e1e2dafda6e/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "venezuelaprimeradivision",
       "name": "Venezuela Primera Division",
       "channels": [
         {
           "id": "1l4rjnh9452zm7v",
           "name": "⏰ 21:00 | Universidad Central de Venezuela vs Zamora Barinas",
-          "logo": "https://img.rapid-api.icu/football/team/d13280a01601d09d5cba4239fa5b9519/image/small?v=1768601124"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/football/team/d13280a01601d09d5cba4239fa5b9519/image/small?v=1768601124"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "volleyleaguewomen",
       "name": "Volley League Women",
       "channels": [
         {
           "id": "1l4rjdhnld1xr7v",
           "name": "⏰ 19:30 | Tchalou Women vs Charleroi Women",
-          "logo": "https://img.rapid-api.icu/volleyball/team/33a5cd3018e07870763b90efdd835007/image/small"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/volleyball/team/33a5cd3018e07870763b90efdd835007/image/small"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     },
     {
+      "id": "vysshayaliga",
       "name": "Vysshaya Liga А",
       "channels": [
         {
           "id": "1l4rjdhnlwo7r7v",
           "name": "⏰ 12:00 | Kama vs CSKA Moscow",
-          "logo": "https://img.rapid-api.icu/volleyball/team/073823f1733cc9bb276ff08392ea21ef/image/small"
+          "type": "single",
+          "image": {
+            "type": "cover",
+            "url": "https://img.rapid-api.icu/volleyball/team/073823f1733cc9bb276ff08392ea21ef/image/small"
+          },
+          "sources": []
         }
-      ]
+      ],
+      "display": "vertical"
     }
-  ]
+  ],
+  "option": {
+    "save_history": false,
+    "save_search_history": false,
+    "save_wishlist": false
+  }
 }
