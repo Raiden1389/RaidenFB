@@ -26,11 +26,27 @@ export function formatForMONPlayer(scrapedData, provider) {
         const gName = ch.isLive ? '🔴 LIVE' : (ch.group || 'Upcoming');
         if (!groupMap.has(gName)) groupMap.set(gName, []);
 
+        // Build card image URL
+        const cardParams = new URLSearchParams({ t1: ch.name.split(' vs ')[0]?.split(' | ')[0] || '', t2: ch.name.split(' vs ')[1]?.split(' | ')[0] || '' });
+        if (ch.isLive) cardParams.set('live', '1');
+        if (ch.blv) cardParams.set('blv', ch.blv);
+        if (ch.group) cardParams.set('lg', ch.group);
+        if (ch.logo) cardParams.set('l1', ch.logo);
+        cardParams.set('s', 'vs');
+        const cardUrl = `https://raidenfb-card.vercel.app/api/card?${cardParams}`;
+
         const entry = {
             id: ch.id,
             name: ch.name,
             type: 'single',
-            logo: ch.logo || '',
+            display: 'thumbnail-only',
+            image: {
+                display: 'cover',
+                shape: 'rectangle',
+                url: cardUrl,
+                width: 600,
+                height: 320,
+            },
         };
 
         // Labels
@@ -81,6 +97,7 @@ export function formatForMONPlayer(scrapedData, provider) {
             name,
             channels: chs,
             display: 'vertical',
+            grid_number: 1,
         }));
 
     return {
