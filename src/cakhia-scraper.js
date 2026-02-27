@@ -50,7 +50,7 @@ export async function scrapeCakhia(provider) {
         const anchors = md.anchors || [];
         const anchor = anchors[0] || {};
         const streamUrl = anchor.uid ? `https://live.inplyr.com/room/${anchor.uid}.m3u8` : '';
-        const blv = anchor.name || '';
+        const blv = anchor.nickName || '';
 
         // Check live score
         const liveScore = scores[m.ls_id];
