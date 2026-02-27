@@ -4,23 +4,20 @@
 export function formatForMONPlayer(scrapedData, provider) {
     const { channels, scrapedAt, stats } = scrapedData;
 
-    const groupMap = new Map();
-    channels.forEach((ch) => {
-        const groupName = ch.isLive ? '🔴 ĐANG PHÁT TRỰC TIẾP' : (ch.group || 'Other');
-        if (!groupMap.has(groupName)) groupMap.set(groupName, []);
-
-        const monCh = { id: ch.id, name: ch.name, logo: ch.logo, group: groupName };
-        if (ch.url) monCh.url = ch.url;
-        groupMap.get(groupName).push(monCh);
+    const monChannels = channels.map((ch) => {
+        const entry = {
+            id: ch.id,
+            name: ch.name,
+            logo: ch.logo || '',
+            group: ch.isLive ? '🔴 LIVE' : (ch.group || 'Other'),
+        };
+        if (ch.url) entry.url = ch.url;
+        return entry;
     });
 
-    const groups = Array.from(groupMap.entries())
-        .sort(([a], [b]) => {
-            if (a.includes('ĐANG PHÁT')) return -1;
-            if (b.includes('ĐANG PHÁT')) return 1;
-            return a.localeCompare(b, 'vi');
-        })
-        .map(([name, chs]) => ({ name, channels: chs }));
-
-    return { provider, updated_at: scrapedAt, stats, groups };
+    return {
+        name: provider.name,
+        author: 'RaidenFB',
+        channels: monChannels,
+    };
 }
