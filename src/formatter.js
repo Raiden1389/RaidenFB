@@ -1,12 +1,28 @@
 /**
  * Format scraped data into MONPlayer provider JSON (VBTV-compatible)
  */
+const LEAGUE_FILTER = [
+    'english premier league',
+    'la liga',
+    'champions league',
+    'uefa champions league',
+];
+
+function isAllowedLeague(group) {
+    if (!group) return false;
+    const lower = group.toLowerCase();
+    return LEAGUE_FILTER.some((f) => lower === f || lower.includes(f));
+}
+
 export function formatForMONPlayer(scrapedData, provider) {
     const { channels } = scrapedData;
 
+    // Filter to allowed leagues
+    const filtered = channels.filter((ch) => ch.isLive || isAllowedLeague(ch.group));
+
     // Group channels
     const groupMap = new Map();
-    channels.forEach((ch) => {
+    filtered.forEach((ch) => {
         const gName = ch.isLive ? '🔴 LIVE' : (ch.group || 'Upcoming');
         if (!groupMap.has(gName)) groupMap.set(gName, []);
 

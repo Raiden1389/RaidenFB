@@ -3,6 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import SOURCES from './config.js';
 import { scrapeSource } from './scraper.js';
+import { scrapeCakhia } from './cakhia-scraper.js';
 import { formatForMONPlayer } from './formatter.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -11,7 +12,10 @@ const PUBLIC = path.resolve(__dirname, '..', 'public');
 async function processSource(key, source) {
     console.log(`\n🔧 [${key}] ${source.name}`);
 
-    const data = await scrapeSource(source);
+    // Use dedicated scraper for CaKhia
+    const data = key === 'cakhia'
+        ? await scrapeCakhia(source.provider)
+        : await scrapeSource(source);
     const json = formatForMONPlayer(data, source.provider);
 
     // Output: public/{key}.json

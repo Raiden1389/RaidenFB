@@ -44,6 +44,20 @@ const SOURCES = {
         output: 'hoiquan',
         enabled: false, // Bật khi có API
     },
+
+    cakhia: {
+        name: 'CaKhiaTV',
+        api: {}, // HTML scraper, no API
+        provider: {
+            id: 'cakhia',
+            name: '⚽ CaKhiaTV',
+            description: 'Trực tiếp bóng đá CaKhia TV',
+            color: '#ff6600',
+            logo: 'https://cakhia.ink/favicon.ico',
+        },
+        output: 'cakhia',
+        enabled: true,
+    },
 };
 
 export default SOURCES;
