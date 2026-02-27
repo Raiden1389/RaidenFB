@@ -33,13 +33,18 @@ export function formatForMONPlayer(scrapedData, provider) {
             logo: ch.logo || '',
         };
 
+        // Labels
+        entry.labels = [];
+        if (ch.isLive) {
+            entry.labels.push({ text: '🔴 LIVE', position: 'top-left', color: '#ff0000', text_color: '#ffffff' });
+        } else if (ch.startTime) {
+            const d = new Date(ch.startTime);
+            const t = d.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Ho_Chi_Minh' });
+            const day = d.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', timeZone: 'Asia/Ho_Chi_Minh' });
+            entry.labels.push({ text: `⏰ ${t} ${day}`, position: 'top-left', color: '#333333', text_color: '#ffffff' });
+        }
         if (ch.blv) {
-            entry.labels = [{
-                text: `👨‍💼 BLV ${ch.blv}`,
-                position: 'bottom-left',
-                color: provider.color,
-                text_color: '#ffffff',
-            }];
+            entry.labels.push({ text: `👨‍💼 ${ch.blv}`, position: 'bottom-left', color: provider.color, text_color: '#ffffff' });
         }
 
         // Stream URL for live matches
