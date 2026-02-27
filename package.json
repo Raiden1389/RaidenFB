@@ -1,0 +1,19 @@
+{
+  "name": "raidenfb",
+  "version": "1.0.0",
+  "description": "⚽ Live football streams from GaVangTV → MONPlayer JSON",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "iptv",
+    "football",
+    "monplayer",
+    "gavangtv",
+    "live"
+  ],
+  "license": "MIT"
+}
