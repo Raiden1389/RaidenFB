@@ -4,7 +4,7 @@ import CONFIG from './config.js';
  * Fetch matches from GaVangTV API
  */
 async function fetchMatches(queries = []) {
-    const url = `${CONFIG.api.baseUrl}${CONFIG.api.endpoints.matches}`;
+    const url = `${CONFIG.api.baseUrl}${CONFIG.api.endpoint}`;
 
     const response = await fetch(url, {
         method: 'POST',
