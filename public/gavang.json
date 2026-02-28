@@ -14,216 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh5zy1lql0",
-          "name": "Partizani Tirana 2 - 0 Egnatia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Partizani+Tirana+2+-+0+Egnatia&t2=&live=1&lg=Albanian+Super+league&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2e4f73a0681c01d6e5b76f4182461e21%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/014a996ca9693e43834a5b52951b77b2/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "8yomo4h12nk3q0j",
-          "name": "Vizela 3 - 2 GD Chaves",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vizela+3+-+2+GD+Chaves&t2=&live=1&lg=Liga+Portugal+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe4ecee9f6f3dedd1e190c1f5455b92b3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/f681838569ce8c7a2fe7d053969fbd2b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "965mkyhkgx15r1g",
-          "name": "Septemvri Sofia 2 - 0 CSKA Sofia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Septemvri+Sofia+2+-+0+CSKA+Sofia&t2=&live=1&lg=Bulgarian+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F176f2b576d211ec8cf9ece006a22251e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/5ed0c4e16e3732f0355b5088a8c17e2e/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dj2ryohl4ykeq1z",
-          "name": "Salitas FC 1 - 2 Rahimo FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Salitas+FC+1+-+2+Rahimo+FC&t2=&live=1&lg=Burkina+Faso+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9286dedcaaaa0bb333b1e582e532faa7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/416c93b5984f5bc7b5ce8669d465cb10/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dj2ryohln62wq1z",
-          "name": "KS Elbasani 1 - 1 KS Bylis",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=KS+Elbasani+1+-+1+KS+Bylis&t2=&live=1&lg=Albanian+Super+league&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F43794ce074ec83ea1ee5c2491b42179b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/03297b289530fca54201fd7dca18bb44/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh9lp2gm7v",
           "name": "IFK Norrkoping FK 2 - 0 Landskrona BoIS",
           "type": "single",
@@ -1358,6 +1148,48 @@
           ]
         },
         {
+          "id": "ednm9whw9d6lryo",
+          "name": "Sparta Praha 5 - 2 Banik Ostrava",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sparta+Praha+5+-+2+Banik+Ostrava&t2=&live=1&lg=Czech+Chance+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F07aa4671dcd9d74d0976c397e2bc9a6c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d26a3840bede1938e85ac99704722e27/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "23xmvkh6opxdqg8",
           "name": "Royal Antwerp 1 - 0 Sint-Truidense",
           "type": "single",
@@ -1398,35 +1230,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "0cf4d04e6e7e45d6ba7f6012456fe877",
-          "name": "Leeds United 0 - 0 Manchester City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Leeds+United+0+-+0+Manchester+City&t2=&live=1&blv=B%C3%A1t+Gi%E1%BB%9Bi&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4329f1d6b239b389805c7b1f259f7905%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Bát Giới",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
         },
         {
           "id": "318q66hxvw13qo9",
@@ -1556,13 +1359,13 @@
         },
         {
           "id": "6ypq3nhv51j8md7",
-          "name": "Heracles Almelo 0 - 3 PSV Eindhoven",
+          "name": "Heracles Almelo 1 - 3 PSV Eindhoven",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Heracles+Almelo+0+-+3+PSV+Eindhoven&t2=&live=1&lg=Netherlands+Eredivisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F90ff61ffc4f4ae9b1d236d84a637f9ec%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Heracles+Almelo+1+-+3+PSV+Eindhoven&t2=&live=1&lg=Netherlands+Eredivisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F90ff61ffc4f4ae9b1d236d84a637f9ec%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1640,13 +1443,13 @@
         },
         {
           "id": "dj2ryohll9wjq1z",
-          "name": "Al Qasim SC 0 - 1 Al Karkh",
+          "name": "Al Qasim SC 0 - 3 Al Karkh",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Qasim+SC+0+-+1+Al+Karkh&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9c19066eda8ad1f4198e03dd1be67ac8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Qasim+SC+0+-+3+Al+Karkh&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9c19066eda8ad1f4198e03dd1be67ac8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1814,13 +1617,13 @@
         },
         {
           "id": "8yomo4h10l5eq0j",
-          "name": "Teuta Durres 0 - 0 Flamurtari",
+          "name": "Teuta Durres 0 - 1 Flamurtari",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Teuta+Durres+0+-+0+Flamurtari&t2=&live=1&lg=Albanian+Super+league&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffd63fd067ca4167c1c25ba7509aec15e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Teuta+Durres+0+-+1+Flamurtari&t2=&live=1&lg=Albanian+Super+league&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffd63fd067ca4167c1c25ba7509aec15e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1940,13 +1743,13 @@
         },
         {
           "id": "318q66hxk8lzqo9",
-          "name": "Al Najma(KSA) 0 - 1 Al Okhdood",
+          "name": "Al Najma(KSA) 1 - 1 Al Okhdood",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Najma%28KSA%29+0+-+1+Al+Okhdood&t2=&live=1&lg=Saudi+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc8ea60c977186094a0facddba0a24cb1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Najma%28KSA%29+1+-+1+Al+Okhdood&t2=&live=1&lg=Saudi+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc8ea60c977186094a0facddba0a24cb1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2023,14 +1826,98 @@
           ]
         },
         {
-          "id": "2y8m4zh5j00pql0",
-          "name": "GKS Katowice 0 - 0 Gornik Zabrze",
+          "id": "dj2ryohl2568q1z",
+          "name": "Pau FC 0 - 1 AS Saint-Étienne",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=GKS+Katowice+0+-+0+Gornik+Zabrze&t2=&live=1&lg=PKO+Bank+Polski+EKSTRAKLASA&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2055cde3895e848bef2d8942ecc524c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pau+FC+0+-+1+AS+Saint-%C3%89tienne&t2=&live=1&lg=French+Ligue+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdf0d278074d676044cca7cc6c6aafcd2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6ae010125fbbafbc2244205c8563fb4c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whwzjpxryo",
+          "name": "Jong Genk 1 - 2 Koninklijke Lierse Sportkring",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jong+Genk+1+-+2+Koninklijke+Lierse+Sportkring&t2=&live=1&lg=Belgian+Second+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd5ee6ce06402d6a821ab006eceea2f72%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/06903cd32f85cdf9c8037c48375f473f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5j00pql0",
+          "name": "GKS Katowice 1 - 0 Gornik Zabrze",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=GKS+Katowice+1+-+0+Gornik+Zabrze&t2=&live=1&lg=PKO+Bank+Polski+EKSTRAKLASA&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2055cde3895e848bef2d8942ecc524c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2055,6 +1942,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/5589e18c117737be1e0ebb044a68c58c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hnp9w9qdy",
+          "name": "Chicago Fire 0 - 0 Montreal Impact",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chicago+Fire+0+-+0+Montreal+Impact&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F97ff9ecea8eeb2b3d119b295878b808a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6474ec84a0f8969f4eea2c5c0f7e148d/playlist.m3u8"
                         }
                       ]
                     }
@@ -2103,6 +2032,102 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/e5b0737e51020c7b3b5fffdc99dcc244/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5g4v2ql0",
+          "name": "Real Oviedo 0 - 0 Atletico Madrid",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Oviedo+0+-+0+Atletico+Madrid&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Spanish+La+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6daa6f0eb447a0ff37425c70126cbad0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5354da927c20209f2b231c1fcd352665/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghle276moe",
+          "name": "Havre Athletic Club 0 - 0 Paris Saint Germain",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Havre+Athletic+Club+0+-+0+Paris+Saint+Germain&t2=&live=1&blv=B%C3%A1t+Gi%E1%BB%9Bi&lg=French+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F461d2b18754c35e75deb99e1e6273ee9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Bát Giới",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Bát Giới",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d1daf89de1aa110543dced3b0b226289/playlist.m3u8"
                         }
                       ]
                     }
