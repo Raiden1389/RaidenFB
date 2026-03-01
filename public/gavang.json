@@ -14,306 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh5pkj5ql0",
-          "name": "Mighty Blackpool 1 - 2 Bo Rangers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mighty+Blackpool+1+-+2+Bo+Rangers&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F605edeb15e6f6894e93cf51df63d677b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ff7ababbe2c7541159ceca4943c55d66/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4wyrn4h6exlzq86",
-          "name": "LOSC Lille 1 - 0 FC Nantes",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=LOSC+Lille+1+-+0+FC+Nantes&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=French+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd478c33223111f2b3c163a5d591a554a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Son",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Son",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ebc64d2bade8d48ebb109f09dd116469/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph43w8or8k",
-          "name": "Lorient 2 - 2 AJ Auxerre",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lorient+2+-+2+AJ+Auxerre&t2=&live=1&lg=French+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7f94bc407011de4a852e5c4df334e67f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/5aa003ad4719fa22a5c9856bc941af58/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l7oqdehg6o34r51",
-          "name": "Metz 0 - 1 Stade Brestois 29",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Metz+0+-+1+Stade+Brestois+29&t2=&live=1&lg=French+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F33208325b1f18379fda6d617c78e78f1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/3851585b936a9e1bcbb869d244f6b62b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "pxwrxlhyy6oeryk",
-          "name": "Bullom Stars 0 - 0 East End Lions",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bullom+Stars+0+-+0+East+End+Lions&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb945fed6f318e4cd4232a64fc541a0bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/2b383aa49d5d8359f2ac80e733bd68a3/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hn1kk4qdy",
-          "name": "Lech Poznan 4 - 3 Rakow Czestochowa",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lech+Poznan+4+-+3+Rakow+Czestochowa&t2=&live=1&lg=PKO+Bank+Polski+EKSTRAKLASA&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13ca997bacc651c933eeecc9e380d8b6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/de9e3e8a987c3e4d915b396eac0eadcb/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8gheg51dr6o",
-          "name": "Eintracht Frankfurt 2 - 0 SC Freiburg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eintracht+Frankfurt+2+-+0+SC+Freiburg&t2=&live=1&lg=Bundesliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9e820dc04f473cfbd02cd5b1680ee327%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/800e192a2e7721f8897313a934d12719/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh968jym7v",
           "name": "Torino 2 - 0 Lazio",
           "type": "single",
@@ -562,6 +262,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/902879c1fc4111952070f5cf04e96f5b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghej1jjr6o",
+          "name": "Samsunspor 0 - 0 Gazisehir Gaziantep",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Samsunspor+0+-+0+Gazisehir+Gaziantep&t2=&live=1&lg=Turkish+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd558d54e878860e728ef4041c95e1321%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8c0fc2be9c49c9cee0a44face380780c/playlist.m3u8"
                         }
                       ]
                     }
@@ -1119,13 +861,13 @@
         },
         {
           "id": "k82rekhgy499rep",
-          "name": "Schweinfurt 05 FC 2 - 0 1. FC Saarbrücken",
+          "name": "Schweinfurt 05 FC 2 - 2 1. FC Saarbrücken",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Schweinfurt+05+FC+2+-+0+1.+FC+Saarbr%C3%BCcken&t2=&live=1&lg=German+3.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F36e2a6c3ed123cb820714e58704d5295%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Schweinfurt+05+FC+2+-+2+1.+FC+Saarbr%C3%BCcken&t2=&live=1&lg=German+3.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F36e2a6c3ed123cb820714e58704d5295%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1329,13 +1071,13 @@
         },
         {
           "id": "2y8m4zh5jly9ql0",
-          "name": "UTA Arad 1 - 3 Fotbal Club FCSB",
+          "name": "UTA Arad 1 - 4 Fotbal Club FCSB",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=UTA+Arad+1+-+3+Fotbal+Club+FCSB&t2=&live=1&lg=Romanian+Super+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb5d06f0bc44c23f38c475d0e0fee5e88%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=UTA+Arad+1+-+4+Fotbal+Club+FCSB&t2=&live=1&lg=Romanian+Super+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb5d06f0bc44c23f38c475d0e0fee5e88%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1413,13 +1155,13 @@
         },
         {
           "id": "3glrw7hnn8olqdy",
-          "name": "Canada Women 1 - 0 Colombia Women",
+          "name": "Canada Women 3 - 0 Colombia Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Canada+Women+1+-+0+Colombia+Women&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffaabe2337d506a5c2a916b46b728f74e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Canada+Women+3+-+0+Colombia+Women&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffaabe2337d506a5c2a916b46b728f74e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1455,13 +1197,13 @@
         },
         {
           "id": "8yomo4h1gdonq0j",
-          "name": "Deportivo Pasto 1 - 0 Cucuta Deportivo",
+          "name": "Deportivo Pasto 3 - 1 Cucuta Deportivo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Pasto+1+-+0+Cucuta+Deportivo&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6d9ef9080cb944385ad5d4e72fc290bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Pasto+3+-+1+Cucuta+Deportivo&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6d9ef9080cb944385ad5d4e72fc290bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1497,13 +1239,13 @@
         },
         {
           "id": "vjxm8gheekl7r6o",
-          "name": "Bolívar SC VEN 0 - 0 Mineros de Guayana",
+          "name": "Bolívar SC VEN 1 - 0 Mineros de Guayana",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bol%C3%ADvar+SC+VEN+0+-+0+Mineros+de+Guayana&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4a25a2515e6ca939e2b9454b9be23ef9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bol%C3%ADvar+SC+VEN+1+-+0+Mineros+de+Guayana&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4a25a2515e6ca939e2b9454b9be23ef9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1581,13 +1323,13 @@
         },
         {
           "id": "1l4rjnh9ekgpm7v",
-          "name": "Enppi 1 - 1 Al Masry",
+          "name": "Enppi 1 - 2 Al Masry",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Enppi+1+-+1+Al+Masry&t2=&live=1&lg=Egyptian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F542446a68878265fe4b32725312be3be%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Enppi+1+-+2+Al+Masry&t2=&live=1&lg=Egyptian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F542446a68878265fe4b32725312be3be%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1833,13 +1575,13 @@
         },
         {
           "id": "jw2r09hkle00rz8",
-          "name": "AS Roma 0 - 0 Juventus",
+          "name": "AS Roma 1 - 0 Juventus",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Roma+0+-+0+Juventus&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45de99d8eedecac58ee6ea005e11ab0c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Roma+1+-+0+Juventus&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45de99d8eedecac58ee6ea005e11ab0c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1928,6 +1670,90 @@
           ]
         },
         {
+          "id": "1l4rjnh9jl6lm7v",
+          "name": "Ferrocarril Midland 1 - 0 Colegiales",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ferrocarril+Midland+1+-+0+Colegiales&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8e24421c8cfa05c5d0db1efd35f741c9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0671599923f969ec9c68caf474d892f4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh6p03wqg8",
+          "name": "Godoy Cruz Antonio Tomba 0 - 0 Deportivo Madryn",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Godoy+Cruz+Antonio+Tomba+0+-+0+Deportivo+Madryn&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2b0ac7163f53600b978bae54a03851ef%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/2091f94184ee38e5b7ed9e850159f2c2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "2y8m4zh5wp0lql0",
           "name": "All Boys 0 - 0 Club Ciudad de Bolivar",
           "type": "single",
@@ -1970,14 +1796,56 @@
           ]
         },
         {
-          "id": "3glrw7hn3pwjqdy",
-          "name": "Club Atletico Guemes 0 - 0 Chacarita juniors",
+          "id": "318q66hxgly8qo9",
+          "name": "Club Atlético Newell's Old Boys 0 - 0 Rosario Central",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Atletico+Guemes+0+-+0+Chacarita+juniors&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8d0cfd7e01e2653473887dcee839783f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Atl%C3%A9tico+Newell%27s+Old+Boys+0+-+0+Rosario+Central&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4def40f2604e67e990ef071bab2129a0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4de8748ab996df0e5f5bdb83210d865b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn3pwjqdy",
+          "name": "Club Atletico Guemes 1 - 1 Chacarita juniors",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Atletico+Guemes+1+-+1+Chacarita+juniors&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8d0cfd7e01e2653473887dcee839783f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2013,13 +1881,13 @@
         },
         {
           "id": "6ypq3nhvz486md7",
-          "name": "Girona FC 0 - 0 RC Celta",
+          "name": "Girona FC 1 - 0 RC Celta",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Girona+FC+0+-+0+RC+Celta&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Spanish+La+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9057fef542cbe5464576e6d3124bbf2c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Girona+FC+1+-+0+RC+Celta&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Spanish+La+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9057fef542cbe5464576e6d3124bbf2c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2134,6 +2002,132 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/be7d5738e4fef61314083e69c2c4156d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phj37k9m2w",
+          "name": "Deportivo Moron 0 - 0 Central Norte Salta",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Moron+0+-+0+Central+Norte+Salta&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc09209091df009e938f8d6c8a0cc8929%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d37839b606436bfc5f441ff860a771e6/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hkjll3rz8",
+          "name": "Rio Ave 0 - 0 FC Famalicao",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rio+Ave+0+-+0+FC+Famalicao&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F542e8735c87f38ec7c5d77fe59082cfd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c6dc9a461711425b188394499764fcb7/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhgwx82rep",
+          "name": "Juan Pablo II 0 - 0 Cusco FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Juan+Pablo+II+0+-+0+Cusco+FC&t2=&live=1&lg=Peruvian+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6605df8b217b2e78a18f84dc051a74fa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/03e37ed0dec200df96240e0681bcfffb/playlist.m3u8"
                         }
                       ]
                     }
