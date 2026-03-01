@@ -122,57 +122,40 @@
       "grid_number": 1
     },
     {
-      "id": "spanishlaliga",
-      "name": "Spanish La Liga",
+      "id": "guatemalaliganacional",
+      "name": "Guatemala Liga Nacional",
       "channels": [
         {
-          "id": "105580",
-          "name": "Valencia CF vs CA Osasuna | 22:15 01-03 | BLV VIP",
+          "id": "106528",
+          "name": "CD Achuapa vs Coban Imperial | 04:00 02-03",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Valencia+CF&t2=CA+Osasuna&blv=BLV+VIP&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3b54543c1a584e2e9948d655142996d3.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc2050b940076df70b2ad0a6103c50df4.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CD+Achuapa&t2=Coban+Imperial&lg=Guatemala+Liga+Nacional&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F8686acc2f3df2d7830a8490a29c3d499.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3a31c79c215989b231a8219c016ad8ae.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 22:15 01-03",
+              "text": "⏰ 04:00 02-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV VIP",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
             }
           ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV VIP",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/491873.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "spanishlaliga",
+      "name": "Spanish La Liga",
+      "channels": [
         {
           "id": "106120",
           "name": "Real Betis vs Sevilla FC | 00:30 02-03 | BLV LONG",
