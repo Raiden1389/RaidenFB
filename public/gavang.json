@@ -14,138 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "4wyrn4h6e9k0q86",
-          "name": "PEC Zwolle 0 - 0 AFC Ajax",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=PEC+Zwolle+0+-+0+AFC+Ajax&t2=&live=1&lg=Netherlands+Eredivisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F54b1d9e4796bad4f8dd01b64d535a76b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e5256e220c49d23957b4f66063e81d20/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "2y8m4zh532p5ql0",
-          "name": "Cremonese 0 - 2 AC Milan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cremonese+0+-+2+AC+Milan&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd19434f3730fd04c41e2a1fc8fe0058d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/18cf6207f8484500968f1384f5abae1c/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghn932km0v",
-          "name": "Nakhon Ratchasima Mazda FC 1 - 2 PT Prachuap FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nakhon+Ratchasima+Mazda+FC+1+-+2+PT+Prachuap+FC&t2=&live=1&lg=Thai+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F412872bc9345d604a62272248d2cbd2b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/03b8d2752687d7c70790796eccffc2eb/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "8yomo4h11deeq0j",
           "name": "Xishuangbanna Team 2 - 2 Qujing Team",
           "type": "single",
@@ -483,13 +351,13 @@
         },
         {
           "id": "4jwq2ghnnw8wm0v",
-          "name": "Chernomorets Novorossijsk 0 - 1 Torpedo Moscow",
+          "name": "Chernomorets Novorossijsk 0 - 2 Torpedo Moscow",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chernomorets+Novorossijsk+0+-+1+Torpedo+Moscow&t2=&live=1&lg=Russian+First+LeagueLeague&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fce6e4c1e57ad6aaa27c1295c2988deac%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chernomorets+Novorossijsk+0+-+2+Torpedo+Moscow&t2=&live=1&lg=Russian+First+LeagueLeague&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fce6e4c1e57ad6aaa27c1295c2988deac%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -772,48 +640,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/4344d5069419423065c92f40e555fa7f/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dj2ryohljyyxq1z",
-          "name": "Hertha Berlin 2 - 1 1. FC Nürnberg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hertha+Berlin+2+-+1+1.+FC+N%C3%BCrnberg&t2=&live=1&lg=German+Bundesliga+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd86149f3a70a29e473fbf4a3f0858db%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/1d2ed6bc92136a2530355e7886045ada/playlist.m3u8"
                         }
                       ]
                     }
@@ -1287,13 +1113,13 @@
         },
         {
           "id": "1l4rjnh9kplzm7v",
-          "name": "Cosenza Calcio 1914 2 - 2 AS Sorrento Calcio",
+          "name": "Cosenza Calcio 1914 3 - 2 AS Sorrento Calcio",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cosenza+Calcio+1914+2+-+2+AS+Sorrento+Calcio&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4ca9ab88368559942da11cfaac3c8b69%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cosenza+Calcio+1914+3+-+2+AS+Sorrento+Calcio&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4ca9ab88368559942da11cfaac3c8b69%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1581,13 +1407,13 @@
         },
         {
           "id": "23xmvkh63e0eqg8",
-          "name": "Sassuolo 1 - 0 Atalanta",
+          "name": "Sassuolo 2 - 0 Atalanta",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sassuolo+1+-+0+Atalanta&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+G%E1%BA%A7y&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F59eaf0b4d4ae770eea8975d33f401385%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sassuolo+2+-+0+Atalanta&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+G%E1%BA%A7y&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F59eaf0b4d4ae770eea8975d33f401385%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1671,13 +1497,13 @@
         },
         {
           "id": "318q66hxvl04qo9",
-          "name": "Viseu 1 - 0 Maritimo",
+          "name": "Viseu 1 - 1 Maritimo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Viseu+1+-+0+Maritimo&t2=&live=1&lg=Liga+Portugal+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8929a3e90a3c217f48b5f2832ad19ab0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Viseu+1+-+1+Maritimo&t2=&live=1&lg=Liga+Portugal+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8929a3e90a3c217f48b5f2832ad19ab0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1755,13 +1581,13 @@
         },
         {
           "id": "4wyrn4h6vk08q86",
-          "name": "Catanzaro 2 - 1 Frosinone",
+          "name": "Catanzaro 2 - 2 Frosinone",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Catanzaro+2+-+1+Frosinone&t2=&live=1&lg=Italian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3e736e677e47e632d8a6c0160d5dcb27%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Catanzaro+2+-+2+Frosinone&t2=&live=1&lg=Italian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3e736e677e47e632d8a6c0160d5dcb27%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1994,13 +1820,13 @@
         },
         {
           "id": "3glrw7hn326yqdy",
-          "name": "Universidad de Concepcion 0 - 1 Everton CD",
+          "name": "Universidad de Concepcion 0 - 2 Everton CD",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Universidad+de+Concepcion+0+-+1+Everton+CD&t2=&live=1&lg=CHI+Liga+de+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2d85fa6820e2375638ebc17bd608fd2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Universidad+de+Concepcion+0+-+2+Everton+CD&t2=&live=1&lg=CHI+Liga+de+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2d85fa6820e2375638ebc17bd608fd2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2077,6 +1903,48 @@
           ]
         },
         {
+          "id": "318q66hx7pnwqo9",
+          "name": "Levski Sofia 1 - 0 Lokomotiv Sofia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Levski+Sofia+1+-+0+Lokomotiv+Sofia&t2=&live=1&lg=Bulgarian+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff4082fdba25bab4dea07cc98ca72106a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d07d707f189bc0f8d5c643a6e985894f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "3glrw7hnjl91qdy",
           "name": "Valencia CF 0 - 0 CA Osasuna",
           "type": "single",
@@ -2115,6 +1983,132 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/6ac31ee20599b048939b0adeb85940ce/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9z06wm7v",
+          "name": "MSV Duisburg 0 - 0 Havelse",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=MSV+Duisburg+0+-+0+Havelse&t2=&live=1&lg=German+3.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4aeff620f37aebb46a25b1b60567b402%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e1a3ea25023f26f3641e14dbe8f7e581/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhky66zr1g",
+          "name": "Grasshopper 0 - 0 Lugano",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Grasshopper+0+-+0+Lugano&t2=&live=1&lg=Switzerland+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9823db7430f53289b2e6c862d89cc3e8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/2812774e4f577e78cca26b56a5d15e10/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohlgkk3q1z",
+          "name": "CD Tondela 0 - 0 Santa Clara",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CD+Tondela+0+-+0+Santa+Clara&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F99ec5123159e538b47018b9320afc2a0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/911342cada13a84a772adf5af125697b/playlist.m3u8"
                         }
                       ]
                     }
