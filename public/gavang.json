@@ -14,174 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "1l4rjnh94y11m7v",
-          "name": "Al-Anwar Club 1 - 0 Al-Raed SFC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Anwar+Club+1+-+0+Al-Raed+SFC&t2=&live=1&lg=Saudi+Arabia+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd3c7aad552e7538e268f6c94243e2b86%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/bd80b9e7378dfa62ec0c8e709cf94296/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hn76w9qdy",
-          "name": "Al-Ahly 0 - 3 Al Faisaly",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Ahly+0+-+3+Al+Faisaly&t2=&live=1&lg=Jordan+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21a9abae2c47e58c490321c4d4eb512f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/6621268f6fd37a809999882ecb3d5d00/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghneokvm0v",
-          "name": "Al-Jandal 1 - 1 Abha",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Jandal+1+-+1+Abha&t2=&live=1&lg=Saudi+Arabia+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1b65ed720a87a7e3aafb0dfc791ec5c6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a98e8e11f2220cb3135fb24d80a15050/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ednm9whw789vryo",
-          "name": "Jubail 2 - 1 Al Bukayriyah",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jubail+2+-+1+Al+Bukayriyah&t2=&live=1&lg=Saudi+Arabia+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffb9f68c017f3d7e731e23ea2ae8948aa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/595fde87aa604095bce8aaf75fdc7969/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "2y8m4zh5jly9ql0",
           "name": "UTA Arad 2 - 4 Fotbal Club FCSB",
           "type": "single",
@@ -1202,6 +1034,48 @@
           ]
         },
         {
+          "id": "y0or5jh88peoqwz",
+          "name": "Chattanooga 1 - 4 Crown Legacy FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chattanooga+1+-+4+Crown+Legacy+FC&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F138b050970d31150f2d2e88033c8ce17%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/987166d0047f44bc295bc0fa7aac18d9/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "jw2r09hkjll3rz8",
           "name": "Rio Ave 0 - 0 FC Famalicao",
           "type": "single",
@@ -1329,13 +1203,13 @@
         },
         {
           "id": "23xmvkh665d8qg8",
-          "name": "Portland Timbers Reserve 1 - 1 San Jose Earthquakes Reserve",
+          "name": "Portland Timbers Reserve 2 - 1 San Jose Earthquakes Reserve",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Portland+Timbers+Reserve+1+-+1+San+Jose+Earthquakes+Reserve&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a7b357850be6cec76bc427760660752%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Portland+Timbers+Reserve+2+-+1+San+Jose+Earthquakes+Reserve&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a7b357850be6cec76bc427760660752%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1371,13 +1245,13 @@
         },
         {
           "id": "2y8m4zh55edlql0",
-          "name": "Rancho Santana FC 2 - 7 Matagalpa FC",
+          "name": "Rancho Santana FC 2 - 8 Matagalpa FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rancho+Santana+FC+2+-+7+Matagalpa+FC&t2=&live=1&lg=Nicaragua+Liga+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe1c36b1fbf3a971f685a4579aa3b9a79%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rancho+Santana+FC+2+-+8+Matagalpa+FC&t2=&live=1&lg=Nicaragua+Liga+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe1c36b1fbf3a971f685a4579aa3b9a79%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1413,13 +1287,13 @@
         },
         {
           "id": "2y8m4zh55v13ql0",
-          "name": "Fluminense RJ 0 - 1 Clube de Regatas Vasco da Gama",
+          "name": "Fluminense RJ 1 - 1 Clube de Regatas Vasco da Gama",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fluminense+RJ+0+-+1+Clube+de+Regatas+Vasco+da+Gama&t2=&live=1&lg=Brazilian+Campeonato+Carioca+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6231a9f56ba71a5003434f08cbfbe741%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fluminense+RJ+1+-+1+Clube+de+Regatas+Vasco+da+Gama&t2=&live=1&lg=Brazilian+Campeonato+Carioca+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6231a9f56ba71a5003434f08cbfbe741%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1749,13 +1623,13 @@
         },
         {
           "id": "pxwrxlhyydnzryk",
-          "name": "Barra FC 3 - 0 Chapecoense SC",
+          "name": "Barra FC 3 - 1 Chapecoense SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Barra+FC+3+-+0+Chapecoense+SC&t2=&live=1&lg=Brazilian+Campeonato+Catarinense+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21a24c69f91f6eeedffd7054ee48e4a4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Barra+FC+3+-+1+Chapecoense+SC&t2=&live=1&lg=Brazilian+Campeonato+Catarinense+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21a24c69f91f6eeedffd7054ee48e4a4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1833,13 +1707,13 @@
         },
         {
           "id": "l7oqdehgodp7r51",
-          "name": "FC Nacional Asuncion 0 - 0 Club Guaraní",
+          "name": "FC Nacional Asuncion 1 - 0 Club Guaraní",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Nacional+Asuncion+0+-+0+Club+Guaran%C3%AD&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4858cbb6daebde2cba03fe5ce407b2f0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Nacional+Asuncion+1+-+0+Club+Guaran%C3%AD&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4858cbb6daebde2cba03fe5ce407b2f0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1917,13 +1791,13 @@
         },
         {
           "id": "2y8m4zh56l4nql0",
-          "name": "Deportivo Cuenca 0 - 0 Barcelona SC(ECU)",
+          "name": "Deportivo Cuenca 1 - 0 Barcelona SC(ECU)",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Cuenca+0+-+0+Barcelona+SC%28ECU%29&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F130cc5b95c47a0c7c0e4daca735754f2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Cuenca+1+-+0+Barcelona+SC%28ECU%29&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F130cc5b95c47a0c7c0e4daca735754f2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2043,13 +1917,13 @@
         },
         {
           "id": "dj2ryohllzd5q1z",
-          "name": "Nouakchott Academie 0 - 0 ASC Gendrim",
+          "name": "Nouakchott Academie 0 - 1 ASC Gendrim",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nouakchott+Academie+0+-+0+ASC+Gendrim&t2=&live=1&lg=Mauritania+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F43fd037e83afc91905110003d8967136%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nouakchott+Academie+0+-+1+ASC+Gendrim&t2=&live=1&lg=Mauritania+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F43fd037e83afc91905110003d8967136%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2074,6 +1948,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/eb20f58682e63fe47d2c27cda9e068d6/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh88p1oqwz",
+          "name": "USA Women 1 - 0 Argentina Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=USA+Women+1+-+0+Argentina+Women&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F043d2e1fea7e7e15dd69d214d7e9466d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/420826e26536b5785cdd25554ce98107/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9lvw2m7v",
+          "name": "Argentinos Juniors 0 - 1 Barracas Central",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Argentinos+Juniors+0+-+1+Barracas+Central&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F701c608424766b422a3baeb26cc37823%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fe36b28541822d1330884a4db7d5ae76/playlist.m3u8"
                         }
                       ]
                     }
@@ -2116,6 +2074,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/ca1dfd094fab5b8f0a8a41fb0b3b1fcf/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hxxgzpqo9",
+          "name": "Nacional Montevideo 0 - 0 CA Penarol",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nacional+Montevideo+0+-+0+CA+Penarol&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0c04cafa50e2a753b1dbc8fe73ac6860%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6f80dba45c7ef0ad657267d811c0c2d5/playlist.m3u8"
                         }
                       ]
                     }
