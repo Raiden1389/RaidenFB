@@ -14,54 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "jw2r09hkle00rz8",
-          "name": "AS Roma 3 - 3 Juventus",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Roma+3+-+3+Juventus&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45de99d8eedecac58ee6ea005e11ab0c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/1d8ed3014850bc3187fc6c8a5d5add95/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh9jl6lm7v",
           "name": "Ferrocarril Midland 2 - 0 Colegiales",
           "type": "single",
@@ -1119,13 +1071,13 @@
         },
         {
           "id": "dn1m1ghl0xe8moe",
-          "name": "Philadelphia Union 1 - 1 New York City FC",
+          "name": "Philadelphia Union 1 - 2 New York City FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philadelphia+Union+1+-+1+New+York+City+FC&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F58112918cd7aacfee8432e1080d52314%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philadelphia+Union+1+-+2+New+York+City+FC&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F58112918cd7aacfee8432e1080d52314%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1202,6 +1154,48 @@
           ]
         },
         {
+          "id": "y0or5jh8n607qwz",
+          "name": "Deportivo La Guaira 1 - 0 Rayo Zuliano",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+La+Guaira+1+-+0+Rayo+Zuliano&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbbedd3004ef62336dabf307a15743f58%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/29af52ccea301155b8c77b035eed174e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "2y8m4zh552y1ql0",
           "name": "RAMS Village Superstars 0 - 1 Flow 4G Cayon Rockets",
           "type": "single",
@@ -1245,13 +1239,13 @@
         },
         {
           "id": "2y8m4zh56l4nql0",
-          "name": "Deportivo Cuenca 1 - 1 Barcelona SC(ECU)",
+          "name": "Deportivo Cuenca 2 - 1 Barcelona SC(ECU)",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Cuenca+1+-+1+Barcelona+SC%28ECU%29&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F130cc5b95c47a0c7c0e4daca735754f2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Cuenca+2+-+1+Barcelona+SC%28ECU%29&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F130cc5b95c47a0c7c0e4daca735754f2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1329,13 +1323,13 @@
         },
         {
           "id": "3glrw7hn70w6qdy",
-          "name": "Orsomarso 0 - 0 Envigado FC",
+          "name": "Orsomarso 0 - 1 Envigado FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Orsomarso+0+-+0+Envigado+FC&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F44d7e26f27411d527c60698c3702cc55%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Orsomarso+0+-+1+Envigado+FC&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F44d7e26f27411d527c60698c3702cc55%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1497,13 +1491,13 @@
         },
         {
           "id": "1l4rjnh997znm7v",
-          "name": "Real Monarchs 0 - 1 North Texas SC",
+          "name": "Real Monarchs 1 - 1 North Texas SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Monarchs+0+-+1+North+Texas+SC&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2bc5fc633996eec667338480f1226427%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Monarchs+1+-+1+North+Texas+SC&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2bc5fc633996eec667338480f1226427%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1581,13 +1575,13 @@
         },
         {
           "id": "2y8m4zh557zjql0",
-          "name": "Suriname U20 1 - 0 Grenada U20",
+          "name": "Suriname U20 2 - 0 Grenada U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Suriname+U20+1+-+0+Grenada+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5754dc66e45ebc5a28c23dcb92a6c5c9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Suriname+U20+2+-+0+Grenada+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5754dc66e45ebc5a28c23dcb92a6c5c9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1707,13 +1701,13 @@
         },
         {
           "id": "x7lm7phjj669m2w",
-          "name": "Cincinnati II 0 - 0 ",
+          "name": "Cincinnati II 0 - 1 ",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cincinnati+II+0+-+0+&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa5148191b1957f00b0136f50ca1894a8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cincinnati+II+0+-+1+&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa5148191b1957f00b0136f50ca1894a8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1917,13 +1911,13 @@
         },
         {
           "id": "jw2r09hkkg8lrz8",
-          "name": "Palmeiras 0 - 0 Sao Paulo",
+          "name": "Palmeiras 1 - 0 Sao Paulo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Palmeiras+0+-+0+Sao+Paulo&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52819c4b269cb246ec46c9de2a397c1d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Palmeiras+1+-+0+Sao+Paulo&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52819c4b269cb246ec46c9de2a397c1d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2001,13 +1995,13 @@
         },
         {
           "id": "pxwrxlhye5dyryk",
-          "name": "El Salvador Women 0 - 0 Barbados Women",
+          "name": "El Salvador Women 2 - 0 Barbados Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=El+Salvador+Women+0+-+0+Barbados+Women&t2=&live=1&lg=FIFA+Women%27s+World+Cup+qualification%28CONCACAF%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F26cb14e18d5b5e3e4260fbfc1c865815%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=El+Salvador+Women+2+-+0+Barbados+Women&t2=&live=1&lg=FIFA+Women%27s+World+Cup+qualification%28CONCACAF%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F26cb14e18d5b5e3e4260fbfc1c865815%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
