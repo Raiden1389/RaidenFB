@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "965mkyhky3y5r1g",
-          "name": "Busan I Park 1 - 1 Seongnam FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Busan+I+Park+1+-+1+Seongnam+FC&t2=&live=1&lg=Korean+K+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa2762f7507f0f19578e32ca0bd9426d5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/06cbe4d8326694153b9f4be8197dd21a/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "pxwrxlhyy68eryk",
           "name": "Wari Club 0 - 0 Khelaghar Samaj Kalyan Samiti",
           "type": "single",
@@ -183,13 +141,13 @@
         },
         {
           "id": "dj2ryohle9xpq1z",
-          "name": "Rakhine United FC 0 - 4 Shan United",
+          "name": "Rakhine United FC 0 - 6 Shan United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rakhine+United+FC+0+-+4+Shan+United&t2=&live=1&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1f3c7e982e65cd9fdb120637543a3023%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rakhine+United+FC+0+-+6+Shan+United&t2=&live=1&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1f3c7e982e65cd9fdb120637543a3023%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -267,13 +225,13 @@
         },
         {
           "id": "y39mp1h6dv67moj",
-          "name": "Ethiopia Nigd Bank Women 0 - 0 Arba Minch Women",
+          "name": "Ethiopia Nigd Bank Women 1 - 0 Arba Minch Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ethiopia+Nigd+Bank+Women+0+-+0+Arba+Minch+Women&t2=&live=1&lg=ETH+WL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F009aa8ae4490cc2d4ab6a27f96274c36%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ethiopia+Nigd+Bank+Women+1+-+0+Arba+Minch+Women&t2=&live=1&lg=ETH+WL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F009aa8ae4490cc2d4ab6a27f96274c36%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -441,7 +399,7 @@
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Thailand+0+-+0+Australia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=ASEAN+Women%27s+Futsal&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Thailand+0+-+0+Australia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=CHUNG+K%E1%BA%BET+-+ASEAN+Women%27s+Futsal&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -461,6 +419,54 @@
           ],
           "sources": [],
           "enable_detail": false
+        },
+        {
+          "id": "jw2r09hk6258rz8",
+          "name": "Farense U23 0 - 0 Vizela U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Farense+U23+0+-+0+Vizela+U23&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Portuguese+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3109a169b2c183939108cba19e4aea52%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Nhí",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/2c5a37e6d5b8e07621e8cd8d8528e9b8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
