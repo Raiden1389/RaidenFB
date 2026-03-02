@@ -57,13 +57,13 @@
         },
         {
           "id": "2y8m4zh56nk3ql0",
-          "name": "Sportivo Luqueno 0 - 0 Rubio nu",
+          "name": "Sportivo Luqueno 0 - 1 Rubio nu",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sportivo+Luqueno+0+-+0+Rubio+nu&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbb4f96d5b620a7d28c23bad988d7a42f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sportivo+Luqueno+0+-+1+Rubio+nu&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbb4f96d5b620a7d28c23bad988d7a42f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -225,13 +225,13 @@
         },
         {
           "id": "y0or5jh88519qwz",
-          "name": "Nicaragua U20 3 - 3 US Virgin Islands U20",
+          "name": "Nicaragua U20 4 - 3 US Virgin Islands U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nicaragua+U20+3+-+3+US+Virgin+Islands+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F58644f296e43e80299f8eda893b77a56%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nicaragua+U20+4+-+3+US+Virgin+Islands+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F58644f296e43e80299f8eda893b77a56%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -340,6 +340,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/e930657e8dd1c07becee85da045c7712/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhggw33rep",
+          "name": "Gremio Youth 1 - 3 Corinthians Paulista Youth",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gremio+Youth+1+-+3+Corinthians+Paulista+Youth&t2=&live=1&lg=Campeonato+Brasileiro+Sub-20&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F311971555a5d67a65c08690f1f36a047%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6f43a5a4f1013384cd64571d97736bed/playlist.m3u8"
                         }
                       ]
                     }
