@@ -14,132 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "ednm9whw7z76ryo",
-          "name": "Chungnam Asan 3 - 2 Paju Frontier FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chungnam+Asan+3+-+2+Paju+Frontier+FC&t2=&live=1&lg=Korean+K+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F76b449a7f11d876ccaf3bd8ef4dd1e9e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/62ad201acbf4714e4f95d47106ef8ab0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "n54qldh44opprvy",
-          "name": "Suwon KEPCO Vixtorm 0 - 0 KAL Jumbos",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Suwon+KEPCO+Vixtorm+0+-+0+KAL+Jumbos&t2=&live=1&lg=Volleyball+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F92c56375d41646b4cde0c652918c82f0%2Fimage%2Fsmall&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/d6ab19cbe6fd0f165e707c5bb2626520/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y39mp1h60l8kmoj",
-          "name": "Daejeon Citizen 1 - 1 FC Anyang",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Daejeon+Citizen+1+-+1+FC+Anyang&t2=&live=1&lg=Korean+K+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F25c697eefddd230651e9502912458072%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/15703e3d6959a16dfc1ee8b8970df0d6/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "8yomo4h1ye6xq0j",
           "name": " 2 - 3 ",
           "type": "single",
@@ -351,13 +225,13 @@
         },
         {
           "id": "e9776a75fb094301bb030109ff4b7dcd",
-          "name": "Vietnam 0 - 0 Indonesia",
+          "name": "Vietnam 2 - 1 Indonesia",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vietnam+0+-+0+Indonesia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=ASEAN+Women%27s+Futsal&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FrZCKbaFa-QHeKqeWC.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vietnam+2+-+1+Indonesia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=ASEAN+Women%27s+Futsal&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FrZCKbaFa-QHeKqeWC.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -377,6 +251,222 @@
           ],
           "sources": [],
           "enable_detail": false
+        },
+        {
+          "id": "pxwrxlhyy68eryk",
+          "name": "Wari Club 0 - 0 Khelaghar Samaj Kalyan Samiti",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wari+Club+0+-+0+Khelaghar+Samaj+Kalyan+Samiti&t2=&live=1&lg=Bangladesh+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6353520d64a82a209d18a37e397f55ef%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6f5cc242304f25bb7eb82b5066748d79/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvk011md7",
+          "name": "Chittagong Abahani 1 - 0 Shuktara Jubo Sangsad",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chittagong+Abahani+1+-+0+Shuktara+Jubo+Sangsad&t2=&live=1&lg=Bangladesh+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2f951868444bc98bbf9a8a36f84a557b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c2dff9e4d9d66d465da625e40f35efe5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hnndz8qdy",
+          "name": "Kyrgyzaltyn Kara-Balta 0 - 0 OshMU Aldier",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kyrgyzaltyn+Kara-Balta+0+-+0+OshMU+Aldier&t2=&live=1&lg=Kyrgyz+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbdf95ab2c4719512518907dc5781ba17%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/122091ca0ad78cf5d9132945e268d800/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h61ojdmoj",
+          "name": "South Korea Women 0 - 0 Iran Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=South+Korea+Women+0+-+0+Iran+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+B%E1%BB%9Dm&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FW2K5SGfM-4dnMHMVr.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Bờm",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Bờm",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6db4f789b2adc6c140c5866f5662f676/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohle9xpq1z",
+          "name": "Rakhine United FC 0 - 0 Shan United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rakhine+United+FC+0+-+0+Shan+United&t2=&live=1&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1f3c7e982e65cd9fdb120637543a3023%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8e6ef6b026ffc5094d548dd84f60ad75/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
