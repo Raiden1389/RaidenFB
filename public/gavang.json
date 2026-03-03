@@ -14,132 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "3glrw7hnp5gkqdy",
-          "name": "Alanyaspor 1 - 2 Galatasaray",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Alanyaspor+1+-+2+Galatasaray&t2=&live=1&lg=Turkish+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8908742a3d6b5ecdc29d4c09dcee4262%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/be6dc821b3c2a51768ae2f13f8a7efb4/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrwjh498jyqdy",
-          "name": "Miskolc 0 - 0 Dagi",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Miskolc+0+-+0+Dagi&t2=&live=1&lg=Extraliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Fae984b4e2653747a59b631d24145d81c%2Fimage%2Fsmall&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/32bc908a95ce862fd6537ed6d16f7f2b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvnlxdmd7",
-          "name": "Czechia Women 2 - 2 Wales Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Czechia+Women+2+-+2+Wales+Women&t2=&live=1&lg=FIFA+Women%27s+World+Cup+qualification%28UEFA%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Face50ed90b3c1ca460f11a62de53e1c4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a4d7316fa8cc4d554ab765616d663a40/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "3glrw7hnj514qdy",
           "name": "VfL Osnabrück 2 - 0 FC Viktoria Köln",
           "type": "single",
@@ -514,6 +388,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/dcb515a9b4dec7937daa5ee9ee20c7f3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjjv9jm2w",
+          "name": "Cayman Islands U20 2 - 3 Bonaire U20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cayman+Islands+U20+2+-+3+Bonaire+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe4c779c01eda0ece4bd8b8846696c151%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/706a24ea741931aecbadc6e2ed4edfb4/playlist.m3u8"
                         }
                       ]
                     }
@@ -902,6 +818,90 @@
           ]
         },
         {
+          "id": "x7lm7phj915zm2w",
+          "name": "A.C. Reggiana 1919 0 - 4 SudTirol",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=A.C.+Reggiana+1919+0+-+4+SudTirol&t2=&live=1&lg=Italian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F155793db4ef994a9bb6afddc3298bcdf%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7a5b552402a15ee3e0ef398872b79526/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh880ppqwz",
+          "name": "Győri ETO FC 1 - 1 Kecskemeti TE",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gy%C5%91ri+ETO+FC+1+-+1+Kecskemeti+TE&t2=&live=1&lg=Hungary++Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcc5ee190a86d54d40170a94a0c28de9f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/2f3872b2a900d264d6263c30d21c6a9d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "2y8m4zh5gzwpql0",
           "name": "SK Rapid II 1 - 1 SV Austria Salzburg",
           "type": "single",
@@ -986,62 +986,14 @@
           ]
         },
         {
-          "id": "4wyrn4h6e4llq86",
-          "name": "Leeds United 0 - 1 Sunderland",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Leeds+United+0+-+1+Sunderland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4329f1d6b239b389805c7b1f259f7905%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e19e9b0edc9a31b3a9de05a773dc238b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "4wyrn4h6xzelq86",
-          "name": "Al Wehda Mecca 3 - 0 Al-Tai",
+          "name": "Al Wehda Mecca 3 - 1 Al-Tai",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Wehda+Mecca+3+-+0+Al-Tai&t2=&live=1&lg=Saudi+Arabia+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa8d5c36822c3d8377bcb8d0208aa22d8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Wehda+Mecca+3+-+1+Al-Tai&t2=&live=1&lg=Saudi+Arabia+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa8d5c36822c3d8377bcb8d0208aa22d8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1150,54 +1102,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/1439d9a46332f4103aba3dcf6a668327/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "k82rekhg9ox8rep",
-          "name": "Everton 2 - 0 Burnley",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Everton+2+-+0+Burnley&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F86abe39672d03dc20cc60d9c0c963edb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/8d515b0f0609c8d80b528328dcc21ea8/playlist.m3u8"
                         }
                       ]
                     }
@@ -1340,14 +1244,56 @@
           ]
         },
         {
-          "id": "318q66hx0902qo9",
-          "name": "Dundee United 1 - 1 Saint Mirren",
+          "id": "x7lm7phj92y5m2w",
+          "name": "Vicenza 2 - 3 Trento",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dundee+United+1+-+1+Saint+Mirren&t2=&live=1&lg=Scottish+Premiership&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd4a1e08bd021fbade24e5d42dc458228%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vicenza+2+-+3+Trento&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe78f54b8787deaad8a684cab119edd76%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3f1637e3f64854b228edb9c60e76f028/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx0902qo9",
+          "name": "Dundee United 2 - 1 Saint Mirren",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dundee+United+2+-+1+Saint+Mirren&t2=&live=1&lg=Scottish+Premiership&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd4a1e08bd021fbade24e5d42dc458228%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1425,13 +1371,13 @@
         },
         {
           "id": "dj2ryohljk47q1z",
-          "name": "Arbroath 1 - 0 Ayr United",
+          "name": "Arbroath 1 - 1 Ayr United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Arbroath+1+-+0+Ayr+United&t2=&live=1&lg=Scottish+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0677b74dc447a02c4c482568c459b1b5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Arbroath+1+-+1+Ayr+United&t2=&live=1&lg=Scottish+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0677b74dc447a02c4c482568c459b1b5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1509,13 +1455,13 @@
         },
         {
           "id": "k82rekhgw840rep",
-          "name": "Connahs Quay Nomads FC 0 - 0 The New Saints",
+          "name": "Connahs Quay Nomads FC 1 - 2 The New Saints",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Connahs+Quay+Nomads+FC+0+-+0+The+New+Saints&t2=&live=1&lg=Welsh+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa6702ca867a529e87ee86e3bb15d2f9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Connahs+Quay+Nomads+FC+1+-+2+The+New+Saints&t2=&live=1&lg=Welsh+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa6702ca867a529e87ee86e3bb15d2f9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1593,13 +1539,13 @@
         },
         {
           "id": "23xmvkh687ewqg8",
-          "name": "RC Strasbourg Alsace 0 - 0 Stade DE Reims",
+          "name": "RC Strasbourg Alsace 2 - 1 Stade DE Reims",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=RC+Strasbourg+Alsace+0+-+0+Stade+DE+Reims&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Coupe+de+France&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5c858003d3fc3fcb6ca569ca3aefabaa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=RC+Strasbourg+Alsace+2+-+1+Stade+DE+Reims&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Coupe+de+France&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5c858003d3fc3fcb6ca569ca3aefabaa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1689,13 +1635,13 @@
         },
         {
           "id": "4wyrn4h66j8zq86",
-          "name": "CA Aldosivi Reserves 0 - 1 Instituto AC Cordoba II",
+          "name": "CA Aldosivi Reserves 2 - 1 Instituto AC Cordoba II",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Aldosivi+Reserves+0+-+1+Instituto+AC+Cordoba+II&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8512b7f7d68bed2e2b77b7c4f3eeb42a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Aldosivi+Reserves+2+-+1+Instituto+AC+Cordoba+II&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8512b7f7d68bed2e2b77b7c4f3eeb42a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1731,13 +1677,13 @@
         },
         {
           "id": "4wyrn4h66zl2q86",
-          "name": "FC Barcelona 2 - 0 Atletico Madrid",
+          "name": "FC Barcelona 3 - 0 Atletico Madrid",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Barcelona+2+-+0+Atletico+Madrid&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=Copa+del+Rey&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F683ba5a81b069af0a3fa8303cbf67de7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Barcelona+3+-+0+Atletico+Madrid&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=Copa+del+Rey&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F683ba5a81b069af0a3fa8303cbf67de7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1779,13 +1725,13 @@
         },
         {
           "id": "6ypq3nhvv8lwmd7",
-          "name": "Grenada U20 0 - 2 French Guiana U20",
+          "name": "Grenada U20 1 - 2 French Guiana U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Grenada+U20+0+-+2+French+Guiana+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2d1a3ff794340d7b79c18c8d9659ffe6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Grenada+U20+1+-+2+French+Guiana+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2d1a3ff794340d7b79c18c8d9659ffe6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1821,13 +1767,13 @@
         },
         {
           "id": "c1acd3604fc34901b0107e82977412c2",
-          "name": "FC Barcelona 0 - 0 Atletico Madrid",
+          "name": "FC Barcelona 3 - 0 Atletico Madrid",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Barcelona+0+-+0+Atletico+Madrid&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Copa+del+Rey&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F683ba5a81b069af0a3fa8303cbf67de7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Barcelona+3+-+0+Atletico+Madrid&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Copa+del+Rey&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F683ba5a81b069af0a3fa8303cbf67de7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1892,13 +1838,13 @@
         },
         {
           "id": "fe8357b4cbcf4fa7a273c34edb0af960",
-          "name": "FC Barcelona 0 - 0 Atletico Madrid",
+          "name": "FC Barcelona 3 - 0 Atletico Madrid",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Barcelona+0+-+0+Atletico+Madrid&t2=&live=1&blv=B%C3%A1t+Gi%E1%BB%9Bi&lg=Copa+del+Rey&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F683ba5a81b069af0a3fa8303cbf67de7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Barcelona+3+-+0+Atletico+Madrid&t2=&live=1&blv=B%C3%A1t+Gi%E1%BB%9Bi&lg=Copa+del+Rey&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F683ba5a81b069af0a3fa8303cbf67de7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2005,13 +1951,13 @@
         },
         {
           "id": "6ypq3nhv5wndmd7",
-          "name": "Wolverhampton Wanderers 0 - 0 Liverpool",
+          "name": "Wolverhampton Wanderers 1 - 0 Liverpool",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wolverhampton+Wanderers+0+-+0+Liverpool&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa56f433f9bf2608f2ccd09f31e64bf9b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wolverhampton+Wanderers+1+-+0+Liverpool&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa56f433f9bf2608f2ccd09f31e64bf9b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2095,13 +2041,13 @@
         },
         {
           "id": "965mkyhkkwn6r1g",
-          "name": "Dominican Republic U20 0 - 0 Antigua Barbuda U20",
+          "name": "Dominican Republic U20 0 - 1 Antigua Barbuda U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dominican+Republic+U20+0+-+0+Antigua+Barbuda+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5d1f5bd2f5acb8de28d93f8145a16013%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dominican+Republic+U20+0+-+1+Antigua+Barbuda+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5d1f5bd2f5acb8de28d93f8145a16013%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2126,6 +2072,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/ef524b2ebe3d7e71bb553cabf8133e51/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh885g9qwz",
+          "name": "St. Kitts and Nevis U20 0 - 1 Turks Caicos Islands U20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=St.+Kitts+and+Nevis+U20+0+-+1+Turks+Caicos+Islands+U20&t2=&live=1&lg=CONCACAF+U20+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F02558cf20e51a20e46bf3e779decd0a4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/477b5f093c595edf20fb0b1e9664ab8b/playlist.m3u8"
                         }
                       ]
                     }
