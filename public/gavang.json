@@ -54,6 +54,138 @@
               ]
             }
           ]
+        },
+        {
+          "id": "y39mp1h6d3l4moj",
+          "name": "Persiwa Wamena 0 - 0 Toli",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Persiwa+Wamena+0+-+0+Toli&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb40394e568c93b4ae07cf2c6fd2479af%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f84ba717b33701fa5f8667330ba39e31/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4ko50r8k",
+          "name": "Sheger Ketema (w) 0 - 0 Mechal FC Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sheger+Ketema+%28w%29+0+-+0+Mechal+FC+Women&t2=&live=1&lg=ETH+WL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc741354c302f7820133b58415759aa25%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a862fae7b56160ee02b6c64fa41d8c0b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjj31xm2w",
+          "name": "Melbourne City 0 - 0 Buriram United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Melbourne+City+0+-+0+Buriram+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5eeaed5ac688b5c478c935c4289d5173%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Mõm",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Mõm",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
