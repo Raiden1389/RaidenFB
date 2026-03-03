@@ -99,13 +99,13 @@
         },
         {
           "id": "x7lm7phjj31xm2w",
-          "name": "Melbourne City 0 - 1 Buriram United",
+          "name": "Melbourne City 1 - 1 Buriram United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Melbourne+City+0+-+1+Buriram+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5eeaed5ac688b5c478c935c4289d5173%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Melbourne+City+1+-+1+Buriram+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5eeaed5ac688b5c478c935c4289d5173%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -268,6 +268,138 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/0ed8a3bef672ee3107db63aecf77a582/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8yomo4h1g64jq0j",
+          "name": "Dagon Star United 1 - 0 Mahar United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dagon+Star+United+1+-+0+Mahar+United&t2=&live=1&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd9f4a4749c7fd9da698786c22580159d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9a612d4fb67fe4a52eec18b742e4101e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhyyxkxryk",
+          "name": "Gangwon Football Club 0 - 0 Machida Zelvia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gangwon+Football+Club+0+-+0+Machida+Zelvia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2d33d8e8c82543293adb56a6297c2c9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Nhí",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/79fa373e2e51b953059c3c2ce6da50a7/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8okdeqwz",
+          "name": "Fethiyespor 0 - 0 Karagumruk",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fethiyespor+0+-+0+Karagumruk&t2=&live=1&lg=Turkish+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe9064e481e71389bf918582fa1144a24%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/aecf77beeddd3ff0ba736777baa35404/playlist.m3u8"
                         }
                       ]
                     }
