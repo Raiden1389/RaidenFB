@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "l5ergph4ko50r8k",
-          "name": "Sheger Ketema (w) 2 - 2 Mechal FC Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sheger+Ketema+%28w%29+2+-+2+Mechal+FC+Women&t2=&live=1&lg=ETH+WL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc741354c302f7820133b58415759aa25%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a862fae7b56160ee02b6c64fa41d8c0b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "x7lm7phjj31xm2w",
           "name": "Melbourne City 1 - 1 Buriram United",
           "type": "single",
@@ -231,13 +189,13 @@
         },
         {
           "id": "4jwq2ghng415m0v",
-          "name": "FK Alga Bishkek 0 - 0 FC Talant",
+          "name": "FK Alga Bishkek 1 - 1 FC Talant",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Alga+Bishkek+0+-+0+FC+Talant&t2=&live=1&lg=Kyrgyz+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6e10bfc2024c225d00ef80b16534fbcd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Alga+Bishkek+1+-+1+FC+Talant&t2=&live=1&lg=Kyrgyz+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6e10bfc2024c225d00ef80b16534fbcd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -363,13 +321,13 @@
         },
         {
           "id": "y0or5jh8okdeqwz",
-          "name": "Fethiyespor 0 - 1 Karagumruk",
+          "name": "Fethiyespor 0 - 2 Karagumruk",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fethiyespor+0+-+1+Karagumruk&t2=&live=1&lg=Turkish+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe9064e481e71389bf918582fa1144a24%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fethiyespor+0+-+2+Karagumruk&t2=&live=1&lg=Turkish+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe9064e481e71389bf918582fa1144a24%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -568,6 +526,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/58d5d1f5b9e359341030959f65eea6b8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghgwwodq82",
+          "name": "FC Syunik 0 - 0 Andranik",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Syunik+0+-+0+Andranik&t2=&live=1&lg=Armenian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff22ac8edb1d4990ee4ce36cbe5dc2468%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ce24fb39082438856c380919f9a93df9/playlist.m3u8"
                         }
                       ]
                     }
