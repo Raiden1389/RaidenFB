@@ -8,7 +8,64 @@
     "type": "cover",
     "url": "https://cdn.fastestcdn-global.com/seo-gavangtv-v4/icons/logo.png"
   },
-  "groups": [],
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 LIVE",
+      "channels": [
+        {
+          "id": "318q66hxnjjgqo9",
+          "name": "Macarthur FC 0 - 0 Central Coast Mariners",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Macarthur+FC+0+-+0+Central+Coast+Mariners&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Australia+A-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F207023b80dd9bb003d3e12395f63e096%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Nhí",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9bcd92ad773d6e8ed31a7209258bcc20/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    }
+  ],
   "option": {
     "save_history": false,
     "save_search_history": false,
