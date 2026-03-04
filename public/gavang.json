@@ -369,13 +369,13 @@
         },
         {
           "id": "3glrw7hn3o05qdy",
-          "name": "Chainat Hornbill FC 1 - 1 Chanthaburi FC",
+          "name": "Chainat Hornbill FC 1 - 2 Chanthaburi FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chainat+Hornbill+FC+1+-+1+Chanthaburi+FC&t2=&live=1&lg=Thai+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff0dc4858ec7969d5e0dbb3640957d914%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chainat+Hornbill+FC+1+-+2+Chanthaburi+FC&t2=&live=1&lg=Thai+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff0dc4858ec7969d5e0dbb3640957d914%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -459,13 +459,13 @@
         },
         {
           "id": "n54qllhnzz34qvy",
-          "name": "Shirak 0 - 0 Ararat-Armenia FC",
+          "name": "Shirak 0 - 1 Ararat-Armenia FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shirak+0+-+0+Ararat-Armenia+FC&t2=&live=1&lg=Armenian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fffbc4869d9947661932359cb6d1112b6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shirak+0+-+1+Ararat-Armenia+FC&t2=&live=1&lg=Armenian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fffbc4869d9947661932359cb6d1112b6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -532,6 +532,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/523ef2a018b4a2f8363eaf29ab1acebe/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phj3pn6m2w",
+          "name": "Mahasarakham SBT FC 0 - 0 Pattaya Discovery United FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mahasarakham+SBT+FC+0+-+0+Pattaya+Discovery+United+FC&t2=&live=1&lg=Thai+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4455b75443bc065218216be48ddbea4e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c6d27f659b487f9cadcef085f618507f/playlist.m3u8"
                         }
                       ]
                     }
