@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "jw2r09hk643yrz8",
-          "name": "Santos Laguna 1 - 2 Cruz Azul",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Santos+Laguna+1+-+2+Cruz+Azul&t2=&live=1&lg=Mexico+Liga+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77a686795b42638e7c37e82febceb611%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/6135d216513ff5d5ddc03e69ae776566/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "3glrw7hnn9zoqdy",
           "name": "El Salvador U20 0 - 2 Suriname U20",
           "type": "single",
@@ -266,62 +224,14 @@
           ]
         },
         {
-          "id": "k82rekhg0z26rep",
-          "name": "Pumas U.N.A.M. 2 - 3 Toluca",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pumas+U.N.A.M.+2+-+3+Toluca&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Mexico+Liga+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7469a3ba655842152c7fb9879022215f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e16ee6361f90f66c9b46c13feb7d2124/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "vjxm8ghep088r6o",
-          "name": "Japan Women 0 - 0 Chinese Taipei (w)",
+          "name": "Japan Women 0 - 0 Chinese Taipei Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Japan+Women+0+-+0+Chinese+Taipei+%28w%29&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+G%E1%BA%A7y&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQRlYWUhl-E1YhvyqD.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Japan+Women+0+-+0+Chinese+Taipei+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+G%E1%BA%A7y&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQRlYWUhl-E1YhvyqD.png&s=vs",
             "width": 600,
             "height": 320
           },
