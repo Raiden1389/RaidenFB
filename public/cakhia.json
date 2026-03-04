@@ -66,62 +66,6 @@
       "grid_number": 1
     },
     {
-      "id": "afcchampionsleagueelite",
-      "name": "AFC Champions League Elite",
-      "channels": [
-        {
-          "id": "106737",
-          "name": "Johor Darul Ta'zim FC vs Sanfrecce Hiroshima | 19:15 04-03 | BLV BÉO",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Johor+Darul+Ta%27zim+FC&t2=Sanfrecce+Hiroshima&blv=BLV+B%C3%89O&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3ab85cf20a3ed001a60a9fcd8ec09afe.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc81d5ff7a33a4f6a9312a8703f619352.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 19:15 04-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV BÉO",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV BÉO",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/459401.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
       "id": "englishpremierleague",
       "name": "English Premier League",
       "channels": [
