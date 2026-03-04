@@ -14,342 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "23xmvkh66gneqg8",
-          "name": "AZ Alkmaar 2 - 1 SC Telstar",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AZ+Alkmaar+2+-+1+SC+Telstar&t2=&live=1&lg=Netherlands+KNVB+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd815e052efad76d399a996f7e09a7f8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/812d78ce701ce44fe32f3a9591727a2b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hnp5ekqdy",
-          "name": "Rijeka 3 - 2 Hajduk Split",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rijeka+3+-+2+Hajduk+Split&t2=&live=1&lg=Croatian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5636e5dd47bddbf8643af14b75119e7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/2ff824737d8f37c58975b3f48a156ebc/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hnzvlpqdy",
-          "name": "Bari 2 - 1 Empoli",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bari+2+-+1+Empoli&t2=&live=1&lg=Italian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3a1674393bc29cb8a4a29eef29cbbe0e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/46c9a8c97d3e059bb0b5ccca1778c108/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4wyrn4h6vkl9q86",
-          "name": "Frosinone 2 - 2 Pescara",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Frosinone+2+-+2+Pescara&t2=&live=1&lg=Italian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc520ac539504c12cb9c281751c918dd1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a45513fc5897aa23e307069f64b3df45/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "8yomo4h10dz5q0j",
-          "name": "Juve Stabia 1 - 1 Sampdoria",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Juve+Stabia+1+-+1+Sampdoria&t2=&live=1&lg=Italian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F449894f89dc0549e0b58fb8d01ac1442%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/d406f5834dd28f15124431f61f4547c6/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "965mkyhk2654r1g",
-          "name": "NK Brinje Grosuplje 1 - 0 NK Olimpija Ljubljana",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=NK+Brinje+Grosuplje+1+-+0+NK+Olimpija+Ljubljana&t2=&live=1&lg=Slovenia+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52e8eb99b443873706d81c70118c2c68%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/870115354e247348f8b45a97651c645f/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8ghee216r6o",
-          "name": "Kazincbarcika 0 - 5 Ferencvarosi TC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kazincbarcika+0+-+5+Ferencvarosi+TC&t2=&live=1&lg=Hungary++Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff02715830df4dd8429ba3b8e34bbdb78%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/3eabb42d93b326c14c8875afc63a3294/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "x7lm7phj918dm2w",
-          "name": "Palermo 2 - 1 Mantova",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Palermo+2+-+1+Mantova&t2=&live=1&lg=Italian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F91ab997001c3f3e9fca953f19582bc55%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/88d7ce275104b8c37b785e9bd95b1bdd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "2y8m4zh5z7yyql0",
           "name": "Livorno 1 - 2 Perugia",
           "type": "single",
@@ -802,6 +466,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/97296e37a1ad52fadbc3f23a27fc5036/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghg6236q82",
+          "name": "Lech Poznan 0 - 1 Gornik Zabrze",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lech+Poznan+0+-+1+Gornik+Zabrze&t2=&live=1&lg=Polish+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13ca997bacc651c933eeecc9e380d8b6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3693535370f73ed597e30d0aab8c5335/playlist.m3u8"
                         }
                       ]
                     }
@@ -1869,13 +1575,13 @@
         },
         {
           "id": "x7lm7phjj2y7m2w",
-          "name": "Walter Ferretti 1 - 1 HYH Export Sebaco FC",
+          "name": "Walter Ferretti 3 - 1 HYH Export Sebaco FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Walter+Ferretti+1+-+1+HYH+Export+Sebaco+FC&t2=&live=1&lg=Nicaragua+Liga+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb9bc8dba4d8fafcfb76fb7567298af62%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Walter+Ferretti+3+-+1+HYH+Export+Sebaco+FC&t2=&live=1&lg=Nicaragua+Liga+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb9bc8dba4d8fafcfb76fb7567298af62%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1953,13 +1659,13 @@
         },
         {
           "id": "3glrw7hnp871qdy",
-          "name": "Uniao Barbarense 0 - 0 Uniao Suzano AC SP",
+          "name": "Uniao Barbarense 1 - 0 Uniao Suzano AC SP",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uniao+Barbarense+0+-+0+Uniao+Suzano+AC+SP&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A3&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F963825ba337991ffe5ac1a3cfe6fe192%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uniao+Barbarense+1+-+0+Uniao+Suzano+AC+SP&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A3&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F963825ba337991ffe5ac1a3cfe6fe192%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2110,6 +1816,216 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/28945e34802f44264522f9039964efb9/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h62xgvq86",
+          "name": "St. Kitts and Nevis (w) 0 - 0 Panama Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=St.+Kitts+and+Nevis+%28w%29+0+-+0+Panama+Women&t2=&live=1&lg=FIFA+Women%27s+World+Cup+qualification%28CONCACAF%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1c2ba13c82823e670c1e132eedd556bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c62fccf50c14791ac785dac223b0c4c0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohl7k5jq1z",
+          "name": "Palmeiras 0 - 0 Gremio Novorizontino",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Palmeiras+0+-+0+Gremio+Novorizontino&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52819c4b269cb246ec46c9de2a397c1d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a7f6993b9538504ff3a40acb5236e34f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw0n22ryo",
+          "name": "Paulista(SP) 0 - 0 Bandeirante",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Paulista%28SP%29+0+-+0+Bandeirante&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A3&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9b31e1b73b14762b40236b01fb3f1a98%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ddac9d4b515dc7fd284d34175b6b031e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh88wyzqwz",
+          "name": "Matagalpa FC 0 - 2 Real Madriz FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Matagalpa+FC+0+-+2+Real+Madriz+FC&t2=&live=1&lg=Nicaragua+Liga+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a7850ecf9939f00cae7e9176ef72598%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8f3e86ce85c74f9c0e1ce04a017a1e0e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8n070qwz",
+          "name": "Independiente Yumbo 1 - 0 Bogota FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Independiente+Yumbo+1+-+0+Bogota+FC&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff1e5d85e06a671822034e53733e15ff4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/eeddecd5b8891dfba070d47ce1e10718/playlist.m3u8"
                         }
                       ]
                     }
