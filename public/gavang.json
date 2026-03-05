@@ -15,13 +15,13 @@
       "channels": [
         {
           "id": "318q66hxxd39qo9",
-          "name": "Samoa Women 1 - 0 Solomon Islands Women",
+          "name": "Samoa Women 2 - 1 Solomon Islands Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Samoa+Women+1+-+0+Solomon+Islands+Women&t2=&live=1&lg=WC+Qualifying&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f54780e85be781652987936343c8260%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Samoa+Women+2+-+1+Solomon+Islands+Women&t2=&live=1&lg=WC+Qualifying&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f54780e85be781652987936343c8260%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -46,6 +46,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/ab0468307bbaa5af589b0e715e27988c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghg3zjdq82",
+          "name": "Goa U21 1 - 0 Sudeva Delhi FC U21",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Goa+U21+1+-+0+Sudeva+Delhi+FC+U21&t2=&live=1&lg=India+U21+DL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5a3fc72d8da27502255a02f2feb1a8aa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/29862df16b95774f973c3705eb4a249b/playlist.m3u8"
                         }
                       ]
                     }
