@@ -10,62 +10,6 @@
   },
   "groups": [
     {
-      "id": "afcchampionsleague2",
-      "name": "AFC Champions League 2",
-      "channels": [
-        {
-          "id": "106949",
-          "name": "Bangkok United FC vs Tampines Rovers FC | 19:15 05-03 | BLV SINGER",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bangkok+United+FC&t2=Tampines+Rovers+FC&blv=BLV+SINGER&lg=AFC+Champions+League+2&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F8b3e0b06ac7fe647c26277623aea2152.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F23dc72567ad2999491dfe56b50f7df62.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 19:15 05-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV SINGER",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV SINGER",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/139384.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
       "id": "englishpremierleague",
       "name": "English Premier League",
       "channels": [
