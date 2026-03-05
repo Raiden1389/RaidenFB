@@ -64,6 +64,158 @@
       ],
       "display": "vertical",
       "grid_number": 1
+    },
+    {
+      "id": "spanishlaliga",
+      "name": "Spanish La Liga",
+      "channels": [
+        {
+          "id": "107302",
+          "name": "RC Celta vs Real Madrid | 03:00 07-03 | BLV TOMIA",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=RC+Celta&t2=Real+Madrid&blv=BLV+TOMIA&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ffd954d083ee85a6f1a3f2471dc756242.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F47ba2fe5caa3770cfa2e99dc4b7e72cd.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 03:00 07-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV TOMIA",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV TOMIA",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/187579.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "107337",
+          "name": "CA Osasuna vs RCD Mallorca | 20:00 07-03 | BLV TOMMY",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Osasuna&t2=RCD+Mallorca&blv=BLV+TOMMY&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc2050b940076df70b2ad0a6103c50df4.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ffdef90456d2a2eee09976c558457aec7.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 20:00 07-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV TOMMY",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV TOMMY",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/414317.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "107341",
+          "name": "Levante vs Girona FC | 22:15 07-03 | RICKHANTER",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Levante&t2=Girona+FC&blv=RICKHANTER&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F13e2038bd23a38ce32a3eb259c8bf7d8.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F006ce259b33ef72dd5570cfa8dc39f38.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 22:15 07-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 RICKHANTER",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV RICKHANTER",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/123226.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
     }
   ],
   "option": {
