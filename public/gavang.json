@@ -15,13 +15,13 @@
       "channels": [
         {
           "id": "965mkyhkn7jjr1g",
-          "name": "Obolon Kiev U21 2 - 0 Kryvbas U21",
+          "name": "Obolon Kiev U21 2 - 2 Kryvbas U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Obolon+Kiev+U21+2+-+0+Kryvbas+U21&t2=&live=1&lg=Ukrainian+Youth+Team+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F894c07937c26fb9feeed08ace1fe2a0e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Obolon+Kiev+U21+2+-+2+Kryvbas+U21&t2=&live=1&lg=Ukrainian+Youth+Team+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F894c07937c26fb9feeed08ace1fe2a0e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -861,13 +861,13 @@
         },
         {
           "id": "k82rekhg2371rep",
-          "name": "AS Bakaridjan 0 - 1 USFAS Bamako",
+          "name": "AS Bakaridjan 1 - 1 USFAS Bamako",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Bakaridjan+0+-+1+USFAS+Bamako&t2=&live=1&lg=Mali+Premiere+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F988f84eded87cdaa5683b9061f371f27%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Bakaridjan+1+-+1+USFAS+Bamako&t2=&live=1&lg=Mali+Premiere+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F988f84eded87cdaa5683b9061f371f27%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -903,13 +903,13 @@
         },
         {
           "id": "y0or5jh80k64qwz",
-          "name": "Slavia Sofia 1 - 0 Spartak Varna",
+          "name": "Slavia Sofia 2 - 0 Spartak Varna",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Slavia+Sofia+1+-+0+Spartak+Varna&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Bulgarian+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Slavia+Sofia+2+-+0+Spartak+Varna&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Bulgarian+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -948,6 +948,203 @@
               ]
             }
           ]
+        },
+        {
+          "id": "23xmvkh6yxvkqg8",
+          "name": "Samger FC 0 - 0 Gambian Dutch Lions",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Samger+FC+0+-+0+Gambian+Dutch+Lions&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F717650d4f49e2865c6ec16fed3c57795%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f99f937fbe75b7eeb833c0efaff4aa80/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohlljldq1z",
+          "name": "Viimsi JK 2 - 1 Flora Tallinn II",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Viimsi+JK+2+-+1+Flora+Tallinn+II&t2=&live=1&lg=Estonian+Esiliiga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4b95ec1ba3a560c7ce591f175bfaaeb7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ebd232ea44e88f4c35066411e9df0b3f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghekx4vr6o",
+          "name": "Greater Tomorrow FC 0 - 2 Falcons FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Greater+Tomorrow+FC+0+-+2+Falcons+FC&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F873506921c8d11821da3e7671a053137%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5ba3b40035555037dd1b027bff6bd72d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjxpkkm2w",
+          "name": "Brikama United 1 - 0 Bombada FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brikama+United+1+-+0+Bombada+FC&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F71e0629a9b248e27201ef2b8799a2a01%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6ffa576217b717456ea86af0d6f54284/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5jlo9ql0",
+          "name": "FK Csikszereda Miercurea Ciuc 0 - 0 Farul Constanta",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Csikszereda+Miercurea+Ciuc+0+-+0+Farul+Constanta&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+B%E1%BB%9Dm&lg=Romanian+Super+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F936a32751997274971fa3f7215442605%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Bờm",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
         }
       ],
       "display": "vertical",
