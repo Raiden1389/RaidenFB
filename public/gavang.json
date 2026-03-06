@@ -182,6 +182,48 @@
           ]
         },
         {
+          "id": "dn1m1ghll55vmoe",
+          "name": "Khosilot Parkhar 1 - 0 CSKA Pamir Dushanbe",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Khosilot+Parkhar+1+-+0+CSKA+Pamir+Dushanbe&t2=&live=1&lg=Tajikistan+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff173282a96e8e2737e7c2fff1a5e7d75%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4bd20f0a0164215f1d1d6efe288b62e8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "jw2r09hkxkj6rz8",
           "name": "FK Oleksandria 0 - 1 FC Shakhtar Donetsk",
           "type": "single",
@@ -476,54 +518,6 @@
           ]
         },
         {
-          "id": "k82rekhggx35rep",
-          "name": "Chengdu Rongcheng 5 - 1 Shenzhen Peng City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chengdu+Rongcheng+5+-+1+Shenzhen+Peng+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Chinese+Football+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3ad2e198751a3f0e4647b89f290bd423%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Súp",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Súp",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a3ba0e408b2e18b8ea8458f4fba6d018/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "8yomo4h1y714q0j",
           "name": "Russia Women U19 1 - 0 Thailand U20(w)",
           "type": "single",
@@ -657,13 +651,13 @@
         },
         {
           "id": "l7oqdehggzner51",
-          "name": "Northern Ireland Women U17 2 - 0 North Macedonia Women U17",
+          "name": "Northern Ireland Women U17 3 - 0 North Macedonia Women U17",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Northern+Ireland+Women+U17+2+-+0+North+Macedonia+Women+U17&t2=&live=1&lg=UEFA+European+U17+Women%27s+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F46a87cb5c672374e21eba63e2d9b6399%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Northern+Ireland+Women+U17+3+-+0+North+Macedonia+Women+U17&t2=&live=1&lg=UEFA+European+U17+Women%27s+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F46a87cb5c672374e21eba63e2d9b6399%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -699,13 +693,13 @@
         },
         {
           "id": "n54qllhndkkpqvy",
-          "name": "Blackburn Rovers U21 0 - 2 Crystal Palace U21",
+          "name": "Blackburn Rovers U21 1 - 2 Crystal Palace U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Blackburn+Rovers+U21+0+-+2+Crystal+Palace+U21&t2=&live=1&lg=English+U21+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd56547fb57c9233450746456ffc6be6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Blackburn+Rovers+U21+1+-+2+Crystal+Palace+U21&t2=&live=1&lg=English+U21+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd56547fb57c9233450746456ffc6be6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -824,14 +818,98 @@
           ]
         },
         {
-          "id": "n54qllhn8e68qvy",
-          "name": "Sariyer 0 - 1 Umraniyespor",
+          "id": "965mkyhkn7jjr1g",
+          "name": "Obolon Kiev U21 0 - 0 Kryvbas U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sariyer+0+-+1+Umraniyespor&t2=&live=1&lg=Turkish+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5512f28c62a4adb08835403bb853589e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Obolon+Kiev+U21+0+-+0+Kryvbas+U21&t2=&live=1&lg=Ukrainian+Youth+Team+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F894c07937c26fb9feeed08ace1fe2a0e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3c6aef1befd64336c8aee8439170e0e3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk6289rz8",
+          "name": "Musongati FC 0 - 0 Olympique Star",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Musongati+FC+0+-+0+Olympique+Star&t2=&live=1&lg=Burundi+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F57c20e530f69ff7b6d322fe9b4a0bf5a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/11b825172f7340ac6ae0cf563aa7dff1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhn8e68qvy",
+          "name": "Sariyer 0 - 2 Umraniyespor",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sariyer+0+-+2+Umraniyespor&t2=&live=1&lg=Turkish+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5512f28c62a4adb08835403bb853589e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -867,13 +945,13 @@
         },
         {
           "id": "zp5rzghggedoq82",
-          "name": "Gandzasar Kapan 2 - 0 Urartu",
+          "name": "Gandzasar Kapan 2 - 1 Urartu",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gandzasar+Kapan+2+-+0+Urartu&t2=&live=1&lg=Armenian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F48f6036658b26d99654f8146aa32c95b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gandzasar+Kapan+2+-+1+Urartu&t2=&live=1&lg=Armenian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F48f6036658b26d99654f8146aa32c95b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -909,13 +987,13 @@
         },
         {
           "id": "jw2r09hkjypprz8",
-          "name": "Arema FC 0 - 0 Bali United",
+          "name": "Arema FC 0 - 2 Bali United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Arema+FC+0+-+0+Bali+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Indonesian+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F10ba339405741f6d70096719e64c0f61%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Arema+FC+0+-+2+Bali+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Indonesian+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F10ba339405741f6d70096719e64c0f61%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -946,6 +1024,432 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/12beb78514b5371486709c2a6691a0d1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9l536m7v",
+          "name": "IB Khemis El Khechna 1 - 0 JS Bordj Menaiel",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=IB+Khemis+El+Khechna+1+-+0+JS+Bordj+Menaiel&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F86b35f9d0f2769c8bf470afb81273d1a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/641667b387578b42b7e2a3e1d2ba98bc/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9x57gm7v",
+          "name": "Kelantan The Real Warriors 0 - 0 Terengganu FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kelantan+The+Real+Warriors+0+-+0+Terengganu+FC&t2=&live=1&lg=Malaysian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F35749ad1a84927444ebc2bf325d1c1c9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c93aed954f841b798a305d801189aed8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh66xd5qg8",
+          "name": "Jamshedpur FC 0 - 0 Inter Kashi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jamshedpur+FC+0+-+0+Inter+Kashi&t2=&live=1&lg=Indian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb61b6e106415fd446449877dba1001f9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/90101fb74ce214ddb9f934c4f926a6ef/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq2ghn9p0km0v",
+          "name": "Djijel 0 - 0 MO Bejaia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Djijel+0+-+0+MO+Bejaia&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf6007ddb8c67ca1aec088dc82e8447d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f9bef9950f47802e815758f87a5560ee/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw0xdzryo",
+          "name": "MO Constantine 0 - 0 AS Khroub",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=MO+Constantine+0+-+0+AS+Khroub&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff254e2798a87ef6df2e45ddc75ef8f8a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/083e19762bc91643e42554ec8aa64b66/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw7oolryo",
+          "name": "Bunyodkor 0 - 2 Dinamo Samarqand",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bunyodkor+0+-+2+Dinamo+Samarqand&t2=&live=1&lg=Uzbekistan+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe0c5c36610f7ab25b86dc5a1e3f830bd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/abb7656f749e710006207bbde25b2c41/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw9ny4ryo",
+          "name": "NK Opatija 0 - 0 Hrvace",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=NK+Opatija+0+-+0+Hrvace&t2=&live=1&lg=Croatian+First+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F81192036937d9d3fe8fa01bbba1710a9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d9fef4eb654de6c126fda8f15bef229f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhgx681rep",
+          "name": "US Chaouia 2 - 0 NRB Teleghma",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=US+Chaouia+2+-+0+NRB+Teleghma&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F620037b5ff2e14c9af7c5521bff4dba1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4fad56b141c92fd99640191d8a776c02/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghew3epr6o",
+          "name": "WA Mostaganem 0 - 1 ESM Kolea",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=WA+Mostaganem+0+-+1+ESM+Kolea&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0679c421107e06bdf06e28456559c14d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/29f4495380f132cc25868e1eb7deb682/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhkywwxr1g",
+          "name": "Sogdiana Jizak 0 - 0 Nasaf Qarshi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sogdiana+Jizak+0+-+0+Nasaf+Qarshi&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+G%E1%BA%A7y&lg=Uzbekistan+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbd6437b994a3b12fdca49b1f46b010b2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Gầy",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Gầy",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3869b91eddbde7bd37cf2216cd4df98b/playlist.m3u8"
                         }
                       ]
                     }
