@@ -14,216 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "1l4rjnh9z01wm7v",
-          "name": "SSV Jahn Regensburg 0 - 2 VfL Osnabrück",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=SSV+Jahn+Regensburg+0+-+2+VfL+Osnabr%C3%BCck&t2=&live=1&lg=German+3.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9bdfd6ee06e03172c38ecb90d3bb048f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/969f47ae81e871d6fe4d446916ad6a93/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "23xmvkh6d7o5qg8",
-          "name": "Penafiel 1 - 1 SC Farense",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Penafiel+1+-+1+SC+Farense&t2=&live=1&lg=Liga+Portugal+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa6b84ddd2cf20164e162ee3c77bf53ef%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/8221ac339984d16ffaed5b1f8bbe7cc0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hn1lkxqdy",
-          "name": "Groningen 3 - 1 AFC Ajax",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Groningen+3+-+1+AFC+Ajax&t2=&live=1&lg=Netherlands+Eredivisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8fd8ca31b118c1317ae6c596c40ceb79%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a763a7c235ad28b0dd323ffb40b6807d/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "8yomo4h1v77lq0j",
-          "name": "Alverca 0 - 0 AVS Futebol SAD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Alverca+0+-+0+AVS+Futebol+SAD&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ffb4adb8493ab5165f000d1e6c328f7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/6c5ce898018732f07066aeec35b53cbb/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph44v4er8k",
-          "name": "Tallinna FC Ararat TTU 1 - 1 Elva",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tallinna+FC+Ararat+TTU+1+-+1+Elva&t2=&live=1&lg=Estonian+Esiliiga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4161dd28e646e478a37c52afe1e0878f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/cc5dd05dc00a9025ce5724ec3e4307f0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "2y8m4zh560oeql0",
           "name": "Dinamo Batumi 1 - 1 Gagra FC",
           "type": "single",
@@ -424,48 +214,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/cbd0ece214003761f994ed3a72ea553b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph43dwxr8k",
-          "name": "Sarajevo 2 - 2 Rudar Prijedor",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sarajevo+2+-+2+Rudar+Prijedor&t2=&live=1&lg=Bosnia+and+Herzegovina+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F14cb5d274fed29d6623485f2735b922b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/d1be534d96ed024f1c2ec8ff0509045f/playlist.m3u8"
                         }
                       ]
                     }
@@ -860,48 +608,6 @@
           ]
         },
         {
-          "id": "l5ergph43lnkr8k",
-          "name": "FCV Dender EH 2 - 2 RC Sporting Charleroi",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FCV+Dender+EH+2+-+2+RC+Sporting+Charleroi&t2=&live=1&lg=Belgian+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8cee464a34a92854a730cdd54b3ac95d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/1f9049b76e9208674b123aecd339e02a/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "2y8m4zh5g67lql0",
           "name": "Burgos CF 2 - 0 Mirandes",
           "type": "single",
@@ -1113,13 +819,13 @@
         },
         {
           "id": "4jwq2ghn03e4m0v",
-          "name": "Al-Jazira Al-Hamra 0 - 2 Dubai United",
+          "name": "Al-Jazira Al-Hamra 1 - 3 Dubai United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Jazira+Al-Hamra+0+-+2+Dubai+United&t2=&live=1&lg=United+Arab+Emirates+Division+1+Group+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4714984dcce63d68aa02090b3624362e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Jazira+Al-Hamra+1+-+3+Dubai+United&t2=&live=1&lg=United+Arab+Emirates+Division+1+Group+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4714984dcce63d68aa02090b3624362e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1155,13 +861,13 @@
         },
         {
           "id": "4jwq2ghn91k6m0v",
-          "name": "Gibraltar Women 0 - 2 Bulgaria Women",
+          "name": "Gibraltar Women 0 - 4 Bulgaria Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gibraltar+Women+0+-+2+Bulgaria+Women&t2=&live=1&lg=FIFA+Women%27s+World+Cup+qualification%28UEFA%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc701c193b577095fad426b3454278ba3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gibraltar+Women+0+-+4+Bulgaria+Women&t2=&live=1&lg=FIFA+Women%27s+World+Cup+qualification%28UEFA%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc701c193b577095fad426b3454278ba3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1197,13 +903,13 @@
         },
         {
           "id": "4wyrn4h6l694q86",
-          "name": "Ituano  SP 3 - 1 Monte Azul SP",
+          "name": "Ituano  SP 3 - 3 Monte Azul SP",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ituano++SP+3+-+1+Monte+Azul+SP&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F75bb90d5eb02464f8516c1c74220e556%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ituano++SP+3+-+3+Monte+Azul+SP&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F75bb90d5eb02464f8516c1c74220e556%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1281,13 +987,13 @@
         },
         {
           "id": "dn1m1ghl0l1nmoe",
-          "name": "Inter de Limeira 1 - 1 Juventus SP",
+          "name": "Inter de Limeira 1 - 2 Juventus SP",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Inter+de+Limeira+1+-+1+Juventus+SP&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ca72b0eee32a39570c24790638a76fb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Inter+de+Limeira+1+-+2+Juventus+SP&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ca72b0eee32a39570c24790638a76fb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1365,13 +1071,13 @@
         },
         {
           "id": "ednm9whwd379ryo",
-          "name": "Al Thaid 1 - 0 Al Arabi(UAE)",
+          "name": "Al Thaid 2 - 0 Al Arabi(UAE)",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Thaid+1+-+0+Al+Arabi%28UAE%29&t2=&live=1&lg=United+Arab+Emirates+Division+1+Group+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F86a4010b7f56400115c39b6094949a9b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Thaid+2+-+0+Al+Arabi%28UAE%29&t2=&live=1&lg=United+Arab+Emirates+Division+1+Group+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F86a4010b7f56400115c39b6094949a9b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1491,13 +1197,13 @@
         },
         {
           "id": "318q66hx05nxqo9",
-          "name": "Miedz Legnica 0 - 0 Stal Rzeszow",
+          "name": "Miedz Legnica 1 - 0 Stal Rzeszow",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Miedz+Legnica+0+-+0+Stal+Rzeszow&t2=&live=1&lg=Poland+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a0e8f38b8fc2fad48d4b217218f85a7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Miedz+Legnica+1+-+0+Stal+Rzeszow&t2=&live=1&lg=Poland+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a0e8f38b8fc2fad48d4b217218f85a7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1659,13 +1365,13 @@
         },
         {
           "id": "dj2ryohl1vy7q1z",
-          "name": "Al-Raed SFC 1 - 0 Al-Jabalain",
+          "name": "Al-Raed SFC 1 - 1 Al-Jabalain",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Raed+SFC+1+-+0+Al-Jabalain&t2=&live=1&lg=Saudi+Arabia+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe5f7c8c18780510ae67dd5732dac04ca%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Raed+SFC+1+-+1+Al-Jabalain&t2=&live=1&lg=Saudi+Arabia+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe5f7c8c18780510ae67dd5732dac04ca%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1826,6 +1532,48 @@
           ]
         },
         {
+          "id": "965mkyhkyjn0r1g",
+          "name": "Monsoon FC 0 - 0 Guarany de Bage",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Monsoon+FC+0+-+0+Guarany+de+Bage&t2=&live=1&lg=Brazilian+Campeonato+Gaucho&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F925c789434d4d209db78351f5e233947%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f4dcf041aeada3c43ef5d3154353f289/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "dj2ryohljw96q1z",
           "name": "Olympic Charleroi 0 - 1 RWDM Brussels",
           "type": "single",
@@ -1858,6 +1606,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/0d5ab0bdf6647972f45dd991ab9b9c84/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw7jgoryo",
+          "name": "Avenida RS 0 - 0 Inter Santa Maria(RS)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Avenida+RS+0+-+0+Inter+Santa+Maria%28RS%29&t2=&live=1&lg=Brazilian+Campeonato+Gaucho&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F183e463cc6121151c2c04abb4b1b2b9e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c7c14fb49bafd89db80dc32fcfa39324/playlist.m3u8"
                         }
                       ]
                     }
@@ -1995,13 +1785,13 @@
         },
         {
           "id": "318q66hx8jv6qo9",
-          "name": "Real Frontera 0 - 0 Atletico El Vigia",
+          "name": "Real Frontera 0 - 1 Atletico El Vigia",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Frontera+0+-+0+Atletico+El+Vigia&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbd878e1be0948bddd63bff94ce645b52%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Frontera+0+-+1+Atletico+El+Vigia&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbd878e1be0948bddd63bff94ce645b52%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2037,13 +1827,13 @@
         },
         {
           "id": "3glrw7hnj119qdy",
-          "name": "VfL Bochum 1848 0 - 0 1. FC Kaiserslautern",
+          "name": "VfL Bochum 1848 1 - 0 1. FC Kaiserslautern",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Bochum+1848+0+-+0+1.+FC+Kaiserslautern&t2=&live=1&lg=German+Bundesliga+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F51724a977d81568fd9d65f1e4826f759%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Bochum+1848+1+-+0+1.+FC+Kaiserslautern&t2=&live=1&lg=German+Bundesliga+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F51724a977d81568fd9d65f1e4826f759%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2068,6 +1858,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/049a03741ba5763de0632fa8b560188f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhv1lpgmd7",
+          "name": "Kahraba Ismailia 0 - 1 Enppi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kahraba+Ismailia+0+-+1+Enppi&t2=&live=1&lg=Egyptian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffb0951a6682a274f7e7bfc91ca2115bd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/94e1d5c4bb448d477c82a0771a2241df/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8yomo4h1z065q0j",
+          "name": "Ghazl El Mahallah 0 - 0 Pharco",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ghazl+El+Mahallah+0+-+0+Pharco&t2=&live=1&lg=Egyptian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c4c5e997d464af3089f23c3f1177e24%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c63ad44deccf98123bed8e0bc96239dd/playlist.m3u8"
                         }
                       ]
                     }
@@ -2110,6 +1984,144 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/f62fc52649092f7338ee3403f787c3e3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5jw19ql0",
+          "name": "Union Saint-Gilloise 0 - 0 Racing Genk",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Union+Saint-Gilloise+0+-+0+Racing+Genk&t2=&live=1&lg=Belgian+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77bdad221110a1cfe0254fd6210c6ec8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5fb9dd2146b602776a75bee79e8a9a99/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh55wxdql0",
+          "name": "Newcastle United 0 - 0 Manchester City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Newcastle+United+0+-+0+Manchester+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2681c71d74b364d2744548bf89efa6c1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Ngố",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/be4e612ebb3dfebe43105a2255354397/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh914ldm7v",
+          "name": "Toulouse FC 0 - 0 Marseille",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Toulouse+FC+0+-+0+Marseille&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+G%E1%BA%A7y&lg=French+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F82362be26385e396b7f8e34c94c5478f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Gầy",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Gầy",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/358ae50f0b242af3436949d03b6f48c3/playlist.m3u8"
                         }
                       ]
                     }
