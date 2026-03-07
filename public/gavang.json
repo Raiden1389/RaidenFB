@@ -14,264 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "1l4rjnh9n62gm7v",
-          "name": "MSK Zilina 0 - 1 Spartak Trnava",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=MSK+Zilina+0+-+1+Spartak+Trnava&t2=&live=1&lg=Slovak+Nike+liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc79e5e91f3039da6d1ff4fb0a0de8106%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ada6df62c5b4ce0b96a14585704dabe3/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "23xmvkh6d5ogqg8",
-          "name": "Besiktas JK 0 - 1 Galatasaray",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Besiktas+JK+0+-+1+Galatasaray&t2=&live=1&lg=Turkish+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F40858375d5029edeca5a90bd8004c285%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/7046daaa325138408a38fcd8ac232bd7/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghn9146m0v",
-          "name": "Scotland Women 7 - 0 Luxembourg Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Scotland+Women+7+-+0+Luxembourg+Women&t2=&live=1&lg=FIFA+Women%27s+World+Cup+qualification%28UEFA%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ae5e8ab9ae7de84b43918bedf18e779%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a0150681ff7ecac87c523826bfcfb737/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhv02n8md7",
-          "name": "Atalanta 2 - 2 Udinese",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atalanta+2+-+2+Udinese&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2930493e7827c949bb1e2bd5a253c09%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Ngố",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Ngố",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/813c17d9a9d18d988a37635395071d73/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dj2ryohl1zzpq1z",
-          "name": "FC Sion 1 - 1 Winterthur",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Sion+1+-+1+Winterthur&t2=&live=1&lg=Switzerland+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F89f9d4f122b91bd55712927229e2cd70%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/d93f0257caa2ebcfb30c2ac0133e7017/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "jw2r09hknp9lrz8",
-          "name": "Baumit Jablonec 1 - 2 Sigma Olomouc",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Baumit+Jablonec+1+-+2+Sigma+Olomouc&t2=&live=1&lg=Czech+Chance+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd44b48cc011b49443b3eb15c9bd4b6fe%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/54b99716153e4fde48bae8200e02d663/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "3glrw7hnpzv2qdy",
           "name": "Italy Women 1 - 1 Denmark Women",
           "type": "single",
@@ -902,6 +644,90 @@
           ]
         },
         {
+          "id": "l5ergph484pnr8k",
+          "name": "XV de Piracicaba 5 - 1 CA Votuporanguense SP",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=XV+de+Piracicaba+5+-+1+CA+Votuporanguense+SP&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0963deef79993fd18ea399b3852e5ebd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7b056813fdfdc9b443a4150e042ed021/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehg3g1er51",
+          "name": "Esporte Clube Sao Jose SP 1 - 2 Sertaozinho",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Esporte+Clube+Sao+Jose+SP+1+-+2+Sertaozinho&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F71ab7f4634f4f9b46be49e6f3ac8dc43%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/458d65d313b919a9af7f2028183e47b3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "4wyrn4h6xl01q86",
           "name": "Comerciantes Unidos 1 - 2 UTC Cajamarca",
           "type": "single",
@@ -1186,6 +1012,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/d5dbfaabc8989c74191c48376d152c7b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4w03lr8k",
+          "name": "Al-Batin 1 - 2 Al-Jandal",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Batin+1+-+2+Al-Jandal&t2=&live=1&lg=Saudi+Arabia+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5780a21310f76016f6959b8b86b149ae%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/cf148dc58064da330882a4bef79465d1/playlist.m3u8"
                         }
                       ]
                     }
@@ -1533,13 +1401,13 @@
         },
         {
           "id": "318q66hx8jv6qo9",
-          "name": "Real Frontera 1 - 1 Atletico El Vigia",
+          "name": "Real Frontera 3 - 1 Atletico El Vigia",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Frontera+1+-+1+Atletico+El+Vigia&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbd878e1be0948bddd63bff94ce645b52%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Frontera+3+-+1+Atletico+El+Vigia&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbd878e1be0948bddd63bff94ce645b52%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1575,13 +1443,13 @@
         },
         {
           "id": "3glrw7hnj119qdy",
-          "name": "VfL Bochum 1848 1 - 2 1. FC Kaiserslautern",
+          "name": "VfL Bochum 1848 3 - 2 1. FC Kaiserslautern",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Bochum+1848+1+-+2+1.+FC+Kaiserslautern&t2=&live=1&lg=German+Bundesliga+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F51724a977d81568fd9d65f1e4826f759%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Bochum+1848+3+-+2+1.+FC+Kaiserslautern&t2=&live=1&lg=German+Bundesliga+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F51724a977d81568fd9d65f1e4826f759%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1701,13 +1569,13 @@
         },
         {
           "id": "jw2r09hkk868rz8",
-          "name": "Monagas B 0 - 0 Maritimo de La Guaira",
+          "name": "Monagas B 1 - 0 Maritimo de La Guaira",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Monagas+B+0+-+0+Maritimo+de+La+Guaira&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffb93a92b82eaa86f8b2ae3889bf36d0f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Monagas+B+1+-+0+Maritimo+de+La+Guaira&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffb93a92b82eaa86f8b2ae3889bf36d0f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1743,13 +1611,13 @@
         },
         {
           "id": "2y8m4zh5jw19ql0",
-          "name": "Union Saint-Gilloise 1 - 0 Racing Genk",
+          "name": "Union Saint-Gilloise 2 - 0 Racing Genk",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Union+Saint-Gilloise+1+-+0+Racing+Genk&t2=&live=1&lg=Belgian+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77bdad221110a1cfe0254fd6210c6ec8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Union+Saint-Gilloise+2+-+0+Racing+Genk&t2=&live=1&lg=Belgian+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77bdad221110a1cfe0254fd6210c6ec8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1827,13 +1695,13 @@
         },
         {
           "id": "2y8m4zh55wxdql0",
-          "name": "Newcastle United 1 - 1 Manchester City",
+          "name": "Newcastle United 1 - 2 Manchester City",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Newcastle+United+1+-+1+Manchester+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2681c71d74b364d2744548bf89efa6c1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Newcastle+United+1+-+2+Manchester+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2681c71d74b364d2744548bf89efa6c1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2122,6 +1990,138 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/18c1f8c0bfdfd81dda3e9c903601980d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghl27k0moe",
+          "name": "Zamora Barinas 0 - 0 Carabobo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zamora+Barinas+0+-+0+Carabobo&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fadd4d5d2dd710914bdf1b40c7aba10de%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6378d3f308eee40391cbfbe617a34e10/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghl98n2moe",
+          "name": "Deportivo Lara 0 - 0 Yaracuyanos",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Lara+0+-+0+Yaracuyanos&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F493ad0538dbceaac13d3a9ccf278a449%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/63e1c30ac578f5893b2f2c0e7cbb10dc/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohlxpyxq1z",
+          "name": "DC United 0 - 0 Inter Miami CF",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=DC+United+0+-+0+Inter+Miami+CF&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb3bc468e69fcabe5a5205abff48fc22b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Mõm",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Mõm",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/290399cc12000cc501dce7215b71c108/playlist.m3u8"
                         }
                       ]
                     }

@@ -70,6 +70,54 @@
       "name": "Spanish La Liga",
       "channels": [
         {
+          "id": "107568",
+          "name": "Atletico Madrid vs Real Sociedad | 00:30 08-03 | CÚ ĐÊM",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Madrid&t2=Real+Sociedad&blv=C%C3%9A+%C4%90%C3%8AM&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F15f730f481d1ae7c75c1d28ee2862adc.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5c3c390fc1cb7b35f06ebbb160151c27.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 00:30 08-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 CÚ ĐÊM",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV CÚ ĐÊM",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/547345.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "107576",
           "name": "Athletic Club vs FC Barcelona | 03:00 08-03 | BLV A BỆU",
           "type": "single",
