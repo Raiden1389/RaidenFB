@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "965mkyhk4l7lr1g",
-          "name": "Korona Kielce 2 - 1 LKS Nieciecza",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Korona+Kielce+2+-+1+LKS+Nieciecza&t2=&live=1&lg=PKO+Bank+Polski+EKSTRAKLASA&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F43602048b2e037bd567eb786e4be6c02%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e52df3f4b9b8dde2a01577eee706b027/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh99ez8m7v",
           "name": "Kerala Blasters FC 0 - 1 Chennaiyin FC",
           "type": "single",
@@ -1322,6 +1280,48 @@
           ]
         },
         {
+          "id": "jw2r09hkkxkwrz8",
+          "name": "Tallinna FC Levadia B 2 - 0 Nomme JK Kalju II",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tallinna+FC+Levadia+B+2+-+0+Nomme+JK+Kalju+II&t2=&live=1&lg=Estonian+Esiliiga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff79c90c66135dff41cf83af8b693d83b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/812fdbfe16255c991241789f6ffa51b5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "1l4rjnh9z01wm7v",
           "name": "SSV Jahn Regensburg 0 - 2 VfL Osnabrück",
           "type": "single",
@@ -1491,13 +1491,13 @@
         },
         {
           "id": "2y8m4zh560oeql0",
-          "name": "Dinamo Batumi 0 - 0 Gagra FC",
+          "name": "Dinamo Batumi 1 - 0 Gagra FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dinamo+Batumi+0+-+0+Gagra+FC&t2=&live=1&lg=Georgia+Erovnuli+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffbf5af8dc4fce0a22c400642a74ea55f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dinamo+Batumi+1+-+0+Gagra+FC&t2=&live=1&lg=Georgia+Erovnuli+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffbf5af8dc4fce0a22c400642a74ea55f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1659,13 +1659,13 @@
         },
         {
           "id": "965mkyhk3e65r1g",
-          "name": "NK Lokomotiva Zagreb 1 - 0 NK Varteks Varazdin",
+          "name": "NK Lokomotiva Zagreb 1 - 1 NK Varteks Varazdin",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=NK+Lokomotiva+Zagreb+1+-+0+NK+Varteks+Varazdin&t2=&live=1&lg=Croatian+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9f5e8e6e10b657143b2ed73e2d4aed92%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=NK+Lokomotiva+Zagreb+1+-+1+NK+Varteks+Varazdin&t2=&live=1&lg=Croatian+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9f5e8e6e10b657143b2ed73e2d4aed92%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2001,13 +2001,13 @@
         },
         {
           "id": "1l4rjnh91jw6m7v",
-          "name": "FC Köln 0 - 0 Borussia Dortmund",
+          "name": "FC Köln 0 - 1 Borussia Dortmund",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+K%C3%B6ln+0+-+0+Borussia+Dortmund&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Bundesliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc5b3f538905bc3531613d921b3e31d11%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+K%C3%B6ln+0+-+1+Borussia+Dortmund&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Bundesliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc5b3f538905bc3531613d921b3e31d11%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2049,13 +2049,13 @@
         },
         {
           "id": "2y8m4zh5g67lql0",
-          "name": "Burgos CF 0 - 0 Mirandes",
+          "name": "Burgos CF 1 - 0 Mirandes",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Burgos+CF+0+-+0+Mirandes&t2=&live=1&lg=Spanish+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F07d308711d32e6c6dc71849569d50643%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Burgos+CF+1+-+0+Mirandes&t2=&live=1&lg=Spanish+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F07d308711d32e6c6dc71849569d50643%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
