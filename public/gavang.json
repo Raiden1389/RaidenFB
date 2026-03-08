@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh5jxyjql0",
-          "name": "Kazincbarcika 0 - 3 Debreceni VSC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kazincbarcika+0+-+3+Debreceni+VSC&t2=&live=1&lg=Hungary+Fizz+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff02715830df4dd8429ba3b8e34bbdb78%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/739a41789a367ce0c9ddfd34049371ce/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "23xmvkh6kpk4qg8",
           "name": "Levadiakos 1 - 4 Panathinaikos",
           "type": "single",
@@ -766,6 +724,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/8ff338654e6f91e45eae0ae4cec8c7df/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8966lqwz",
+          "name": "ECUS 1 - 0 Jabaquara SP",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=ECUS+1+-+0+Jabaquara+SP&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7f6536779e8d20057a1ab00dbfe4c8eb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/15ee01c84b21195ebdfa746b3121afa9/playlist.m3u8"
                         }
                       ]
                     }
@@ -1617,13 +1617,13 @@
         },
         {
           "id": "l7oqdehgjll9r51",
-          "name": "Zamora FC Barinas B 0 - 1 Urena SC",
+          "name": "Zamora FC Barinas B 1 - 1 Urena SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zamora+FC+Barinas+B+0+-+1+Urena+SC&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb66ae3074376722e7a60a1f039dcd909%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zamora+FC+Barinas+B+1+-+1+Urena+SC&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb66ae3074376722e7a60a1f039dcd909%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1923,13 +1923,13 @@
         },
         {
           "id": "dn1m1ghl9k0pmoe",
-          "name": "Racing Club Aruba 0 - 0 SV Britannia",
+          "name": "Racing Club Aruba 0 - 1 SV Britannia",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Racing+Club+Aruba+0+-+0+SV+Britannia&t2=&live=1&lg=Aruba+Division+Di+Honor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9cb53a382a94e1f6f0f6e7c363e7563f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Racing+Club+Aruba+0+-+1+SV+Britannia&t2=&live=1&lg=Aruba+Division+Di+Honor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9cb53a382a94e1f6f0f6e7c363e7563f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2091,13 +2091,13 @@
         },
         {
           "id": "n54qllhn82eeqvy",
-          "name": "Santa Clara 0 - 0 Vitoria Guimaraes",
+          "name": "Santa Clara 2 - 0 Vitoria Guimaraes",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Santa+Clara+0+-+0+Vitoria+Guimaraes&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffe6a402c8a825cb79aa27db5fea0bafd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Santa+Clara+2+-+0+Vitoria+Guimaraes&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffe6a402c8a825cb79aa27db5fea0bafd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
