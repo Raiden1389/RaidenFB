@@ -14,174 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "dn1m1ghlev43moe",
-          "name": "Legia Warszawa 1 - 0 Cracovia Krakow",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Legia+Warszawa+1+-+0+Cracovia+Krakow&t2=&live=1&lg=PKO+Bank+Polski+EKSTRAKLASA&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc29a93bacb1b78fc5344652f43e245fe%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/46bb0ba03b3d55e79d0c4601d64ac467/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "318q66hxw2n2qo9",
-          "name": "Rayo Zuliano 1 - 5 Universidad Central de Venezuela",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rayo+Zuliano+1+-+5+Universidad+Central+de+Venezuela&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F910a6f65b98de5a46b848f6341da406f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e60b86647718793e8130cb795d85092f/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph4knvkr8k",
-          "name": "Academia Puerto Cabello B 1 - 2 Atletico Barinas",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Academia+Puerto+Cabello+B+1+-+2+Atletico+Barinas&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F622785e1f26e120c836e03c636bff17c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a6149e8be9d2d2362513e80f7001c9f0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l7oqdehgjll9r51",
-          "name": "Zamora FC Barinas B 1 - 2 Urena SC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zamora+FC+Barinas+B+1+-+2+Urena+SC&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb66ae3074376722e7a60a1f039dcd909%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/723fe11b161ac83c9a5e474c88d76902/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "y0or5jh84nonqwz",
           "name": "Lyon 1 - 1 Paris FC",
           "type": "single",
@@ -1071,13 +903,13 @@
         },
         {
           "id": "pxwrxlhy57kjryk",
-          "name": "Olimpia Asuncion 1 - 0 Sportivo San Lorenzo",
+          "name": "Olimpia Asuncion 1 - 1 Sportivo San Lorenzo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Olimpia+Asuncion+1+-+0+Sportivo+San+Lorenzo&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F016ed52c2a273f4688699bec86e618ba%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Olimpia+Asuncion+1+-+1+Sportivo+San+Lorenzo&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F016ed52c2a273f4688699bec86e618ba%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1197,13 +1029,13 @@
         },
         {
           "id": "4wyrn4h6y0lxq86",
-          "name": "SV La Fama 0 - 0 SV Dakota",
+          "name": "SV La Fama 1 - 1 SV Dakota",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=SV+La+Fama+0+-+0+SV+Dakota&t2=&live=1&lg=Aruba+Division+Di+Honor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fef418a2866f8783078e9402e2c445957%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SV+La+Fama+1+-+1+SV+Dakota&t2=&live=1&lg=Aruba+Division+Di+Honor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fef418a2866f8783078e9402e2c445957%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1323,13 +1155,13 @@
         },
         {
           "id": "l7oqdehgg3n7r51",
-          "name": "UTS Union Touarga Sport Rabat 2 - 1 Wydad Casablanca",
+          "name": "UTS Union Touarga Sport Rabat 3 - 1 Wydad Casablanca",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=UTS+Union+Touarga+Sport+Rabat+2+-+1+Wydad+Casablanca&t2=&live=1&lg=The+Botola+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F569961f66563657440e775ab3428b913%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=UTS+Union+Touarga+Sport+Rabat+3+-+1+Wydad+Casablanca&t2=&live=1&lg=The+Botola+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F569961f66563657440e775ab3428b913%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1581,13 +1413,13 @@
         },
         {
           "id": "3glrw7hn30n3qdy",
-          "name": "Tepatitlan FC 1 - 0 Mineros de Zacatecas",
+          "name": "Tepatitlan FC 2 - 0 Mineros de Zacatecas",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tepatitlan+FC+1+-+0+Mineros+de+Zacatecas&t2=&live=1&lg=Mexico+Ascenso+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd41e29dc1e6a12fe1f9bc6f3c113b56b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tepatitlan+FC+2+-+0+Mineros+de+Zacatecas&t2=&live=1&lg=Mexico+Ascenso+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd41e29dc1e6a12fe1f9bc6f3c113b56b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1822,6 +1654,174 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/283e812767b67fe7366849ad7b4787b2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghl94k5moe",
+          "name": "Gremio Novorizontino 0 - 0 Palmeiras",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gremio+Novorizontino+0+-+0+Palmeiras&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3c2c836fb198cd378fa72771ce7b3c74%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a24117af927c21f3a63b51816a033f2b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhgw6nnrep",
+          "name": "Monagas SC 0 - 0 Trujillanos",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Monagas+SC+0+-+0+Trujillanos&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbd9b1751d930080622fdf01f418148e7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/be1e75292d672380e1bc871a6cfd9ece/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghel9zxr6o",
+          "name": "Rubio nu 0 - 0 Club Sportivo 2 de Mayo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rubio+nu+0+-+0+Club+Sportivo+2+de+Mayo&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faba4de2a28a3f91615766938ef996120%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c2161e64e4388d4fe0f7d73665b5b3d2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8zy6nqwz",
+          "name": "Palestino 0 - 0 Cobresal",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Palestino+0+-+0+Cobresal&t2=&live=1&lg=CHI+Liga+de+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F99ee02ccc1a5091fe79db03df653715c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4964b631a3fa32c5190049e7009becce/playlist.m3u8"
                         }
                       ]
                     }
