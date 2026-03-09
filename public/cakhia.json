@@ -266,6 +266,37 @@
       "grid_number": 1
     },
     {
+      "id": "championsleagueamericas",
+      "name": "Champions League Americas",
+      "channels": [
+        {
+          "id": "108894",
+          "name": "Instituto de Cordoba vs Boca Juniors | 06:10 10-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Instituto+de+Cordoba&t2=Boca+Juniors&lg=Champions+League+Americas&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F53d290f531b64360bc0477efb821935e.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Feab2b929d575b0afaef95bf20cf2c8ee.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 06:10 10-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
       "id": "concacafchampionsleague",
       "name": "CONCACAF Champions League",
       "channels": [
