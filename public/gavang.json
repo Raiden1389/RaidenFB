@@ -14,306 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "318q66hx0g0jqo9",
-          "name": "AC Horsens 1 - 3 Lyngby",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AC+Horsens+1+-+3+Lyngby&t2=&live=1&lg=Danish+1st+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc92b6e59a903be59ca7192321f8399a8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/68e48e54a67ac672cbe332828c46a8d7/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghn9dp5m0v",
-          "name": "AIK 4 - 0 Hacken",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AIK+4+-+0+Hacken&t2=&live=1&lg=Sweden+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9f6f81f265625ab5edea811d5bc5fce5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/bd5533ff659dece9105392f4e060f631/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhv5x99md7",
-          "name": "CFR Cluj 2 - 0 FC Dinamo 1948",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CFR+Cluj+2+-+0+FC+Dinamo+1948&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Romanian+Super+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc388d982aeaf9eab3a9385faa235ab21%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Nhí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Nhí",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a0f6850f2cb276e0df025f113a62a976/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvzx5vmd7",
-          "name": "SL Benfica B 3 - 0 Feirense",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=SL+Benfica+B+3+-+0+Feirense&t2=&live=1&lg=Liga+Portugal+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0c4a2e8339a20ff20e282a443f53c436%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e731ae06c2efe72f0f6f77af43dd9e20/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8ghepd28r6o",
-          "name": "FC Dinamo City 0 - 2 Partizani Tirana",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Dinamo+City+0+-+2+Partizani+Tirana&t2=&live=1&lg=Albanian+Super+league&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0104ecc54cb3d39784e0ebc32e912f4e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/407c1e6dbf569cd5547ce27327340ca0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "x7lm7phj9y59m2w",
-          "name": "Egnatia 4 - 2 Teuta Durres",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Egnatia+4+-+2+Teuta+Durres&t2=&live=1&lg=Albanian+Super+league&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F66a39e0cecd6faf408e749010a4ea480%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/857796a0cbaf59665f09c506c0452648/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "x7lm7phjogk2m2w",
-          "name": "Wisla Plock 0 - 3 Arka Gdynia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wisla+Plock+0+-+3+Arka+Gdynia&t2=&live=1&lg=PKO+Bank+Polski+EKSTRAKLASA&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2937c3eae9e66291008095ac903aff36%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ba79c66e89498baa0830b8e5d2f0a303/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "dj2ryohlj08xq1z",
           "name": "Budapest Honved FC 0 - 1 Kecskemeti TE",
           "type": "single",
@@ -1089,13 +789,13 @@
         },
         {
           "id": "x7lm7phjzn15m2w",
-          "name": "Club Sportivo Trinidense 0 - 1 FC Nacional Asuncion",
+          "name": "Club Sportivo Trinidense 1 - 1 FC Nacional Asuncion",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Sportivo+Trinidense+0+-+1+FC+Nacional+Asuncion&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F91b8522e64322d7fd33bec40fbf90751%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Sportivo+Trinidense+1+-+1+FC+Nacional+Asuncion&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F91b8522e64322d7fd33bec40fbf90751%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1120,6 +820,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/9f59636ce2d2eb0227fbdbf9e24b2add/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhylz32ryk",
+          "name": "Belgrano U20 0 - 0 LDU Quito U20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Belgrano+U20+0+-+0+LDU+Quito+U20&t2=&live=1&lg=CONMEBOL+U20+Copa+Libertadores&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9863629f26bf7cd03c1ffb9b2ffb9fc6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7d19bc2d334568f06aae1b70abd9ed05/playlist.m3u8"
                         }
                       ]
                     }
