@@ -182,54 +182,6 @@
           ]
         },
         {
-          "id": "8yomo4h11gxoq0j",
-          "name": "West Ham United 2 - 2 Brentford",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Ham+United+2+-+2+Brentford&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0dad10612185a2e8b832eb0b1c5dd35b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Súp",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Súp",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b49e60f7c724e84424402a95b703ee10/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "k82rekhg3dggrep",
           "name": "AC Monopoli 2 - 1 Casarano",
           "type": "single",
@@ -831,13 +783,13 @@
         },
         {
           "id": "pxwrxlhylz32ryk",
-          "name": "Belgrano U20 0 - 0 LDU Quito U20",
+          "name": "Belgrano U20 1 - 1 LDU Quito U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Belgrano+U20+0+-+0+LDU+Quito+U20&t2=&live=1&lg=CONMEBOL+U20+Copa+Libertadores&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9863629f26bf7cd03c1ffb9b2ffb9fc6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Belgrano+U20+1+-+1+LDU+Quito+U20&t2=&live=1&lg=CONMEBOL+U20+Copa+Libertadores&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9863629f26bf7cd03c1ffb9b2ffb9fc6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -862,6 +814,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/7d19bc2d334568f06aae1b70abd9ed05/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hxwgg1qo9",
+          "name": "Cienciano 1 - 0 Sport Boys",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cienciano+1+-+0+Sport+Boys&t2=&live=1&lg=Peruvian+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F57805a00ad6c32da73774a818e9963d6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/25b2c1e75feba552968cd89cc5f7c634/playlist.m3u8"
                         }
                       ]
                     }
