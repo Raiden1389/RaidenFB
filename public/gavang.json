@@ -14,98 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "318q66hxx761qo9",
-          "name": "Melbourne City Youth(W) 0 - 4 FC Bulleen Lions Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Melbourne+City+Youth%28W%29+0+-+4+FC+Bulleen+Lions+Women&t2=&live=1&lg=Australia+Victorian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F71aa3bad0c31166a0f6ba6558f73dbf9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/0f15f919d4b2b75a2f42469ecf1cc268/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ednm9whw5ex4ryo",
-          "name": "Sululta Ketema 1 - 0 Soloda Adwa",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sululta+Ketema+1+-+0+Soloda+Adwa&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F14d30d79e8e44a76ec6f35d9651287c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/18d17b5156fb1a92bfc83c08944d70ab/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "23xmvkh642dwqg8",
-          "name": "Bangladesh Women 0 - 0 Uzbekistan Women",
+          "name": "Bangladesh Women 0 - 1 Uzbekistan Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bangladesh+Women+0+-+0+Uzbekistan+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FvDW19LGG-0EYShBaD.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bangladesh+Women+0+-+1+Uzbekistan+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FvDW19LGG-0EYShBaD.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -147,13 +63,13 @@
         },
         {
           "id": "2y8m4zh5z7glql0",
-          "name": "North Korea Women 0 - 0 China Women",
+          "name": "North Korea Women 1 - 2 China Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=North+Korea+Women+0+-+0+China+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FtYIRtYDa-xpPmazWa.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=North+Korea+Women+1+-+2+China+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FtYIRtYDa-xpPmazWa.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -184,6 +100,138 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/2ec38890f38a02e5230697fe5c31367f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phj327lm2w",
+          "name": "Thitsar Arman FC 0 - 1 Dagon Star United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Thitsar+Arman+FC+0+-+1+Dagon+Star+United&t2=&live=1&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff4913455b91c23bd2069a2fa1ed220c8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c9764f19656077b38b10321dfc7a2380/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh66l7jqg8",
+          "name": "Finland Women U17 0 - 0 Latvia U17 Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Finland+Women+U17+0+-+0+Latvia+U17+Women&t2=&live=1&lg=UEFA+European+U17+Women%27s+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2cea4858800049e1214f44c3c9cec7db%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/bb7153f39cab28034855dda3c891962f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph43100r8k",
+          "name": "Lecce U20 0 - 0 Torino U20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lecce+U20+0+-+0+Torino+U20&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Italian+Campionato+Primavera+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9d0fdd24cd82f833f2914a73e9d7d323%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Súp",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Súp",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/243adb50718e8f13bb14e3588e78d3b5/playlist.m3u8"
                         }
                       ]
                     }
