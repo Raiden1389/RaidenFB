@@ -14,90 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "dj2ryohlj08xq1z",
-          "name": "Budapest Honved FC 0 - 1 Kecskemeti TE",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Budapest+Honved+FC+0+-+1+Kecskemeti+TE&t2=&live=1&lg=Merkantil+Bank+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe05c4cf6677de52993609bc21f38c1d3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/32bd0b096157a9684928f2d63a77b2c7/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "k82rekhgno4lrep",
-          "name": "AZ Alkmaar Youth 2 - 3 Emmen",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AZ+Alkmaar+Youth+2+-+3+Emmen&t2=&live=1&lg=Netherlands+Eerste+Divisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb6bba8211ae29c384e5b0fedde43b98f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/33bc146632bccf0d75763085086fe7e0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh9ek94m7v",
           "name": "Tala'ea El Gaish 2 - 1 Al Ahly FC",
           "type": "single",
@@ -699,13 +615,13 @@
         },
         {
           "id": "965mkyhkkpk0r1g",
-          "name": "Cerro Largo 0 - 0 Montevideo City Torque",
+          "name": "Cerro Largo 0 - 1 Montevideo City Torque",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cerro+Largo+0+-+0+Montevideo+City+Torque&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe158c0806ef72e2641c8e35784c8730d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cerro+Largo+0+-+1+Montevideo+City+Torque&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe158c0806ef72e2641c8e35784c8730d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -856,6 +772,180 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/25b2c1e75feba552968cd89cc5f7c634/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw233pryo",
+          "name": "Llaneros FC 2 - 0 Jaguares de Cordoba",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Llaneros+FC+2+-+0+Jaguares+de+Cordoba&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa14f6353e02e5bbacaabcba3444d3263%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/cdb7067a0b1c805f3e7b359ff043da45/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnpg1nqvy",
+          "name": "Universidad de Chile 0 - 0 Universidad de Concepcion",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Universidad+de+Chile+0+-+0+Universidad+de+Concepcion&t2=&live=1&lg=CHI+Liga+de+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa27ad3aff88ca8d10f6e792c158d374%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/14aa11371b334fc14cae80d501f1aeca/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhyle51ryk",
+          "name": "Bath United 0 - 0 Circle Newtown United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bath+United+0+-+0+Circle+Newtown+United&t2=&live=1&lg=Saint+Kitts+Nevis+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd5828ff6913e673d9216069cbaecb42a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f2df260e96f9720df336fedb70a5640e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk26dyr1g",
+          "name": "Millonarios 0 - 0 Cucuta Deportivo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Millonarios+0+-+0+Cucuta+Deportivo&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+G%E1%BA%A7y&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fed2c3c63bb473c8c0dd589b06d395fc7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Gầy",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Gầy",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4596bc8e1065edc8ecd902e120abdd49/playlist.m3u8"
                         }
                       ]
                     }
