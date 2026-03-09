@@ -195,13 +195,13 @@
         },
         {
           "id": "8yomo4h1yx5lq0j",
-          "name": "Addis Ketema 0 - 3 Dessie Ketema",
+          "name": "Addis Ketema 0 - 6 Dessie Ketema",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Addis+Ketema+0+-+3+Dessie+Ketema&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F702a451ce65a296bcec3f0b83be18a86%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Addis+Ketema+0+-+6+Dessie+Ketema&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F702a451ce65a296bcec3f0b83be18a86%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -237,13 +237,13 @@
         },
         {
           "id": "ednm9whwwlp4ryo",
-          "name": "FC Pyunik 2 - 0 Shirak",
+          "name": "FC Pyunik 3 - 0 Shirak",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Pyunik+2+-+0+Shirak&t2=&live=1&lg=Armenian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9eca7061c0bbd279739df44a4656854e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Pyunik+3+-+0+Shirak&t2=&live=1&lg=Armenian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9eca7061c0bbd279739df44a4656854e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -321,13 +321,13 @@
         },
         {
           "id": "1l4rjnh91ovgm7v",
-          "name": "US Cremonese U20 0 - 0 Atalanta U20",
+          "name": "US Cremonese U20 0 - 1 Atalanta U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=US+Cremonese+U20+0+-+0+Atalanta+U20&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+B%E1%BB%9Dm&lg=Italian+Campionato+Primavera+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbe68e0aac4f3273460820a14eaeb08df%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=US+Cremonese+U20+0+-+1+Atalanta+U20&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+B%E1%BB%9Dm&lg=Italian+Campionato+Primavera+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbe68e0aac4f3273460820a14eaeb08df%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -345,8 +345,159 @@
               "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Bờm",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/73f0c0be947b9a98552f3a89353420f3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh557lgql0",
+          "name": "Shinnik Yaroslavl 0 - 0 FC Ufa",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shinnik+Yaroslavl+0+-+0+FC+Ufa&t2=&live=1&lg=Russian+First+LeagueLeague&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9227867a0e57a6f39222448943fdbf34%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c1a315485ee8f49a0ddcb42dd6e2c68f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh6xj30qg8",
+          "name": "Hougang United FC 0 - 0 Balestier Khalsa FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hougang+United+FC+0+-+0+Balestier+Khalsa+FC&t2=&live=1&lg=Singapore+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffc8479d40c7334c27b22f24d514dbb98%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7aa4c07073b3f0bf0c572b7e6a6ef414/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4v1e6r8k",
+          "name": "Eyupspor 0 - 0 Kocaelispor",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eyupspor+0+-+0+Kocaelispor&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Turkish+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5aebe0d5e6cd74bfe8ec0c5d66fbff57%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Nhí",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/851f1a180195db964408cb21e20900e6/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
