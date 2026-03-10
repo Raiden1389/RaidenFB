@@ -14,174 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "8yomo4h120ggq0j",
-          "name": "SK Sturm Graz II 0 - 1 FC Liefering",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=SK+Sturm+Graz+II+0+-+1+FC+Liefering&t2=&live=1&lg=Austrian+2.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0a088fd6a24dcee0acdea98a7e69e000%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/eaaf0f3e2cdfea772d36f64862660bfd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dj2ryohljne4q1z",
-          "name": "FAC WIEN 2 - 0 Schwarz-Weiss Bregenz",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FAC+WIEN+2+-+0+Schwarz-Weiss+Bregenz&t2=&live=1&lg=Austrian+2.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa4112cd5c5d577f6eda372acb3466968%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/dc859effead4d1eb46b701346127a422/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "pxwrxlhyy0pvryk",
-          "name": "Al Bataeh 1 - 0 Ajman",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Bataeh+1+-+0+Ajman&t2=&live=1&lg=United+Arab+Emirates+Adnoc+Pro-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3af7e8b45ff467faf57b0f9c195f7ed6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a1b4387632a314f4a4bb963f7c4103f2/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "x7lm7phjj2g8m2w",
-          "name": "Al-Dhafra 1 - 2 Al-Jazira(UAE)",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Dhafra+1+-+2+Al-Jazira%28UAE%29&t2=&live=1&lg=United+Arab+Emirates+Adnoc+Pro-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff259ade23420b993ca320fe67a24aab1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/c7df84c68ae83a55c6b378d21f7f1f0c/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "x7lm7phjjyw0m2w",
           "name": "Galatasaray 1 - 0 Liverpool",
           "type": "single",
@@ -735,13 +567,13 @@
         },
         {
           "id": "n54qllhnx2kvqvy",
-          "name": "Ayr United 0 - 1 Queen's Park",
+          "name": "Ayr United 1 - 2 Queen's Park",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ayr+United+0+-+1+Queen%27s+Park&t2=&live=1&lg=Scottish+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbcb56cb9c24f658f7cdf296c381c424a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ayr+United+1+-+2+Queen%27s+Park&t2=&live=1&lg=Scottish+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbcb56cb9c24f658f7cdf296c381c424a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -777,13 +609,13 @@
         },
         {
           "id": "vjxm8gheg6dnr6o",
-          "name": "Sheffield Wednesday 1 - 0 Watford",
+          "name": "Sheffield Wednesday 1 - 1 Watford",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sheffield+Wednesday+1+-+0+Watford&t2=&live=1&lg=English+Football+League+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3db9141614cc58320e9e5f347619b335%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sheffield+Wednesday+1+-+1+Watford&t2=&live=1&lg=English+Football+League+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3db9141614cc58320e9e5f347619b335%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -919,13 +751,13 @@
         },
         {
           "id": "4jwq2ghnnyxpm0v",
-          "name": "Newcastle United 0 - 0 FC Barcelona",
+          "name": "Newcastle United 1 - 0 FC Barcelona",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Newcastle+United+0+-+0+FC+Barcelona&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2681c71d74b364d2744548bf89efa6c1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Newcastle+United+1+-+0+FC+Barcelona&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2681c71d74b364d2744548bf89efa6c1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -967,13 +799,13 @@
         },
         {
           "id": "4wyrn4h6y2g4q86",
-          "name": "Once Caldas (w) 0 - 2 Junior Women",
+          "name": "Once Caldas (w) 1 - 2 Junior Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Once+Caldas+%28w%29+0+-+2+Junior+Women&t2=&live=1&lg=Colombian+Liga+Betplay+Femenina&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8fd3d3a5cdb989d839cd327c1eb9ca7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Once+Caldas+%28w%29+1+-+2+Junior+Women&t2=&live=1&lg=Colombian+Liga+Betplay+Femenina&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8fd3d3a5cdb989d839cd327c1eb9ca7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1009,13 +841,13 @@
         },
         {
           "id": "n54qllhn79enqvy",
-          "name": "Real Santander 0 - 1 Boca Juniors De Cali",
+          "name": "Real Santander 1 - 1 Boca Juniors De Cali",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Santander+0+-+1+Boca+Juniors+De+Cali&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee9af04dbbe32d21a2f5428b33177241%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Santander+1+-+1+Boca+Juniors+De+Cali&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee9af04dbbe32d21a2f5428b33177241%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1051,13 +883,13 @@
         },
         {
           "id": "y0or5jh84kpxqwz",
-          "name": "Stoke City 2 - 1 Ipswich Town",
+          "name": "Stoke City 2 - 3 Ipswich Town",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Stoke+City+2+-+1+Ipswich+Town&t2=&live=1&lg=English+Football+League+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F17e923e772435ac7468af3e20146f83e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Stoke+City+2+-+3+Ipswich+Town&t2=&live=1&lg=English+Football+League+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F17e923e772435ac7468af3e20146f83e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1093,13 +925,13 @@
         },
         {
           "id": "ednm9whwwyv0ryo",
-          "name": "Atletico Madrid 5 - 1 Tottenham Hotspur",
+          "name": "Atletico Madrid 5 - 2 Tottenham Hotspur",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Madrid+5+-+1+Tottenham+Hotspur&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91+-+G%C3%A0+Si%C3%AAu+Son&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdf0a03caca12ab56fb72e47a6501409c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Madrid+5+-+2+Tottenham+Hotspur&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91+-+G%C3%A0+Si%C3%AAu+Son&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdf0a03caca12ab56fb72e47a6501409c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1141,13 +973,13 @@
         },
         {
           "id": "n54qllhnng8jqvy",
-          "name": "Atalanta 0 - 4 FC Bayern Munich",
+          "name": "Atalanta 0 - 6 FC Bayern Munich",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atalanta+0+-+4+FC+Bayern+Munich&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2930493e7827c949bb1e2bd5a253c09%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atalanta+0+-+6+FC+Bayern+Munich&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2930493e7827c949bb1e2bd5a253c09%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1189,13 +1021,13 @@
         },
         {
           "id": "l5ergph4kygnr8k",
-          "name": "Llaneros Women 0 - 1 Fortaleza CEIF FC Women",
+          "name": "Llaneros Women 0 - 2 Fortaleza CEIF FC Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Llaneros+Women+0+-+1+Fortaleza+CEIF+FC+Women&t2=&live=1&lg=Colombian+Liga+Betplay+Femenina&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Febab3b61039610d8c8a50c859ac11685%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Llaneros+Women+0+-+2+Fortaleza+CEIF+FC+Women&t2=&live=1&lg=Colombian+Liga+Betplay+Femenina&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Febab3b61039610d8c8a50c859ac11685%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
