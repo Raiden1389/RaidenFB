@@ -70,26 +70,26 @@
       "name": "AFC Champions League Elite",
       "channels": [
         {
-          "id": "108733",
-          "name": "Buriram United vs Melbourne City | 19:15 10-03 | BLV KEM",
+          "id": "108875",
+          "name": "Vissel Kobe vs FC Seoul | 17:00 11-03 | SAO LA",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Buriram+United&t2=Melbourne+City&blv=BLV+KEM&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F649a85f258f62ec83a62983488e4b347.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F36806061ca70613f4c30f1211ee0b1ba.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vissel+Kobe&t2=FC+Seoul&blv=SAO+LA&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd85cce27ab583e5b3cead155f02b098a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fad010af729c420626d1865ad744168d3.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 19:15 10-03",
+              "text": "⏰ 17:00 11-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV KEM",
+              "text": "👨‍💼 SAO LA",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -102,12 +102,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV KEM",
+                      "name": "BLV SAO LA",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/513394.m3u8"
+                          "url": "https://live.inplyr.com/room/462413.m3u8"
                         }
                       ]
                     }
@@ -164,54 +164,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "108875",
-          "name": "Vissel Kobe vs FC Seoul | 17:00 11-03 | SAO LA",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vissel+Kobe&t2=FC+Seoul&blv=SAO+LA&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd85cce27ab583e5b3cead155f02b098a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fad010af729c420626d1865ad744168d3.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 17:00 11-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 SAO LA",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV SAO LA",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/462413.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "display": "vertical",
@@ -236,6 +188,52 @@
           "labels": [
             {
               "text": "⏰ 23:30 10-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "108986",
+          "name": "Chalon/SaÔne vs Unicaja | 02:30 11-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chalon%2FSa%C3%94ne&t2=Unicaja&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F40d227b105f73134e5f392d0ebd607fe.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F80430f985036f02f596f67a22d95f7c9.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 02:30 11-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "108987",
+          "name": "Joventut Badalona vs Würzburg | 02:30 11-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Joventut+Badalona&t2=W%C3%BCrzburg&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F48869422a02d4e07e365c93a54edb3a1.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fdade966d307d4410228ded40c9d8b4a0.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 02:30 11-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
@@ -405,14 +403,14 @@
       "name": "GCC Champions League",
       "channels": [
         {
-          "id": "108949",
-          "name": "Al Rayyan vs Al Qadisiya SC | 23:00 10-03",
+          "id": "108948",
+          "name": "Zakho SC vs Al-Shabab FC | 23:00 10-03",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Rayyan&t2=Al+Qadisiya+SC&lg=GCC+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd36d53da32742efb1d00f27e959603a0.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3d11cecb1481eca0115803cb63a6ee00.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zakho+SC&t2=Al-Shabab+FC&lg=GCC+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb91a30ad7ae7390c8c7d39e8c292fcc4.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb16d1e3b04364c5cd64203d8b4ef76e2.webp&s=vs",
             "width": 600,
             "height": 320
           },
@@ -428,14 +426,14 @@
           "enable_detail": false
         },
         {
-          "id": "108948",
-          "name": "Zakho SC vs Al-Shabab FC | 23:00 10-03",
+          "id": "108949",
+          "name": "Al Rayyan vs Al Qadisiya SC | 23:00 10-03",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zakho+SC&t2=Al-Shabab+FC&lg=GCC+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb91a30ad7ae7390c8c7d39e8c292fcc4.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb16d1e3b04364c5cd64203d8b4ef76e2.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Rayyan&t2=Al+Qadisiya+SC&lg=GCC+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd36d53da32742efb1d00f27e959603a0.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3d11cecb1481eca0115803cb63a6ee00.webp&s=vs",
             "width": 600,
             "height": 320
           },
