@@ -14,222 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "965mkyhk26dyr1g",
-          "name": "Millonarios 2 - 0 Cucuta Deportivo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Millonarios+2+-+0+Cucuta+Deportivo&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+G%E1%BA%A7y&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fed2c3c63bb473c8c0dd589b06d395fc7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Gầy",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Gầy",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4596bc8e1065edc8ecd902e120abdd49/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hn70vzqdy",
-          "name": "Deportivo Recoleta 0 - 1 Sportivo Ameliano",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Recoleta+0+-+1+Sportivo+Ameliano&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F780f2a04ed8bbd6aeb147b28b1c2a3fc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/5ebe41b00159b4f4205abe4971ab0d08/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hn4zp0qdy",
-          "name": "Nacional Montevideo U20 0 - 2 Santiago Wanderers U20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nacional+Montevideo+U20+0+-+2+Santiago+Wanderers+U20&t2=&live=1&lg=CONMEBOL+U20+Copa+Libertadores&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52390629170a8483e32aaec6e7c30f55%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4031058f7ce64b3d1772815e1dbf9b81/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ednm9whw27ggryo",
-          "name": "Waterhouse FC 1 - 0 Montego Bay Utd",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Waterhouse+FC+1+-+0+Montego+Bay+Utd&t2=&live=1&lg=Jamaica+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb52946aee5f2315417e6d9d8638598bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/014f84c763f3da753888a806811df7f7/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8ghely2er6o",
-          "name": "Orense SC 1 - 1 Manta FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Orense+SC+1+-+1+Manta+FC&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9354bec8262908f4495e6dd544e3ece7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a784937c4fd75e4b5ef01c0b8884dbd3/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "ednm9whw0yjnryo",
           "name": "Santa  Ana 1 - 1 AD Cariari Pococi",
           "type": "single",
@@ -262,54 +46,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/deeba0358330ea495c5259beeb625de4/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "23xmvkh6pn1gqg8",
-          "name": "Deportivo Pasto 2 - 0 America de Cali",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Pasto+2+-+0+America+de+Cali&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6d9ef9080cb944385ad5d4e72fc290bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Son",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Son",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/af4e082ef5d8d7b78283a984f781eb0d/playlist.m3u8"
                         }
                       ]
                     }
@@ -363,13 +99,13 @@
         },
         {
           "id": "n54qllhn4z19qvy",
-          "name": "Dalian Football School Women 0 - 1 Sichuan Women",
+          "name": "Dalian Football School Women 1 - 2 Sichuan Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dalian+Football+School+Women+0+-+1+Sichuan+Women&t2=&live=1&lg=Chinese+Women%27s+FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9e0976fbd2caf2b9862f4355eb3d9aca%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dalian+Football+School+Women+1+-+2+Sichuan+Women&t2=&live=1&lg=Chinese+Women%27s+FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9e0976fbd2caf2b9862f4355eb3d9aca%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -394,6 +130,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/b728cf94601fb1f47079d1f1ba7d94d8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghg3xvyq82",
+          "name": "Tapachula Soconusco FC 3 - 1 Montaneses FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tapachula+Soconusco+FC+3+-+1+Montaneses+FC&t2=&live=1&lg=MEX+Liga+Premier+Serie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5f767d7db1f54b458fc085a9c2bc6dcc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/b450d73ac0738db6513c157beb0fe3f0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohl7x34q1z",
+          "name": "Dempo SC U21 2 - 3 ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dempo+SC+U21+2+-+3+&t2=&live=1&lg=India+U21+DL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd7bdd3872067571bdcdfb5f1a37cfce4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a6507eba3ef257d310d3b2b2ddea495c/playlist.m3u8"
                         }
                       ]
                     }
