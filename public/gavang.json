@@ -446,14 +446,56 @@
           ]
         },
         {
-          "id": "2y8m4zh5w0jjql0",
-          "name": "CA Independiente 0 - 0 Club Atlético Unión",
+          "id": "4jwq2ghng9okm0v",
+          "name": "Joinville SC 0 - 0 Sao Bernardo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Independiente+0+-+0+Club+Atl%C3%A9tico+Uni%C3%B3n&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ed5e00e6bf229d2c575f1d8d7ab9ff7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Joinville+SC+0+-+0+Sao+Bernardo&t2=&live=1&lg=Brazilian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F507d11a95fb960485bd74f32b25f09e3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4fbc615201c1643b4a9928fa955f418e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5w0jjql0",
+          "name": "CA Independiente 0 - 2 Club Atlético Unión",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Independiente+0+-+2+Club+Atl%C3%A9tico+Uni%C3%B3n&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ed5e00e6bf229d2c575f1d8d7ab9ff7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -489,13 +531,13 @@
         },
         {
           "id": "l5ergph48gzzr8k",
-          "name": "Club Atletico Tigre 0 - 0 Velez Sarsfield",
+          "name": "Club Atletico Tigre 1 - 0 Velez Sarsfield",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Atletico+Tigre+0+-+0+Velez+Sarsfield&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F04b7f144c9b4768e7b516676ae5dc818%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Atletico+Tigre+1+-+0+Velez+Sarsfield&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F04b7f144c9b4768e7b516676ae5dc818%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -568,6 +610,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/64fc596150267a532a86d8956c31a0ca/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvkne5md7",
+          "name": "Paradise FC 0 - 0 Kickstart Barbados FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Paradise+FC+0+-+0+Kickstart+Barbados+FC&t2=&live=1&lg=Barbados+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a5928e11ca1e72f22f651f273ca17c1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f3c2156def0c87a67cb49c41e062c834/playlist.m3u8"
                         }
                       ]
                     }
