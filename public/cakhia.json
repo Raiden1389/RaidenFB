@@ -118,54 +118,6 @@
       "name": "AFC Champions League Elite",
       "channels": [
         {
-          "id": "108876",
-          "name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim FC | 17:00 11-03 | ZIDANE",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sanfrecce+Hiroshima&t2=Johor+Darul+Ta%27zim+FC&blv=ZIDANE&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc81d5ff7a33a4f6a9312a8703f619352.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3ab85cf20a3ed001a60a9fcd8ec09afe.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 17:00 11-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 ZIDANE",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV ZIDANE",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/168740.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "108875",
           "name": "Vissel Kobe vs FC Seoul | 17:00 11-03 | SAO LA",
           "type": "single",
@@ -212,36 +164,28 @@
               ]
             }
           ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
-      "id": "concacafchampionsleague",
-      "name": "CONCACAF Champions League",
-      "channels": [
+        },
         {
-          "id": "108871",
-          "name": "Monterrey vs Cruz Azul | 08:00 11-03 | BLV CÒ",
+          "id": "108876",
+          "name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim FC | 17:00 11-03 | ZIDANE",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Monterrey&t2=Cruz+Azul&blv=BLV+C%C3%92&lg=CONCACAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F9abd1e86ec5852bad0225a527fdd7b1e.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F31971ee832c15c1da930c9b63fa151e0.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sanfrecce+Hiroshima&t2=Johor+Darul+Ta%27zim+FC&blv=ZIDANE&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc81d5ff7a33a4f6a9312a8703f619352.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3ab85cf20a3ed001a60a9fcd8ec09afe.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 08:00 11-03",
+              "text": "⏰ 17:00 11-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV CÒ",
+              "text": "👨‍💼 ZIDANE",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -254,12 +198,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV CÒ",
+                      "name": "BLV ZIDANE",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/582342.m3u8"
+                          "url": "https://live.inplyr.com/room/168740.m3u8"
                         }
                       ]
                     }
@@ -268,7 +212,15 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "concacafchampionsleague",
+      "name": "CONCACAF Champions League",
+      "channels": [
         {
           "id": "108872",
           "name": "Los Angeles FC vs Alajuelense | 10:00 11-03 | BLV TOMMY",
@@ -620,54 +572,6 @@
           ]
         },
         {
-          "id": "109023",
-          "name": "Paris Saint Germain vs Chelsea | 03:00 12-03 | THẠCH TÚ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Paris+Saint+Germain&t2=Chelsea&blv=TH%E1%BA%A0CH+T%C3%9A&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3b720f181ce9993f9422d276acf7b292.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb365ad0e85e2b1bcbf63f7a0f2f70a79.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 03:00 12-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 THẠCH TÚ",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV THẠCH TÚ",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/344370.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "109024",
           "name": "Real Madrid vs Manchester City | 03:00 12-03 | CR Bưởi",
           "type": "single",
@@ -706,6 +610,54 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.inplyr.com/room/387694.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "109023",
+          "name": "Paris Saint Germain vs Chelsea | 03:00 12-03 | THẠCH TÚ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Paris+Saint+Germain&t2=Chelsea&blv=TH%E1%BA%A0CH+T%C3%9A&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3b720f181ce9993f9422d276acf7b292.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb365ad0e85e2b1bcbf63f7a0f2f70a79.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 03:00 12-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 THẠCH TÚ",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV THẠCH TÚ",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/344370.m3u8"
                         }
                       ]
                     }
