@@ -114,104 +114,77 @@
       "grid_number": 1
     },
     {
-      "id": "afcchampionsleagueelite",
-      "name": "AFC Champions League Elite",
+      "id": "basketballchampionsleague",
+      "name": "Basketball Champions League",
       "channels": [
         {
-          "id": "108875",
-          "name": "Vissel Kobe vs FC Seoul | 17:00 11-03 | SAO LA",
+          "id": "109149",
+          "name": "AEK Athens vs Tofas Spor Kulübü | 00:00 12-03",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vissel+Kobe&t2=FC+Seoul&blv=SAO+LA&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd85cce27ab583e5b3cead155f02b098a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fad010af729c420626d1865ad744168d3.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AEK+Athens&t2=Tofas+Spor+Kul%C3%BCb%C3%BC&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd6f654ee1134a0c0db2da0322abe3625.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F85aa862ac73010809837c0a70c45a672.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 17:00 11-03",
+              "text": "⏰ 00:00 12-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 SAO LA",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
             }
           ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV SAO LA",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/462413.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "sources": [],
+          "enable_detail": false
         },
         {
-          "id": "108876",
-          "name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim FC | 17:00 11-03 | ZIDANE",
+          "id": "109159",
+          "name": "Nymburk vs Pallacanestro Trieste | 00:30 12-03",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sanfrecce+Hiroshima&t2=Johor+Darul+Ta%27zim+FC&blv=ZIDANE&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc81d5ff7a33a4f6a9312a8703f619352.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3ab85cf20a3ed001a60a9fcd8ec09afe.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nymburk&t2=Pallacanestro+Trieste&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F9e43b47b1cdf3db5fbb9620a51264a28.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F7ed6fa442d4660128e2d50d2617781ea.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 17:00 11-03",
+              "text": "⏰ 00:30 12-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
-            },
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "109160",
+          "name": "Lietuvos Rytas vs Le Mans Sarthe | 00:30 12-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lietuvos+Rytas&t2=Le+Mans+Sarthe&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc458816e3d9ffe0e5b185063a5ec3fec.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F4d1a062f41d6b2700c0a93ed4c58353f.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
             {
-              "text": "👨‍💼 ZIDANE",
-              "position": "bottom-left",
-              "color": "#ff6600",
+              "text": "⏰ 00:30 12-03",
+              "position": "top-right",
+              "color": "#333333",
               "text_color": "#ffffff"
             }
           ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV ZIDANE",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/168740.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "sources": [],
+          "enable_detail": false
         }
       ],
       "display": "vertical",
