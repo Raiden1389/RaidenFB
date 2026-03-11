@@ -297,36 +297,28 @@
               ]
             }
           ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
-      "id": "uefachampionsleague",
-      "name": "UEFA Champions League",
-      "channels": [
+        },
         {
-          "id": "109021",
-          "name": "Bayer 04 Leverkusen vs Arsenal | 00:45 12-03 | BLV COCA",
+          "id": "109261",
+          "name": "FC Cincinnati vs Tigres UANL | 07:00 13-03 | BLV PIRLO",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bayer+04+Leverkusen&t2=Arsenal&blv=BLV+COCA&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd3205f3ddca07dc01c822ea0de24a0e7.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2122445133f0eeeecbb61fe49fb69022.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Cincinnati&t2=Tigres+UANL&blv=BLV+PIRLO&lg=CONCACAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F1d14acf20b6647d3bf1f70959a875c8f.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2590f0c0dc446a0c6cf9514700b3ba50.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 00:45 12-03",
+              "text": "⏰ 07:00 13-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV COCA",
+              "text": "👨‍💼 BLV PIRLO",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -339,12 +331,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV COCA",
+                      "name": "BLV BLV PIRLO",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/327159.m3u8"
+                          "url": "https://live.inplyr.com/room/351530.m3u8"
                         }
                       ]
                     }
@@ -354,6 +346,62 @@
             }
           ]
         },
+        {
+          "id": "109274",
+          "name": "Vancouver Whitecaps vs Seattle Sounders | 09:00 13-03 | TẠ BIÊN GIỚI",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vancouver+Whitecaps&t2=Seattle+Sounders&blv=T%E1%BA%A0+BI%C3%8AN+GI%E1%BB%9AI&lg=CONCACAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F527dcdb6260004a2c8f61fae9345f133.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fed962d3f5e2ce55c2e7d8685cfe5a61e.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 09:00 13-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 TẠ BIÊN GIỚI",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV TẠ BIÊN GIỚI",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/118206.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "uefachampionsleague",
+      "name": "UEFA Champions League",
+      "channels": [
         {
           "id": "109022",
           "name": "Bodo Glimt vs Sporting CP | 03:00 12-03 | BLV CÒ",
