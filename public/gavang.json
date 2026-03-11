@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "965mkyhk8287r1g",
-          "name": " 2 - 9 Persemi Mimika",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=+2+-+9+Persemi+Mimika&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5644b1e443e3072c7eafe61f297b13fb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e3a3e2b1c63f03276f1ea660125e3642/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "k82rekhg202yrep",
           "name": "Dong Nai University of Technology 1 - 0 Dong Thap University",
           "type": "single",
@@ -141,13 +99,13 @@
         },
         {
           "id": "zp5rzghggxndq82",
-          "name": "Philippine Army FC 1 - 4 Don Bosco Garelli United",
+          "name": "Philippine Army FC 1 - 7 Don Bosco Garelli United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philippine+Army+FC+1+-+4+Don+Bosco+Garelli+United&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb398888524b00136f77f084c28c81f65%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philippine+Army+FC+1+-+7+Don+Bosco+Garelli+United&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb398888524b00136f77f084c28c81f65%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -256,6 +214,102 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/799fe9e6346fabd787d72866aa2f5825/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh66pnzqg8",
+          "name": "Sanfrecce Hiroshima 0 - 0 Johor Darul Ta'zim FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sanfrecce+Hiroshima+0+-+0+Johor+Darul+Ta%27zim+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92d6e8036d5ca9cb996db585a351712e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/bf92194b8f782473e45cb99f74e77950/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnnpowqvy",
+          "name": "Vissel Kobe 0 - 1 Football Club Seoul",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vissel+Kobe+0+-+1+Football+Club+Seoul&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6de3725838da067d06b70fd535cb8733%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Ngố",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7071c6b7acf76880f6ca4f6c27525136/playlist.m3u8"
                         }
                       ]
                     }
