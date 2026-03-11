@@ -14,54 +14,6 @@
       "name": "AFC Champions League 2",
       "channels": [
         {
-          "id": "108881",
-          "name": "Ratchaburi FC vs Gamba Osaka | 20:05 11-03 | BLV A BỆU",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ratchaburi+FC&t2=Gamba+Osaka&blv=BLV+A+B%E1%BB%86U&lg=AFC+Champions+League+2&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fca2b8d70931647840c78209be51763a3.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F91008a96b5de8c75376d17057f89890e.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 20:05 11-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV A BỆU",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV A BỆU",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/484845.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "109043",
           "name": "Tampines Rovers FC vs Bangkok United FC | 19:15 12-03 | ZIDANE",
           "type": "single",
@@ -178,6 +130,29 @@
           "labels": [
             {
               "text": "⏰ 00:30 12-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "109199",
+          "name": "AS Karditsas vs Alba Berlin | 02:00 12-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Karditsas&t2=Alba+Berlin&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fde51d3096a45409295e4a43a9ef18991.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F8d93f6302daab53ab97cd6bda6cde3a9.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 02:00 12-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
