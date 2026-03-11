@@ -118,54 +118,6 @@
       "name": "AFC Champions League Elite",
       "channels": [
         {
-          "id": "108875",
-          "name": "Vissel Kobe vs FC Seoul | 17:00 11-03 | SAO LA",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vissel+Kobe&t2=FC+Seoul&blv=SAO+LA&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd85cce27ab583e5b3cead155f02b098a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fad010af729c420626d1865ad744168d3.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 17:00 11-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 SAO LA",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV SAO LA",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/462413.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "108876",
           "name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim FC | 17:00 11-03 | ZIDANE",
           "type": "single",
@@ -212,36 +164,28 @@
               ]
             }
           ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
-      "id": "concacafchampionsleague",
-      "name": "CONCACAF Champions League",
-      "channels": [
+        },
         {
-          "id": "108865",
-          "name": "Philadelphia Union vs Club America | 06:00 11-03 | BLV Củ Cải",
+          "id": "108875",
+          "name": "Vissel Kobe vs FC Seoul | 17:00 11-03 | SAO LA",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philadelphia+Union&t2=Club+America&blv=BLV+C%E1%BB%A7+C%E1%BA%A3i&lg=CONCACAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F574f1ee560e8835e605176cac36a87db.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe3ee5547b8ad47fb841bb1bb08836591.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vissel+Kobe&t2=FC+Seoul&blv=SAO+LA&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd85cce27ab583e5b3cead155f02b098a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fad010af729c420626d1865ad744168d3.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 06:00 11-03",
+              "text": "⏰ 17:00 11-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV Củ Cải",
+              "text": "👨‍💼 SAO LA",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -254,12 +198,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV Củ Cải",
+                      "name": "BLV SAO LA",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/360663.m3u8"
+                          "url": "https://live.inplyr.com/room/462413.m3u8"
                         }
                       ]
                     }
@@ -268,7 +212,15 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "concacafchampionsleague",
+      "name": "CONCACAF Champions League",
+      "channels": [
         {
           "id": "108871",
           "name": "Monterrey vs Cruz Azul | 08:00 11-03 | BLV CÒ",
