@@ -14,180 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "y39mp1h66gyzmoj",
-          "name": "Bayer 04 Leverkusen 1 - 1 Arsenal",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bayer+04+Leverkusen+1+-+1+Arsenal&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F66fe7f8f436a2c7b27e21e2bd4a4ffe7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Phệ",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Phệ",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b7b21d9e632a2d5353f93c236074cc0b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "n54qllhndny8qvy",
-          "name": "Lens Women 2 - 1 Montpellier Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lens+Women+2+-+1+Montpellier+Women&t2=&live=1&lg=French+Division+1+Feminine&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fabb25c4c6bf6dfc96de3c998497cccc7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b508c3226e906eff53ace14bc45e5fe7/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y0or5jh818deqwz",
-          "name": "Dijon Women 2 - 0 RC Saint Etienne Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dijon+Women+2+-+0+RC+Saint+Etienne+Women&t2=&live=1&lg=French+Division+1+Feminine&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0992f068307978d368cae9e2f2c1180b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e81350d1ed4bba21e967cce287b37772/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "zp5rzghg1ge1q82",
-          "name": "Nantes Women 2 - 0 Fleury 91 Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nantes+Women+2+-+0+Fleury+91+Women&t2=&live=1&lg=French+Division+1+Feminine&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe4399bbdbefcdbb9ffc6d3fc66de006c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/9deb19695b3f57fdb5c565149c6bf5fa/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "23xmvkh6yon0qg8",
           "name": "Al-Hussein SC (Irbid) 5 - 1 Al-Baq's",
           "type": "single",
@@ -692,35 +518,6 @@
           ]
         },
         {
-          "id": "37198ec2c6aa433b88c0e871fe52e96d",
-          "name": "Real Madrid 3 - 0 Manchester City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Madrid+3+-+0+Manchester+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son+-+G%C3%A0+Si%C3%AAu+Ng%E1%BB%91+%28Real%29&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F946ca6ff50107aa2aa51fc0ddbb7fe6d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Son - Gà Siêu Ngố (Real)",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "965mkyhkkde2r1g",
           "name": "Bodo Glimt 3 - 0 Sporting CP",
           "type": "single",
@@ -769,43 +566,14 @@
           ]
         },
         {
-          "id": "af346e47f6664a9baf82a11b11a68bb1",
-          "name": "Real Madrid 3 - 0 Manchester City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Madrid+3+-+0+Manchester+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F946ca6ff50107aa2aa51fc0ddbb7fe6d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Súp",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "l5ergph4w2vor8k",
-          "name": "Bogota FC 0 - 0 Tigres Zipaquira",
+          "name": "Bogota FC 0 - 1 Tigres Zipaquira",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bogota+FC+0+-+0+Tigres+Zipaquira&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13b0c7e244914f1707717fb286ef8e7c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bogota+FC+0+-+1+Tigres+Zipaquira&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13b0c7e244914f1707717fb286ef8e7c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -830,102 +598,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/b8fa905fe65a3f93d4efc96e50e8b8a9/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8gheed8gr6o",
-          "name": "Paris Saint Germain 4 - 2 Chelsea",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Paris+Saint+Germain+4+-+2+Chelsea&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m+-+G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb32b429dab8070299bd2eba7ee375919%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm - Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm - Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/381b84ee12bdeafce68e6ec934228141/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y0or5jh88y33qwz",
-          "name": "Real Madrid 3 - 0 Manchester City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Madrid+3+-+0+Manchester+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F946ca6ff50107aa2aa51fc0ddbb7fe6d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Phệ",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Phệ",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4c79671fd90931188cc1e5d11931cff5/playlist.m3u8"
                         }
                       ]
                     }
@@ -979,13 +651,13 @@
         },
         {
           "id": "23xmvkh6pv3pqg8",
-          "name": "Banfield 0 - 2 Gimnasia La Plata",
+          "name": "Banfield 1 - 2 Gimnasia La Plata",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Banfield+0+-+2+Gimnasia+La+Plata&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdfc39187adde42782d9ad993b8643e21%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Banfield+1+-+2+Gimnasia+La+Plata&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdfc39187adde42782d9ad993b8643e21%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1052,6 +724,174 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/6a87c4eda6bfcfd0b6b0fc513b6e9abd/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhv3g04md7",
+          "name": "Union Magdalena 0 - 0 Real Soacha Cundinamarca",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Union+Magdalena+0+-+0+Real+Soacha+Cundinamarca&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F01daa7a00964a19fc806e499733e9543%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/db52bed1fe77c46fe41679d5e25bb3e5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4l066r8k",
+          "name": "Atletico Mineiro 1 - 0 Internacional RS",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Mineiro+1+-+0+Internacional+RS&t2=&live=1&lg=Brazilian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcff6a86a569115cac9c633ebced9655e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ca4a9b2ca1eff404cf5229ed9180f930/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh89gozqwz",
+          "name": "Olimpia Asuncion U20 0 - 0 Palmeiras Youth",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Olimpia+Asuncion+U20+0+-+0+Palmeiras+Youth&t2=&live=1&lg=CONMEBOL+U20+Copa+Libertadores&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6d4afbf558edd47ea3864fc830f3b542%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f09c2c56cf8bc83303754ac64a0f642c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6dw6dmoj",
+          "name": "Sporting Cristal 0 - 1 Carabobo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sporting+Cristal+0+-+1+Carabobo&t2=&live=1&lg=CONMEBOL+Copa+Libertadores&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4017eab2d93a7d5af6d4b6f4cbd704f2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/cdaaac4bafa589fab34b421a113ba471/playlist.m3u8"
                         }
                       ]
                     }
