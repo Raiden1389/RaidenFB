@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "zp5rzghggxndq82",
-          "name": "Philippine Army FC 1 - 7 Don Bosco Garelli United",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philippine+Army+FC+1+-+7+Don+Bosco+Garelli+United&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb398888524b00136f77f084c28c81f65%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/6be7e1b4fbbce8a7b5a96868df0d7a72/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "n54qllhnpwp5qvy",
           "name": "Hantharwady United 0 - 0 Rakhine United FC",
           "type": "single",
@@ -140,54 +98,6 @@
           ]
         },
         {
-          "id": "23xmvkh66pnzqg8",
-          "name": "Sanfrecce Hiroshima 0 - 0 Johor Darul Ta'zim FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sanfrecce+Hiroshima+0+-+0+Johor+Darul+Ta%27zim+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92d6e8036d5ca9cb996db585a351712e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/bf92194b8f782473e45cb99f74e77950/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "n54qllhnnpowqvy",
           "name": "Vissel Kobe 2 - 1 Football Club Seoul",
           "type": "single",
@@ -234,6 +144,35 @@
               ]
             }
           ]
+        },
+        {
+          "id": "l5ergph444zlr8k",
+          "name": "Ratchaburi FC 0 - 0 Gamba Osaka",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ratchaburi+FC+0+-+0+Gamba+Osaka&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=AFC+Champions+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1e978e75b52de5d500809ba00d7b75a9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Mõm",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
         }
       ],
       "display": "vertical",
