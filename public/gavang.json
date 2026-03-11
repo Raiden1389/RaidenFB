@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "x7lm7phjx3jzm2w",
-          "name": " 0 - 1 ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=+0+-+1+&t2=&live=1&lg=International+Club+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe5dde712cd4458ab804ffb58ef7b2f4a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/332e32c9715f30249a8b641e8cd8d3f6/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "965mkyhk8287r1g",
           "name": " 2 - 9 Persemi Mimika",
           "type": "single",
@@ -183,13 +141,13 @@
         },
         {
           "id": "zp5rzghggxndq82",
-          "name": "Philippine Army FC 0 - 2 Don Bosco Garelli United",
+          "name": "Philippine Army FC 1 - 4 Don Bosco Garelli United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philippine+Army+FC+0+-+2+Don+Bosco+Garelli+United&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb398888524b00136f77f084c28c81f65%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philippine+Army+FC+1+-+4+Don+Bosco+Garelli+United&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb398888524b00136f77f084c28c81f65%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -214,6 +172,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/6be7e1b4fbbce8a7b5a96868df0d7a72/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnpwp5qvy",
+          "name": "Hantharwady United 0 - 0 Rakhine United FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hantharwady+United+0+-+0+Rakhine+United+FC&t2=&live=1&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9a392bbc493a0883fbd20b84e753a3b5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1679f4e15cad463f866b85898d0983cf/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghg6d67q82",
+          "name": "ISPE FC 0 - 0 Dagon Port",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=ISPE+FC+0+-+0+Dagon+Port&t2=&live=1&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8457569ffbab65b30b8cbd54d3024e6d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/799fe9e6346fabd787d72866aa2f5825/playlist.m3u8"
                         }
                       ]
                     }
