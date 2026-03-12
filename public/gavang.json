@@ -99,13 +99,13 @@
         },
         {
           "id": "2y8m4zh55g5nql0",
-          "name": "FC Maardu 0 - 2 Elva",
+          "name": "FC Maardu 0 - 3 Elva",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Maardu+0+-+2+Elva&t2=&live=1&lg=Estonian+Esiliiga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F23745c2f1da2b1645247a6c3a390bb71%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Maardu+0+-+3+Elva&t2=&live=1&lg=Estonian+Esiliiga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F23745c2f1da2b1645247a6c3a390bb71%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -140,14 +140,14 @@
           ]
         },
         {
-          "id": "vjxm8ghelv1zr6o",
-          "name": "Dila Gori 0 - 0 Fc Meshakhte Tkibuli",
+          "id": "4jwq2ghnz3pom0v",
+          "name": "NK Bravo 2 - 0 NK Nafta",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dila+Gori+0+-+0+Fc+Meshakhte+Tkibuli&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Georgia+Erovnuli+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F433bc23676a2678af77f93c8d99f5c83%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=NK+Bravo+2+-+0+NK+Nafta&t2=&live=1&lg=Slovenia+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1775b952eec255ccc1f7b5ac63bffaa8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -156,12 +156,6 @@
               "text": "🔴 LIVE",
               "position": "top-left",
               "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
               "text_color": "#ffffff"
             }
           ],
@@ -172,12 +166,54 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV Gà Siêu Péo",
+                      "name": "Stream",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.alilicloud.com/live/aeb9b529d8df65732a596bc571388034/playlist.m3u8"
+                          "url": "https://live.alilicloud.com/live/d603c47fd0ef02dd28518405f59f1c4b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk0ox3rz8",
+          "name": "Old Edwardians 0 - 1 Abacha City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Old+Edwardians+0+-+1+Abacha+City&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F013194843e965c12440f59c313bc24e8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e35f648390b9233a372052273a7f2991/playlist.m3u8"
                         }
                       ]
                     }
@@ -189,13 +225,13 @@
         },
         {
           "id": "1l4rjnh9x103m7v",
-          "name": "Erokspor 1 - 0 Bandirmaspor",
+          "name": "Erokspor 1 - 1 Bandirmaspor",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Erokspor+1+-+0+Bandirmaspor&t2=&live=1&lg=Turkish+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7005f3f9cc0d24ed32940e76dc29f356%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Erokspor+1+-+1+Bandirmaspor&t2=&live=1&lg=Turkish+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7005f3f9cc0d24ed32940e76dc29f356%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -231,13 +267,13 @@
         },
         {
           "id": "318q66hx82l0qo9",
-          "name": "AS Roma Women 0 - 0 Inter Milan Women",
+          "name": "AS Roma Women 1 - 0 Inter Milan Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Roma+Women+0+-+0+Inter+Milan+Women&t2=&live=1&lg=Italian+Women%27s+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9cb368111987ffe788c871d880c50728%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Roma+Women+1+-+0+Inter+Milan+Women&t2=&live=1&lg=Italian+Women%27s+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9cb368111987ffe788c871d880c50728%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -272,6 +308,90 @@
           ]
         },
         {
+          "id": "3glrw7hnngklqdy",
+          "name": "Baniyas Club 1 - 0 Al Wahda(UAE)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Baniyas+Club+1+-+0+Al+Wahda%28UAE%29&t2=&live=1&lg=United+Arab+Emirates+Adnoc+Pro-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F01fd4983e73849eaf385a4efef3423ed%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/b8e1c461aaf1b220a116ccc7cd7d307b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvvp6lmd7",
+          "name": "Al-Ain FC 2 - 0 Al-Wasl SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Ain+FC+2+-+0+Al-Wasl+SC&t2=&live=1&lg=United+Arab+Emirates+Adnoc+Pro-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F33e0ffc69ad6f98bae92749e398402f4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5b159a53f19099fd4b529717bfe797b8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "2y8m4zh55oolql0",
           "name": "Panathinaikos 0 - 0 Real Betis",
           "type": "single",
@@ -279,7 +399,7 @@
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Panathinaikos+0+-+0+Real+Betis&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa443ad65a8601723c58ce2b068a01de%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Panathinaikos+0+-+0+Real+Betis&t2=&live=1&blv=G%C3%A0+X%E1%BB%88U+Ph%E1%BB%87&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa443ad65a8601723c58ce2b068a01de%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -291,7 +411,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 Gà Siêu Phệ",
+              "text": "👨‍💼 Gà XỈU Phệ",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
@@ -304,7 +424,7 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV Gà Siêu Phệ",
+                      "name": "BLV Gà XỈU Phệ",
                       "stream_links": [
                         {
                           "id": "hls",
@@ -320,14 +440,182 @@
           ]
         },
         {
-          "id": "pxwrxlhyy4k1ryk",
-          "name": "VfB Stuttgart 0 - 0 FC Porto",
+          "id": "318q66hxxe53qo9",
+          "name": "AZ Alkmaar 1 - 0 Sparta Praha",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfB+Stuttgart+0+-+0+FC+Porto&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5be7d853110e8f1f9a0af1b1042b1e71%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AZ+Alkmaar+1+-+0+Sparta+Praha&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd815e052efad76d399a996f7e09a7f8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a26f510b8b0f803a34466a533f077491/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohllozwq1z",
+          "name": "Rijeka 0 - 1 RC Strasbourg Alsace",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rijeka+0+-+1+RC+Strasbourg+Alsace&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5636e5dd47bddbf8643af14b75119e7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9333284606c8c1cfd657ac4610966f5f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhggk7erep",
+          "name": "Lech Poznan 0 - 1 FC Shakhtar Donetsk",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lech+Poznan+0+-+1+FC+Shakhtar+Donetsk&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13ca997bacc651c933eeecc9e380d8b6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/81c72d58333276ad1b67c801ae3db074/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4419xr8k",
+          "name": "Samsunspor 1 - 2 Rayo Vallecano",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Samsunspor+1+-+2+Rayo+Vallecano&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd558d54e878860e728ef4041c95e1321%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a7f0a3f375e9781c233fffa43851cc20/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhyy4k1ryk",
+          "name": "VfB Stuttgart 1 - 2 FC Porto",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfB+Stuttgart+1+-+2+FC+Porto&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5be7d853110e8f1f9a0af1b1042b1e71%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -406,6 +694,138 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/59613139c728d9bb3709938dfd2acf57/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjj619m2w",
+          "name": "LOSC Lille 0 - 0 Aston Villa",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=LOSC+Lille+0+-+0+Aston+Villa&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd478c33223111f2b3c163a5d591a554a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Ngố",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/695984ed629b51f3cefff4c97389905c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghekx2wr6o",
+          "name": "Al-Kahrbaa Club 0 - 0 Al Talaba",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Kahrbaa+Club+0+-+0+Al+Talaba&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F63e9007f30812d4ac6545f16e163ea65%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4b1d5c3bed47f4c4b6d0c9b210ce9ad8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjxp53m2w",
+          "name": "Amanat Baghdad 0 - 2 Newroz SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Amanat+Baghdad+0+-+2+Newroz+SC&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbe94a75d824acdcc611a5fec053ce33d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7b5eee8cf8a342c610968e3792fb579c/playlist.m3u8"
                         }
                       ]
                     }
