@@ -14,174 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh56ny3ql0",
-          "name": "Al-Riffa 1 - 1 Al-Muharraq",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Riffa+1+-+1+Al-Muharraq&t2=&live=1&lg=Bahrain+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd38e22697ce119c074ffd4fd507e333b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/bde32240cb061fdee898c91ca993d190/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghnzz18m0v",
-          "name": "Qatar SC 2 - 0 Al-Gharafa",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Qatar+SC+2+-+0+Al-Gharafa&t2=&live=1&lg=Qatar+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4af4c14f903faf2370223dd574ac4aed%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/cb73c831dbad14c46be987c7928f5542/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8ghel9dxr6o",
-          "name": "Sitra 3 - 0 Al-Budaiya",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sitra+3+-+0+Al-Budaiya&t2=&live=1&lg=Bahrain+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a98afd3aaaf5f7c5c61268e31f639e4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/747db71ad6223b8c6240e740ec9b05fd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "zp5rzghg661kq82",
-          "name": "Al-Sailiya 0 - 4 Al Duhail",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Sailiya+0+-+4+Al+Duhail&t2=&live=1&lg=Qatar+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa1145ef2e5c3d8ebb37cbc3a7c1b0699%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a9c96f5d96736da288aaf1778b5a587a/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "k82rekhgwz98rep",
           "name": "Al Diraiyah 4 - 1 Al-Batin",
           "type": "single",
@@ -1053,13 +885,13 @@
         },
         {
           "id": "x7lm7phj388xm2w",
-          "name": "Cruz Azul Women 1 - 0 Club Necaxa Women",
+          "name": "Cruz Azul Women 2 - 0 Club Necaxa Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cruz+Azul+Women+1+-+0+Club+Necaxa+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a7f82e76c3dcd06ebf9319fbed10082%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cruz+Azul+Women+2+-+0+Club+Necaxa+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a7f82e76c3dcd06ebf9319fbed10082%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1221,13 +1053,13 @@
         },
         {
           "id": "l7oqdehg8ynyr51",
-          "name": "Talleres Cordoba 0 - 0 Instituto de Córdoba",
+          "name": "Talleres Cordoba 1 - 0 Instituto de Córdoba",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Talleres+Cordoba+0+-+0+Instituto+de+C%C3%B3rdoba&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F98f3ae5eded1fce8c8d064dab00a83ba%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Talleres+Cordoba+1+-+0+Instituto+de+C%C3%B3rdoba&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F98f3ae5eded1fce8c8d064dab00a83ba%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1252,6 +1084,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/55ec3929fa391c51121d2a169e87e363/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghe5vn9r6o",
+          "name": "Clube de Regatas Vasco da Gama 0 - 0 Palmeiras",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Clube+de+Regatas+Vasco+da+Gama+0+-+0+Palmeiras&t2=&live=1&lg=Brazilian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a3c77d5e7700ec44c0a74b205e22c54%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/067e11201700c1a23d66521a08c38122/playlist.m3u8"
                         }
                       ]
                     }
