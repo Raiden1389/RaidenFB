@@ -15,13 +15,13 @@
       "channels": [
         {
           "id": "23xmvkh6plp3qg8",
-          "name": "Shan United 1 - 0 Mahar United",
+          "name": "Shan United 1 - 1 Mahar United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shan+United+1+-+0+Mahar+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c4a30b4ffc6cae1fbadf25cc81ed90f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shan+United+1+-+1+Mahar+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Myanmar+Professional+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c4a30b4ffc6cae1fbadf25cc81ed90f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -60,6 +60,161 @@
               ]
             }
           ]
+        },
+        {
+          "id": "1l4rjnh99dv7m7v",
+          "name": "Finland Women U17 0 - 0 Romania Women U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Finland+Women+U17+0+-+0+Romania+Women+U17&t2=&live=1&lg=UEFA+European+U17+Women%27s+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2cea4858800049e1214f44c3c9cec7db%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fb1965471de630b675e0c3bea8b9d831/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq23hgg26xr0v",
+          "name": "KAL Jumbos 0 - 0 KB Stars",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=KAL+Jumbos+0+-+0+KB+Stars&t2=&live=1&lg=Volleyball+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Faafc0223b932fdbe6833207569b2f7b7%2Fimage%2Fsmall&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ef922b622ad24201955a8caf3e7c5e52/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm75hxx12xq2w",
+          "name": "Daejeon KGC Women 0 - 0 Hyundai E&C Hillstate Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Daejeon+KGC+Women+0+-+0+Hyundai+E%26C+Hillstate+Women&t2=&live=1&lg=Volleyball+League+Women&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Fc3c68807405f8a6afae66040d0f2b4b7%2Fimage%2Fsmall&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5ae179dfba40b20a4e090eea86f0baf7/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whwv94xryo",
+          "name": "Iğdır FK 0 - 0 Bodrum FK",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=I%C4%9Fd%C4%B1r+FK+0+-+0+Bodrum+FK&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Turkish+First+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F00a3dd324ca3becd6380a01f428dede1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
         }
       ],
       "display": "vertical",
