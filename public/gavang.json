@@ -14,174 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "1l4rjnh9jzy1m7v",
-          "name": "West Adelaide SC 3 - 0 Adelaide Comets FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Adelaide+SC+3+-+0+Adelaide+Comets+FC&t2=&live=1&lg=South+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee3ad9bc207a894dc89ee052feeda5cd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/7a5528183f9b98d7d43d4227a6c37c91/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ednm9vh55n6gqyo",
-          "name": "Cheonan Hyundai Capital Skywalkers 0 - 0 Samsung Blue Fangs",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cheonan+Hyundai+Capital+Skywalkers+0+-+0+Samsung+Blue+Fangs&t2=&live=1&lg=Volleyball+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F40e82675ff0516c19c97c8c29235b1f2%2Fimage%2Fsmall&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/fa4b22b5eb50216ae8ab6b4b87e8c031/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8ghekx3wr6o",
-          "name": "Thanh Niên TP. Hồ Chí Minh 0 - 1 Van Hien University",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Thanh+Ni%C3%AAn+TP.+H%E1%BB%93+Ch%C3%AD+Minh+0+-+1+Van+Hien+University&t2=&live=1&lg=Vietnam+National+First+Class+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8b4c9ee3741c5bfa80810407c84e62f8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/1cab79b47f927042851d9c4f154f9150/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y0or58h992w5rwz",
-          "name": "Incheon Heungkuk Pink Spiders Women 0 - 0 Expressway Co Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Incheon+Heungkuk+Pink+Spiders+Women+0+-+0+Expressway+Co+Women&t2=&live=1&lg=Volleyball+League+Women&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F556b9a1ca67613234cb4340c1f68c12e%2Fimage%2Fsmall&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/66247f22a26ec4dcfa677c1906a3fcef/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "k82rekhggd31rep",
           "name": "Rajasthan United FC 3 - 2 Namdhari FC",
           "type": "single",
@@ -351,13 +183,13 @@
         },
         {
           "id": "l7oqdehgjokxr51",
-          "name": "Revengers 1 - 2 Bel Air FC",
+          "name": "Revengers 1 - 4 Bel Air FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Revengers+1+-+2+Bel+Air+FC&t2=&live=1&lg=SYC+PR&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45bca1ecf547632c44f1abad00584144%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Revengers+1+-+4+Bel+Air+FC&t2=&live=1&lg=SYC+PR&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45bca1ecf547632c44f1abad00584144%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -477,13 +309,13 @@
         },
         {
           "id": "6ypq3nhvkz6gmd7",
-          "name": "Yunnan Cuanhe 2 - 1 Guangzhou Rockgoal",
+          "name": "Yunnan Cuanhe 3 - 1 Guangzhou Rockgoal",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yunnan+Cuanhe+2+-+1+Guangzhou+Rockgoal&t2=&live=1&lg=Chinese+FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd5b1fb23612683fce0e1f37ff44f0de1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yunnan+Cuanhe+3+-+1+Guangzhou+Rockgoal&t2=&live=1&lg=Chinese+FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd5b1fb23612683fce0e1f37ff44f0de1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -645,13 +477,13 @@
         },
         {
           "id": "3glrw7hnnee6qdy",
-          "name": "Hanoi FC 0 - 0 Song Lam Nghe An",
+          "name": "Hanoi FC 3 - 0 Song Lam Nghe An",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hanoi+FC+0+-+0+Song+Lam+Nghe+An&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Vietnam+National+Champion+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa6a93005a3af5467d0f4aa2867546db1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hanoi+FC+3+-+0+Song+Lam+Nghe+An&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Vietnam+National+Champion+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa6a93005a3af5467d0f4aa2867546db1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -777,13 +609,13 @@
         },
         {
           "id": "8yomo4h1ygdjq0j",
-          "name": "Menge Belashangul 0 - 0 Nifas Silk Lafto Sub City",
+          "name": "Menge Belashangul 1 - 0 Nifas Silk Lafto Sub City",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Menge+Belashangul+0+-+0+Nifas+Silk+Lafto+Sub+City&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0e2752a3290dc4cc57a4ac3505e3ab9e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Menge+Belashangul+1+-+0+Nifas+Silk+Lafto+Sub+City&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0e2752a3290dc4cc57a4ac3505e3ab9e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -903,13 +735,13 @@
         },
         {
           "id": "y39mp1h66811moj",
-          "name": "Aizawl FC 0 - 1 Real Kashmir",
+          "name": "Aizawl FC 1 - 1 Real Kashmir",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Aizawl+FC+0+-+1+Real+Kashmir&t2=&live=1&lg=Indian+League+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9b20075337e30e0d8194b43cc06f87db%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Aizawl+FC+1+-+1+Real+Kashmir&t2=&live=1&lg=Indian+League+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9b20075337e30e0d8194b43cc06f87db%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -945,13 +777,13 @@
         },
         {
           "id": "318q66hx42e5qo9",
-          "name": "PDRM FC 0 - 0 Negeri Sembilan",
+          "name": "PDRM FC 0 - 1 Negeri Sembilan",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=PDRM+FC+0+-+0+Negeri+Sembilan&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Malaysian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3baa2748068b38e5fb9ae4b28b0327d8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=PDRM+FC+0+-+1+Negeri+Sembilan&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Malaysian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3baa2748068b38e5fb9ae4b28b0327d8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
