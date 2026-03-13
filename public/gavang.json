@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "n54qllhnp11wqvy",
-          "name": "Pachuca Women 2 - 0 Tijuana Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pachuca+Women+2+-+0+Tijuana+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff28104ca4974d6796f1da29a751ed375%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e1d727444970d293966d2118f183e8f8/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "23xmvkh6p99zqg8",
           "name": "Tigres Women 4 - 1 Santos Laguna Women",
           "type": "single",
@@ -141,13 +99,13 @@
         },
         {
           "id": "1l4rjnh9n4dxm7v",
-          "name": " 0 - 7 Kerala United (W)",
+          "name": " 0 - 11 Kerala United (W)",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=+0+-+7+Kerala+United+%28W%29&t2=&live=1&lg=IND+KLW&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52e164944dea52722ba0acf748f2e106%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=+0+-+11+Kerala+United+%28W%29&t2=&live=1&lg=IND+KLW&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52e164944dea52722ba0acf748f2e106%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -172,6 +130,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/1503575697a0cdf8df04300dea443ca3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9n4pxm7v",
+          "name": "Persido Dogiyai 0 - 0 Persemi Mimika",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Persido+Dogiyai+0+-+0+Persemi+Mimika&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F979070fd103980154f7deaeb1362b0f3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f27f27afdc43a08d6cecbb0e7358277f/playlist.m3u8"
                         }
                       ]
                     }
