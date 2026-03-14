@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "318q66hx07z6qo9",
-          "name": "PSV Eindhoven 2 - 3 NEC Nijmegen",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=PSV+Eindhoven+2+-+3+NEC+Nijmegen&t2=&live=1&lg=Netherlands+Eredivisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbdc4c83f053aaf395a9e5003ecaea857%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a2f6d079d5fb9688436de19c2624b76f/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "4jwq2ghnke9dm0v",
           "name": "Angers SCO 0 - 2 OGC Nice",
           "type": "single",
@@ -1407,13 +1365,13 @@
         },
         {
           "id": "1l4rjnh9nl66m7v",
-          "name": "CF Os Belenenses 2 - 2 Varzim",
+          "name": "CF Os Belenenses 3 - 2 Varzim",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CF+Os+Belenenses+2+-+2+Varzim&t2=&live=1&lg=Portuguese+Liga+3&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F68df7ba6bd021428aa52327634b3f575%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CF+Os+Belenenses+3+-+2+Varzim&t2=&live=1&lg=Portuguese+Liga+3&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F68df7ba6bd021428aa52327634b3f575%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1533,13 +1491,13 @@
         },
         {
           "id": "3glrw7hnjl9lqdy",
-          "name": "Real Madrid 3 - 0 Elche",
+          "name": "Real Madrid 4 - 1 Elche",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Madrid+3+-+0+Elche&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Spanish+La+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F946ca6ff50107aa2aa51fc0ddbb7fe6d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Madrid+4+-+1+Elche&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Spanish+La+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F946ca6ff50107aa2aa51fc0ddbb7fe6d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1623,13 +1581,13 @@
         },
         {
           "id": "dn1m1ghl9kdgmoe",
-          "name": "Mineros de Guayana 1 - 1 Monagas B",
+          "name": "Mineros de Guayana 1 - 2 Monagas B",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mineros+de+Guayana+1+-+1+Monagas+B&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff4fd081f1140db1a3f1284bb8af6198b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mineros+de+Guayana+1+-+2+Monagas+B&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff4fd081f1140db1a3f1284bb8af6198b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1838,14 +1796,56 @@
           ]
         },
         {
-          "id": "318q66hx0wg9qo9",
-          "name": "AS Monaco 1 - 0 Stade Brestois 29",
+          "id": "l5ergph4l48gr8k",
+          "name": "Detroit City 3 - 0 Brooklyn FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Monaco+1+-+0+Stade+Brestois+29&t2=&live=1&lg=French+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5fbf361fbbfb131c219fdd30eea76bf7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Detroit+City+3+-+0+Brooklyn+FC&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F070772bc933d3f0c85b3b29ab60d0f67%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f41cc6de1ef7077cd881726afce9cc85/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx0wg9qo9",
+          "name": "AS Monaco 2 - 0 Stade Brestois 29",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Monaco+2+-+0+Stade+Brestois+29&t2=&live=1&lg=French+Ligue+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5fbf361fbbfb131c219fdd30eea76bf7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1881,13 +1881,13 @@
         },
         {
           "id": "1l4rjnh9x61km7v",
-          "name": "FC Arouca 1 - 0 Benfica",
+          "name": "FC Arouca 1 - 1 Benfica",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Arouca+1+-+0+Benfica&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd9c2d339f3ec41ab4fb0db8325062789%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Arouca+1+-+1+Benfica&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd9c2d339f3ec41ab4fb0db8325062789%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
