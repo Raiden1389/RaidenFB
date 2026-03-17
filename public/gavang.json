@@ -63,13 +63,13 @@
         },
         {
           "id": "jw2r09hk52k9rz8",
-          "name": "Atletico de Madrid U19 0 - 3 Club Brugge U19",
+          "name": "Atletico de Madrid U19 0 - 4 Club Brugge U19",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+de+Madrid+U19+0+-+3+Club+Brugge+U19&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=UEFA+Youth+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+de+Madrid+U19+0+-+4+Club+Brugge+U19&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=UEFA+Youth+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -142,6 +142,96 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/8d978ee68f95eda53973c1d70b8a1509/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohl71leq1z",
+          "name": "Villarreal U19 0 - 0 Paris Saint Germain U19",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Villarreal+U19+0+-+0+Paris+Saint+Germain+U19&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=UEFA+Youth+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3251894045c6a5ad5cb9aaf98ec5500b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Ngố",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/159e35c83db71ffbd05501a0143a7225/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk62yjrz8",
+          "name": "Braga U23 0 - 0 Leixoes U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Braga+U23+0+-+0+Leixoes+U23&t2=&live=1&lg=Portuguese+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f39c129ccac08e7f27a4a48c92595bc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8b4cc7c3d27d4b99694c75bc1f5e993a/playlist.m3u8"
                         }
                       ]
                     }
