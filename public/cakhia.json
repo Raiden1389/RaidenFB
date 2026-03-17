@@ -10,106 +10,6 @@
   },
   "groups": [
     {
-      "id": "basketballchampionsleague",
-      "name": "Basketball Champions League",
-      "channels": [
-        {
-          "id": "111315",
-          "name": "Unicaja vs Joventut Badalona | 02:00 18-03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Unicaja&t2=Joventut+Badalona&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F80430f985036f02f596f67a22d95f7c9.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F48869422a02d4e07e365c93a54edb3a1.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:00 18-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "111319",
-          "name": "Würzburg vs Chalon/SaÔne | 02:00 18-03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=W%C3%BCrzburg&t2=Chalon%2FSa%C3%94ne&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fdade966d307d4410228ded40c9d8b4a0.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F40d227b105f73134e5f392d0ebd607fe.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:00 18-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "111324",
-          "name": "Kalise Gran Canaria vs Nymburk | 02:30 18-03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kalise+Gran+Canaria&t2=Nymburk&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ffa25991caba39db79962bb7d7fd20cb3.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F9e43b47b1cdf3db5fbb9620a51264a28.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:30 18-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "111325",
-          "name": "Pallacanestro Trieste vs Isla De Tenerife Canarias | 02:30 18-03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pallacanestro+Trieste&t2=Isla+De+Tenerife+Canarias&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F7ed6fa442d4660128e2d50d2617781ea.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F83aad6c30debcc61a0d70cd522f28d43.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:30 18-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
       "id": "concacafchampionsleague",
       "name": "CONCACAF Champions League",
       "channels": [
@@ -200,6 +100,198 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.inplyr.com/room/147801.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "111378",
+          "name": "Inter Miami CF vs Nashville | 06:00 19-03 | BLV MESSI",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Inter+Miami+CF&t2=Nashville&blv=BLV+MESSI&lg=CONCACAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F40ef65b274b0ff7eaf14bddd0c65fffc.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Feafb707bc6f8028dc71923176915c8e3.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 06:00 19-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV MESSI",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV MESSI",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/494201.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "111382",
+          "name": "Club America vs Philadelphia Union | 08:00 19-03 | RICKHANTER",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+America&t2=Philadelphia+Union&blv=RICKHANTER&lg=CONCACAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe3ee5547b8ad47fb841bb1bb08836591.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F574f1ee560e8835e605176cac36a87db.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 08:00 19-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 RICKHANTER",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV RICKHANTER",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/123226.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "111385",
+          "name": "Toluca vs San Diego FC | 10:00 19-03 | BLV 7UP",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Toluca&t2=San+Diego+FC&blv=BLV+7UP&lg=CONCACAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe2df637597a2aa35f201a7ca93392c24.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F4431a6b60ebf9369297717921a290687.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 10:00 19-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV 7UP",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV 7UP",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/534219.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "111386",
+          "name": "Seattle Sounders vs Vancouver Whitecaps | 10:00 19-03 | BLV RAMBO",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Seattle+Sounders&t2=Vancouver+Whitecaps&blv=BLV+RAMBO&lg=CONCACAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fed962d3f5e2ce55c2e7d8685cfe5a61e.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F527dcdb6260004a2c8f61fae9345f133.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 10:00 19-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV RAMBO",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV RAMBO",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/534055.m3u8"
                         }
                       ]
                     }
@@ -314,26 +406,26 @@
           ]
         },
         {
-          "id": "111169",
-          "name": "Chelsea vs Paris Saint Germain | 03:00 18-03 | BLV SATIVA",
+          "id": "111368",
+          "name": "FC Barcelona vs Newcastle United | 00:45 19-03 | THẠCH TÚ",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chelsea&t2=Paris+Saint+Germain&blv=BLV+SATIVA&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb365ad0e85e2b1bcbf63f7a0f2f70a79.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3b720f181ce9993f9422d276acf7b292.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Barcelona&t2=Newcastle+United&blv=TH%E1%BA%A0CH+T%C3%9A&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ff378eb1ea04e53999b89051aa3244de6.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5dbe320855e3ba772dbce54f940c6fa5.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 03:00 18-03",
+              "text": "⏰ 00:45 19-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV SATIVA",
+              "text": "👨‍💼 THẠCH TÚ",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -346,12 +438,156 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV SATIVA",
+                      "name": "BLV THẠCH TÚ",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/321443.m3u8"
+                          "url": "https://live.inplyr.com/room/344370.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "111370",
+          "name": "FC Bayern Munich vs Atalanta | 03:00 19-03 | BLV CÒ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bayern+Munich&t2=Atalanta&blv=BLV+C%C3%92&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F4c7e35b5134ebf4d92bdf0e88519e077.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F45c9647899b8bf2fb6f988c6c33b964c.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 03:00 19-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV CÒ",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV CÒ",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/582342.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "111371",
+          "name": "Tottenham Hotspur vs Atletico Madrid | 03:00 19-03 | BLV TOMMY",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tottenham+Hotspur&t2=Atletico+Madrid&blv=BLV+TOMMY&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ff5da8fc911a5ca139398448d6969da71.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F15f730f481d1ae7c75c1d28ee2862adc.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 03:00 19-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV TOMMY",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV TOMMY",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/414317.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "111372",
+          "name": "Liverpool vs Galatasaray | 03:00 19-03 | SAO LA",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Liverpool&t2=Galatasaray&blv=SAO+LA&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F0a11e714b8ccb1e287520857bd6cf01c.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5687dc26a16e15395ad9dfd0eab34009.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 03:00 19-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 SAO LA",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV SAO LA",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/462413.m3u8"
                         }
                       ]
                     }
