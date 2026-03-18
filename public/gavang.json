@@ -14,90 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "pxwrxlhyxk4gryk",
-          "name": "Millonarios 3 - 0 Atletico Nacional Medellin",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Millonarios+3+-+0+Atletico+Nacional+Medellin&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fed2c3c63bb473c8c0dd589b06d395fc7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b1f70cf54f736574820d547542ffc672/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8ghelk7jr6o",
-          "name": "Phoenix Rising FC 3 - 0 San Ramon",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Phoenix+Rising+FC+3+-+0+San+Ramon&t2=&live=1&lg=United+States+Open+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F69ca0eb3844f68d556661ac5d04a987e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/d0bf6b30b14c82f0a2b73c1703cd4a19/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "jw2r09hk690wrz8",
           "name": "Tijuana Women 2 - 1 Unam Pumas Women",
           "type": "single",
@@ -172,6 +88,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/b386624d72096accb39d38a0fe8d4fe4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk15d9r1g",
+          "name": "Melbourne City Women 0 - 0 Adelaide United Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Melbourne+City+Women+0+-+0+Adelaide+United+Women&t2=&live=1&lg=Australia+W-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8e4ee379c696e9fdc87bbc192766c199%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d7cfd3de85ea5b7bf4881cd2d143392e/playlist.m3u8"
                         }
                       ]
                     }
