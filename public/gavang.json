@@ -99,13 +99,13 @@
         },
         {
           "id": "2y8m4zh5v9vyql0",
-          "name": " 0 - 1 Persimi Sarmi",
+          "name": " 1 - 2 Persimi Sarmi",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=+0+-+1+Persimi+Sarmi&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F56d13539a6c22d8640f47d9b632caea8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=+1+-+2+Persimi+Sarmi&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F56d13539a6c22d8640f47d9b632caea8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -172,6 +172,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/2ee21bfa007d83de0259bec0c530ed21/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq2ghnn78jm0v",
+          "name": "Tuloy FC 0 - 0 Valenzuela PB–Mendiola",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tuloy+FC+0+-+0+Valenzuela+PB%E2%80%93Mendiola&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb755491e57183266ccb57bd8fcbffa7d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/078e5fdbffedec92c61a6eb6bd4b41d7/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghlp6j3moe",
+          "name": "Hekari Souths United FC 0 - 0 Tahiti United FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hekari+Souths+United+FC+0+-+0+Tahiti+United+FC&t2=&live=1&lg=OFC+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2c4650693532a8c428f0dce9b6ce1eb0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d0d3c97170592186ff5dfe03b743ff71/playlist.m3u8"
                         }
                       ]
                     }
