@@ -15,13 +15,13 @@
       "channels": [
         {
           "id": "l5ergph4lg1pr8k",
-          "name": "Solomon Kings FC 1 - 0 South Melbourne",
+          "name": "Solomon Kings FC 1 - 1 South Melbourne",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Solomon+Kings+FC+1+-+0+South+Melbourne&t2=&live=1&lg=OFC+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5249a7f6345e8268ff61950a1baccf06%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Solomon+Kings+FC+1+-+1+South+Melbourne&t2=&live=1&lg=OFC+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5249a7f6345e8268ff61950a1baccf06%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -99,13 +99,13 @@
         },
         {
           "id": "zp5rzghgxd7oq82",
-          "name": "Chinese Taipei Women 0 - 1 North Korea Women",
+          "name": "Chinese Taipei Women 0 - 4 North Korea Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chinese+Taipei+Women+0+-+1+North+Korea+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F6Dsfqthl-Iu66xHEi.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chinese+Taipei+Women+0+-+4+North+Korea+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=AFC+Women%E2%80%99s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F6Dsfqthl-Iu66xHEi.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -136,6 +136,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/753eafc9b95d0bb4a472ab4403c85318/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqddhjjp42q51",
+          "name": "Cheonan Hyundai Capital Skywalkers 0 - 0 KAL Jumbos",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cheonan+Hyundai+Capital+Skywalkers+0+-+0+KAL+Jumbos&t2=&live=1&lg=Volleyball+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F40e82675ff0516c19c97c8c29235b1f2%2Fimage%2Fsmall&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/657f1f8e16b04709c62f8a314667cd02/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hkkdw6rz8",
+          "name": "Chanmari FC 0 - 0 Shillong Lajong FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chanmari+FC+0+-+0+Shillong+Lajong+FC&t2=&live=1&lg=Indian+League+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5e56e8ef414c4fe2117e9eaf86b55393%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f3fee22c151113938a768029c93f286c/playlist.m3u8"
                         }
                       ]
                     }
