@@ -14,102 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "3glrw7hnn8xjqdy",
-          "name": "AEK Larnaca 1 - 1 Crystal Palace",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AEK+Larnaca+1+-+1+Crystal+Palace&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F67488ac74cdf26100b908ed64989e3c5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/bb452c69bca38f539d76a1b68ea04e8d/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghnn23zm0v",
-          "name": "Midtjylland 1 - 2 Nottingham Forest",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Midtjylland+1+-+2+Nottingham+Forest&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff887834202b0a1ec91ef56594a520579%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Ngố",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Ngố",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e6fee88dd834f2052298e2dd4b1f4c57/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "965mkyhkkvjkr1g",
           "name": "1. FSV Mainz 05 2 - 0 Sigma Olomouc",
           "type": "single",
@@ -495,13 +399,13 @@
         },
         {
           "id": "jw2r09hk287wrz8",
-          "name": "Sociedad Deportiva Aucas 0 - 0 Tecnico Universitario",
+          "name": "Sociedad Deportiva Aucas 0 - 1 Tecnico Universitario",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sociedad+Deportiva+Aucas+0+-+0+Tecnico+Universitario&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a156a7e4977427fc1dec08eac881161%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sociedad+Deportiva+Aucas+0+-+1+Tecnico+Universitario&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a156a7e4977427fc1dec08eac881161%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -536,14 +440,56 @@
           ]
         },
         {
-          "id": "1l4rjnh997wlm7v",
-          "name": "FC Porto 0 - 0 VfB Stuttgart",
+          "id": "1l4rjnh9978lm7v",
+          "name": "Rayo Vallecano 0 - 0 Samsunspor",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Porto+0+-+0+VfB+Stuttgart&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb70c3666c4f50a1a56ebff4fdc34c706%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rayo+Vallecano+0+-+0+Samsunspor&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff86cbae7177f47347f38e22c4a7998d9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3f3910f8823d95f8afb327ee72bfdb25/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh997wlm7v",
+          "name": "FC Porto 1 - 0 VfB Stuttgart",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Porto+1+-+0+VfB+Stuttgart&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb70c3666c4f50a1a56ebff4fdc34c706%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -585,13 +531,13 @@
         },
         {
           "id": "6ypq3nhvv920md7",
-          "name": "Sparta Praha 0 - 0 AZ Alkmaar",
+          "name": "Sparta Praha 0 - 1 AZ Alkmaar",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sparta+Praha+0+-+0+AZ+Alkmaar&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F07aa4671dcd9d74d0976c397e2bc9a6c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sparta+Praha+0+-+1+AZ+Alkmaar&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F07aa4671dcd9d74d0976c397e2bc9a6c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -616,6 +562,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/192e10571c9751c700264b51fd2b9fdb/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8yomo4h11pweq0j",
+          "name": "FC Shakhtar Donetsk 0 - 2 Lech Poznan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Shakhtar+Donetsk+0+-+2+Lech+Poznan&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F12e1c5dbe81840568955ea5269ac8d56%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/dfbb3bb795990f7ba5cac9215e059c19/playlist.m3u8"
                         }
                       ]
                     }
@@ -675,13 +663,13 @@
         },
         {
           "id": "dn1m1ghl9l22moe",
-          "name": "Independiente Rivadavia Reserves 0 - 0 Huracan Reserves",
+          "name": "Independiente Rivadavia Reserves 2 - 0 Huracan Reserves",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Independiente+Rivadavia+Reserves+0+-+0+Huracan+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7705c32fafa0405201e9778b99f89b6a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Independiente+Rivadavia+Reserves+2+-+0+Huracan+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7705c32fafa0405201e9778b99f89b6a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -717,13 +705,13 @@
         },
         {
           "id": "ednm9whwwn37ryo",
-          "name": "AS Roma 0 - 0 Bologna",
+          "name": "AS Roma 1 - 2 Bologna",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Roma+0+-+0+Bologna&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45de99d8eedecac58ee6ea005e11ab0c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Roma+1+-+2+Bologna&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45de99d8eedecac58ee6ea005e11ab0c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -765,13 +753,13 @@
         },
         {
           "id": "k82rekhggk5erep",
-          "name": "RC Strasbourg Alsace 0 - 0 Rijeka",
+          "name": "RC Strasbourg Alsace 0 - 1 Rijeka",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=RC+Strasbourg+Alsace+0+-+0+Rijeka&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5c858003d3fc3fcb6ca569ca3aefabaa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=RC+Strasbourg+Alsace+0+-+1+Rijeka&t2=&live=1&lg=UEFA+Europa+Conference+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5c858003d3fc3fcb6ca569ca3aefabaa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -807,13 +795,13 @@
         },
         {
           "id": "n54qllhnn0okqvy",
-          "name": "Real Betis 0 - 0 Panathinaikos",
+          "name": "Real Betis 2 - 0 Panathinaikos",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Betis+0+-+0+Panathinaikos&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8cea83e71494928de3ba9b45ffc3f97e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Betis+2+-+0+Panathinaikos&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Europa+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8cea83e71494928de3ba9b45ffc3f97e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
