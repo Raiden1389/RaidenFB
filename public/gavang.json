@@ -14,90 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "l5ergph4lg1pr8k",
-          "name": "Solomon Kings FC 1 - 1 South Melbourne",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Solomon+Kings+FC+1+-+1+South+Melbourne&t2=&live=1&lg=OFC+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5249a7f6345e8268ff61950a1baccf06%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/7fd2f343efeb03f13dd0580f97fd4189/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y0or58h56y19rwz",
-          "name": "Berel VKO Women 0 - 0 Aktobe Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Berel+VKO+Women+0+-+0+Aktobe+Women&t2=&live=1&lg=National+League+Women&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F397983639eb87dc6f0ff3b41b645e159%2Fimage%2Fsmall&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e83989a19e077f75bc57b30798c23d43/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "l7oqddhjjp42q51",
           "name": "Cheonan Hyundai Capital Skywalkers 0 - 0 KAL Jumbos",
           "type": "single",
@@ -141,13 +57,13 @@
         },
         {
           "id": "jw2r09hkkdw6rz8",
-          "name": "Chanmari FC 1 - 1 Shillong Lajong FC",
+          "name": "Chanmari FC 1 - 2 Shillong Lajong FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chanmari+FC+1+-+1+Shillong+Lajong+FC&t2=&live=1&lg=Indian+League+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5e56e8ef414c4fe2117e9eaf86b55393%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chanmari+FC+1+-+2+Shillong+Lajong+FC&t2=&live=1&lg=Indian+League+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5e56e8ef414c4fe2117e9eaf86b55393%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -183,13 +99,13 @@
         },
         {
           "id": "965mkyhk3kner1g",
-          "name": "FK Oleksandria 0 - 2 Dynamo Kyiv",
+          "name": "FK Oleksandria 0 - 4 Dynamo Kyiv",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Oleksandria+0+-+2+Dynamo+Kyiv&t2=&live=1&lg=Ukrainian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F468b2a449a24c8e4c16c9d1822db9829%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Oleksandria+0+-+4+Dynamo+Kyiv&t2=&live=1&lg=Ukrainian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F468b2a449a24c8e4c16c9d1822db9829%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -514,6 +430,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/3f31d2a94bebc7a69d62f68f31b216c5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4wh7p3d0ql0",
+          "name": "Guangdong Glorious 0 - 0 Beijing BAIC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Guangdong+Glorious+0+-+0+Beijing+BAIC&t2=&live=1&lg=CVL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Fcd54fad9b1fd9495196e93fa1b8049f9%2Fimage%2Fsmall&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/cb668f22f94150056c25b38db2fb72e2/playlist.m3u8"
                         }
                       ]
                     }
