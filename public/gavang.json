@@ -14,216 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "965mkyhkndgkr1g",
-          "name": "KS Elbasani 0 - 0 Egnatia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=KS+Elbasani+0+-+0+Egnatia&t2=&live=1&lg=Albanian+Super+league&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F43794ce074ec83ea1ee5c2491b42179b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ae9392fe11e9c38a42ac881909591102/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dj2ryohl7pg7q1z",
-          "name": "Wadi Degla SC 0 - 0 El Gounah",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wadi+Degla+SC+0+-+0+El+Gounah&t2=&live=1&lg=Egyptian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F14481ffc448031c10ce10499008008ae%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/3fbf0267b6249ddb9c50b0c587e67b0d/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "jw2r09hkx8x7rz8",
-          "name": "GD Chaves 0 - 2 Uniao Leiria",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=GD+Chaves+0+-+2+Uniao+Leiria&t2=&live=1&lg=Liga+Portugal+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6cb412203b0a59289ebd6707aef8eba2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/0050dd61aed5785274543747073ee581/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8ghej6j1r6o",
-          "name": "SV Wehen Wiesbaden 0 - 1 Hansa Rostock",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=SV+Wehen+Wiesbaden+0+-+1+Hansa+Rostock&t2=&live=1&lg=German+3.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd90097f25222b1757bee609300d3fdaf%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/f8eff99af35d949a13223041302931bd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y0or5jh89yedqwz",
-          "name": "CA Independiente Women 0 - 2 River Plate Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Independiente+Women+0+-+2+River+Plate+Women&t2=&live=1&lg=Argentine+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fac385c73636c7fc2533de51fbed9ea02%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a27d1124988b59d9e163ee875173f0b7/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "4jwq2ghng910m0v",
           "name": "Sturm Graz 1 - 1 Red Bull Salzburg",
           "type": "single",
@@ -1526,6 +1316,48 @@
           ]
         },
         {
+          "id": "zp5rzghgxolxq82",
+          "name": "Perugia 1 - 1 Sassari Torres",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Perugia+1+-+1+Sassari+Torres&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F62f54b596657448b0d4aebde415ff6b6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/98a91646177d5be7861c4aca7f358669/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "dj2ryohle2p8q1z",
           "name": "Waterford United 0 - 2 St. Patricks Athletic",
           "type": "single",
@@ -1784,83 +1616,6 @@
           ]
         },
         {
-          "id": "4wyrn4h6e4owq86",
-          "name": "Bournemouth AFC 2 - 2 Manchester United",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bournemouth+AFC+2+-+2+Manchester+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F11cb134e32330cfea63c72e23a1cc477%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Phệ",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Phệ",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/bbf06cc09927790cb652cd299a2cd117/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "aa8704ffdb054fb7a9dc2d0b84ee7ba7",
-          "name": "Bournemouth AFC 0 - 0 Manchester United",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bournemouth+AFC+0+-+0+Manchester+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F11cb134e32330cfea63c72e23a1cc477%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Son",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "jw2r09hk613orz8",
           "name": "Bohemians 1 - 1 Dundalk",
           "type": "single",
@@ -1945,14 +1700,56 @@
           ]
         },
         {
-          "id": "dj2ryohlgky3q1z",
-          "name": "CF Estrela Amadora SAD 3 - 0 Casa Pia AC",
+          "id": "zp5rzghg507oq82",
+          "name": "Bogota FC 0 - 2 Deportes Quindio",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CF+Estrela+Amadora+SAD+3+-+0+Casa+Pia+AC&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2a72aab5d7472e69249c35ee70277adc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bogota+FC+0+-+2+Deportes+Quindio&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13b0c7e244914f1707717fb286ef8e7c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/b8c53bda92fa9e237925deff6e605898/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohlgky3q1z",
+          "name": "CF Estrela Amadora SAD 4 - 0 Casa Pia AC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CF+Estrela+Amadora+SAD+4+-+0+Casa+Pia+AC&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2a72aab5d7472e69249c35ee70277adc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1988,13 +1785,13 @@
         },
         {
           "id": "2y8m4zh56px2ql0",
-          "name": "AD Tarma 1 - 0 FBC Melgar",
+          "name": "AD Tarma 1 - 1 FBC Melgar",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AD+Tarma+1+-+0+FBC+Melgar&t2=&live=1&lg=Peruvian+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe6990ebe89abe2d617d9f4d15515c6cd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AD+Tarma+1+-+1+FBC+Melgar&t2=&live=1&lg=Peruvian+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe6990ebe89abe2d617d9f4d15515c6cd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2030,13 +1827,13 @@
         },
         {
           "id": "vjxm8ghe5z19r6o",
-          "name": "Aguilas Doradas 0 - 0 America de Cali",
+          "name": "Aguilas Doradas 0 - 1 America de Cali",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Aguilas+Doradas+0+-+0+America+de+Cali&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdb5d5d7109bd03d77a175174fe8ed993%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Aguilas+Doradas+0+-+1+America+de+Cali&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdb5d5d7109bd03d77a175174fe8ed993%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
