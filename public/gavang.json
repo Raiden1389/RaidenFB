@@ -14,90 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "k82rekhg2p88rep",
-          "name": "Edgeworth Eagles Reserves 2 - 3 Valentine Phoenix Reserves",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Edgeworth+Eagles+Reserves+2+-+3+Valentine+Phoenix+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc25c90912a9ef3d659890d03b60a7cea%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b60e39d2b00784d05e11da8c86f63799/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y39mp1h6dgk9moj",
-          "name": "Adamstown Rosebud Reserves 1 - 1 Lambton Jaffas Reserves",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adamstown+Rosebud+Reserves+1+-+1+Lambton+Jaffas+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff5076ca72881a200553c230bdc271a26%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/f2a2635a69a3d916e0bfe229af7bd3ee/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "k82rekhg2pv7rep",
           "name": "Adelaide Comets Women 2 - 1 Modbury Vista (w)",
           "type": "single",
@@ -434,14 +350,62 @@
           ]
         },
         {
-          "id": "n54qllhnp6olqvy",
-          "name": "Dandenong City SC 1 - 0 Hume City",
+          "id": "4jwq2ghn6717m0v",
+          "name": "Western Sydney 2 - 4 Adelaide United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dandenong+City+SC+1+-+0+Hume+City&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8d06882fc85c80295436b15142193e27%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Western+Sydney+2+-+4+Adelaide+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Australia+A-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F716fc94578b70224d2786e73f3e681c1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Ngố",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8ebe73ad3f21838df38ead0e073a2593/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnp6olqvy",
+          "name": "Dandenong City SC 1 - 1 Hume City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dandenong+City+SC+1+-+1+Hume+City&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8d06882fc85c80295436b15142193e27%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -477,13 +441,13 @@
         },
         {
           "id": "318q66hxxlo4qo9",
-          "name": "Banik Ostrava U19 2 - 2 MFK Karvina U19",
+          "name": "Banik Ostrava U19 3 - 2 MFK Karvina U19",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Banik+Ostrava+U19+2+-+2+MFK+Karvina+U19&t2=&live=1&lg=Czech+U19+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F132aa19474cd6c972364c28bd1976e76%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Banik+Ostrava+U19+3+-+2+MFK+Karvina+U19&t2=&live=1&lg=Czech+U19+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F132aa19474cd6c972364c28bd1976e76%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -561,13 +525,13 @@
         },
         {
           "id": "dn1m1ghlk7ywmoe",
-          "name": "Brisbane Roar Women 4 - 1 Newcastle Jets Women",
+          "name": "Brisbane Roar Women 4 - 2 Newcastle Jets Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brisbane+Roar+Women+4+-+1+Newcastle+Jets+Women&t2=&live=1&lg=Australia+W-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3475ff3c7b620d2c654f9d75b728181b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brisbane+Roar+Women+4+-+2+Newcastle+Jets+Women&t2=&live=1&lg=Australia+W-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3475ff3c7b620d2c654f9d75b728181b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -603,13 +567,13 @@
         },
         {
           "id": "n54qllhnn14vqvy",
-          "name": "Edgeworth Eagles FC 1 - 1 Valentine",
+          "name": "Edgeworth Eagles FC 2 - 1 Valentine",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Edgeworth+Eagles+FC+1+-+1+Valentine&t2=&live=1&lg=Australia+Northern+New+South+Wales+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd8cfa0e8720f81aa7183d31a8bb24bdb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Edgeworth+Eagles+FC+2+-+1+Valentine&t2=&live=1&lg=Australia+Northern+New+South+Wales+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd8cfa0e8720f81aa7183d31a8bb24bdb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -687,13 +651,13 @@
         },
         {
           "id": "y0or5jh894x0qwz",
-          "name": "Adelaide Raiders SC 4 - 0 Adelaide Atletico",
+          "name": "Adelaide Raiders SC 5 - 0 Adelaide Atletico",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+Raiders+SC+4+-+0+Adelaide+Atletico&t2=&live=1&lg=South+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc3c22bfc33be7d5403c8cd1a92a80f69%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+Raiders+SC+5+-+0+Adelaide+Atletico&t2=&live=1&lg=South+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc3c22bfc33be7d5403c8cd1a92a80f69%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -729,13 +693,13 @@
         },
         {
           "id": "23xmvkh6pjn7qg8",
-          "name": "Oakleigh Cannons 1 - 1 Caroline Springs George Cross",
+          "name": "Oakleigh Cannons 2 - 1 Caroline Springs George Cross",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Oakleigh+Cannons+1+-+1+Caroline+Springs+George+Cross&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F376f1bd1ea18cd50c6fee5ae3e22b410%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Oakleigh+Cannons+2+-+1+Caroline+Springs+George+Cross&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F376f1bd1ea18cd50c6fee5ae3e22b410%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -771,13 +735,13 @@
         },
         {
           "id": "n54qllhn4e59qvy",
-          "name": "Eastern United 2 - 3 Adelaide Cobras FC",
+          "name": "Eastern United 2 - 4 Adelaide Cobras FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eastern+United+2+-+3+Adelaide+Cobras+FC&t2=&live=1&lg=South+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7de6f57e1d09daf921cf34bc3ca70da9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eastern+United+2+-+4+Adelaide+Cobras+FC&t2=&live=1&lg=South+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7de6f57e1d09daf921cf34bc3ca70da9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -813,13 +777,13 @@
         },
         {
           "id": "vjxm8ghee3w0r6o",
-          "name": "Launceston City 2 - 1 Riverside Olympic",
+          "name": "Launceston City 2 - 3 Riverside Olympic",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Launceston+City+2+-+1+Riverside+Olympic&t2=&live=1&lg=Australia+Tasmania+National+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F35f80f1ef55d303e4039a8925be0a0de%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Launceston+City+2+-+3+Riverside+Olympic&t2=&live=1&lg=Australia+Tasmania+National+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F35f80f1ef55d303e4039a8925be0a0de%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -855,13 +819,13 @@
         },
         {
           "id": "4wyrn4h66g89q86",
-          "name": "Viktoria Plzen U19 2 - 0 Sigma Olomouc U19",
+          "name": "Viktoria Plzen U19 2 - 2 Sigma Olomouc U19",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Viktoria+Plzen+U19+2+-+0+Sigma+Olomouc+U19&t2=&live=1&lg=Czech+U19+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa1cf6b0096cfac2b6f70a80bd30a6992%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Viktoria+Plzen+U19+2+-+2+Sigma+Olomouc+U19&t2=&live=1&lg=Czech+U19+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa1cf6b0096cfac2b6f70a80bd30a6992%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -939,13 +903,13 @@
         },
         {
           "id": "y39mp1h60jv9moj",
-          "name": "West Torrens Birkalla 0 - 0 White City Woodville",
+          "name": "West Torrens Birkalla 1 - 0 White City Woodville",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Torrens+Birkalla+0+-+0+White+City+Woodville&t2=&live=1&lg=South+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F431f55ccd3fada4ca7ff3ab8c788a6cb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Torrens+Birkalla+1+-+0+White+City+Woodville&t2=&live=1&lg=South+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F431f55ccd3fada4ca7ff3ab8c788a6cb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -981,13 +945,13 @@
         },
         {
           "id": "y39mp1h644w0moj",
-          "name": "Peninsula Power 1 - 1 Gold Coast United",
+          "name": "Peninsula Power 3 - 2 Gold Coast United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Peninsula+Power+1+-+1+Gold+Coast+United&t2=&live=1&lg=Australia+National+Premier+Leagues+Queensland&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb71ac6873d0bf4c5fb6215e9518640ac%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Peninsula+Power+3+-+2+Gold+Coast+United&t2=&live=1&lg=Australia+National+Premier+Leagues+Queensland&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb71ac6873d0bf4c5fb6215e9518640ac%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1023,13 +987,13 @@
         },
         {
           "id": "zp5rzghg69nyq82",
-          "name": "Preston Lions 0 - 0 Avondale FC",
+          "name": "Preston Lions 1 - 0 Avondale FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Preston+Lions+0+-+0+Avondale+FC&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff40af6fee64c0f23d65f2a12a7ae2a51%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Preston+Lions+1+-+0+Avondale+FC&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff40af6fee64c0f23d65f2a12a7ae2a51%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1065,13 +1029,13 @@
         },
         {
           "id": "318q66hx8yo9qo9",
-          "name": "Salisbury Inter Women 0 - 0 West Adelaide Women",
+          "name": "Salisbury Inter Women 1 - 1 West Adelaide Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Salisbury+Inter+Women+0+-+0+West+Adelaide+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe0fafd010019815b25afa86680b0f17f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Salisbury+Inter+Women+1+-+1+West+Adelaide+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe0fafd010019815b25afa86680b0f17f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1149,13 +1113,13 @@
         },
         {
           "id": "jw2r09hkk8l7rz8",
-          "name": "Mlada Boleslav U19 1 - 0 Vysocina Jihlava U19",
+          "name": "Mlada Boleslav U19 3 - 0 Vysocina Jihlava U19",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mlada+Boleslav+U19+1+-+0+Vysocina+Jihlava+U19&t2=&live=1&lg=Czech+U19+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb776f5b49e56cf9da73dd75c5ced77ca%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mlada+Boleslav+U19+3+-+0+Vysocina+Jihlava+U19&t2=&live=1&lg=Czech+U19+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb776f5b49e56cf9da73dd75c5ced77ca%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1274,6 +1238,48 @@
           ]
         },
         {
+          "id": "1l4rjnh99odvm7v",
+          "name": "Brisbane Knights 0 - 0 Southside Eagles",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brisbane+Knights+0+-+0+Southside+Eagles&t2=&live=1&lg=QLD+D2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff42851d9e5dfb88bea9fec3fac1e50f0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/29c3b4e668a207a3ce4b2823dc785b4f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "4jwq2ghnnydom0v",
           "name": "Pine Hills 0 - 0 Samford Rangers",
           "type": "single",
@@ -1317,13 +1323,13 @@
         },
         {
           "id": "dj2ryohlx191q1z",
-          "name": "Redlands United FC 0 - 0 Holland Park Hawks FC",
+          "name": "Redlands United FC 0 - 1 Holland Park Hawks FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Redlands+United+FC+0+-+0+Holland+Park+Hawks+FC&t2=&live=1&lg=Australia+Queensland+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21d12182372cb259dfcb484b2a7278bd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Redlands+United+FC+0+-+1+Holland+Park+Hawks+FC&t2=&live=1&lg=Australia+Queensland+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21d12182372cb259dfcb484b2a7278bd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1390,6 +1396,264 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/52eac1a9a887c3ed12b292d7e4c6e7ee/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hxx445qo9",
+          "name": "Bayswater City 0 - 0 Western Knights",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bayswater+City+0+-+0+Western+Knights&t2=&live=1&lg=Western+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6967a925f46223a791e083930cdbbcf0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/974a73bb559f2708438f1226e2aefeb2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h66k6yq86",
+          "name": "Wuxi Wugo 0 - 0 Shenzhen Juniors",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wuxi+Wugo+0+-+0+Shenzhen+Juniors&t2=&live=1&lg=Chinese+Football+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0bc6ceff65bd9d53eb0e4c5edd03b640%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/95ccf83d8aba404be9f5fc3d9df22325/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgg7n2r51",
+          "name": "Sparta Praha U19 0 - 0 Slovan Liberec U19",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sparta+Praha+U19+0+-+0+Slovan+Liberec+U19&t2=&live=1&lg=Czech+U19+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbdbade8becd8b5f21f8ff7a9d93f6066%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a46005f8f401a727c4d7d7325598d233/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhyl90zryk",
+          "name": "FK Kapaz Ganca 0 - 0 Qarabag",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Kapaz+Ganca+0+-+0+Qarabag&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Azerbaijan+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbf37921a11bb514d8c77fffd5c4feccc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Nhí",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/757ff0fb8aaafad31e81cdb6178c8b81/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghg3ynpq82",
+          "name": "FK Atyrau 0 - 0 Zhenis Astana",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Atyrau+0+-+0+Zhenis+Astana&t2=&live=1&lg=Kazakhstan+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F110951d22ff14a3b048a7bb881c93e89%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9899a98724dba013a278a718dce7db9c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghggw1dq82",
+          "name": "Dalian Yingbo 0 - 0 Shanghai Port",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dalian+Yingbo+0+-+0+Shanghai+Port&t2=&live=1&lg=Chinese+Football+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F961d938ed1bbee075aad15cde812fd6b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8a0b10919b5424b33187468368fd4342/playlist.m3u8"
                         }
                       ]
                     }
