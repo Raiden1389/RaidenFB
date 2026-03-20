@@ -266,14 +266,56 @@
           ]
         },
         {
-          "id": "k82rekhg2p88rep",
-          "name": "Edgeworth Eagles Reserves 0 - 0 Valentine Phoenix Reserves",
+          "id": "y0or58h56ppzrwz",
+          "name": "Astana Women 0 - 0 Turan Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Edgeworth+Eagles+Reserves+0+-+0+Valentine+Phoenix+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc25c90912a9ef3d659890d03b60a7cea%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Astana+Women+0+-+0+Turan+Women&t2=&live=1&lg=National+League+Women&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F9d025928e1a64bb1060a7faa5a67b793%2Fimage%2Fsmall&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5f9dac861f1639547654623f221be74a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhg2p88rep",
+          "name": "Edgeworth Eagles Reserves 1 - 0 Valentine Phoenix Reserves",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Edgeworth+Eagles+Reserves+1+-+0+Valentine+Phoenix+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc25c90912a9ef3d659890d03b60a7cea%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -340,6 +382,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/f2a2635a69a3d916e0bfe229af7bd3ee/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhg2pv7rep",
+          "name": "Adelaide Comets Women 0 - 0 Modbury Vista (w)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+Comets+Women+0+-+0+Modbury+Vista+%28w%29&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F432af51576ed9141bda517b178cbdb19%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a927cf53c22ef6f7849c9d351e4215d8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6dg3lmoj",
+          "name": "Flinders United Women 0 - 0 West Torrens Birkalla Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Flinders+United+Women+0+-+0+West+Torrens+Birkalla+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ef6137ef748e9388337864cf5590930%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4158daf0d469b20bec5cde378896ac58/playlist.m3u8"
                         }
                       ]
                     }
