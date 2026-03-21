@@ -14,54 +14,6 @@
       "name": "English Premier League",
       "channels": [
         {
-          "id": "112092",
-          "name": "Leeds United vs Brentford | 03:00 22-03 | CÚ ĐÊM",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Leeds+United&t2=Brentford&blv=C%C3%9A+%C4%90%C3%8AM&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F257d758c5cf43453ecfb0a91d1802d3a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F60f1c7788be3148a370dbf59f914abfe.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 03:00 22-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 CÚ ĐÊM",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV CÚ ĐÊM",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/547345.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "112130",
           "name": "Newcastle United vs Sunderland | 19:00 22-03 | BLV TOMMY",
           "type": "single",
@@ -214,29 +166,6 @@
       "name": "Guatemala Liga Nacional",
       "channels": [
         {
-          "id": "112742",
-          "name": "Coban Imperial vs Deportivo Mixco | 03:00 22-03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Coban+Imperial&t2=Deportivo+Mixco&lg=Guatemala+Liga+Nacional&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3a31c79c215989b231a8219c016ad8ae.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fbe0e07ce9d878a141aff47f69a7278db.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 03:00 22-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "112775",
           "name": "CD Achuapa vs Deportivo Mictlan | 05:00 22-03",
           "type": "single",
@@ -315,54 +244,6 @@
       "id": "spanishlaliga",
       "name": "Spanish La Liga",
       "channels": [
-        {
-          "id": "112091",
-          "name": "Sevilla FC vs Valencia CF | 03:00 22-03 | BLV ANH TÀI",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sevilla+FC&t2=Valencia+CF&blv=BLV+ANH+T%C3%80I&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd20ed1da4f299cc3ef0e1e9eb06eced1.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3b54543c1a584e2e9948d655142996d3.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 03:00 22-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV ANH TÀI",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV ANH TÀI",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/406865.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "112131",
           "name": "FC Barcelona vs Rayo Vallecano | 20:00 22-03 | TAM MAO",
