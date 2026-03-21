@@ -14,138 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "8yomo4h1gz67q0j",
-          "name": "Sligo Rovers 0 - 1 Shelbourne",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sligo+Rovers+0+-+1+Shelbourne&t2=&live=1&lg=Ireland+Premier+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52a518ab854f46f85f4da13f6261cd43%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/93116ec5f2b789be21592a7589d0a6b6/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dj2ryohlkw41q1z",
-          "name": "Juventus 1 - 1 Sassuolo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Juventus+1+-+1+Sassuolo&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe920c56ae5ec3de93095b288a7cf2f21%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Súp",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Súp",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/1a5715ea8d1651b124f1734712a34f75/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "n54qllhn4770qvy",
-          "name": "Botafogo PB 0 - 0 Sousa PB",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Botafogo+PB+0+-+0+Sousa+PB&t2=&live=1&lg=Brazilian+Campeonato+Paraibano&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F80aedd028c8fb25a41cd70456c0630c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/69e17590f5b88e399fade02693c50c94/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh9136km7v",
           "name": "PEC Zwolle 2 - 1 NAC Breda",
           "type": "single",
@@ -1287,13 +1155,13 @@
         },
         {
           "id": "318q66hx6gv5qo9",
-          "name": "Tristan Suarez 1 - 0 Gimnasia Jujuy",
+          "name": "Tristan Suarez 2 - 0 Gimnasia Jujuy",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tristan+Suarez+1+-+0+Gimnasia+Jujuy&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7f7e5db8dd2e6ec9872765fee2d109a4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tristan+Suarez+2+-+0+Gimnasia+Jujuy&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7f7e5db8dd2e6ec9872765fee2d109a4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1371,13 +1239,13 @@
         },
         {
           "id": "dn1m1ghl0x10moe",
-          "name": "Nashville 3 - 0 Orlando City",
+          "name": "Nashville 4 - 0 Orlando City",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nashville+3+-+0+Orlando+City&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F945ef8bf48981f0a74b002d15fa4a696%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nashville+4+-+0+Orlando+City&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F945ef8bf48981f0a74b002d15fa4a696%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1539,13 +1407,13 @@
         },
         {
           "id": "1l4rjnh9nwk5m7v",
-          "name": "Vocem SP 2 - 0 Lemense",
+          "name": "Vocem SP 2 - 1 Lemense",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vocem+SP+2+-+0+Lemense&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcee8b8f97bbefb52b21fde019d92b7db%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vocem+SP+2+-+1+Lemense&t2=&live=1&lg=Brazilian+Campeonato+Paulista+A4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcee8b8f97bbefb52b21fde019d92b7db%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1707,13 +1575,13 @@
         },
         {
           "id": "4wyrn4h6o66jq86",
-          "name": "Brooklyn FC 0 - 1 Hartford Athletic",
+          "name": "Brooklyn FC 0 - 2 Hartford Athletic",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brooklyn+FC+0+-+1+Hartford+Athletic&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4cb95a27260779db1e60d50f57c78bed%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brooklyn+FC+0+-+2+Hartford+Athletic&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4cb95a27260779db1e60d50f57c78bed%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1916,6 +1784,90 @@
           ]
         },
         {
+          "id": "y0or5jh8o7leqwz",
+          "name": "Indy Eleven 1 - 0 Detroit City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Indy+Eleven+1+-+0+Detroit+City&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F18fcf410d0c0ee8609b50445f636cff4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/02bc1beb946c3a0c5a7affe7e3581047/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h60p6xmoj",
+          "name": "Atlante FC 0 - 0 Club Deportivo Dorados de Sinaloa",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atlante+FC+0+-+0+Club+Deportivo+Dorados+de+Sinaloa&t2=&live=1&lg=Mexico+Ascenso+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa2cec220818b782dcc03d57dce71417c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fe344f21bebb5993339d96f296a69d7d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "x7lm7phj3168m2w",
           "name": "Deportiva Once Caldas 0 - 0 Millonarios",
           "type": "single",
@@ -2001,13 +1953,13 @@
         },
         {
           "id": "jw2r09hk031krz8",
-          "name": "Charlotte FC 0 - 0 New York Red Bulls",
+          "name": "Charlotte FC 1 - 0 New York Red Bulls",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Charlotte+FC+0+-+0+New+York+Red+Bulls&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2d9b31d68cd29921aa481b2f2d47b868%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Charlotte+FC+1+-+0+New+York+Red+Bulls&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2d9b31d68cd29921aa481b2f2d47b868%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2116,6 +2068,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/41c7461e33496af3985c0337c7a0ac7a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8nozgqwz",
+          "name": "Alianza Lima 0 - 0 Juan Pablo II",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Alianza+Lima+0+-+0+Juan+Pablo+II&t2=&live=1&lg=Peruvian+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2bc5e6d30faf897e56daac1aab49230%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e62e84e64e38be014f4da1c1907f124c/playlist.m3u8"
                         }
                       ]
                     }
