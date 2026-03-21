@@ -14,29 +14,6 @@
       "name": "CAF Champions League",
       "channels": [
         {
-          "id": "112571",
-          "name": "Pyramids FC vs AS FAR Rabat | 23:00 21-03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pyramids+FC&t2=AS+FAR+Rabat&lg=CAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F0c750c05518db78eeabc97fb11574fed.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fcded7b7cce01069ad7d13ebf14a03723.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 23:00 21-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "112705",
           "name": "Al Ahly FC vs Esperance Sportive de Tunis | 02:00 22-03",
           "type": "single",
@@ -337,6 +314,29 @@
           ],
           "sources": [],
           "enable_detail": false
+        },
+        {
+          "id": "112775",
+          "name": "CD Achuapa vs Deportivo Mictlan | 05:00 22-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CD+Achuapa&t2=Deportivo+Mictlan&lg=Guatemala+Liga+Nacional&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F8686acc2f3df2d7830a8490a29c3d499.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F627ee10aee931e57dfebaba725d26a94.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 05:00 22-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
         }
       ],
       "display": "vertical",
@@ -346,54 +346,6 @@
       "id": "spanishlaliga",
       "name": "Spanish La Liga",
       "channels": [
-        {
-          "id": "111835",
-          "name": "RCD Espanyol vs Getafe | 22:15 21-03 | BLV VIP",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=RCD+Espanyol&t2=Getafe&blv=BLV+VIP&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F214049d4df11756a2eb21bbd8266e2a1.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F36bf5bf0c8fdf08c1270124808f060e1.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 22:15 21-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV VIP",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV VIP",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/491873.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "112085",
           "name": "Levante vs Real Oviedo | 00:30 22-03 | BLV FIREMAN",
