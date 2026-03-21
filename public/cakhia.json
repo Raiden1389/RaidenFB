@@ -10,12 +10,43 @@
   },
   "groups": [
     {
+      "id": "cafchampionsleague",
+      "name": "CAF Champions League",
+      "channels": [
+        {
+          "id": "112571",
+          "name": "Pyramids FC vs AS FAR Rabat | 23:00 21-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pyramids+FC&t2=AS+FAR+Rabat&lg=CAF+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F0c750c05518db78eeabc97fb11574fed.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fcded7b7cce01069ad7d13ebf14a03723.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 23:00 21-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
       "id": "englishpremierleague",
       "name": "English Premier League",
       "channels": [
         {
           "id": "111843",
-          "name": "Brighton Hove Albion vs Liverpool | 19:30 21-03 | TẠ BIÊN GIỚI",
+          "name": "Brighton Hove Albion vs Liverpool | 19:45 21-03 | TẠ BIÊN GIỚI",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
@@ -27,7 +58,7 @@
           },
           "labels": [
             {
-              "text": "⏰ 19:30 21-03",
+              "text": "⏰ 19:45 21-03",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
