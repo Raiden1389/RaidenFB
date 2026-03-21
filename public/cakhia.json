@@ -360,6 +360,37 @@
       "grid_number": 1
     },
     {
+      "id": "guatemalaliganacional",
+      "name": "Guatemala Liga Nacional",
+      "channels": [
+        {
+          "id": "112742",
+          "name": "Coban Imperial vs Deportivo Mixco | 03:00 22-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Coban+Imperial&t2=Deportivo+Mixco&lg=Guatemala+Liga+Nacional&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3a31c79c215989b231a8219c016ad8ae.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fbe0e07ce9d878a141aff47f69a7278db.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 03:00 22-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
       "id": "spanishlaliga",
       "name": "Spanish La Liga",
       "channels": [
