@@ -124,54 +124,6 @@
       "name": "Spanish La Liga",
       "channels": [
         {
-          "id": "112140",
-          "name": "RC Celta vs Deportivo Alavés | 22:15 22-03 | CÚ ĐÊM",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=RC+Celta&t2=Deportivo+Alav%C3%A9s&blv=C%C3%9A+%C4%90%C3%8AM&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ffd954d083ee85a6f1a3f2471dc756242.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ffffbebaa7a0c3c2db7e8d637a3de1811.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 22:15 22-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 CÚ ĐÊM",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV CÚ ĐÊM",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/547345.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "112821",
           "name": "Athletic Club vs Real Betis | 00:30 23-03 | BLV ALEX",
           "type": "single",
@@ -266,37 +218,6 @@
               ]
             }
           ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
-      "id": "spanishprimeradivisindelaligadeftbolfemenino",
-      "name": "Spanish Primera División de la Liga de Fútbol Femenino",
-      "channels": [
-        {
-          "id": "113294",
-          "name": "Eibar Women vs Real Madrid Women | 22:00 22-03",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eibar+Women&t2=Real+Madrid+Women&lg=Spanish+Primera+Divisi%C3%B3n+de+la+Liga+de+F%C3%BAtbol+Femenino&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F0eb58bcd5807ea2b12c95f0b506af6bb.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fa8b4d7362b24cfc910c7e652d6b4c874.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 22:00 22-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
         }
       ],
       "display": "vertical",
