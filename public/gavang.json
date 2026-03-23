@@ -14,35 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "05bff1a2b7494fdeadc49826eb69e340",
-          "name": "LP Bank Ninh Bình 0 - 0 Binh Chủng Thông Tin",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=LP+Bank+Ninh+B%C3%ACnh+0+-+0+Binh+Ch%E1%BB%A7ng+Th%C3%B4ng+Tin&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=B%C3%B3ng+Chuy%E1%BB%81n+N%E1%BB%AF+C%C3%BAp+Hoa+L%C6%B0+2026&l1=https%3A%2F%2Fvolleybox.net%2Fmedia%2Fupload%2Fteams%2Fbig_1741947201Tnk8q.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Ngố",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "vjxm8gheknvyr6o",
           "name": "CISF 0 - 0 Northern United FC",
           "type": "single",
@@ -112,6 +83,90 @@
           ],
           "sources": [],
           "enable_detail": false
+        },
+        {
+          "id": "vjxm8ghee2ljr6o",
+          "name": "FC Bulleen Lions Women 0 - 0 Bentleigh Greens Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bulleen+Lions+Women+0+-+0+Bentleigh+Greens+Women&t2=&live=1&lg=Australia+Victorian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc1cfa3e7f12f6a840a71e0c5030b9e2b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ced47872cb3d470e48eea306ada557b0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq2ghngkoem0v",
+          "name": "Adelaide Blue Eagles 0 - 0 Modbury Jets",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+Blue+Eagles+0+-+0+Modbury+Jets&t2=&live=1&lg=South+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7426a9657290ac950a4f525eae3fedae%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f56a217c84e50d5e78dc26532f15ba0b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
