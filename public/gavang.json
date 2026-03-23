@@ -14,77 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "vjxm8gheknvyr6o",
-          "name": "CISF 0 - 0 Northern United FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CISF+0+-+0+Northern+United+FC&t2=&live=1&lg=IND+DSD&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9d4ad973f95c525b7347a2058062aff9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ba940d6ec0a9cc75ea9a280f94a5e3d9/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "72f2c6ab1aa147bf8a7562c5ada82228",
-          "name": "VTV Bình Điền Long An 0 - 0 Vietinbank",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VTV+B%C3%ACnh+%C4%90i%E1%BB%81n+Long+An+0+-+0+Vietinbank&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Chung+K%E1%BA%BFt+-+B%C3%B3ng+Chuy%E1%BB%81n+N%E1%BB%AF+C%C3%BAp+Hoa+L%C6%B0+2026&l1=https%3A%2F%2Fvolleybox.net%2Fmedia%2Fupload%2Fteams%2Fbig_1740045997QPZs5.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Nhí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "vjxm8ghee2ljr6o",
           "name": "FC Bulleen Lions Women 6 - 0 Bentleigh Greens Women",
           "type": "single",
@@ -266,7 +195,7 @@
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=C%C3%B4ng+An+TP.H%E1%BB%93+Ch%C3%AD+Minh+0+-+0+H%C3%A0+N%E1%BB%99i&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=B%C3%A1n+K%E1%BA%BFt+-+B%C3%B3ng+Chuy%E1%BB%81n+Nam+C%C3%BAp+Hoa+L%C6%B0+2026&l1=https%3A%2F%2Fvolleybox.net%2Fmedia%2Fupload%2Fteams%2Fbig_1741069121w7O7q.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=C%C3%B4ng+An+TP.H%E1%BB%93+Ch%C3%AD+Minh+0+-+0+H%C3%A0+N%E1%BB%99i&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Tranh+H%E1%BA%A1ng+3+-+B%C3%B3ng+Chuy%E1%BB%81n+Nam+C%C3%BAp+Hoa+L%C6%B0+2026&l1=https%3A%2F%2Fvolleybox.net%2Fmedia%2Fupload%2Fteams%2Fbig_1741069121w7O7q.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -279,6 +208,35 @@
             },
             {
               "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "3glrw7hn4gggqdy",
+          "name": "AS Agareb 0 - 0 Stade Gabesien",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Agareb+0+-+0+Stade+Gabesien&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Tunisian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F96687c949a25aa424a7fa86cc5bf9a5e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Súp",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
