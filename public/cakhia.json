@@ -14,54 +14,6 @@
       "name": "Guatemala Liga Nacional",
       "channels": [
         {
-          "id": "112850",
-          "name": "Malacateco vs Aurora F.C. | 09:00 23-03 | HỘI GYM",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Malacateco&t2=Aurora+F.C.&blv=H%E1%BB%98I+GYM&lg=Guatemala+Liga+Nacional&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fec640b73ff64c3afa6f16a70dcd3035c.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fcba0e284f34d7726695b5261a3420abe.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 09:00 23-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 HỘI GYM",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV HỘI GYM",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/484845.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "113438",
           "name": "Antigua GFC vs Marquense | 09:00 24-03 | BLV PIRLO",
           "type": "single",
