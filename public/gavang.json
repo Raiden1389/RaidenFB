@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "vjxm8ghee2ljr6o",
-          "name": "FC Bulleen Lions Women 6 - 0 Bentleigh Greens Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bulleen+Lions+Women+6+-+0+Bentleigh+Greens+Women&t2=&live=1&lg=Australia+Victorian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc1cfa3e7f12f6a840a71e0c5030b9e2b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ced47872cb3d470e48eea306ada557b0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "4jwq2ghngkoem0v",
           "name": "Adelaide Blue Eagles 0 - 1 Modbury Jets",
           "type": "single",
@@ -140,54 +98,6 @@
           ]
         },
         {
-          "id": "y0or5jh89k62qwz",
-          "name": "Bhutan U20 0 - 1 Nepal U20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bhutan+U20+0+-+1+Nepal+U20&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=SAFF+U19+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8377224d51db80859ecf1a5e9e5bef3a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/3245e745fec5458969345d9405588b78/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "73f528ed9fe84149bdbdc41f28c6b36a",
           "name": "Công An TP.Hồ Chí Minh 0 - 0 Hà Nội",
           "type": "single",
@@ -217,14 +127,14 @@
           "enable_detail": false
         },
         {
-          "id": "3glrw7hn4gggqdy",
-          "name": "AS Agareb 0 - 0 Stade Gabesien",
+          "id": "4jwq2ghngy0vm0v",
+          "name": "Internacional Podgorica 0 - 2 FK Podgorica",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+Agareb+0+-+0+Stade+Gabesien&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Tunisian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F96687c949a25aa424a7fa86cc5bf9a5e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Internacional+Podgorica+0+-+2+FK+Podgorica&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Montenegro+Second+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6bbf3e55b2875f7efdda08bca0d0da1e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -244,6 +154,83 @@
           ],
           "sources": [],
           "enable_detail": false
+        },
+        {
+          "id": "46241ede945e42b6b986ed540d05f028",
+          "name": "Biên Phòng MB 0 - 0 LP Bank Ninh Bình",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bi%C3%AAn+Ph%C3%B2ng+MB+0+-+0+LP+Bank+Ninh+B%C3%ACnh&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Chung+K%E1%BA%BFt+-+B%C3%B3ng+Chuy%E1%BB%81n+Nam+C%C3%BAp+Hoa+L%C6%B0+2026&l1=https%3A%2F%2Fvolleybox.net%2Fmedia%2Fupload%2Fteams%2F1706237968v034N.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Son",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "dj2ryohll2gxq1z",
+          "name": "East Bengal FC 0 - 0 Mohammedan SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=East+Bengal+FC+0+-+0+Mohammedan+SC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Indian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3b21a7c47e6998936d29e802612b8fb3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Mõm",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Mõm",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ec4b51d8054319e34c5cadf937221dbf/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
