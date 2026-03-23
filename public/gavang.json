@@ -14,181 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "dj2ryohll2gxq1z",
-          "name": "East Bengal FC 7 - 0 Mohammedan SC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=East+Bengal+FC+7+-+0+Mohammedan+SC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Indian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3b21a7c47e6998936d29e802612b8fb3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ec4b51d8054319e34c5cadf937221dbf/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "46241ede945e42b6b986ed540d05f028",
-          "name": "Biên Phòng MB 0 - 0 LP Bank Ninh Bình",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bi%C3%AAn+Ph%C3%B2ng+MB+0+-+0+LP+Bank+Ninh+B%C3%ACnh&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Chung+K%E1%BA%BFt+-+B%C3%B3ng+Chuy%E1%BB%81n+Nam+C%C3%BAp+Hoa+L%C6%B0+2026&l1=https%3A%2F%2Fvolleybox.net%2Fmedia%2Fupload%2Fteams%2F1706237968v034N.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Son",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "pxwrxlhyl044ryk",
-          "name": "FK Chelyabinsk 0 - 1 Torpedo Moscow",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Chelyabinsk+0+-+1+Torpedo+Moscow&t2=&live=1&lg=Russian+First+LeagueLeague&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1e88227bb2827de7f69436e5f5eb5329%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/95e2a3dbdd843828a081636b308c6166/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y39mp1h60ze8moj",
-          "name": "Portimonense U23 1 - 1 Estoril U23",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Portimonense+U23+1+-+1+Estoril+U23&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Portuguese+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe841783fdfada333c0dd0384e32f4e85%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Đô",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Đô",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/3541699ec3ccc51a10d01f048762b385/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "n54qllhn461lqvy",
-          "name": "Maldives U20 2 - 0 Sri Lanka U20",
+          "name": "Maldives U20 2 - 3 Sri Lanka U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maldives+U20+2+-+0+Sri+Lanka+U20&t2=&live=1&lg=SAFF+U19+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45a3029747c5e5c0d84458088afb2afa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maldives+U20+2+-+3+Sri+Lanka+U20&t2=&live=1&lg=SAFF+U19+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F45a3029747c5e5c0d84458088afb2afa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -224,13 +57,13 @@
         },
         {
           "id": "3glrw7hn4g8vqdy",
-          "name": "Rodina Moscow 3 - 1 Chaika Peschanokopskoe",
+          "name": "Rodina Moscow 4 - 1 Chaika Peschanokopskoe",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rodina+Moscow+3+-+1+Chaika+Peschanokopskoe&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Russian+First+LeagueLeague&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff8e1d380a8a8a3caa43a71527fa119d2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rodina+Moscow+4+-+1+Chaika+Peschanokopskoe&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Russian+First+LeagueLeague&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff8e1d380a8a8a3caa43a71527fa119d2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -356,13 +189,13 @@
         },
         {
           "id": "jw2r09hkp812rz8",
-          "name": "Yantra Gabrovo 1 - 0 Fratria",
+          "name": "Yantra Gabrovo 1 - 1 Fratria",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yantra+Gabrovo+1+-+0+Fratria&t2=&live=1&lg=Bulgarian+Vtora+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd3c9eb7a6731fde6b70c0906d1a5ee9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yantra+Gabrovo+1+-+1+Fratria&t2=&live=1&lg=Bulgarian+Vtora+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd3c9eb7a6731fde6b70c0906d1a5ee9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -398,13 +231,13 @@
         },
         {
           "id": "y39mp1h6dxg4moj",
-          "name": "Steve Biko FC 0 - 0 Greater Tomorrow FC",
+          "name": "Steve Biko FC 1 - 0 Greater Tomorrow FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Steve+Biko+FC+0+-+0+Greater+Tomorrow+FC&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F16a24a191c919d4969bf2b6b2d6e882f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Steve+Biko+FC+1+-+0+Greater+Tomorrow+FC&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F16a24a191c919d4969bf2b6b2d6e882f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -440,13 +273,13 @@
         },
         {
           "id": "8yomo4h14d2lq0j",
-          "name": "Wusum Stars 0 - 0 Freetown City",
+          "name": "Wusum Stars 1 - 0 Freetown City",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wusum+Stars+0+-+0+Freetown+City&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3da80d3433bc79c3091dbcdd9dcb27f4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wusum+Stars+1+-+0+Freetown+City&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3da80d3433bc79c3091dbcdd9dcb27f4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -482,13 +315,13 @@
         },
         {
           "id": "318q66hx89ywqo9",
-          "name": "Team Rhino FC 0 - 0 Medina United FC",
+          "name": "Team Rhino FC 0 - 1 Medina United FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Team+Rhino+FC+0+-+0+Medina+United+FC&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F41dd246fa12304aadbbc27800dd061d8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Team+Rhino+FC+0+-+1+Medina+United+FC&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F41dd246fa12304aadbbc27800dd061d8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -524,13 +357,13 @@
         },
         {
           "id": "4wyrn4h6yjpyq86",
-          "name": "Star Sport Academy 0 - 0 Mighty Blackpool",
+          "name": "Star Sport Academy 0 - 1 Mighty Blackpool",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Star+Sport+Academy+0+-+0+Mighty+Blackpool&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F66ef8b9be6f05d255aac3938c8cc7319%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Star+Sport+Academy+0+-+1+Mighty+Blackpool&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F66ef8b9be6f05d255aac3938c8cc7319%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -608,13 +441,13 @@
         },
         {
           "id": "l5ergph4kzxdr8k",
-          "name": "BAI Bureh Warriors 0 - 0 Bullom Stars",
+          "name": "BAI Bureh Warriors 1 - 0 Bullom Stars",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=BAI+Bureh+Warriors+0+-+0+Bullom+Stars&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F240f716e2071a55859e89d89e90d0bb9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=BAI+Bureh+Warriors+1+-+0+Bullom+Stars&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F240f716e2071a55859e89d89e90d0bb9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -650,13 +483,13 @@
         },
         {
           "id": "pxwrxlhyy062ryk",
-          "name": "Erbil SC 0 - 0 Diala",
+          "name": "Erbil SC 1 - 0 Diala",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Erbil+SC+0+-+0+Diala&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb97dcc27ebc823639015ee1d7ae6522e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Erbil+SC+1+-+0+Diala&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb97dcc27ebc823639015ee1d7ae6522e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -692,13 +525,13 @@
         },
         {
           "id": "vjxm8ghe80g0r6o",
-          "name": "Union Berlin Women 0 - 0 Werder Bremen Women",
+          "name": "Union Berlin Women 1 - 0 Werder Bremen Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Union+Berlin+Women+0+-+0+Werder+Bremen+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=German+Frauen+Bundesliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2a3bcae5e8aae39b8cb6653c4c059f3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Union+Berlin+Women+1+-+0+Werder+Bremen+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=German+Frauen+Bundesliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc2a3bcae5e8aae39b8cb6653c4c059f3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
