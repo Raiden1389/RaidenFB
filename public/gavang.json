@@ -351,13 +351,13 @@
         },
         {
           "id": "4wyrn4h6x0j8q86",
-          "name": "Club Sportivo Trinidense 2 - 1 Deportivo Recoleta",
+          "name": "Club Sportivo Trinidense 3 - 2 Deportivo Recoleta",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Sportivo+Trinidense+2+-+1+Deportivo+Recoleta&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F91b8522e64322d7fd33bec40fbf90751%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Sportivo+Trinidense+3+-+2+Deportivo+Recoleta&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F91b8522e64322d7fd33bec40fbf90751%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -393,13 +393,13 @@
         },
         {
           "id": "23xmvkh68993qg8",
-          "name": "Carabobo 0 - 0 Academia Puerto Cabello",
+          "name": "Carabobo 0 - 1 Academia Puerto Cabello",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Carabobo+0+-+0+Academia+Puerto+Cabello&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcfc28eca66520a2b1dd9645436a42911%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Carabobo+0+-+1+Academia+Puerto+Cabello&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcfc28eca66520a2b1dd9645436a42911%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -435,13 +435,13 @@
         },
         {
           "id": "4jwq2ghnzoogm0v",
-          "name": "Estudiantes La Plata 0 - 0 Central Cordoba SDE",
+          "name": "Estudiantes La Plata 1 - 0 Central Cordoba SDE",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Estudiantes+La+Plata+0+-+0+Central+Cordoba+SDE&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa177972d3d491d03802e61e01fa5c029%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Estudiantes+La+Plata+1+-+0+Central+Cordoba+SDE&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa177972d3d491d03802e61e01fa5c029%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -508,6 +508,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/99dc738e1cf600a600df090a514f0759/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9455zm7v",
+          "name": "Metropolitanos FC 0 - 0 Academia Anzoategui",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Metropolitanos+FC+0+-+0+Academia+Anzoategui&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ba27ba7171f0f2cb5529720780fcfd9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1c969e72411d54aeaeae52a834b74b68/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh68j3pqg8",
+          "name": "Comunicaciones BsAs 0 - 0 Liniers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Comunicaciones+BsAs+0+-+0+Liniers&t2=&live=1&lg=Argentine+Group+B+Tebolidun+League+Manchester&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F147f17c4fa667f3a07b6f85062e7fbf3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/944917d5fda988490aa299eb336fceaf/playlist.m3u8"
                         }
                       ]
                     }
