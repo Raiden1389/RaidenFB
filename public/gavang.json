@@ -351,13 +351,13 @@
         },
         {
           "id": "l5ergph4kx47r8k",
-          "name": "Umm Salal 0 - 0 Al Bidda SC",
+          "name": "Umm Salal 2 - 0 Al Bidda SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Umm+Salal+0+-+0+Al+Bidda+SC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Qatari+Stars+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdc1639aa5a1fccb1b74c22d2883049ff%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Umm+Salal+2+-+0+Al+Bidda+SC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Qatari+Stars+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdc1639aa5a1fccb1b74c22d2883049ff%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -398,14 +398,98 @@
           ]
         },
         {
-          "id": "x7lm7phjjxnzm2w",
-          "name": "VfL Wolfsburg Women 1 - 0 OL Lyonnes Women",
+          "id": "4jwq23hw9vngr0v",
+          "name": "Guaguas 0 - 0 Perugia",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Wolfsburg+Women+1+-+0+OL+Lyonnes+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdeacbf9226c0e48dfcffe5f5d4256e77%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Guaguas+0+-+0+Perugia&t2=&live=1&lg=Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Ffa264d2c39f3e51aefd44b7ff0e830da%2Fimage%2Fsmall&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ab98f46178480f84d1d0c080ad2d5804/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghe9802r6o",
+          "name": "Emmen 0 - 3 SC Cambuur Leeuwarden",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Emmen+0+-+3+SC+Cambuur+Leeuwarden&t2=&live=1&lg=Netherlands+Eerste+Divisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8eb0e5ac818cabdc9a35c1dd7655da28%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8ab7d11151bbb7e9fca98a38ef5396ea/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph44k83r8k",
+          "name": "Arsenal Women 0 - 0 Chelsea FC Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Arsenal+Women+0+-+0+Chelsea+FC+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5697e8ae9ca939d8a06be72835eff098%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -417,7 +501,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 Gà Siêu Péo",
+              "text": "👨‍💼 Gà Siêu Súp",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
@@ -430,12 +514,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV Gà Siêu Péo",
+                      "name": "BLV Gà Siêu Súp",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4f58e2cf5e31b985ec38329283950324/playlist.m3u8"
+                          "url": "https://live.alilicloud.com/live/3a364ea2227c91a9173a9a2a1e223f00/playlist.m3u8"
                         }
                       ]
                     }
