@@ -14,54 +14,6 @@
       "name": "UEFA Women's Champions League",
       "channels": [
         {
-          "id": "113523",
-          "name": "Arsenal Women vs Chelsea FC Women | 03:00 25-03 | BLV SATIVA",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Arsenal+Women&t2=Chelsea+FC+Women&blv=BLV+SATIVA&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb61190e348449a746ef3f802e7ebc701.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe9e2307866d939fc857fb0a31fa89bd7.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 03:00 25-03",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV SATIVA",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV SATIVA",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/321443.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "113644",
           "name": "Real Madrid Women vs Barcelona Women | 00:45 26-03 | BLV MESSI",
           "type": "single",

@@ -225,13 +225,13 @@
         },
         {
           "id": "n54qllhnpo0pqvy",
-          "name": "Deportivo Pereira 1 - 0 Cucuta Deportivo",
+          "name": "Deportivo Pereira 2 - 2 Cucuta Deportivo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Pereira+1+-+0+Cucuta+Deportivo&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0de0384d9877ee3693168689011b911b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Pereira+2+-+2+Cucuta+Deportivo&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0de0384d9877ee3693168689011b911b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -298,6 +298,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/4d6f9b4a192bf653016e2bfb81cf10da/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk8dgnr1g",
+          "name": "Fortaleza CEIF FC Women 0 - 0 CD Real Santander Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fortaleza+CEIF+FC+Women+0+-+0+CD+Real+Santander+Women&t2=&live=1&lg=Colombian+Liga+Betplay+Femenina&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa39780f53de0dee4eedcda739666b3ac%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e6300139dbceaa1ab09656f71a64d291/playlist.m3u8"
                         }
                       ]
                     }
