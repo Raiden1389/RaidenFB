@@ -14,152 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "ednm9whwvvppryo",
-          "name": "SC Paderborn 07 II 1 - 1 Schalke II",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=SC+Paderborn+07+II+1+-+1+Schalke+II&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa7cf473218ef225499d5b074e0d66177%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4ce5f0741bfa13d9589c33e1c2c1d0f9/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhv73nxmd7",
-          "name": "Uniao Leiria U23 0 - 0 Farense U23",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uniao+Leiria+U23+0+-+0+Farense+U23&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Portuguese+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4dc137d65aa6aa21ac3727f28d19b7c2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Nhí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Nhí",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/8abb481beb6154cfed4aa6054039c652/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4wyrn4h6yp6wq86",
-          "name": "Al Rayyan 3 - 0 Al Shahaniya",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Rayyan+3+-+0+Al+Shahaniya&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Qatari+Stars+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F706b83f540d52163ac0f493a3409f29c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Son",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Son",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ea441268445bd7eda5ee00c3c1ceb2f1/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "23xmvkh6ye5kqg8",
-          "name": "Banjul Hawks FC 1 - 0 BST Galaxy",
+          "name": "Banjul Hawks FC 2 - 0 BST Galaxy",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Banjul+Hawks+FC+1+-+0+BST+Galaxy&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6c3d487e9fc3e9a3d7c5385381a6cbe3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Banjul+Hawks+FC+2+-+0+BST+Galaxy&t2=&live=1&lg=Gambia+League+First+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6c3d487e9fc3e9a3d7c5385381a6cbe3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -363,13 +225,13 @@
         },
         {
           "id": "dn1m1ghl0weomoe",
-          "name": "FC Kallon 1 - 2 East End Lions",
+          "name": "FC Kallon 2 - 3 East End Lions",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Kallon+1+-+2+East+End+Lions&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb714355cef9d6883ffd61a8ec3515c4e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Kallon+2+-+3+East+End+Lions&t2=&live=1&lg=Sierra+Leone+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb714355cef9d6883ffd61a8ec3515c4e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -447,13 +309,13 @@
         },
         {
           "id": "vjxm8ghek040r6o",
-          "name": "Deportivo Maldonado 0 - 0 Montevideo City Torque",
+          "name": "Deportivo Maldonado 1 - 0 Montevideo City Torque",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Maldonado+0+-+0+Montevideo+City+Torque&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F783f6f0b9029f7f26755bd0579a456c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Maldonado+1+-+0+Montevideo+City+Torque&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F783f6f0b9029f7f26755bd0579a456c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -537,13 +399,13 @@
         },
         {
           "id": "x7lm7phjjxnzm2w",
-          "name": "VfL Wolfsburg Women 0 - 0 OL Lyonnes Women",
+          "name": "VfL Wolfsburg Women 1 - 0 OL Lyonnes Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Wolfsburg+Women+0+-+0+OL+Lyonnes+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdeacbf9226c0e48dfcffe5f5d4256e77%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Wolfsburg+Women+1+-+0+OL+Lyonnes+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdeacbf9226c0e48dfcffe5f5d4256e77%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
