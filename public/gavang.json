@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "y39mp1h6o366moj",
-          "name": " 1 - 2 Kerala Blasters U21",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=+1+-+2+Kerala+Blasters+U21&t2=&live=1&lg=India+U21+DL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb12953cc253dcb267e91cbd65b97d4c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/36d0427cf5d7bb407aeed523840eb397/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "4wyrn4h6w861q86",
           "name": "Gokulam Kerala FC (w) 8 - 0 Inter Kerala Women",
           "type": "single",
@@ -141,13 +99,13 @@
         },
         {
           "id": "23xmvkh623y8qg8",
-          "name": "Kahaani Women 1 - 0 SAG RT",
+          "name": "Kahaani Women 2 - 0 SAG RT",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kahaani+Women+1+-+0+SAG+RT&t2=&live=1&lg=International+Club+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa3a6d73b8766c51ef646c3b5c658cd08%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kahaani+Women+2+-+0+SAG+RT&t2=&live=1&lg=International+Club+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa3a6d73b8766c51ef646c3b5c658cd08%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -183,13 +141,13 @@
         },
         {
           "id": "965mkyhkw789r1g",
-          "name": "Real Pune United 0 - 2 Indrayani SC",
+          "name": "Real Pune United 1 - 2 Indrayani SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Pune+United+0+-+2+Indrayani+SC&t2=&live=1&lg=International+Club+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21357fc010513bb393b28058720ee3d3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Pune+United+1+-+2+Indrayani+SC&t2=&live=1&lg=International+Club+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21357fc010513bb393b28058720ee3d3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -256,6 +214,203 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/2b1322bc8e256662a1a7d926e1deb853/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4dokgr8k",
+          "name": " 0 - 2 Persitam Tamban",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=+0+-+2+Persitam+Tamban&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fac09009bc50367aae1c4d73406c49dae%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a264424fa495b8405c4faa56114acb30/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn9w9lqdy",
+          "name": "Persimi Sarmi 0 - 0 ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Persimi+Sarmi+0+-+0+&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F74feb8b33b07dd8a93ce89ae21677a14%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fda7932d6467f1eb5ebcb43f18822432/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hkk7l3rz8",
+          "name": "Vietnam U23 1 - 0 North Korea U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vietnam+U23+1+-+0+North+Korea+U23&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=U23+CFA+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FStTKbSzS-A9PcSp30.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "l7oqdehgxn3pr51",
+          "name": "Ethiopia Nigd Bank Women 0 - 0 Mechal FC Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ethiopia+Nigd+Bank+Women+0+-+0+Mechal+FC+Women&t2=&live=1&lg=ETH+WL&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F009aa8ae4490cc2d4ab6a27f96274c36%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ff10b2cdaf49ce2eada49bee280c3199/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgxnopr51",
+          "name": "FK Do stlik Tashkent 0 - 0 Azur FC Samarkand",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Do+stlik+Tashkent+0+-+0+Azur+FC+Samarkand&t2=&live=1&lg=Uzbekistan+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbdf1124f3d2a69a336967323ad1244bc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/02e475c04c8f41af0f29a13cdb68b9b9/playlist.m3u8"
                         }
                       ]
                     }
