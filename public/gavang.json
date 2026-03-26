@@ -189,13 +189,13 @@
         },
         {
           "id": "pxwrxlhy3vdpryk",
-          "name": "Bolivia 0 - 1 Suriname",
+          "name": "Bolivia 2 - 1 Suriname",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bolivia+0+-+1+Suriname&t2=&live=1&lg=FIFA+World+Cup+%28Inter-confederation+Play-offs%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1c0c787fe0873907ab9f283f9ac0ea49%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bolivia+2+-+1+Suriname&t2=&live=1&lg=FIFA+World+Cup+%28Inter-confederation+Play-offs%29&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1c0c787fe0873907ab9f283f9ac0ea49%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -231,13 +231,13 @@
         },
         {
           "id": "y0or5jh89o5nqwz",
-          "name": "Sousa PB 2 - 1 AD Confiança",
+          "name": "Sousa PB 3 - 1 AD Confiança",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sousa+PB+2+-+1+AD+Confian%C3%A7a&t2=&live=1&lg=Brazilian+Copa+do+Nordeste&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4c6cc731b775e8c94acb0b1b9d628ec3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sousa+PB+3+-+1+AD+Confian%C3%A7a&t2=&live=1&lg=Brazilian+Copa+do+Nordeste&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4c6cc731b775e8c94acb0b1b9d628ec3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -315,13 +315,13 @@
         },
         {
           "id": "l5ergph4w5g1r8k",
-          "name": "Independiente Yumbo 1 - 0 Patriotas FC",
+          "name": "Independiente Yumbo 1 - 1 Patriotas FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Independiente+Yumbo+1+-+0+Patriotas+FC&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff1e5d85e06a671822034e53733e15ff4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Independiente+Yumbo+1+-+1+Patriotas+FC&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff1e5d85e06a671822034e53733e15ff4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -346,6 +346,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/6f415b23b3f966f49f59c71fb8b22fe8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh86vz7qwz",
+          "name": "DC Power Women 0 - 1 Tampa Bay Sun Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=DC+Power+Women+0+-+1+Tampa+Bay+Sun+Women&t2=&live=1&lg=United+States+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52dd910ae09c6ece7622cbd969f42489%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f9fb2a56c663e6e4923fb938c46619b4/playlist.m3u8"
                         }
                       ]
                     }
@@ -398,14 +440,56 @@
           ]
         },
         {
-          "id": "vjxm8ghek3k8r6o",
-          "name": "Colombia 0 - 0 Croatia",
+          "id": "965mkyhk8xyer1g",
+          "name": "Everton CD 0 - 0 O.Higgins",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Colombia+0+-+0+Croatia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYmt6NG9r-C6kVdO5F.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Everton+CD+0+-+0+O.Higgins&t2=&live=1&lg=CHI+LC&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F448d321046aa5b3dd7346c28ed501925%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/bcd05e5e8c992036566b81312e68b4be/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghek3k8r6o",
+          "name": "Colombia 1 - 1 Croatia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Colombia+1+-+1+Croatia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYmt6NG9r-C6kVdO5F.png&s=vs",
             "width": 600,
             "height": 320
           },
