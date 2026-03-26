@@ -14,312 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh6y09eql0",
-          "name": "Gibraltar 0 - 1 Latvia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gibraltar+0+-+1+Latvia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=UEFA+Nations+League&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FbTYph2FG-vJExIV3U.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4073d68a063645b8a14ad1e344431d1d/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hn464jqdy",
-          "name": "Cyprus 0 - 1 Belarus",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cyprus+0+-+1+Belarus&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcfc773f4f2f99c55283fb4a25a996905%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/f2ecd226a6cbc774626b783418be80a2/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hn4vkgqdy",
-          "name": "Al Karma 1 - 1 Mosul FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Karma+1+-+1+Mosul+FC&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe868bfbe0c12f92f36de19d9d665c3f9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b24d2bafcc068bfb5a6e752cbc75a385/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hnwg79qdy",
-          "name": "San Marino U21 0 - 8 Finland U21",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=San+Marino+U21+0+-+8+Finland+U21&t2=&live=1&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1384e437f4a385de1f561545b2a0907d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ee154c12abe03e6cd2b21e580f3beda6/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvkek0md7",
-          "name": "Georgia 2 - 2 Israel",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Georgia+2+-+2+Israel&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa24b71bbf9f49474ed8ebaaa04fa2e33%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/0076a77017b6a922d0efdafd42df0fab/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dn1m1ghl016xmoe",
-          "name": "Turkiye 1 - 0 Romania",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Turkiye+1+-+0+Romania&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQ7zzy7HG-Cfuwb3yH.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Phệ",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Phệ",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b253d6d2f622e0dda4318e7345e7354d/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "vjxm8gheknnvr6o",
-          "name": "Schweinfurt 05 FC 2 - 0 Schalke 04",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Schweinfurt+05+FC+2+-+0+Schalke+04&t2=&live=1&lg=International+Club+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F36e2a6c3ed123cb820714e58704d5295%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/108e04b95b3dff7f6eb9953afa2d11b2/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "dn1m1ghl4gg0moe",
           "name": "Ireland U21 1 - 1 Moldova U21",
           "type": "single",
@@ -867,13 +561,13 @@
         },
         {
           "id": "318q66hxgkl8qo9",
-          "name": "Poland 0 - 1 Albania",
+          "name": "Poland 1 - 1 Albania",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Poland+0+-+1+Albania&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FzB15YqDr-vZG58BBc.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Poland+1+-+1+Albania&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FzB15YqDr-vZG58BBc.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -915,13 +609,13 @@
         },
         {
           "id": "4jwq2ghn91lpm0v",
-          "name": "Denmark 0 - 0 North Macedonia",
+          "name": "Denmark 3 - 0 North Macedonia",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Denmark+0+-+0+North+Macedonia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fd8MRvRBr-2kmuAQ93.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Denmark+3+-+0+North+Macedonia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fd8MRvRBr-2kmuAQ93.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -963,13 +657,13 @@
         },
         {
           "id": "4wyrn4h6l9g5q86",
-          "name": "Slovakia 2 - 1 Kosovo",
+          "name": "Slovakia 2 - 4 Kosovo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Slovakia+2+-+1+Kosovo&t2=&live=1&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FphJfHhHG-byN2hxSj.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Slovakia+2+-+4+Kosovo&t2=&live=1&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FphJfHhHG-byN2hxSj.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1005,13 +699,13 @@
         },
         {
           "id": "965mkyhkozp2r1g",
-          "name": "Italy 0 - 0 Northern Ireland",
+          "name": "Italy 1 - 0 Northern Ireland",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Italy+0+-+0+Northern+Ireland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FzgZ3N3Yg-KfXjzrxU.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Italy+1+-+0+Northern+Ireland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FzgZ3N3Yg-KfXjzrxU.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1101,13 +795,13 @@
         },
         {
           "id": "k82rekhgx1lgrep",
-          "name": "Ukraine 0 - 1 Sweden",
+          "name": "Ukraine 0 - 3 Sweden",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ukraine+0+-+1+Sweden&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQ3KOlYVg-IPF97VQ3.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ukraine+0+-+3+Sweden&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQ3KOlYVg-IPF97VQ3.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1149,13 +843,13 @@
         },
         {
           "id": "y39mp1h6497zmoj",
-          "name": "Wales 0 - 0 Bosnia-Herzegovina",
+          "name": "Wales 1 - 0 Bosnia-Herzegovina",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wales+0+-+0+Bosnia-Herzegovina&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FSdWlpUhl-YkZoQLK9.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wales+1+-+0+Bosnia-Herzegovina&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=FIFA+World+Cup+qualification+%28UEFA%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FSdWlpUhl-YkZoQLK9.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1245,13 +939,13 @@
         },
         {
           "id": "pxwrxlhy341nryk",
-          "name": "Escorpiones Belen 0 - 0 CS Uruguay De Coronado",
+          "name": "Escorpiones Belen 1 - 0 CS Uruguay De Coronado",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Escorpiones+Belen+0+-+0+CS+Uruguay+De+Coronado&t2=&live=1&lg=Costa+Rica+2.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe8512de5d820a82fc80242a3dc2b101f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Escorpiones+Belen+1+-+0+CS+Uruguay+De+Coronado&t2=&live=1&lg=Costa+Rica+2.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe8512de5d820a82fc80242a3dc2b101f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1318,6 +1012,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/eda236a166720a9af75dd1358c05aa17/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw547zryo",
+          "name": "Deportes Limache 0 - 0 Palestino",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportes+Limache+0+-+0+Palestino&t2=&live=1&lg=CHI+LC&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F08ab990d0657a412fcf56593d7a9e275%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d3bf4821bdc185ba449d8c82da3d0917/playlist.m3u8"
                         }
                       ]
                     }
