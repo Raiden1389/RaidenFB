@@ -56,14 +56,56 @@
           ]
         },
         {
-          "id": "y39mp1h6zyw0moj",
-          "name": "New Zealand 0 - 0 Finland",
+          "id": "318q66hxwvg7qo9",
+          "name": "China 1 - 0 Curacao",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+Zealand+0+-+0+Finland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQ1WkZDyS-zmDbXBOa.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=China+1+-+0+Curacao&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F38c72e5319973c79e44df60e57082334%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/63f33dadbe3a49eb1f08a767ba7899b0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6zyw0moj",
+          "name": "New Zealand 0 - 1 Finland",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+Zealand+0+-+1+Finland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQ1WkZDyS-zmDbXBOa.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -94,6 +136,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/651b920a75d0b7254239964982354ad0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjvw9zm2w",
+          "name": "Monaro Panthers U23 0 - 1 Tuggeranong United U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Monaro+Panthers+U23+0+-+1+Tuggeranong+United+U23&t2=&live=1&lg=Australia+Capital+Territory+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F81b42eaeae9b3a1f4d674582b0264e0c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/bf4f49c031d96ab73e8f8081c0cf977a/playlist.m3u8"
                         }
                       ]
                     }
