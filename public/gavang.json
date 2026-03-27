@@ -14,90 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "1l4rjnh9nw1xm7v",
-          "name": "Romania U20 0 - 1 Poland U20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Romania+U20+0+-+1+Poland+U20&t2=&live=1&lg=Elite+League+U20&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8685f369655313e6805461bbeb1e3a16%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/3d278bb91afc523cae89388f314f5ccd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "965mkyhk8x2er1g",
-          "name": "Bhutan U20 1 - 0 Sri Lanka U20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bhutan+U20+1+-+0+Sri+Lanka+U20&t2=&live=1&lg=SAFF+U19+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8377224d51db80859ecf1a5e9e5bef3a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/44846218f465a1268f3589d4085c36a1/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "8yomo4h176owq0j",
           "name": "Greece U21 5 - 0 Malta U21",
           "type": "single",
@@ -644,6 +560,54 @@
           ]
         },
         {
+          "id": "pxwrxlhylel1ryk",
+          "name": "Saudi Arabia 0 - 4 Egypt",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Saudi+Arabia+0+-+4+Egypt&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FG6x4A5zB-KtpTLRpL.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Nhí",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/07cae2eb61c247c1b0e94f3be9bc18db/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "vjxm8ghe0gv6r6o",
           "name": "Jordan 2 - 2 Costa Rica",
           "type": "single",
@@ -855,13 +819,13 @@
         },
         {
           "id": "3glrw7hno64kqdy",
-          "name": "Dijon 0 - 1 Versailles 78",
+          "name": "Dijon 1 - 1 Versailles 78",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dijon+0+-+1+Versailles+78&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F07b2454af883f9938121f1e536826984%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dijon+1+-+1+Versailles+78&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F07b2454af883f9938121f1e536826984%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -897,13 +861,13 @@
         },
         {
           "id": "4wyrn4h6855oq86",
-          "name": "Andorra U21 0 - 0 England U21",
+          "name": "Andorra U21 1 - 0 England U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Andorra+U21+0+-+0+England+U21&t2=&live=1&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe8c574de731e672c25d6849601c7b73c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Andorra+U21+1+-+0+England+U21&t2=&live=1&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe8c574de731e672c25d6849601c7b73c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -939,13 +903,13 @@
         },
         {
           "id": "n54qllhnd148qvy",
-          "name": "Sochaux 0 - 0 Quevilly Rouen Métropole",
+          "name": "Sochaux 2 - 0 Quevilly Rouen Métropole",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sochaux+0+-+0+Quevilly+Rouen+M%C3%A9tropole&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1f512ef512dc23dfa226b6d9aab415d3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sochaux+2+-+0+Quevilly+Rouen+M%C3%A9tropole&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1f512ef512dc23dfa226b6d9aab415d3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -981,13 +945,13 @@
         },
         {
           "id": "pxwrxlhyveydryk",
-          "name": "Chateauroux 2 - 1 Concarneau",
+          "name": "Chateauroux 3 - 1 Concarneau",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chateauroux+2+-+1+Concarneau&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe72ef270eaab42c44c304fa9b8234018%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chateauroux+3+-+1+Concarneau&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe72ef270eaab42c44c304fa9b8234018%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1065,13 +1029,13 @@
         },
         {
           "id": "vjxm8ghex3k4r6o",
-          "name": "Fleury Merogis U.S. 1 - 0 Bresse Péronnas 01",
+          "name": "Fleury Merogis U.S. 2 - 0 Bresse Péronnas 01",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fleury+Merogis+U.S.+1+-+0+Bresse+P%C3%A9ronnas+01&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd361dbad2cd481f9e077fa8a64378d5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fleury+Merogis+U.S.+2+-+0+Bresse+P%C3%A9ronnas+01&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd361dbad2cd481f9e077fa8a64378d5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1323,13 +1287,13 @@
         },
         {
           "id": "k82rekhgg46drep",
-          "name": "Rwanda 0 - 0 Grenada",
+          "name": "Rwanda 2 - 0 Grenada",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rwanda+0+-+0+Grenada&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6242f819c89419130528bb5dd3639330%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rwanda+2+-+0+Grenada&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6242f819c89419130528bb5dd3639330%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1407,13 +1371,13 @@
         },
         {
           "id": "y0or5jh8169eqwz",
-          "name": "FC Rouen 0 - 0 Caen",
+          "name": "FC Rouen 0 - 1 Caen",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Rouen+0+-+0+Caen&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fac66296338d66787d2633bf76a8f50f4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Rouen+0+-+1+Caen&t2=&live=1&lg=French+Championnat+National&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fac66296338d66787d2633bf76a8f50f4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1438,6 +1402,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/77e6da9377b219778dfbc2f50b3cd493/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh89v70qwz",
+          "name": "Algeria 1 - 0 Guatemala",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Algeria+1+-+0+Guatemala&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9205c3c92a12ace82ced92dcbbb944a8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a586cab438177522b529c8f423d4af79/playlist.m3u8"
                         }
                       ]
                     }
@@ -1496,6 +1502,48 @@
           ]
         },
         {
+          "id": "2y8m4zh5g36oql0",
+          "name": "Partick Thistle FC 0 - 1 Ross County",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Partick+Thistle+FC+0+-+1+Ross+County&t2=&live=1&lg=Scottish+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8de561f444bbf785cfd36e62595e0964%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/422ed811ba8ec38792c843dfce5f8fea/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "318q66hx8gv7qo9",
           "name": "Switzerland 0 - 0 Germany",
           "type": "single",
@@ -1544,6 +1592,48 @@
           ]
         },
         {
+          "id": "6ypq3nhvz032md7",
+          "name": "Raith Rovers 1 - 0 Ayr United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Raith+Rovers+1+-+0+Ayr+United&t2=&live=1&lg=Scottish+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F04089c8b8c800b7c7a11d62142c34a96%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4400a8084c0bc748cc32913b371ebb5b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "965mkyhk8o3er1g",
           "name": "Netherlands 0 - 0 Norway",
           "type": "single",
@@ -1582,6 +1672,54 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/fc5bc26c5fc2391bc6fe4daa1fa582e1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn4202qdy",
+          "name": "Spain 0 - 0 Serbia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Spain+0+-+0+Serbia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FOd7JGXZA-0E8Iihe1.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Ngố",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/38b79bf8b09fc6ef2fbdec34b611acd2/playlist.m3u8"
                         }
                       ]
                     }
