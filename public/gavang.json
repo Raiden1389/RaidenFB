@@ -14,104 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "y39mp1h6o53ymoj",
-          "name": "Bonaire 3 - 1 St. Vincent   Grenadines",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bonaire+3+-+1+St.+Vincent+++Grenadines&t2=&live=1&lg=NC+A+S&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff1da54e1de42bdbf78ad17cf43cf37e4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ea553b9ad564bc8bebb99032473b7e4d/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvn12xmd7",
-          "name": "New Caledonia 0 - 1 Jamaica",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+Caledonia+0+-+1+Jamaica&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=FIFA+World+Cup+%28Inter-confederation+Play-offs%29&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FSKuk88xS-nRdGpyH6.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/7468c28c91b0846f29304e57c84a35a7/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "965mkyhkye5or1g",
-          "name": "Chile 1 - 2 Cape Verde",
+          "name": "Chile 4 - 2 Cape Verde",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chile+1+-+2+Cape+Verde&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff3a1170d1102a101b64998df79366dde%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chile+4+-+2+Cape+Verde&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff3a1170d1102a101b64998df79366dde%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -136,6 +46,54 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/23e31f997f53b6e4a9be81907fe5f262/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6zyw0moj",
+          "name": "New Zealand 0 - 0 Finland",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+Zealand+0+-+0+Finland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQ1WkZDyS-zmDbXBOa.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Son",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Son",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/651b920a75d0b7254239964982354ad0/playlist.m3u8"
                         }
                       ]
                     }
