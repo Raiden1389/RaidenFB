@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "3glrw7hn9yopqdy",
-          "name": "Adelaide University Women 2 - 2 Salisbury Inter Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+University+Women+2+-+2+Salisbury+Inter+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ea6b5049f2e16e178aa675499cf3589%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4e1e916295af763cab477e243de14430/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "y0or5jh8j6wgqwz",
           "name": "Brisbane Roar Women 5 - 2 Perth Glory Women",
           "type": "single",
@@ -476,6 +434,48 @@
           ]
         },
         {
+          "id": "l5ergph488y7r8k",
+          "name": "Brisbane Olympic United FC 0 - 0 Gold Coast Knights",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brisbane+Olympic+United+FC+0+-+0+Gold+Coast+Knights&t2=&live=1&lg=Australia+National+Premier+Leagues+Queensland&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F67e0c78b2af8860bae6ff876c68acb5d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/2ec885fcc204e5e25486aa7e80166c24/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "ednm9whwwd7pryo",
           "name": "Spring Hills FC Women 1 - 0 South Melbourne Women",
           "type": "single",
@@ -519,13 +519,13 @@
         },
         {
           "id": "vjxm8ghe08x5r6o",
-          "name": "West Torrens Birkalla Women 2 - 0 Adelaide Comets Women",
+          "name": "West Torrens Birkalla Women 2 - 1 Adelaide Comets Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Torrens+Birkalla+Women+2+-+0+Adelaide+Comets+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27995ddd0093e55589f052660b317e96%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Torrens+Birkalla+Women+2+-+1+Adelaide+Comets+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27995ddd0093e55589f052660b317e96%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -645,13 +645,13 @@
         },
         {
           "id": "zp5rzghgoxpeq82",
-          "name": "FFSA NTC Girls Women 1 - 0 Flinders United Women",
+          "name": "FFSA NTC Girls Women 2 - 0 Flinders United Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FFSA+NTC+Girls+Women+1+-+0+Flinders+United+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F75bab2336a8334b30a5d12c3844f635c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FFSA+NTC+Girls+Women+2+-+0+Flinders+United+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F75bab2336a8334b30a5d12c3844f635c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -687,13 +687,13 @@
         },
         {
           "id": "1l4rjnh99e42m7v",
-          "name": "Venezuela 0 - 0 Trinidad Tobago",
+          "name": "Venezuela 4 - 1 Trinidad Tobago",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Venezuela+0+-+0+Trinidad+Tobago&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F569f2cfeb64de09306d6b769a0103e3f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Venezuela+4+-+1+Trinidad+Tobago&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F569f2cfeb64de09306d6b769a0103e3f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -729,13 +729,13 @@
         },
         {
           "id": "965mkyhkkke5r1g",
-          "name": "Dukla Praha B 1 - 1 Bohemians1905 B",
+          "name": "Dukla Praha B 2 - 1 Bohemians1905 B",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dukla+Praha+B+1+-+1+Bohemians1905+B&t2=&live=1&lg=Czech+Third+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc784082d8bec569a2f0ced46fcad2d35%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dukla+Praha+B+2+-+1+Bohemians1905+B&t2=&live=1&lg=Czech+Third+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc784082d8bec569a2f0ced46fcad2d35%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -771,13 +771,13 @@
         },
         {
           "id": "l7oqdehg82z8r51",
-          "name": "Vissel Kobe 0 - 1 Sanfrecce Hiroshima",
+          "name": "Vissel Kobe 1 - 1 Sanfrecce Hiroshima",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vissel+Kobe+0+-+1+Sanfrecce+Hiroshima&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Japanese+J1+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6de3725838da067d06b70fd535cb8733%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vissel+Kobe+1+-+1+Sanfrecce+Hiroshima&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Japanese+J1+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6de3725838da067d06b70fd535cb8733%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -861,13 +861,13 @@
         },
         {
           "id": "3glrw7hnp7geqdy",
-          "name": "Broadbeach United 1 - 0 Robina City",
+          "name": "Broadbeach United 2 - 0 Robina City",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Broadbeach+United+1+-+0+Robina+City&t2=&live=1&lg=Australia+Queensland+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0db92295760e4d3610ce975e2b8cf4b1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Broadbeach+United+2+-+0+Robina+City&t2=&live=1&lg=Australia+Queensland+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0db92295760e4d3610ce975e2b8cf4b1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -945,13 +945,13 @@
         },
         {
           "id": "vjxm8ghewl76r6o",
-          "name": "Sunshine Coast Wanderers FC 0 - 0 Caboolture FC",
+          "name": "Sunshine Coast Wanderers FC 0 - 1 Caboolture FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sunshine+Coast+Wanderers+FC+0+-+0+Caboolture+FC&t2=&live=1&lg=Australia+Queensland+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0e2f260bdb60c7ae0aa84e34a12fb4ec%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sunshine+Coast+Wanderers+FC+0+-+1+Caboolture+FC&t2=&live=1&lg=Australia+Queensland+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0e2f260bdb60c7ae0aa84e34a12fb4ec%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1029,13 +1029,13 @@
         },
         {
           "id": "pxwrxlhynjeeryk",
-          "name": "VfL Bochum 1848 0 - 0 Rot-Weiss Essen",
+          "name": "VfL Bochum 1848 0 - 1 Rot-Weiss Essen",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Bochum+1848+0+-+0+Rot-Weiss+Essen&t2=&live=1&lg=International+Club+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F51724a977d81568fd9d65f1e4826f759%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=VfL+Bochum+1848+0+-+1+Rot-Weiss+Essen&t2=&live=1&lg=International+Club+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F51724a977d81568fd9d65f1e4826f759%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1071,13 +1071,13 @@
         },
         {
           "id": "x7lm7phjjy7jm2w",
-          "name": "Floreat Athena 0 - 0 Joondalup City",
+          "name": "Floreat Athena 0 - 1 Joondalup City",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Floreat+Athena+0+-+0+Joondalup+City&t2=&live=1&lg=Western+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1996af97f0bc576b4548df5073bde3c5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Floreat+Athena+0+-+1+Joondalup+City&t2=&live=1&lg=Western+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1996af97f0bc576b4548df5073bde3c5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1192,6 +1192,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/69a05008457b972a33e1e188936d073a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghek16lr6o",
+          "name": "Finland Women U16 0 - 1 Denmark Women U16",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Finland+Women+U16+0+-+1+Denmark+Women+U16&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F665344eb7caebf5d4799eb702237c899%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/30c7a18563811a2aeb0e65f9ae5428da/playlist.m3u8"
                         }
                       ]
                     }
