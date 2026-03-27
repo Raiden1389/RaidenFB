@@ -57,13 +57,13 @@
         },
         {
           "id": "y39mp1h6zyw0moj",
-          "name": "New Zealand 0 - 1 Finland",
+          "name": "New Zealand 0 - 2 Finland",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+Zealand+0+-+1+Finland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQ1WkZDyS-zmDbXBOa.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+Zealand+0+-+2+Finland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQ1WkZDyS-zmDbXBOa.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -147,13 +147,13 @@
         },
         {
           "id": "318q66hx144pqo9",
-          "name": "Adamstown Rosebud Reserves 2 - 0 Edgeworth Eagles Reserves",
+          "name": "Adamstown Rosebud Reserves 4 - 0 Edgeworth Eagles Reserves",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adamstown+Rosebud+Reserves+2+-+0+Edgeworth+Eagles+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff5076ca72881a200553c230bdc271a26%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adamstown+Rosebud+Reserves+4+-+0+Edgeworth+Eagles+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff5076ca72881a200553c230bdc271a26%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -188,14 +188,56 @@
           ]
         },
         {
-          "id": "dn1m1ghlx33ymoe",
-          "name": "Belmont Swansea United SC Reserves 2 - 0 Charlestown Azzurri Reserves",
+          "id": "6ypq3nhv8lzemd7",
+          "name": "PS Tunas Muda Bengkulu 2 - 2 Avrilia Hafiz FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Belmont+Swansea+United+SC+Reserves+2+-+0+Charlestown+Azzurri+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa4aa323c67a757912b8de7f3311f844b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=PS+Tunas+Muda+Bengkulu+2+-+2+Avrilia+Hafiz+FC&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff3d1fd097ec27c10b9d001c1a5e561c9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/14239565a657bb65910c533ff429899d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghlx33ymoe",
+          "name": "Belmont Swansea United SC Reserves 3 - 2 Charlestown Azzurri Reserves",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Belmont+Swansea+United+SC+Reserves+3+-+2+Charlestown+Azzurri+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa4aa323c67a757912b8de7f3311f844b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -231,13 +273,13 @@
         },
         {
           "id": "dn1m1ghlx3eymoe",
-          "name": "Addis Ketema 0 - 2 Bishoftu Ketema",
+          "name": "Addis Ketema 1 - 3 Bishoftu Ketema",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Addis+Ketema+0+-+2+Bishoftu+Ketema&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F702a451ce65a296bcec3f0b83be18a86%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Addis+Ketema+1+-+3+Bishoftu+Ketema&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F702a451ce65a296bcec3f0b83be18a86%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -273,13 +315,13 @@
         },
         {
           "id": "3glrw7hn9yopqdy",
-          "name": "Adelaide University Women 1 - 0 Salisbury Inter Women",
+          "name": "Adelaide University Women 1 - 1 Salisbury Inter Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+University+Women+1+-+0+Salisbury+Inter+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ea6b5049f2e16e178aa675499cf3589%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+University+Women+1+-+1+Salisbury+Inter+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ea6b5049f2e16e178aa675499cf3589%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -304,6 +346,270 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/4e1e916295af763cab477e243de14430/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh99054m7v",
+          "name": "Solomon Islands 0 - 1 Bulgaria",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Solomon+Islands+0+-+1+Bulgaria&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FvqLkKVYA-IJIsQ3zG.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Nhí",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1b77bd1218a77465d0d624343fcf7770/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh55xyoql0",
+          "name": "Monaro Panthers 0 - 0 Tuggeranong United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Monaro+Panthers+0+-+0+Tuggeranong+United&t2=&live=1&lg=Australia+National+Premier+Leagues+Capital+Football+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd7eb6fc933921ff112370b91de443b3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/abb86ef4b099c0e2cf07cb3d9ed1ff03/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk2xjer1g",
+          "name": "Heidelberg United 0 - 1 Melbourne City NPL",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Heidelberg+United+0+-+1+Melbourne+City+NPL&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8171e2bc6a228673f2ef4b5e26851def%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/36f3a62b34eb2cb6dce90a463b6d2aee/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h60djdmoj",
+          "name": "Sydney FC Youth 0 - 0 APIA Leichhardt Tigers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sydney+FC+Youth+0+-+0+APIA+Leichhardt+Tigers&t2=&live=1&lg=Australia+New+South+Wales+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f3a948d9b6e2e7888dd39469dfeed8e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/12c1028ad3c3d425492bff0b3e2d381c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h60nx1moj",
+          "name": "Bentleigh greens 0 - 0 Dandenong Thunder",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bentleigh+greens+0+-+0+Dandenong+Thunder&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcc3f7e1de4fc32434f30a973be1ece33%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c2a37ac4452ddb8b0fd20ac30e5a6434/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhv3znpmd7",
+          "name": "Australia 0 - 0 Cameroon",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Australia+0+-+0+Cameroon&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6e1cf939495e4cea03c811f52b5792c0/playlist.m3u8"
                         }
                       ]
                     }
