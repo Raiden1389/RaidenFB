@@ -14,6 +14,90 @@
       "name": "🔴 LIVE",
       "channels": [
         {
+          "id": "vjxm8ghe0gv6r6o",
+          "name": "Jordan 0 - 0 Costa Rica",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jordan+0+-+0+Costa+Rica&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc8594a11a61739b3d25400d25b4c2310%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/48774cd8be1b003c100542a303aed6db/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghgg946q82",
+          "name": "Azerbaijan 3 - 1 Saint Lucia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Azerbaijan+3+-+1+Saint+Lucia&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQXDfRbZg-dtrVaP64.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6b0b10492e98848bf35f5394a4fbe8b3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "2y8m4zh560j7ql0",
           "name": "Abha 2 - 0 Jubail",
           "type": "single",
@@ -57,13 +141,13 @@
         },
         {
           "id": "3glrw7hnp6l5qdy",
-          "name": "Djijel 3 - 1 NRB Teleghma",
+          "name": "Djijel 4 - 1 NRB Teleghma",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Djijel+3+-+1+NRB+Teleghma&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf6007ddb8c67ca1aec088dc82e8447d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Djijel+4+-+1+NRB+Teleghma&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf6007ddb8c67ca1aec088dc82e8447d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -99,13 +183,13 @@
         },
         {
           "id": "4jwq2ghnn1epm0v",
-          "name": "Uzbekistan 2 - 1 Gabon",
+          "name": "Uzbekistan 3 - 1 Gabon",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uzbekistan+2+-+1+Gabon&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F06K3E8fM-MeuncTkU.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uzbekistan+3+-+1+Gabon&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F06K3E8fM-MeuncTkU.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -147,13 +231,13 @@
         },
         {
           "id": "6ypq3nhvne4pmd7",
-          "name": "HB Chelghoum Laid 0 - 6 US Chaouia",
+          "name": "HB Chelghoum Laid 0 - 8 US Chaouia",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=HB+Chelghoum+Laid+0+-+6+US+Chaouia&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa90af4a64ac0a412b0e4b5d0390e5ba9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=HB+Chelghoum+Laid+0+-+8+US+Chaouia&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa90af4a64ac0a412b0e4b5d0390e5ba9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -273,13 +357,13 @@
         },
         {
           "id": "k82rekhgx6gjrep",
-          "name": "CRB Temouchent 1 - 0 US Bechar Djedid",
+          "name": "CRB Temouchent 3 - 0 US Bechar Djedid",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CRB+Temouchent+1+-+0+US+Bechar+Djedid&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13a0290fd762bd50b34c66fd0e25fea9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CRB+Temouchent+3+-+0+US+Bechar+Djedid&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13a0290fd762bd50b34c66fd0e25fea9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -315,13 +399,13 @@
         },
         {
           "id": "l5ergph48y41r8k",
-          "name": "RC Kouba 1 - 1 ESM Kolea",
+          "name": "RC Kouba 2 - 1 ESM Kolea",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=RC+Kouba+1+-+1+ESM+Kolea&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe5a869db38cee0fa7c2c13f51078aa3c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=RC+Kouba+2+-+1+ESM+Kolea&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe5a869db38cee0fa7c2c13f51078aa3c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -441,13 +525,13 @@
         },
         {
           "id": "x7lm7phj7856m2w",
-          "name": "MO Constantine 1 - 0 NC Magra",
+          "name": "MO Constantine 1 - 1 NC Magra",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=MO+Constantine+1+-+0+NC+Magra&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff254e2798a87ef6df2e45ddc75ef8f8a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=MO+Constantine+1+-+1+NC+Magra&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff254e2798a87ef6df2e45ddc75ef8f8a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -525,13 +609,13 @@
         },
         {
           "id": "y39mp1h64w6omoj",
-          "name": "ASM Oran 0 - 0 WA Tlemcen",
+          "name": "ASM Oran 1 - 0 WA Tlemcen",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=ASM+Oran+0+-+0+WA+Tlemcen&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F05034d7c811ad47864f9d26775604380%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=ASM+Oran+1+-+0+WA+Tlemcen&t2=&live=1&lg=Algerian+Ligue+Professionnelle+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F05034d7c811ad47864f9d26775604380%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -609,13 +693,13 @@
         },
         {
           "id": "318q66hx8eyzqo9",
-          "name": "Italy U20 0 - 2 England U20",
+          "name": "Italy U20 3 - 3 England U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Italy+U20+0+-+2+England+U20&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe7c033b0dc803022e46a1d63da7f32b0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Italy+U20+3+-+3+England+U20&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe7c033b0dc803022e46a1d63da7f32b0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -735,13 +819,13 @@
         },
         {
           "id": "dj2ryohlk90oq1z",
-          "name": "Georgia U21 0 - 0 Latvia U21",
+          "name": "Georgia U21 0 - 1 Latvia U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Georgia+U21+0+-+0+Latvia+U21&t2=&live=1&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6f513c873787edcc183a3bf216298900%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Georgia+U21+0+-+1+Latvia+U21&t2=&live=1&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6f513c873787edcc183a3bf216298900%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -777,13 +861,13 @@
         },
         {
           "id": "l5ergph4o77wr8k",
-          "name": "Kazakhstan U21 0 - 1 Slovakia U21",
+          "name": "Kazakhstan U21 0 - 2 Slovakia U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kazakhstan+U21+0+-+1+Slovakia+U21&t2=&live=1&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff4aee9018fbdb076ac54ffcf79eb9345%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kazakhstan+U21+0+-+2+Slovakia+U21&t2=&live=1&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff4aee9018fbdb076ac54ffcf79eb9345%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -819,13 +903,13 @@
         },
         {
           "id": "vjxm8ghe47l7r6o",
-          "name": "Cyprus U21 0 - 1 Spain U21",
+          "name": "Cyprus U21 0 - 5 Spain U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cyprus+U21+0+-+1+Spain+U21&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FEk83xaAr-noFXGHsd.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cyprus+U21+0+-+5+Spain+U21&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FEk83xaAr-noFXGHsd.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -940,6 +1024,180 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/44846218f465a1268f3589d4085c36a1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8yomo4h176owq0j",
+          "name": "Greece U21 2 - 0 Malta U21",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Greece+U21+2+-+0+Malta+U21&t2=&live=1&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Facd4637da4e44d994da9e049a9975102%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/b7e3cef7a3442db613bf5be21705b18f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgx020r51",
+          "name": "Watanga FC 0 - 0 Freeport",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Watanga+FC+0+-+0+Freeport&t2=&live=1&lg=Liberian+second+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F334a8b422ea9915e2fb1a587c0bd871a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/eab708665ae2fd11d8cd0a1225fec7ad/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h66nwemoj",
+          "name": "Kenya 0 - 1 Estonia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kenya+0+-+1+Estonia&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F36131e0226a5009565864318a2133fdd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9128985660968eff543ee0b1a6a57081/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4kyznr8k",
+          "name": "Russia 0 - 0 Nicaragua",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Russia+0+-+0+Nicaragua&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F00Z8ODyS-dtrVaP64.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Son",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Son",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3b2bb9363f04dd075161b34148e95601/playlist.m3u8"
                         }
                       ]
                     }
