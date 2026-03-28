@@ -14,276 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh5g36oql0",
-          "name": "Partick Thistle FC 3 - 1 Ross County",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Partick+Thistle+FC+3+-+1+Ross+County&t2=&live=1&lg=Scottish+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8de561f444bbf785cfd36e62595e0964%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/422ed811ba8ec38792c843dfce5f8fea/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "318q66hx8gv7qo9",
-          "name": "Switzerland 3 - 4 Germany",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Switzerland+3+-+4+Germany&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FtWvN5N9r-88LAtdNt.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/24ae388abf799768bdf8b70dcc69ff34/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvz032md7",
-          "name": "Raith Rovers 3 - 0 Ayr United",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Raith+Rovers+3+-+0+Ayr+United&t2=&live=1&lg=Scottish+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F04089c8b8c800b7c7a11d62142c34a96%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4400a8084c0bc748cc32913b371ebb5b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "965mkyhk8o3er1g",
-          "name": "Netherlands 2 - 1 Norway",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Netherlands+2+-+1+Norway&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FbieizLjl-fazrR153.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Son",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Son",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/fc5bc26c5fc2391bc6fe4daa1fa582e1/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hn4202qdy",
-          "name": "Spain 3 - 0 Serbia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Spain+3+-+0+Serbia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FOd7JGXZA-0E8Iihe1.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Ngố",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Ngố",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/38b79bf8b09fc6ef2fbdec34b611acd2/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "x7lm7phjzng3m2w",
-          "name": "Boca Juniors De Cali 1 - 1 Real Cartagena",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Boca+Juniors+De+Cali+1+-+1+Real+Cartagena&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30e631bacb3328fdf7892c6a80e0786f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/8d518c824a374efe28c67b09fb7b97bd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "k82rekhg07kprep",
           "name": "Aguilas Doradas 1 - 0 Alianza Fútbol Club",
           "type": "single",
@@ -453,13 +183,13 @@
         },
         {
           "id": "vjxm8ghekg20r6o",
-          "name": "Knoxville troops 0 - 0 Richmond Kickers",
+          "name": "Knoxville troops 1 - 0 Richmond Kickers",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Knoxville+troops+0+-+0+Richmond+Kickers&t2=&live=1&lg=USL+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3ec0fc58230d818519996dbac31e3853%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Knoxville+troops+1+-+0+Richmond+Kickers&t2=&live=1&lg=USL+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3ec0fc58230d818519996dbac31e3853%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -495,13 +225,13 @@
         },
         {
           "id": "y39mp1h6dl68moj",
-          "name": "Ferrymead Bays 0 - 0 Northern AFC",
+          "name": "Ferrymead Bays 1 - 0 Northern AFC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ferrymead+Bays+0+-+0+Northern+AFC&t2=&live=1&lg=New+Zealand+South+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F78b8192ddc47e3cb6410e0162d2e1653%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ferrymead+Bays+1+-+0+Northern+AFC&t2=&live=1&lg=New+Zealand+South+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F78b8192ddc47e3cb6410e0162d2e1653%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -537,13 +267,13 @@
         },
         {
           "id": "318q66hx8e8yqo9",
-          "name": "Argentina 1 - 0 Mauritania",
+          "name": "Argentina 2 - 0 Mauritania",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Argentina+1+-+0+Mauritania&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FxQCUe9zB-AmY8ktbk.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Argentina+2+-+0+Mauritania&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FxQCUe9zB-AmY8ktbk.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -585,13 +315,13 @@
         },
         {
           "id": "l5ergph4w2z3r8k",
-          "name": "Sportivo Ameliano 0 - 0 Club Libertad Asunción",
+          "name": "Sportivo Ameliano 1 - 0 Club Libertad Asunción",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sportivo+Ameliano+0+-+0+Club+Libertad+Asunci%C3%B3n&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4cf4e00cfce887d205e304fb15bcb0bc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sportivo+Ameliano+1+-+0+Club+Libertad+Asunci%C3%B3n&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4cf4e00cfce887d205e304fb15bcb0bc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -627,13 +357,13 @@
         },
         {
           "id": "x7lm7phjxo52m2w",
-          "name": "Charlotte Independence 1 - 0 Spokane Velocity",
+          "name": "Charlotte Independence 3 - 0 Spokane Velocity",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Charlotte+Independence+1+-+0+Spokane+Velocity&t2=&live=1&lg=USL+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1376a578b006a8a877ed2bc03bc65eeb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Charlotte+Independence+3+-+0+Spokane+Velocity&t2=&live=1&lg=USL+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1376a578b006a8a877ed2bc03bc65eeb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -658,6 +388,222 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/f5edcadb3e174455d52c3012deaba297/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk04y6rz8",
+          "name": "San Juan Jabloteh 2 - 1 Trinidad Tobago Police FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=San+Juan+Jabloteh+2+-+1+Trinidad+Tobago+Police+FC&t2=&live=1&lg=Trinidad+and+Tobago+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffc1480c3fd745982ea27381b7f6b293e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7e3fad53e36c79b9174ed3e41174d1d2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnp1zwqvy",
+          "name": "Unam Pumas Women 0 - 0 Leon Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Unam+Pumas+Women+0+-+0+Leon+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe0038d136249c47ace1929955ad4ea7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3d1e6bf7fa4733a405519d89b524c12e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h6o0yeq86",
+          "name": "Alebrijes de Oaxaca 0 - 0 Leones Negros de la U. de G.",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Alebrijes+de+Oaxaca+0+-+0+Leones+Negros+de+la+U.+de+G.&t2=&live=1&lg=Mexico+Ascenso+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0c52ed805b5ef3e35c7fe14aa579db69%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/92288c719db970af7f7bc29b4e652360/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4l2kvr8k",
+          "name": "Venados FC Yucatán 0 - 0 Atlante FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Venados+FC+Yucat%C3%A1n+0+-+0+Atlante+FC&t2=&live=1&lg=Mexico+Ascenso+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd3d80fc3e041bce4d77b6ab75eb305b2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1e68c896d77646ff43f97dc1dfed4cdc/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx65eeqo9",
+          "name": "Atletico Bucaramanga 0 - 0 Independiente Santa Fe",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Bucaramanga+0+-+0+Independiente+Santa+Fe&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F47b3102d280afcf9fa7eb53945b274b8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Đô",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1c4387a0cd482e24b698abe4090c1202/playlist.m3u8"
                         }
                       ]
                     }
