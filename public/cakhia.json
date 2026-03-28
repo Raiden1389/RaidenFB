@@ -10,6 +10,37 @@
   },
   "groups": [
     {
+      "id": "basketballchampionsleagueasia",
+      "name": "Basketball Champions League Asia",
+      "channels": [
+        {
+          "id": "114649",
+          "name": "Hi-Tech vs Johor Southern Tiger BC | 19:00 28-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hi-Tech&t2=Johor+Southern+Tiger+BC&lg=Basketball+Champions+League+Asia&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F89425108fc161b8dd4b5723f30d9af40.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fbdec47e6ddcdccecdcdb111ab2139a0a.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 19:00 28-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
       "id": "guatemalaliganacional",
       "name": "Guatemala Liga Nacional",
       "channels": [
