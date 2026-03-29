@@ -10,6 +10,37 @@
   },
   "groups": [
     {
+      "id": "basketballchampionsleagueasia",
+      "name": "Basketball Champions League Asia",
+      "channels": [
+        {
+          "id": "115100",
+          "name": "Johor Southern Tiger BC vs Dewa United | 19:00 29-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Johor+Southern+Tiger+BC&t2=Dewa+United&lg=Basketball+Champions+League+Asia&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fbdec47e6ddcdccecdcdb111ab2139a0a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F868453d0c7726d23808424c3b40efe51.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 19:00 29-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
       "id": "guatemalaliganacional",
       "name": "Guatemala Liga Nacional",
       "channels": [
