@@ -98,14 +98,56 @@
           ]
         },
         {
-          "id": "y39mp1h6ok23moj",
-          "name": "Shastri FC 1 - 1 Vatika FC",
+          "id": "l5ergph4dn22r8k",
+          "name": "Saint Kitts and Nevis 4 - 2 Solomon Islands",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shastri+FC+1+-+1+Vatika+FC&t2=&live=1&lg=IND+DSD&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F369ef8b8e93027550dbc68eb1766663e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Saint+Kitts+and+Nevis+4+-+2+Solomon+Islands&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Ff7xFmUDa-YFbDUeTh.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/af6d1d27138c850e216487fff9fbe02e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6ok23moj",
+          "name": "Shastri FC 2 - 2 Vatika FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shastri+FC+2+-+2+Vatika+FC&t2=&live=1&lg=IND+DSD&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F369ef8b8e93027550dbc68eb1766663e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -130,54 +172,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/c421ceb5b96bf9c661159c4e5ae24ccc/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dj2ryohll0xvq1z",
-          "name": "Trinidad and Tobago 1 - 2 Gabon",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Trinidad+and+Tobago+1+-+2+Gabon&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FrawnbzeM-0tVbG58r.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Đô",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Đô",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/2d64a3256001a7ee47c296b2bf65c100/playlist.m3u8"
                         }
                       ]
                     }
@@ -231,13 +225,13 @@
         },
         {
           "id": "1l4rjnh9g234m7v",
-          "name": "Hohhot Team 0 - 0 Yushu Yak",
+          "name": "Hohhot Team 1 - 0 Yushu Yak",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hohhot+Team+0+-+0+Yushu+Yak&t2=&live=1&lg=CMG+Mass+Football+Invitational+Tournament&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6fe28b0bcc17b44e6f8588a6658d65b2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hohhot+Team+1+-+0+Yushu+Yak&t2=&live=1&lg=CMG+Mass+Football+Invitational+Tournament&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6fe28b0bcc17b44e6f8588a6658d65b2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -272,14 +266,14 @@
           ]
         },
         {
-          "id": "dj2ryohl7we5q1z",
-          "name": "Kosovo U19 0 - 0 Turkiye U19",
+          "id": "dn1m1ghlxe32moe",
+          "name": "Al Talaba 0 - 0 Al-Naft SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kosovo+U19+0+-+0+Turkiye+U19&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=UEFA+European+U19+Football+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F28dd7e1605b04bac78e6f96f1efc5cf9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Talaba+0+-+0+Al-Naft+SC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F37d1c4106463ac4d3f1d1a3f879732b1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -297,8 +291,27 @@
               "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5041fbc8adebcf32cef194c7d847c507/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
