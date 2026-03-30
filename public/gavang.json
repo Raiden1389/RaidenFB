@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "1l4rjnh9g234m7v",
-          "name": "Hohhot Team 2 - 1 Yushu Yak",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hohhot+Team+2+-+1+Yushu+Yak&t2=&live=1&lg=CMG+Mass+Football+Invitational+Tournament&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6fe28b0bcc17b44e6f8588a6658d65b2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/c8601c49fcab3bd7451e4d6c6dc0d68e/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "y39mp1h6o3enmoj",
           "name": "Albania U21 3 - 2 Uzbekistan U23",
           "type": "single",
@@ -308,62 +266,14 @@
           ]
         },
         {
-          "id": "2y8m4zh559p3ql0",
-          "name": "Uzbekistan 0 - 0 Venezuela",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uzbekistan+0+-+0+Venezuela&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F06K3E8fM-MeuncTkU.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/8eea442b0dd8e9424d652d4ec006f467/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "k82rekhge1gerep",
-          "name": "Grenada 0 - 2 Kenya",
+          "name": "Grenada 0 - 3 Kenya",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Grenada+0+-+2+Kenya&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffe1b22fbe400d277aedf6303a09baaf8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Grenada+0+-+3+Kenya&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffe1b22fbe400d277aedf6303a09baaf8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -399,13 +309,13 @@
         },
         {
           "id": "y39mp1h6op42moj",
-          "name": "Kyrgyzstan U23 0 - 0 Serbia U21",
+          "name": "Kyrgyzstan U23 0 - 2 Serbia U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kyrgyzstan+U23+0+-+0+Serbia+U21&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3158bc2dd9c140696de275fdcfc63b15%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kyrgyzstan+U23+0+-+2+Serbia+U21&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3158bc2dd9c140696de275fdcfc63b15%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -441,13 +351,13 @@
         },
         {
           "id": "318q66hx1046qo9",
-          "name": "Duhok SC 0 - 0 Zakho SC",
+          "name": "Duhok SC 0 - 1 Zakho SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Duhok+SC+0+-+0+Zakho+SC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6441fe3f90a5e766d7d0d77c256bb8c4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Duhok+SC+0+-+1+Zakho+SC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6441fe3f90a5e766d7d0d77c256bb8c4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -489,13 +399,13 @@
         },
         {
           "id": "y39mp1h6o5ywmoj",
-          "name": "Al Karkh 0 - 0 Al-Mina'a SC",
+          "name": "Al Karkh 1 - 0 Al-Mina'a SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Karkh+0+-+0+Al-Mina%27a+SC&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0d0031b586206b2588208e3f18cf7f14%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Karkh+1+-+0+Al-Mina%27a+SC&t2=&live=1&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0d0031b586206b2588208e3f18cf7f14%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -531,13 +441,13 @@
         },
         {
           "id": "23xmvkh6ow50qg8",
-          "name": "Czechia Republic U20 0 - 0 Portugal U20",
+          "name": "Czechia Republic U20 1 - 2 Portugal U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Czechia+Republic+U20+0+-+0+Portugal+U20&t2=&live=1&lg=Elite+League+U20&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fedbcd2163a733305509e36ac4f81817f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Czechia+Republic+U20+1+-+2+Portugal+U20&t2=&live=1&lg=Elite+League+U20&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fedbcd2163a733305509e36ac4f81817f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -573,13 +483,13 @@
         },
         {
           "id": "4wyrn4h6yk8xq86",
-          "name": "Al Masry 0 - 1 El Gounah",
+          "name": "Al Masry 1 - 1 El Gounah",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Masry+0+-+1+El+Gounah&t2=&live=1&lg=Egypt+League+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff43547c7bd0a18f5c03d28c068e3dbed%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Masry+1+-+1+El+Gounah&t2=&live=1&lg=Egypt+League+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff43547c7bd0a18f5c03d28c068e3dbed%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -615,13 +525,13 @@
         },
         {
           "id": "y39mp1h6o3ppmoj",
-          "name": "Azerbaijan 0 - 0 Sierra Leone",
+          "name": "Azerbaijan 0 - 1 Sierra Leone",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Azerbaijan+0+-+0+Sierra+Leone&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQXDfRbZg-dtrVaP64.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Azerbaijan+0+-+1+Sierra+Leone&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=FIFA+Series&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQXDfRbZg-dtrVaP64.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -652,6 +562,138 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/3bb54eec1734ddc293216808fdc485c0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghlx4gwmoe",
+          "name": "Cyprus 2 - 0 Moldova",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cyprus+2+-+0+Moldova&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcfc773f4f2f99c55283fb4a25a996905%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4df54ccae7f1303437253769b5f26346/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhn83e6qvy",
+          "name": "Hamburger SV Women 0 - 1 Bayer Leverkusen Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hamburger+SV+Women+0+-+1+Bayer+Leverkusen+Women&t2=&live=1&lg=German+Frauen+Bundesliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fec204239798409f8340bf7a6c6326099%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/40798d415964d779863d05c8013915ad/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h63eokmoj",
+          "name": "France U21 0 - 0 Iceland U21",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=France+U21+0+-+0+Iceland+U21&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=UEFA+European+U21+Championship+qualification&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjLzTVcyB-U3HPIwDq.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Nhí",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fd85aa777e9f29a78abf84c74acf440f/playlist.m3u8"
                         }
                       ]
                     }
