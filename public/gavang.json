@@ -105,13 +105,13 @@
         },
         {
           "id": "8yomo4h185w6q0j",
-          "name": "Gimnasia LP Women 0 - 0 Lanus Women",
+          "name": "Gimnasia LP Women 1 - 0 Lanus Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gimnasia+LP+Women+0+-+0+Lanus+Women&t2=&live=1&lg=Argentine+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff6ddbcbf1cc60db3bd0ca6bbbd184082%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gimnasia+LP+Women+1+-+0+Lanus+Women&t2=&live=1&lg=Argentine+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff6ddbcbf1cc60db3bd0ca6bbbd184082%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -147,13 +147,13 @@
         },
         {
           "id": "8yomo4h1z5zvq0j",
-          "name": "Sunderland U21 1 - 1 Reading U21",
+          "name": "Sunderland U21 2 - 2 Reading U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sunderland+U21+1+-+1+Reading+U21&t2=&live=1&lg=English+U21+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F78aeb4eb7f4fe1bd35cb952c11a18dac%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sunderland+U21+2+-+2+Reading+U21&t2=&live=1&lg=English+U21+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F78aeb4eb7f4fe1bd35cb952c11a18dac%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -230,14 +230,56 @@
           ]
         },
         {
-          "id": "4wyrn4h6we46q86",
-          "name": "Amanat Baghdad 0 - 0 Al Karma",
+          "id": "23xmvkh68j0nqg8",
+          "name": "Deportivo Muniz 0 - 0 Canuelas FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Amanat+Baghdad+0+-+0+Al+Karma&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbe94a75d824acdcc611a5fec053ce33d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Muniz+0+-+0+Canuelas+FC&t2=&live=1&lg=Argentine+Group+C+Tebolidun+League+Manchester&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F53107e7825690bd8142f715588fba5e2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6fbe7b68628830a147fa81d04ddaa067/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h6we46q86",
+          "name": "Amanat Baghdad 1 - 0 Al Karma",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Amanat+Baghdad+1+-+0+Al+Karma&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbe94a75d824acdcc611a5fec053ce33d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -255,8 +297,27 @@
               "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Súp",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/39fcaa6c5373777a15bcd111ca45a48e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "6ypq3nhv842dmd7",
@@ -302,13 +363,13 @@
         },
         {
           "id": "8yomo4h10j3wq0j",
-          "name": "US Casertana 1908 0 - 0 AS Sorrento Calcio",
+          "name": "US Casertana 1908 1 - 0 AS Sorrento Calcio",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=US+Casertana+1908+0+-+0+AS+Sorrento+Calcio&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F48df0778cd1e18462cadf8d11832f3a0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=US+Casertana+1908+1+-+0+AS+Sorrento+Calcio&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F48df0778cd1e18462cadf8d11832f3a0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -344,13 +405,13 @@
         },
         {
           "id": "965mkyhknw65r1g",
-          "name": "Arezzo 0 - 0 Ascoli",
+          "name": "Arezzo 1 - 1 Ascoli",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Arezzo+0+-+0+Ascoli&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F63189c69b327e8cff732c25abda9c5e9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Arezzo+1+-+1+Ascoli&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F63189c69b327e8cff732c25abda9c5e9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -386,13 +447,13 @@
         },
         {
           "id": "x7lm7phjze7em2w",
-          "name": "Centro Espanol 0 - 0 CA Lugano",
+          "name": "Centro Espanol 1 - 2 CA Lugano",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Centro+Espanol+0+-+0+CA+Lugano&t2=&live=1&lg=Argentine+Group+C+Tebolidun+League+Manchester&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1f154561886cf4fd5eba56e68d3f4f5d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Centro+Espanol+1+-+2+CA+Lugano&t2=&live=1&lg=Argentine+Group+C+Tebolidun+League+Manchester&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1f154561886cf4fd5eba56e68d3f4f5d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -428,13 +489,13 @@
         },
         {
           "id": "965mkyhk2l2gr1g",
-          "name": "Germany 0 - 0 Ghana",
+          "name": "Germany 1 - 0 Ghana",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Germany+0+-+0+Ghana&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FzP226aXg-fB4vYUZp.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Germany+1+-+0+Ghana&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FzP226aXg-fB4vYUZp.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -452,8 +513,111 @@
               "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Ngố",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e708c241ecfa63ede722d18bcb66df2e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx1kx3qo9",
+          "name": "Rwanda 2 - 0 Estonia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rwanda+2+-+0+Estonia&t2=&live=1&lg=FIFA+Series&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6242f819c89419130528bb5dd3639330%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c4845892e7a96a35fc9efdcbb8368731/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhv7nw1md7",
+          "name": "Defensores de Belgrano 1 - 0 Atletico Rafaela",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Defensores+de+Belgrano+1+-+0+Atletico+Rafaela&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5b85f1d17002ec1e6aee719ca238a132%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/87179b552a65027595760c11d5ebd4c3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
