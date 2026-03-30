@@ -477,13 +477,13 @@
         },
         {
           "id": "965mkyhkygp8r1g",
-          "name": "Independiente Yumbo 0 - 1 Union Magdalena",
+          "name": "Independiente Yumbo 0 - 2 Union Magdalena",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Independiente+Yumbo+0+-+1+Union+Magdalena&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff1e5d85e06a671822034e53733e15ff4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Independiente+Yumbo+0+-+2+Union+Magdalena&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff1e5d85e06a671822034e53733e15ff4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -603,13 +603,13 @@
         },
         {
           "id": "2y8m4zh5743vql0",
-          "name": "Junior Women 0 - 0 Atletico Nacional Medellin (W)",
+          "name": "Junior Women 1 - 0 Atletico Nacional Medellin (W)",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Junior+Women+0+-+0+Atletico+Nacional+Medellin+%28W%29&t2=&live=1&lg=Colombian+Liga+Betplay+Femenina&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd42737152322b81593f0f7bd3c414a6e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Junior+Women+1+-+0+Atletico+Nacional+Medellin+%28W%29&t2=&live=1&lg=Colombian+Liga+Betplay+Femenina&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd42737152322b81593f0f7bd3c414a6e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -634,6 +634,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/b6ecfbd3ba9a665479e6b45774eb385a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6d4olmoj",
+          "name": "EC Jacuipense 0 - 0 America FC Natal RN",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=EC+Jacuipense+0+-+0+America+FC+Natal+RN&t2=&live=1&lg=Brazilian+Copa+do+Nordeste&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F953a8a31a0679559ef3bd9ef3ded5870%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c47afd500308171de8180e713cad10e6/playlist.m3u8"
                         }
                       ]
                     }
