@@ -8,7 +8,95 @@
     "type": "cover",
     "url": "https://cakhia.ink/favicon.ico"
   },
-  "groups": [],
+  "groups": [
+    {
+      "id": "copadelaliga",
+      "name": "Copa de la Liga",
+      "channels": [
+        {
+          "id": "115480",
+          "name": "Cobresal vs Univ Catolica | 04:00 31-03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cobresal&t2=Univ+Catolica&lg=Copa+de+la+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fa5e650365ee5c40efb649bf12015eb6d.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd2c51e33f6e7a7a3eed10d03fdb9ffb8.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 04:00 31-03",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "uefawomenschampionsleague",
+      "name": "UEFA Women's Champions League",
+      "channels": [
+        {
+          "id": "115488",
+          "name": "Bayern Munchen Women vs Manchester United Women | 23:45 01-04 | BLV COZY",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bayern+Munchen+Women&t2=Manchester+United+Women&blv=BLV+COZY&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F57ec3afbec462319117d3d7f90f746db.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fdb33359c11033fc28c9bedec0a4a89d9.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 23:45 01-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV COZY",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV COZY",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/531989.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    }
+  ],
   "option": {
     "save_history": false,
     "save_search_history": false,
