@@ -14,264 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh5vpgvql0",
-          "name": "Austria 1 - 0 South Korea",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Austria+1+-+0+South+Korea&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F694973eca286624f9cb4f998b4d36d19%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/f393d28787cd8e789096b16bcc5dd695/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghng9kkm0v",
-          "name": "England 0 - 1 Japan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=England+0+-+1+Japan&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=International+Friendly&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FtCG9KQYA-Iyld3bDd.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/27ed33450fbbd4f4e4b9c8fa197c79d3/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghnw028m0v",
-          "name": "Ukraine 1 - 0 Albania",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ukraine+1+-+0+Albania&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F69ee5647719f6718c7341440aac8e8c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/d41e568070ef6643393c2d58ef4b1539/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "965mkyhkw13or1g",
-          "name": "Ireland 0 - 0 North Macedonia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ireland+0+-+0+North+Macedonia&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F780d2a2761b6e55aac9397de55aa8eb6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e777eb1cbf3fa88a65874dbc1e81c111/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "k82rekhgenywrep",
-          "name": "Slovakia 2 - 0 Romania",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Slovakia+2+-+0+Romania&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F88b2143433c349c8fd819834a1ef3904%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e08f3ec3bc5c47a1bc7bff4064517873/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y39mp1h6opj0moj",
-          "name": "Wales 1 - 1 Northern Ireland",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wales+1+-+1+Northern+Ireland&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe74bda88750196f9673ade920aab54c8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/7079873699639ba68f47c6eafe74ad70/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh9g62xm7v",
           "name": "Algeria 0 - 0 Uruguay",
           "type": "single",
@@ -525,13 +267,13 @@
         },
         {
           "id": "6ypq3nhv3g2gmd7",
-          "name": "Club Sportivo 2 de Mayo 1 - 0 FC Nacional Asuncion",
+          "name": "Club Sportivo 2 de Mayo 1 - 1 FC Nacional Asuncion",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Sportivo+2+de+Mayo+1+-+0+FC+Nacional+Asuncion&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F37a88ed896a94f40f75cb6f406b8ee82%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Sportivo+2+de+Mayo+1+-+1+FC+Nacional+Asuncion&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F37a88ed896a94f40f75cb6f406b8ee82%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -609,13 +351,13 @@
         },
         {
           "id": "318q66hx8pw7qo9",
-          "name": "Audax Italiano 0 - 3 Universidad de Chile",
+          "name": "Audax Italiano 1 - 3 Universidad de Chile",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Audax+Italiano+0+-+3+Universidad+de+Chile&t2=&live=1&lg=Copa+de+la+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fab87d1aebe8a1d4c9fc8e61eb163d2cd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Audax+Italiano+1+-+3+Universidad+de+Chile&t2=&live=1&lg=Copa+de+la+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fab87d1aebe8a1d4c9fc8e61eb163d2cd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -724,6 +466,132 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/0a98490fa41a4036bf946880d6f00ef3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk3ld4rz8",
+          "name": "FC Naples 1 - 0 America CFL Spurs",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Naples+1+-+0+America+CFL+Spurs&t2=&live=1&lg=United+States+Open+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0ca25d31892e390600eebf2311689ac4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0d608ffefab1c9d7697e5c594488fe07/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4do7gr8k",
+          "name": "Asheville City 0 - 0 Knoxville troops",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Asheville+City+0+-+0+Knoxville+troops&t2=&live=1&lg=United+States+Open+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4191013ec2ac379e2bbc201ef43a6f1d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/97119acfc9f544ce0621819dbdfa7dbe/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgxnznr51",
+          "name": "Indy Eleven 0 - 0 Omaha",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Indy+Eleven+0+-+0+Omaha&t2=&live=1&lg=United+States+Open+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F18fcf410d0c0ee8609b50445f636cff4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e13a2bad85438f82524bda6c16401e31/playlist.m3u8"
                         }
                       ]
                     }
