@@ -14,6 +14,48 @@
       "name": "🔴 LIVE",
       "channels": [
         {
+          "id": "318q66hx1np4qo9",
+          "name": "PSPP Padang Panjang 1 - 0 PSLA Sicincin",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=PSPP+Padang+Panjang+1+-+0+PSLA+Sicincin&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a255b3dcf29799256e5ff82e60eff35%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/644bb7bbe38803cac50e69b5a0c84d7a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "dn1m1ghl2n0kmoe",
           "name": "Cameroon 2 - 0 China",
           "type": "single",
@@ -62,14 +104,98 @@
           ]
         },
         {
-          "id": "2y8m4zh55n39ql0",
-          "name": "North Korea U23 0 - 0 Thailand U23",
+          "id": "y39mp1h6opn5moj",
+          "name": "Waribo FC 2 - 5 Persiker Keerom",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=North+Korea+U23+0+-+0+Thailand+U23&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=U23+CFA+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FCEKU1UwS-049Lq8a5.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Waribo+FC+2+-+5+Persiker+Keerom&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F908a9de80f09bdf8ee590d0f905f0cc7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6aa144f53b58ba5e6dd0807ad78957a0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn9099qdy",
+          "name": "Queanbeyan City U23 1 - 0 Canberra Croatia FC U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Queanbeyan+City+U23+1+-+0+Canberra+Croatia+FC+U23&t2=&live=1&lg=Australia+Capital+Territory+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fde8b6b21b09d7027734b8a7d969751b3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ffad3795f254deaa02114ad857b0d136/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh55n39ql0",
+          "name": "North Korea U23 2 - 0 Thailand U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=North+Korea+U23+2+-+0+Thailand+U23&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=U23+CFA+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FCEKU1UwS-049Lq8a5.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -89,6 +215,48 @@
           ],
           "sources": [],
           "enable_detail": false
+        },
+        {
+          "id": "ednm9whwo6o8ryo",
+          "name": "Garhwal Diamond 0 - 0 National United SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Garhwal+Diamond+0+-+0+National+United+SC&t2=&live=1&lg=IND+DSD&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4eb69ebdc04e34134feedec296c5d7a2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fdf622009497a3a13012c2d330761318/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
