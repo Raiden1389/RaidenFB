@@ -110,9 +110,63 @@
       "grid_number": 1
     },
     {
+      "id": "copadelaliga",
+      "name": "Copa de la Liga",
+      "channels": [
+        {
+          "id": "115810",
+          "name": "Colo Colo vs Huachipato | 04:00 02-04",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Colo+Colo&t2=Huachipato&lg=Copa+de+la+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb641a84c2286632196e3cb0614a41fc2.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F251e701387b629039e7d035f2f18e744.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 04:00 02-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
       "id": "guatemalaliganacional",
       "name": "Guatemala Liga Nacional",
       "channels": [
+        {
+          "id": "115811",
+          "name": "Coban Imperial vs Aurora F.C. | 04:00 02-04",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Coban+Imperial&t2=Aurora+F.C.&lg=Guatemala+Liga+Nacional&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3a31c79c215989b231a8219c016ad8ae.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fcba0e284f34d7726695b5261a3420abe.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 04:00 02-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
         {
           "id": "115625",
           "name": "Marquense vs Xelaju MC | 09:00 02-04 | BLV ROBBEN",
