@@ -10,60 +10,6 @@
   },
   "groups": [
     {
-      "id": "basketballchampionsleague",
-      "name": "Basketball Champions League",
-      "channels": [
-        {
-          "id": "115796",
-          "name": "Unicaja vs Alba Berlin | 01:30 02-04",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Unicaja&t2=Alba+Berlin&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F80430f985036f02f596f67a22d95f7c9.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F8d93f6302daab53ab97cd6bda6cde3a9.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 01:30 02-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "115804",
-          "name": "Isla De Tenerife Canarias vs Galatasaray S.K. | 02:00 02-04",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Isla+De+Tenerife+Canarias&t2=Galatasaray+S.K.&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F83aad6c30debcc61a0d70cd522f28d43.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fcfcc0e73f9bb9b5e7c7455798cad9a9e.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:00 02-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
       "id": "copadelaliga",
       "name": "Copa de la Liga",
       "channels": [
@@ -113,6 +59,29 @@
           "labels": [
             {
               "text": "⏰ 04:00 02-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "115951",
+          "name": "Antigua GFC vs Deportivo Mictlan | 07:00 02-04",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Antigua+GFC&t2=Deportivo+Mictlan&lg=Guatemala+Liga+Nacional&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb3c66f6f52c354c8f7281e49485b2f2b.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F627ee10aee931e57dfebaba725d26a94.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 07:00 02-04",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
@@ -377,54 +346,6 @@
       "id": "uefawomenschampionsleague",
       "name": "UEFA Women's Champions League",
       "channels": [
-        {
-          "id": "115607",
-          "name": "Chelsea FC Women vs Arsenal Women | 02:00 02-04 | BLV VITAMIN",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chelsea+FC+Women&t2=Arsenal+Women&blv=BLV+VITAMIN&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fe9e2307866d939fc857fb0a31fa89bd7.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb61190e348449a746ef3f802e7ebc701.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:00 02-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV VITAMIN",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV VITAMIN",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/400722.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "115651",
           "name": "Barcelona Women vs Real Madrid Women | 23:45 02-04 | BLV ALEX",
