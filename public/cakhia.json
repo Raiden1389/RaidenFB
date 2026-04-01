@@ -10,6 +10,60 @@
   },
   "groups": [
     {
+      "id": "basketballchampionsleague",
+      "name": "Basketball Champions League",
+      "channels": [
+        {
+          "id": "115767",
+          "name": "Lietuvos Rytas vs Nymburk | 23:30 01-04",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lietuvos+Rytas&t2=Nymburk&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc458816e3d9ffe0e5b185063a5ec3fec.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F9e43b47b1cdf3db5fbb9620a51264a28.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 23:30 01-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "115768",
+          "name": "AEK Athens vs Joventut Badalona | 23:30 01-04",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AEK+Athens&t2=Joventut+Badalona&lg=Basketball+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd6f654ee1134a0c0db2da0322abe3625.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F48869422a02d4e07e365c93a54edb3a1.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 23:30 01-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
       "id": "guatemalaliganacional",
       "name": "Guatemala Liga Nacional",
       "channels": [
