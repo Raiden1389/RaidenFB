@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "zp5rzghgowzgq82",
-          "name": "Yushu Yak 5 - 1 Ganzhou Team",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yushu+Yak+5+-+1+Ganzhou+Team&t2=&live=1&lg=CMG+Mass+Football+Invitational+Tournament&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0c41fa6e91e6264e62bf24d3ffd7eb85%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e7626f3a8bd85a88faffed82daa461fa/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "jw2r09hk30j4rz8",
           "name": "Persimi Sarmi 3 - 1 Waribo FC",
           "type": "single",
@@ -99,13 +57,13 @@
         },
         {
           "id": "l5ergph42np4r8k",
-          "name": "Macarthur FC 1 - 0 Newcastle Jets",
+          "name": "Macarthur FC 2 - 2 Newcastle Jets",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Macarthur+FC+1+-+0+Newcastle+Jets&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Australia+A-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F207023b80dd9bb003d3e12395f63e096%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Macarthur+FC+2+-+2+Newcastle+Jets&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Australia+A-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F207023b80dd9bb003d3e12395f63e096%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -146,14 +104,98 @@
           ]
         },
         {
-          "id": "6ypq3nhvn0pdmd7",
-          "name": "South Korea Women U20 0 - 0 Uzbekistan Women U20",
+          "id": "23xmvkh640k8qg8",
+          "name": "SC Poltava U21 0 - 3 PFC Oleksandria U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=South+Korea+Women+U20+0+-+0+Uzbekistan+Women+U20&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=AFC+U-20+Women%27s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fd6aU5Lg5-rmoQGtok.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SC+Poltava+U21+0+-+3+PFC+Oleksandria+U21&t2=&live=1&lg=Ukrainian+Youth+Team+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ef10c25ca532aa87e4711b91a1297fb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/799a114db6cc795f6329608fec30fb0a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn9059qdy",
+          "name": "Brisbane City 0 - 0 Brisbane Strikers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brisbane+City+0+-+0+Brisbane+Strikers&t2=&live=1&lg=Australia+FFA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2401f525a8ed465ccd4a6409da360cce%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/19c46bb88ac7df4eb522ef8453c2c2cd/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvn0pdmd7",
+          "name": "South Korea Women U20 1 - 0 Uzbekistan Women U20",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=South+Korea+Women+U20+1+-+0+Uzbekistan+Women+U20&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=AFC+U-20+Women%27s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fd6aU5Lg5-rmoQGtok.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -184,6 +226,180 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/325553db7ee94b3bd77bd7bc2f8a9ef8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohlllg0q1z",
+          "name": "Bohemians1905 B 1 - 1 Viktoria Plzen B",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bohemians1905+B+1+-+1+Viktoria+Plzen+B&t2=&live=1&lg=Czech+Third+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc88e0e51d3d0af75b2eb2799d614f486%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8c68e58d3efc2a915b7c5a93b35a1a27/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnz2wvqvy",
+          "name": "Australia Women U20 2 - 0 Chinese Taipei U20 Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Australia+Women+U20+2+-+0+Chinese+Taipei+U20+Women&t2=&live=1&lg=AFC+U-20+Women%27s+Asian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0e0d51b8bafa4a45911e50e2da6a3004%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a0cc4f3b635f1afe71418013b6af38c9/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh85oxoqwz",
+          "name": "Mill Park 0 - 2 Eastern Lions SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mill+Park+0+-+2+Eastern+Lions+SC&t2=&live=1&lg=Australia+FFA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Feb4ce8e9b4d52427660043efa20312d9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/284fdc52c4b1577b7644c07d035d2ef4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvgl1ymd7",
+          "name": "Brisbane Roar 0 - 0 Sydney FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brisbane+Roar+0+-+0+Sydney+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Australia+A-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F19dd9f52649ba4c38c86621fce6a7f38%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3763eb4f52031b1974d50577cddba6dd/playlist.m3u8"
                         }
                       ]
                     }
