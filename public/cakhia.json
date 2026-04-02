@@ -214,54 +214,6 @@
       "name": "UEFA Women's Champions League",
       "channels": [
         {
-          "id": "115651",
-          "name": "Barcelona Women vs Real Madrid Women | 23:45 02-04 | BLV ALEX",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Barcelona+Women&t2=Real+Madrid+Women&blv=BLV+ALEX&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb65ee16a9cfe056825b1e0c15c05cf54.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fa8b4d7362b24cfc910c7e652d6b4c874.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 23:45 02-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV ALEX",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV ALEX",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/532081.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "115826",
           "name": "OL Lyonnes Women vs VfL Wolfsburg Women | 02:00 03-04 | BLV TOMIA",
           "type": "single",
