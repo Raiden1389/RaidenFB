@@ -351,13 +351,13 @@
         },
         {
           "id": "1l4rjnh9z621m7v",
-          "name": "Cambridge United 1 - 0 Swindon Town",
+          "name": "Cambridge United 1 - 1 Swindon Town",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cambridge+United+1+-+0+Swindon+Town&t2=&live=1&lg=English+Football+League+Two&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8839bd3b7a76a7c955362724fc2202c3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cambridge+United+1+-+1+Swindon+Town&t2=&live=1&lg=English+Football+League+Two&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8839bd3b7a76a7c955362724fc2202c3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -393,13 +393,13 @@
         },
         {
           "id": "k82rekhgw3x4rep",
-          "name": "AS FAR Rabat 1 - 2 Olympique Dcheira",
+          "name": "AS FAR Rabat 3 - 2 Olympique Dcheira",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+FAR+Rabat+1+-+2+Olympique+Dcheira&t2=&live=1&lg=The+Botola+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ac20887c970da87f1f076b6f68795b7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AS+FAR+Rabat+3+-+2+Olympique+Dcheira&t2=&live=1&lg=The+Botola+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ac20887c970da87f1f076b6f68795b7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -435,13 +435,13 @@
         },
         {
           "id": "x7lm7phj3118m2w",
-          "name": "Boyaca Chico 0 - 0 Deportivo Pereira",
+          "name": "Boyaca Chico 1 - 0 Deportivo Pereira",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Boyaca+Chico+0+-+0+Deportivo+Pereira&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Boyaca+Chico+1+-+0+Deportivo+Pereira&t2=&live=1&lg=Categor%C3%ADa+Primera+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -556,6 +556,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/dc48282126f0440321af9ebe0e50cb7f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghe5v42r6o",
+          "name": "Club Atletico Tigre 0 - 0 Independiente Rivadavia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Atletico+Tigre+0+-+0+Independiente+Rivadavia&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F04b7f144c9b4768e7b516676ae5dc818%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/56b93257f98ed94e0b07b0d84805365e/playlist.m3u8"
                         }
                       ]
                     }
