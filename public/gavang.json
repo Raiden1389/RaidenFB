@@ -14,56 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "l5ergph4lyler8k",
-          "name": "Monterrey Women 3 - 0 Unam Pumas Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Monterrey+Women+3+-+0+Unam+Pumas+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5318705eec7b93f9f09b8e4150b7dabe%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/3153cf3a53431f005f9a8404fd33c9c6/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "zp5rzghgowzgq82",
-          "name": "Yushu Yak 5 - 0 Ganzhou Team",
+          "name": "Yushu Yak 5 - 1 Ganzhou Team",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yushu+Yak+5+-+0+Ganzhou+Team&t2=&live=1&lg=CMG+Mass+Football+Invitational+Tournament&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0c41fa6e91e6264e62bf24d3ffd7eb85%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yushu+Yak+5+-+1+Ganzhou+Team&t2=&live=1&lg=CMG+Mass+Football+Invitational+Tournament&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0c41fa6e91e6264e62bf24d3ffd7eb85%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -88,6 +46,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/e7626f3a8bd85a88faffed82daa461fa/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk30j4rz8",
+          "name": "Persimi Sarmi 3 - 1 Waribo FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Persimi+Sarmi+3+-+1+Waribo+FC&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F74feb8b33b07dd8a93ce89ae21677a14%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0d4fa3c86910a8e0f435310c96a53434/playlist.m3u8"
                         }
                       ]
                     }
