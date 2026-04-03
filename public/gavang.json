@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh5wxwnql0",
-          "name": "Tijuana Women 0 - 2 Tigres Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tijuana+Women+0+-+2+Tigres+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F44e3c29bbce6c22ddaff1ae3cdda0b81%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ba6be2508c5309f38bd785e8b1077aeb/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "2y8m4zh57zx6ql0",
           "name": "Christchurch United 3 - 0 Nomads",
           "type": "single",
@@ -183,13 +141,13 @@
         },
         {
           "id": "dj2ryohle72wq1z",
-          "name": "APIA Leichhardt Tigers 2 - 0 Western Sydney Wanderers AM",
+          "name": "APIA Leichhardt Tigers 3 - 1 Western Sydney Wanderers AM",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=APIA+Leichhardt+Tigers+2+-+0+Western+Sydney+Wanderers+AM&t2=&live=1&lg=Australia+New+South+Wales+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb1963a09b18415a9556ce4b8d80126f6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=APIA+Leichhardt+Tigers+3+-+1+Western+Sydney+Wanderers+AM&t2=&live=1&lg=Australia+New+South+Wales+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb1963a09b18415a9556ce4b8d80126f6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -225,13 +183,13 @@
         },
         {
           "id": "y0or5jh89964qwz",
-          "name": "Manly Utd Women 1 - 0 Mt Druitt Town Rangers FC (W)",
+          "name": "Manly Utd Women 4 - 0 Mt Druitt Town Rangers FC (W)",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manly+Utd+Women+1+-+0+Mt+Druitt+Town+Rangers+FC+%28W%29&t2=&live=1&lg=Australia+New+South+Wales+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe0350e7be0b6178637204046ad314cc9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manly+Utd+Women+4+-+0+Mt+Druitt+Town+Rangers+FC+%28W%29&t2=&live=1&lg=Australia+New+South+Wales+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe0350e7be0b6178637204046ad314cc9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -256,6 +214,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/64a97b7f0f3ce5ef5cee98f587b7b432/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hxk9glqo9",
+          "name": "Eastern District 0 - 0 Lee Man",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eastern+District+0+-+0+Lee+Man&t2=&live=1&lg=Chinese+Hong+Kong+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb7b106c83cebcb87afffe475c501fb7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5ff9e4df31900b04c85e7f4152cadccc/playlist.m3u8"
                         }
                       ]
                     }
