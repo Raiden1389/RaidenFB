@@ -14,90 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "zp5rzghg3d45q82",
-          "name": "NTC Football West Women 0 - 0 Perth RedStar Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=NTC+Football+West+Women+0+-+0+Perth+RedStar+Women&t2=&live=1&lg=Western+Australia+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4a777b948ab5053cc044b798bda76296%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e24fd8332ca5fe7d0d8f984223dade69/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "8yomo4h1ge8nq0j",
-          "name": "Club Tijuana 1 - 0 Tigres UANL",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Tijuana+1+-+0+Tigres+UANL&t2=&live=1&lg=Mexico+Liga+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F665c67908b9d96422f9e48377a41949f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b908e3cfb3d7e07344028c298ea74235/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "n54qllhn91owqvy",
           "name": "Central Coast Mariners Women 0 - 0 Sydney FC Women",
           "type": "single",
@@ -393,13 +309,13 @@
         },
         {
           "id": "pxwrxlhyl2zeryk",
-          "name": "VONDS Ichihara (W) 0 - 1 NGU Nagoya Women",
+          "name": "VONDS Ichihara (W) 0 - 2 NGU Nagoya Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VONDS+Ichihara+%28W%29+0+-+1+NGU+Nagoya+Women&t2=&live=1&lg=Japanese+Nadeshiko+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6f4cbc5b1c81273c7e8299928786ce03%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=VONDS+Ichihara+%28W%29+0+-+2+NGU+Nagoya+Women&t2=&live=1&lg=Japanese+Nadeshiko+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6f4cbc5b1c81273c7e8299928786ce03%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -476,72 +392,14 @@
           ]
         },
         {
-          "id": "8yomoxhy4p8vm0j",
-          "name": "Gunma Bank Green Wings Women 0 - 0 Himeji Victorina Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gunma+Bank+Green+Wings+Women+0+-+0+Himeji+Victorina+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=SV.League+Women&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F02dce8b4a9f36e32d51b4852eb76ad2b%2Fimage%2Fsmall&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Nhí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "dj2rydh7xopyr1z",
-          "name": "Ageo Women 0 - 0 Okayama Seagulls Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ageo+Women+0+-+0+Okayama+Seagulls+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=SV.League+Women&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F340aca93b2951548bcf00367f97ea017%2Fimage%2Fsmall&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Ngố",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "1l4rjnh99xl7m7v",
-          "name": "Siheung City 0 - 1 Gyeongju KHNP",
+          "name": "Siheung City 2 - 1 Gyeongju KHNP",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Siheung+City+0+-+1+Gyeongju+KHNP&t2=&live=1&lg=Korean+K+League+3+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb47e01b8811fd0ead4ff85d50584b84e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Siheung+City+2+-+1+Gyeongju+KHNP&t2=&live=1&lg=Korean+K+League+3+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb47e01b8811fd0ead4ff85d50584b84e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -619,13 +477,13 @@
         },
         {
           "id": "23xmvkh6p5g2qg8",
-          "name": "Yokohama FC 0 - 0 Blaublitz Akita",
+          "name": "Yokohama FC 1 - 2 Blaublitz Akita",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yokohama+FC+0+-+0+Blaublitz+Akita&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf46fa0369d77a8dc12dcff180efc9fc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yokohama+FC+1+-+2+Blaublitz+Akita&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf46fa0369d77a8dc12dcff180efc9fc%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -661,13 +519,13 @@
         },
         {
           "id": "2y8m4zh56g5yql0",
-          "name": "Yongin FC 1 - 0 Jeonnam Dragons",
+          "name": "Yongin FC 2 - 2 Jeonnam Dragons",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yongin+FC+1+-+0+Jeonnam+Dragons&t2=&live=1&lg=Korean+K+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ff660a79609d57e6ce6258c891c0356%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yongin+FC+2+-+2+Jeonnam+Dragons&t2=&live=1&lg=Korean+K+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ff660a79609d57e6ce6258c891c0356%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -703,13 +561,13 @@
         },
         {
           "id": "2y8m4zh5wxv5ql0",
-          "name": "Mito Hollyhock 1 - 0 Kashima Antlers",
+          "name": "Mito Hollyhock 1 - 1 Kashima Antlers",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mito+Hollyhock+1+-+0+Kashima+Antlers&t2=&live=1&lg=Japanese+J1+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F315a10dfeef4a41c68101e223707ebdd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mito+Hollyhock+1+-+1+Kashima+Antlers&t2=&live=1&lg=Japanese+J1+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F315a10dfeef4a41c68101e223707ebdd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -787,13 +645,13 @@
         },
         {
           "id": "4jwq2ghnnx93m0v",
-          "name": "Yeoju Citizen 0 - 1 Gangneung Citizen",
+          "name": "Yeoju Citizen 1 - 1 Gangneung Citizen",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yeoju+Citizen+0+-+1+Gangneung+Citizen&t2=&live=1&lg=Korean+K+League+3+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1b8017fca90ec03ee58436e9e40f42c5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yeoju+Citizen+1+-+1+Gangneung+Citizen&t2=&live=1&lg=Korean+K+League+3+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1b8017fca90ec03ee58436e9e40f42c5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -871,13 +729,13 @@
         },
         {
           "id": "4wyrn4h6o378q86",
-          "name": "Vegalta Sendai 1 - 1 Thespa Kusatsu Gunma",
+          "name": "Vegalta Sendai 2 - 2 Thespa Kusatsu Gunma",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vegalta+Sendai+1+-+1+Thespa+Kusatsu+Gunma&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa1e4474af37ac1f689493fde1d3e98a9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vegalta+Sendai+2+-+2+Thespa+Kusatsu+Gunma&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa1e4474af37ac1f689493fde1d3e98a9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -913,13 +771,13 @@
         },
         {
           "id": "6ypq3nhv7227md7",
-          "name": "AC Nagano Parceiro Ladies 0 - 1 Nojima Stella Kanagawa Sagamihara",
+          "name": "AC Nagano Parceiro Ladies 0 - 2 Nojima Stella Kanagawa Sagamihara",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AC+Nagano+Parceiro+Ladies+0+-+1+Nojima+Stella+Kanagawa+Sagamihara&t2=&live=1&lg=Women+Empowerment+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbc373be9487442796684618e372169fe%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AC+Nagano+Parceiro+Ladies+0+-+2+Nojima+Stella+Kanagawa+Sagamihara&t2=&live=1&lg=Women+Empowerment+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbc373be9487442796684618e372169fe%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -955,13 +813,13 @@
         },
         {
           "id": "dj2ryohl1jl0q1z",
-          "name": "Seoul E-Land FC 1 - 0 Suwon Football Club",
+          "name": "Seoul E-Land FC 3 - 0 Suwon Football Club",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Seoul+E-Land+FC+1+-+0+Suwon+Football+Club&t2=&live=1&lg=Korean+K+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F238ea7fdcea1d2d94932b41064d3461e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Seoul+E-Land+FC+3+-+0+Suwon+Football+Club&t2=&live=1&lg=Korean+K+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F238ea7fdcea1d2d94932b41064d3461e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -997,13 +855,13 @@
         },
         {
           "id": "dj2ryohleww5q1z",
-          "name": "Cerezo Osaka Sakai 1 - 2 Urawa Red Diamonds Ladies",
+          "name": "Cerezo Osaka Sakai 2 - 3 Urawa Red Diamonds Ladies",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cerezo+Osaka+Sakai+1+-+2+Urawa+Red+Diamonds+Ladies&t2=&live=1&lg=Women+Empowerment+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee4b4047c7f289d326c6793495be398b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cerezo+Osaka+Sakai+2+-+3+Urawa+Red+Diamonds+Ladies&t2=&live=1&lg=Women+Empowerment+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee4b4047c7f289d326c6793495be398b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1039,13 +897,13 @@
         },
         {
           "id": "ednm9whw2ng5ryo",
-          "name": "Hokkaido Consadole Sapporo 0 - 1 Fukushima United FC",
+          "name": "Hokkaido Consadole Sapporo 0 - 2 Fukushima United FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hokkaido+Consadole+Sapporo+0+-+1+Fukushima+United+FC&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ce4ba0eaaf0c5c8a7a0b45a1096e480%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hokkaido+Consadole+Sapporo+0+-+2+Fukushima+United+FC&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ce4ba0eaaf0c5c8a7a0b45a1096e480%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1081,13 +939,13 @@
         },
         {
           "id": "ednm9whw5wjlryo",
-          "name": "Gyeongju Korea Hydro & Nuclear Power WFC 0 - 1 Incheon Hyundai Steel Red Angels Women",
+          "name": "Gyeongju Korea Hydro & Nuclear Power WFC 0 - 2 Incheon Hyundai Steel Red Angels Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gyeongju+Korea+Hydro+%26+Nuclear+Power+WFC+0+-+1+Incheon+Hyundai+Steel+Red+Angels+Women&t2=&live=1&lg=Korean+WK+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa7310022b3bb408b1633a74e4156e502%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gyeongju+Korea+Hydro+%26+Nuclear+Power+WFC+0+-+2+Incheon+Hyundai+Steel+Red+Angels+Women&t2=&live=1&lg=Korean+WK+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa7310022b3bb408b1633a74e4156e502%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1123,13 +981,13 @@
         },
         {
           "id": "k82rekhg0k3drep",
-          "name": "Fujieda MYFC 0 - 1 AC Nagano Parceiro",
+          "name": "Fujieda MYFC 0 - 2 AC Nagano Parceiro",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fujieda+MYFC+0+-+1+AC+Nagano+Parceiro&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd7bbeedd586ed158a001358d80bc07a3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fujieda+MYFC+0+-+2+AC+Nagano+Parceiro&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd7bbeedd586ed158a001358d80bc07a3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1207,13 +1065,13 @@
         },
         {
           "id": "l7oqdehgjx6gr51",
-          "name": "Criacao Shinjuku 0 - 1 Yokogawa Musashino FC",
+          "name": "Criacao Shinjuku 1 - 1 Yokogawa Musashino FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Criacao+Shinjuku+0+-+1+Yokogawa+Musashino+FC&t2=&live=1&lg=Japanese+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1e2f0379a441b6a39b94035b7f7047c4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Criacao+Shinjuku+1+-+1+Yokogawa+Musashino+FC&t2=&live=1&lg=Japanese+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1e2f0379a441b6a39b94035b7f7047c4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1249,13 +1107,13 @@
         },
         {
           "id": "l7oqdehgo621r51",
-          "name": "Jeonbuk Hyundai Motors 1 - 0 Ulsan HD FC",
+          "name": "Jeonbuk Hyundai Motors 2 - 0 Ulsan HD FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jeonbuk+Hyundai+Motors+1+-+0+Ulsan+HD+FC&t2=&live=1&lg=Korean+K+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdbbaec096006ba186a4b9931da9f889a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jeonbuk+Hyundai+Motors+2+-+0+Ulsan+HD+FC&t2=&live=1&lg=Korean+K+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdbbaec096006ba186a4b9931da9f889a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1417,13 +1275,13 @@
         },
         {
           "id": "zp5rzghggpwvq82",
-          "name": "Mokpo City 0 - 1 Dangjin Citizen",
+          "name": "Mokpo City 1 - 3 Dangjin Citizen",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mokpo+City+0+-+1+Dangjin+Citizen&t2=&live=1&lg=Korean+K+League+3+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ac76e81932e966f3ac88e3583b9742c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mokpo+City+1+-+3+Dangjin+Citizen&t2=&live=1&lg=Korean+K+League+3+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ac76e81932e966f3ac88e3583b9742c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1459,13 +1317,13 @@
         },
         {
           "id": "1l4rjnh9j50km7v",
-          "name": "Nagoya Grampus 0 - 0 Cerezo Osaka",
+          "name": "Nagoya Grampus 2 - 0 Cerezo Osaka",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nagoya+Grampus+0+-+0+Cerezo+Osaka&t2=&live=1&lg=Japanese+J1+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1bd4885fe7fa6aa418c23fa161514ecd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nagoya+Grampus+2+-+0+Cerezo+Osaka&t2=&live=1&lg=Japanese+J1+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1bd4885fe7fa6aa418c23fa161514ecd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1501,13 +1359,13 @@
         },
         {
           "id": "ednm9whwwv0jryo",
-          "name": "Daejeon Korail 0 - 0 Pocheon FC",
+          "name": "Daejeon Korail 0 - 1 Pocheon FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Daejeon+Korail+0+-+0+Pocheon+FC&t2=&live=1&lg=Korean+K+League+3+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdde1e055b07006be88dbd03088115e0e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Daejeon+Korail+0+-+1+Pocheon+FC&t2=&live=1&lg=Korean+K+League+3+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdde1e055b07006be88dbd03088115e0e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1543,13 +1401,13 @@
         },
         {
           "id": "l7oqdehgdl1xr51",
-          "name": "Central Coast Mariners 0 - 0 Perth Glory",
+          "name": "Central Coast Mariners 1 - 2 Perth Glory",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Central+Coast+Mariners+0+-+0+Perth+Glory&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Australia+A-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fde628156072aa894a36291cada5396af%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Central+Coast+Mariners+1+-+2+Perth+Glory&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Australia+A-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fde628156072aa894a36291cada5396af%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1580,6 +1438,468 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/bf4a8eea7c86d31b8acd3648fb0e53d8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh99wnem7v",
+          "name": "Dalian K'un City 0 - 0 Dingnan United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dalian+K%27un+City+0+-+0+Dingnan+United&t2=&live=1&lg=Chinese+Football+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8894cac1230c901125e88381f6a22207%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/584daca14352af2e1b3974635103c28a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh66k46qg8",
+          "name": "Olympic Kingsway SC 0 - 0 Armadale SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Olympic+Kingsway+SC+0+-+0+Armadale+SC&t2=&live=1&lg=Western+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd42bb95bb34a5ad7802b8445699c5ea9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/93458affd075db651bd64e96eb69857c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk8ojnr1g",
+          "name": "Dalian Yingbo B 2 - 0 Shanghai Second",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dalian+Yingbo+B+2+-+0+Shanghai+Second&t2=&live=1&lg=Chinese+Football+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fea579eb886e2ce1e841746a42bcd4776%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/da265b10b311cc4f588c4d879b65172d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhkkdo6r1g",
+          "name": "Joondalup City 0 - 0 Subiaco AFC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Joondalup+City+0+-+0+Subiaco+AFC&t2=&live=1&lg=Western+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd65abbca595ada9c9fc51372070cbd2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f4fe9aee3b888ca908f5b5f4d3fbf3cb/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghl15pvmoe",
+          "name": "Eastern Football Club 0 - 0 Biu Chun Rangers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eastern+Football+Club+0+-+0+Biu+Chun+Rangers&t2=&live=1&lg=Chinese+Hong+Kong+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdaca81689044ff4a9d5881f12e23d057%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0e20c823818295a494e7b0c70e401521/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhggpxlrep",
+          "name": "Murdoch Uni Melville 0 - 0 Quinns FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Murdoch+Uni+Melville+0+-+0+Quinns+FC&t2=&live=1&lg=Western+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee2d3bdb92bb7c3056ed7f6cf1640cc4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0f870ce39a7553643394f516bf44cbe0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhn31w2qvy",
+          "name": "Liangping 0 - 1 Tonglianglong",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Liangping+0+-+1+Tonglianglong&t2=&live=1&lg=Chongqing+City+Football+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2f23de37806b23674f50a34246999e0d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8d7c8871a171446cc2d51411c498f474/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnn8j7qvy",
+          "name": "Balcatta FC 0 - 1 Perth Glory Youth",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Balcatta+FC+0+-+1+Perth+Glory+Youth&t2=&live=1&lg=Western+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F91125cca233833618e69cba63c701836%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/62609429cb904c5d8948476f316246c1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h66g4xmoj",
+          "name": "Kingsley Westside 0 - 0 Mandurah City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kingsley+Westside+0+-+0+Mandurah+City&t2=&live=1&lg=Western+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6bed63b72c43553a286f58a4178bc343%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3d82eabc3632a56d7eb352ba6e1251fd/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghg649pq82",
+          "name": "Gamba Osaka 0 - 0 Kyoto Sanga",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gamba+Osaka+0+-+0+Kyoto+Sanga&t2=&live=1&lg=Japanese+J1+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa6170406c530fbb85103c4a8e49bd0a8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/65385aee44aa4e384e8e358de66507d1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghggpx3q82",
+          "name": "Sorrento F.C. 0 - 0 Western Knights",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sorrento+F.C.+0+-+0+Western+Knights&t2=&live=1&lg=Western+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa63dd91e7ba53111a2803b77f91f5bda%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ad6c9550827c978a5c7ac1b2125e107f/playlist.m3u8"
                         }
                       ]
                     }
