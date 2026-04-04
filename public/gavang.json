@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "23xmvkh6d83zqg8",
-          "name": "Czarni Sosnowiec Women 0 - 1 GKS Katowice Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Czarni+Sosnowiec+Women+0+-+1+GKS+Katowice+Women&t2=&live=1&lg=Poland+Women%27s+Ekstraliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F640e20f2ab30eaa881c898b917f513ab%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/0445daa07d34a0a9b7c992b536cc4706/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh9975om7v",
           "name": "Torpedo Miass 0 - 0 Volgar-Gazprom Astrachan",
           "type": "single",
@@ -224,6 +182,48 @@
           ]
         },
         {
+          "id": "3glrw7hn9y0pqdy",
+          "name": "Naftan Novopolotsk(W) 0 - 0 Lokomotiv Vitebsk Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Naftan+Novopolotsk%28W%29+0+-+0+Lokomotiv+Vitebsk+Women&t2=&live=1&lg=Belarusian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F85c28553f663ea4a84689b01e0eed811%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9a9bcb5ad625aef0ab7b2b08386cb7ad/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "4wyrn4h6d6v2q86",
           "name": "Kolos Kovalivka 0 - 0 Metalist 1925 Kharkiv",
           "type": "single",
@@ -309,13 +309,13 @@
         },
         {
           "id": "1l4rjnh9g1kkm7v",
-          "name": "Heming 2 - 0 Nordstrand",
+          "name": "Heming 3 - 0 Nordstrand",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Heming+2+-+0+Nordstrand&t2=&live=1&lg=Norwegian+3.Divisjon&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd318503e0f703765d7986aed47cb094%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Heming+3+-+0+Nordstrand&t2=&live=1&lg=Norwegian+3.Divisjon&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd318503e0f703765d7986aed47cb094%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -424,54 +424,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/aa026bc0720ecc1826f49b7bd387d398/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "23xmvkh66zzyqg8",
-          "name": "XM Hai Phong FC 0 - 0 Hanoi FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=XM+Hai+Phong+FC+0+-+0+Hanoi+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Vietnam+National+Champion+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc54147597269b5e509c0a7d6e4b93ee4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/861b5a45602baedd9cd9c94ebcd5fcaf/playlist.m3u8"
                         }
                       ]
                     }
@@ -609,13 +561,13 @@
         },
         {
           "id": "4jwq2ghnvkvlm0v",
-          "name": "1. FC Kaiserslautern 2 - 0 Fortuna Dusseldorf",
+          "name": "1. FC Kaiserslautern 3 - 0 Fortuna Dusseldorf",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=1.+FC+Kaiserslautern+2+-+0+Fortuna+Dusseldorf&t2=&live=1&lg=German+Bundesliga+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F74addeb0fcea7752a71b336aea59d0c6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=1.+FC+Kaiserslautern+3+-+0+Fortuna+Dusseldorf&t2=&live=1&lg=German+Bundesliga+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F74addeb0fcea7752a71b336aea59d0c6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -650,104 +602,14 @@
           ]
         },
         {
-          "id": "4wyrn4h6y9xvq86",
-          "name": "Truong Tuoi Dong Nai 2 - 0 PVF-CAND B",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Truong+Tuoi+Dong+Nai+2+-+0+PVF-CAND+B&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Vietnam+National+First+Class+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F94e05249b9e7abe5ec9aeffccd6a0345%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Péo",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/8976909bd12a76b657d85cddc8c8d5c1/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "8yomo4h18eywq0j",
-          "name": "FC Saturn Ramenskoe 4 - 3 FK Oryol",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Saturn+Ramenskoe+4+-+3+FK+Oryol&t2=&live=1&lg=RUS+D3B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa6829c354ec49afd971eb1e90c0635fd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/2e0a8142400593fae4ef47138f1fafc0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "3glrw7hnn4dwqdy",
-          "name": "Hegelmann Litauen 2 - 0 Transinvest",
+          "name": "Hegelmann Litauen 3 - 1 Transinvest",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hegelmann+Litauen+2+-+0+Transinvest&t2=&live=1&lg=Lithuanian+A+Lyga+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F20269e39f6008c3cad3c6e924a0f6728%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hegelmann+Litauen+3+-+1+Transinvest&t2=&live=1&lg=Lithuanian+A+Lyga+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F20269e39f6008c3cad3c6e924a0f6728%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -783,13 +645,13 @@
         },
         {
           "id": "1l4rjnh949y4m7v",
-          "name": "Levadia Tallinn 0 - 0 FC Nomme United",
+          "name": "Levadia Tallinn 1 - 1 FC Nomme United",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Levadia+Tallinn+0+-+0+FC+Nomme+United&t2=&live=1&lg=Estonian+Premium+Liiga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F255032131a47533c7a9709738dd47562%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Levadia+Tallinn+1+-+1+FC+Nomme+United&t2=&live=1&lg=Estonian+Premium+Liiga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F255032131a47533c7a9709738dd47562%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -867,13 +729,13 @@
         },
         {
           "id": "318q66hxx58wqo9",
-          "name": "Guangxi Hengchen 0 - 0 Guangdong Guangzhou Power",
+          "name": "Guangxi Hengchen 1 - 0 Guangdong Guangzhou Power",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Guangxi+Hengchen+0+-+0+Guangdong+Guangzhou+Power&t2=&live=1&lg=Chinese+Football+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7c5832cce26697427fcc82da2666a8b7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Guangxi+Hengchen+1+-+0+Guangdong+Guangzhou+Power&t2=&live=1&lg=Chinese+Football+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7c5832cce26697427fcc82da2666a8b7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -909,13 +771,13 @@
         },
         {
           "id": "3glrw7hnnoy9qdy",
-          "name": "Jamshedpur FC 0 - 1 Mohun Bagan Super Giant",
+          "name": "Jamshedpur FC 1 - 1 Mohun Bagan Super Giant",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jamshedpur+FC+0+-+1+Mohun+Bagan+Super+Giant&t2=&live=1&lg=Indian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb61b6e106415fd446449877dba1001f9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jamshedpur+FC+1+-+1+Mohun+Bagan+Super+Giant&t2=&live=1&lg=Indian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb61b6e106415fd446449877dba1001f9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -940,48 +802,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/cb75139ccaa5654d74434a2b8ae6a948/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvkn2dmd7",
-          "name": "Wuhan Three Towns B 0 - 0 Wenzhou Professional Football Club",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wuhan+Three+Towns+B+0+-+0+Wenzhou+Professional+Football+Club&t2=&live=1&lg=Chinese+Football+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9fd521b06acc0ebe03fa00c7ff45d60f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/bbed8b963d442388b5b4b4c5a697c555/playlist.m3u8"
                         }
                       ]
                     }
@@ -1076,133 +896,14 @@
           ]
         },
         {
-          "id": "4wyrn4h6yv54q86",
-          "name": "Liangshan Team 0 - 0 Deyang Team",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Liangshan+Team+0+-+0+Deyang+Team&t2=&live=1&lg=Sichuan+City+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fccc71dd089d74703d7f0127d4c09f36d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/cf1ebfbe7bca87def79ca5a53a2b49bd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "12b07ce17d2a4fcd8b1842cf4b2de12c",
-          "name": "Manchester City 0 - 0 Liverpool",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manchester+City+0+-+0+Liverpool&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe76794be6cae56772cb80895370ae597%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Súp",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "4wyrn4h6yl0pq86",
-          "name": "Manchester City 2 - 0 Liverpool",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manchester+City+2+-+0+Liverpool&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=FA+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe76794be6cae56772cb80895370ae597%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Phệ",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Phệ",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/31cbe321bfc87e0619076361cdc1fa86/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh94gdgm7v",
-          "name": "Pakhtakor 1 - 0 FC OKMK Olmaliq",
+          "name": "Pakhtakor 3 - 1 FC OKMK Olmaliq",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pakhtakor+1+-+0+FC+OKMK+Olmaliq&t2=&live=1&lg=Uzbekistan+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3179c699d1b7822e77c74eb810642d7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pakhtakor+3+-+1+FC+OKMK+Olmaliq&t2=&live=1&lg=Uzbekistan+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3179c699d1b7822e77c74eb810642d7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1238,13 +939,13 @@
         },
         {
           "id": "1l4rjnh9x3lpm7v",
-          "name": "TSG Balingen 1 - 0 SC Freiburg II",
+          "name": "TSG Balingen 2 - 2 SC Freiburg II",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=TSG+Balingen+1+-+0+SC+Freiburg+II&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3bb350483642e7bddec1c8dff45e1af4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=TSG+Balingen+2+-+2+SC+Freiburg+II&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3bb350483642e7bddec1c8dff45e1af4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1322,13 +1023,13 @@
         },
         {
           "id": "23xmvkh6kg02qg8",
-          "name": "Bayern Alzenau 1 - 1 TSV Steinbach Haiger",
+          "name": "Bayern Alzenau 2 - 2 TSV Steinbach Haiger",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bayern+Alzenau+1+-+1+TSV+Steinbach+Haiger&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fda14b6dc99e59bdacf11e64dcaa93f55%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bayern+Alzenau+2+-+2+TSV+Steinbach+Haiger&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fda14b6dc99e59bdacf11e64dcaa93f55%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1364,13 +1065,13 @@
         },
         {
           "id": "23xmvkh6xwn9qg8",
-          "name": "Montpellier Hérault SC 1 - 1 Troyes",
+          "name": "Montpellier Hérault SC 2 - 2 Troyes",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Montpellier+H%C3%A9rault+SC+1+-+1+Troyes&t2=&live=1&lg=French+Ligue+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92ca4f216a436a07bc30db7970316595%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Montpellier+H%C3%A9rault+SC+2+-+2+Troyes&t2=&live=1&lg=French+Ligue+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92ca4f216a436a07bc30db7970316595%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1448,13 +1149,13 @@
         },
         {
           "id": "318q66hx44yeqo9",
-          "name": "Borussia Dortmund II 0 - 0 Fortuna Koln",
+          "name": "Borussia Dortmund II 1 - 0 Fortuna Koln",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Borussia+Dortmund+II+0+-+0+Fortuna+Koln&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa2b8dd1edcae8662a5877b37df02a50%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Borussia+Dortmund+II+1+-+0+Fortuna+Koln&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa2b8dd1edcae8662a5877b37df02a50%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1490,13 +1191,13 @@
         },
         {
           "id": "318q66hx47glqo9",
-          "name": "TSV Schott Mainz 0 - 0 FC 08 Homburg",
+          "name": "TSV Schott Mainz 0 - 5 FC 08 Homburg",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=TSV+Schott+Mainz+0+-+0+FC+08+Homburg&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F924e385168baff8b43960b5d1e69651f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=TSV+Schott+Mainz+0+-+5+FC+08+Homburg&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F924e385168baff8b43960b5d1e69651f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1616,13 +1317,13 @@
         },
         {
           "id": "4jwq2ghnwx3pm0v",
-          "name": "Middelfart Boldklub 2 - 0 Aalborg",
+          "name": "Middelfart Boldklub 2 - 5 Aalborg",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Middelfart+Boldklub+2+-+0+Aalborg&t2=&live=1&lg=Danish+1st+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa01659bf4d1d4b6f4583440acb9a165d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Middelfart+Boldklub+2+-+5+Aalborg&t2=&live=1&lg=Danish+1st+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa01659bf4d1d4b6f4583440acb9a165d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1658,13 +1359,13 @@
         },
         {
           "id": "4jwq2ghnx09jm0v",
-          "name": "Eintracht Trier 0 - 0 Mainz II",
+          "name": "Eintracht Trier 0 - 3 Mainz II",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eintracht+Trier+0+-+0+Mainz+II&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52f10df7b4bfdc29dc67589305836503%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eintracht+Trier+0+-+3+Mainz+II&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52f10df7b4bfdc29dc67589305836503%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1700,13 +1401,13 @@
         },
         {
           "id": "4wyrn4h644pjq86",
-          "name": "Sportfreunde Lotte 1 - 0 Bochum II",
+          "name": "Sportfreunde Lotte 2 - 1 Bochum II",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sportfreunde+Lotte+1+-+0+Bochum+II&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faea61dbfa486c8ed3a814f38754c9de6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sportfreunde+Lotte+2+-+1+Bochum+II&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faea61dbfa486c8ed3a814f38754c9de6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1741,182 +1442,14 @@
           ]
         },
         {
-          "id": "4wyrn4h6vyexq86",
-          "name": "SV Meppen Women 0 - 0 SC Sand Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=SV+Meppen+Women+0+-+0+SC+Sand+Women&t2=&live=1&lg=German+Women%27s+Bundesliga+II&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcea1d1044c0593770fb3506429d0025c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/52b80b5e1d2ff0731ad3993d0e865afa/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvk4yxmd7",
-          "name": "Lietava Jonava 2 - 0 FK Kauno Zalgiris II",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Lietava+Jonava+2+-+0+FK+Kauno+Zalgiris+II&t2=&live=1&lg=Lithuanian+I+Lyga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa1e3d077862a201202e615c342a6fbe%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/5a8b91ddc6781e7d3c7439e5e0d44e9e/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvz4v6md7",
-          "name": "Real Sociedad 1 - 0 Levante",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Sociedad+1+-+0+Levante&t2=&live=1&lg=Spanish+La+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F19a601fec78700106d11024a37c97f16%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/c2ea03de50b14d7b29b58faf9b92fdf6/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "8yomo4h1116gq0j",
-          "name": "FC Vsetin 0 - 1 Frydek-Mistek",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Vsetin+0+-+1+Frydek-Mistek&t2=&live=1&lg=Czech+Third+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F35ad292129062799d4eff0b98d71b186%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/97be9f4de029c1074dc0986e9c9623e5/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "1l4rjnh99ppdm7v",
-          "name": "Cong An Ha Noi FC 1 - 0 SHB Da Nang",
+          "name": "Cong An Ha Noi FC 3 - 1 SHB Da Nang",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cong+An+Ha+Noi+FC+1+-+0+SHB+Da+Nang&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Vietnam+National+Champion+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F839942ea23645ca05d9aa5e643924028%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cong+An+Ha+Noi+FC+3+-+1+SHB+Da+Nang&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Vietnam+National+Champion+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F839942ea23645ca05d9aa5e643924028%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1958,13 +1491,13 @@
         },
         {
           "id": "3glrw7hnjy00qdy",
-          "name": "Zenit St. Petersburg 0 - 0 Krylya Sovetov",
+          "name": "Zenit St. Petersburg 2 - 0 Krylya Sovetov",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zenit+St.+Petersburg+0+-+0+Krylya+Sovetov&t2=&live=1&lg=Russian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a568829a62f50d2120b85e8b5f88a2f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zenit+St.+Petersburg+2+-+0+Krylya+Sovetov&t2=&live=1&lg=Russian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a568829a62f50d2120b85e8b5f88a2f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2000,13 +1533,13 @@
         },
         {
           "id": "3glrw7hnze4wqdy",
-          "name": "AC Monopoli 0 - 0 Trapani",
+          "name": "AC Monopoli 0 - 1 Trapani",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AC+Monopoli+0+-+0+Trapani&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9b9bb0b01283ab59c45d3ed9dac2b019%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=AC+Monopoli+0+-+1+Trapani&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9b9bb0b01283ab59c45d3ed9dac2b019%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2042,13 +1575,13 @@
         },
         {
           "id": "3glrw7hnze7wqdy",
-          "name": "US Siracusa 0 - 1 Atalanta U23",
+          "name": "US Siracusa 2 - 1 Atalanta U23",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=US+Siracusa+0+-+1+Atalanta+U23&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fec101380de54d5ce8c3874aa5253979e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=US+Siracusa+2+-+1+Atalanta+U23&t2=&live=1&lg=Italian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fec101380de54d5ce8c3874aa5253979e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2083,14 +1616,308 @@
           ]
         },
         {
-          "id": "3glrw7hnwx0eqdy",
-          "name": "Sassuolo 0 - 0 Cagliari",
+          "id": "3glrw7hn1k12qdy",
+          "name": "Rakow Czestochowa 0 - 0 Widzew lodz",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sassuolo+0+-+0+Cagliari&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F59eaf0b4d4ae770eea8975d33f401385%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rakow+Czestochowa+0+-+0+Widzew+lodz&t2=&live=1&lg=PKO+Bank+Polski+EKSTRAKLASA&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F15860664b7e31873e85c70b3d9c9e6da%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c1fb934dcd0847953c555e50bbb68e21/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh6d7d5qg8",
+          "name": "Pacos de Ferreira 0 - 0 Maritimo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pacos+de+Ferreira+0+-+0+Maritimo&t2=&live=1&lg=Liga+Portugal+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F40bd426b7c2fca322c58800611519882%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/27797cbc7afefeec7ec0cf6f4f44040a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5j4p8ql0",
+          "name": "Dukla Prague 0 - 0 Pardubice",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dukla+Prague+0+-+0+Pardubice&t2=&live=1&lg=Czech+Chance+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdf4ec2045b089876867f861b235ddf53%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4b26c7e5846817f62b59e142eecaa085/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5vl9oql0",
+          "name": "FC Sevastopol 0 - 0 FK Rostov-2",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Sevastopol+0+-+0+FK+Rostov-2&t2=&live=1&lg=RUS+D3B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F23046a77567abde3d2e1b981ca41aefe%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3672623c8e8396050f8be8339bddeba4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hxvn15qo9",
+          "name": "Swit Szczecin 0 - 1 Zaglebie Sosnowiec",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Swit+Szczecin+0+-+1+Zaglebie+Sosnowiec&t2=&live=1&lg=Poland+Liga+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa4bf9ead093d7c80b11e338baaa780a5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/dd888cf7150c5d6e75f3088879bef788/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn1lpnqdy",
+          "name": "Sigma Olomouc 0 - 0 Mlada Boleslav",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sigma+Olomouc+0+-+0+Mlada+Boleslav&t2=&live=1&lg=Czech+Chance+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdac028e7512c0b95e8bf76996889f7be%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1a00f508a2198574c7d2cf89c902c478/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hnn4g8qdy",
+          "name": "KF Laci 0 - 1 Burreli",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=KF+Laci+0+-+1+Burreli&t2=&live=1&lg=Albanian+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F93c4b3ef3efd2c202394fbcfa55e5f1f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/06adadcdd525f0ed583bd3ebdefa8806/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hnwx0eqdy",
+          "name": "Sassuolo 0 - 1 Cagliari",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sassuolo+0+-+1+Cagliari&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Italian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F59eaf0b4d4ae770eea8975d33f401385%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2129,37 +1956,174 @@
               ]
             }
           ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
-      "id": "nacionalaliga",
-      "name": "Nacionala Liga",
-      "channels": [
+        },
         {
-          "id": "1l4rjdhgj9k9r7v",
-          "name": "Augsdaugava vs Alytaus Ultra | 20:00 04-04",
+          "id": "4jwq2ghnew55m0v",
+          "name": "Qizilqum Zarafshon 0 - 1 Neftchi Fergana",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Augsdaugava&t2=Alytaus+Ultra&lg=Nacionala+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Ffe91ba3649c81b6119280be2a24badd8%2Fimage%2Fsmall&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Qizilqum+Zarafshon+0+-+1+Neftchi+Fergana&t2=&live=1&lg=Uzbekistan+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F149f88dd39d3bc5bce12a0bff17f72c6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 20:00 04-04",
-              "position": "top-right",
-              "color": "#333333",
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
               "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a4f7f29dc3ca7352ddc9f454e70adf0f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn4wpnqdy",
+          "name": "Tatran Presov 0 - 0 MFK Ruzomberok",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tatran+Presov+0+-+0+MFK+Ruzomberok&t2=&live=1&lg=Slovak+Nike+liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1ec25affaf09cd9af1359440a98acf88%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f324576d69287aeba7ed99b635c0a7f7/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq2ghnkz8km0v",
+          "name": "Hamburger SV 0 - 0 FC Augsburg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hamburger+SV+0+-+0+FC+Augsburg&t2=&live=1&lg=Bundesliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2073e7885e5fe8fc6777396fd879d833%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9bc44fd53c8d0f00158b6b6e03758e0b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h6exzyq86",
+          "name": "SV Werder Bremen 0 - 0 RB Leipzig",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SV+Werder+Bremen+0+-+0+RB+Leipzig&t2=&live=1&lg=Bundesliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc12831052dca8197687f1d7a4b2cba4e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4f2432b7030cf10c4da63f390d3e4d92/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
