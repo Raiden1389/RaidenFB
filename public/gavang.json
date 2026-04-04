@@ -15,13 +15,13 @@
       "channels": [
         {
           "id": "23xmvkh66jy2qg8",
-          "name": "Brusque FC 1 - 1 SER Caxias",
+          "name": "Brusque FC 2 - 1 SER Caxias",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brusque+FC+1+-+1+SER+Caxias&t2=&live=1&lg=Brazilian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a95be55cc88fd27bee59b13bd66ce18%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brusque+FC+2+-+1+SER+Caxias&t2=&live=1&lg=Brazilian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a95be55cc88fd27bee59b13bd66ce18%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -56,14 +56,56 @@
           ]
         },
         {
-          "id": "l7oqdehgo22jr51",
-          "name": "Zamora Barinas 1 - 0 Monagas SC",
+          "id": "l5ergph4wyywr8k",
+          "name": "Academia Puerto Cabello 0 - 0 Deportivo Tachira",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zamora+Barinas+1+-+0+Monagas+SC&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fadd4d5d2dd710914bdf1b40c7aba10de%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Academia+Puerto+Cabello+0+-+0+Deportivo+Tachira&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F51703811d991085dc6d8fa8af7be8fb0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/41e836d534e80ea5e9f3980b14f293cc/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgo22jr51",
+          "name": "Zamora Barinas 1 - 1 Monagas SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zamora+Barinas+1+-+1+Monagas+SC&t2=&live=1&lg=Venezuela+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fadd4d5d2dd710914bdf1b40c7aba10de%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -99,13 +141,13 @@
         },
         {
           "id": "965mkyhkowgzr1g",
-          "name": "Real Salt Lake 2 - 1 Sporting Kansas City",
+          "name": "Real Salt Lake 3 - 1 Sporting Kansas City",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Salt+Lake+2+-+1+Sporting+Kansas+City&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffed4c11b15e2e32bb89bfc46b003fd49%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Salt+Lake+3+-+1+Sporting+Kansas+City&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffed4c11b15e2e32bb89bfc46b003fd49%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -183,13 +225,13 @@
         },
         {
           "id": "ednm9whw0odgryo",
-          "name": "New England Revolution 1 - 0 Montreal Impact",
+          "name": "New England Revolution 3 - 0 Montreal Impact",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+England+Revolution+1+-+0+Montreal+Impact&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F72f3d29dbe8c34110eb32f0bfeaffa00%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+England+Revolution+3+-+0+Montreal+Impact&t2=&live=1&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F72f3d29dbe8c34110eb32f0bfeaffa00%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -267,13 +309,13 @@
         },
         {
           "id": "jw2r09hk6y0nrz8",
-          "name": "Deportes Limache 3 - 0 Union La Calera",
+          "name": "Deportes Limache 4 - 0 Union La Calera",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportes+Limache+3+-+0+Union+La+Calera&t2=&live=1&lg=CHI+Liga+de+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F08ab990d0657a412fcf56593d7a9e275%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportes+Limache+4+-+0+Union+La+Calera&t2=&live=1&lg=CHI+Liga+de+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F08ab990d0657a412fcf56593d7a9e275%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -309,13 +351,13 @@
         },
         {
           "id": "vjxm8ghe5vg2r6o",
-          "name": "CA Independiente 0 - 0 Racing Club de Avellaneda",
+          "name": "CA Independiente 1 - 0 Racing Club de Avellaneda",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Independiente+0+-+0+Racing+Club+de+Avellaneda&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ed5e00e6bf229d2c575f1d8d7ab9ff7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Independiente+1+-+0+Racing+Club+de+Avellaneda&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ed5e00e6bf229d2c575f1d8d7ab9ff7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -393,13 +435,13 @@
         },
         {
           "id": "1l4rjnh9n8wem7v",
-          "name": "Maritimo de La Guaira 1 - 0 Mineros de Guayana",
+          "name": "Maritimo de La Guaira 1 - 1 Mineros de Guayana",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maritimo+de+La+Guaira+1+-+0+Mineros+de+Guayana&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F88cae4bbc614f57e51933d55c654b01b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maritimo+de+La+Guaira+1+-+1+Mineros+de+Guayana&t2=&live=1&lg=Venezuela+Segunda+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F88cae4bbc614f57e51933d55c654b01b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -435,13 +477,13 @@
         },
         {
           "id": "318q66hx6xxeqo9",
-          "name": "Colorado Springs 0 - 1 Lexington",
+          "name": "Colorado Springs 1 - 1 Lexington",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Colorado+Springs+0+-+1+Lexington&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff6d64820dd24900dee27c032de34be01%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Colorado+Springs+1+-+1+Lexington&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff6d64820dd24900dee27c032de34be01%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -477,13 +519,13 @@
         },
         {
           "id": "dj2ryohlel7yq1z",
-          "name": "Loudoun United 1 - 1 Birmingham Legion",
+          "name": "Loudoun United 2 - 2 Birmingham Legion",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Loudoun+United+1+-+1+Birmingham+Legion&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92650eedcbb7e1a6cdc9ccbf34524550%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Loudoun+United+2+-+2+Birmingham+Legion&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92650eedcbb7e1a6cdc9ccbf34524550%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -519,13 +561,13 @@
         },
         {
           "id": "dj2ryohllnv8q1z",
-          "name": "Nautico (PE) 0 - 0 Ponte Preta",
+          "name": "Nautico (PE) 1 - 0 Ponte Preta",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nautico+%28PE%29+0+-+0+Ponte+Preta&t2=&live=1&lg=Brazilian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F94a12ba18e275e878ec171ea5e761bd7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Nautico+%28PE%29+1+-+0+Ponte+Preta&t2=&live=1&lg=Brazilian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F94a12ba18e275e878ec171ea5e761bd7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -561,13 +603,13 @@
         },
         {
           "id": "jw2r09hkkne9rz8",
-          "name": "Cuiaba 0 - 0 Ceara",
+          "name": "Cuiaba 0 - 2 Ceara",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cuiaba+0+-+0+Ceara&t2=&live=1&lg=Brazilian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fede6ae1ff87129751c3c456c47119d94%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cuiaba+0+-+2+Ceara&t2=&live=1&lg=Brazilian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fede6ae1ff87129751c3c456c47119d94%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -645,13 +687,13 @@
         },
         {
           "id": "1l4rjnh9428pm7v",
-          "name": "Olimpia Asuncion 0 - 0 FC Nacional Asuncion",
+          "name": "Olimpia Asuncion 2 - 0 FC Nacional Asuncion",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Olimpia+Asuncion+0+-+0+FC+Nacional+Asuncion&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F016ed52c2a273f4688699bec86e618ba%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Olimpia+Asuncion+2+-+0+FC+Nacional+Asuncion&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F016ed52c2a273f4688699bec86e618ba%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -687,13 +729,13 @@
         },
         {
           "id": "4wyrn4h6ozkjq86",
-          "name": "Sao Paulo 2 - 0 Cruzeiro Esporte Clube",
+          "name": "Sao Paulo 2 - 1 Cruzeiro Esporte Clube",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sao+Paulo+2+-+0+Cruzeiro+Esporte+Clube&t2=&live=1&lg=Brazilian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3bfaee9d695be42548a527518b0e5a63%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sao+Paulo+2+-+1+Cruzeiro+Esporte+Clube&t2=&live=1&lg=Brazilian+Serie+A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3bfaee9d695be42548a527518b0e5a63%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -728,14 +770,56 @@
           ]
         },
         {
-          "id": "zp5rzghg5809q82",
-          "name": "CD Universidad Católica 0 - 1 Guayaquil City",
+          "id": "jw2r09hk9e6krz8",
+          "name": "Dallas Trinity Women 2 - 0 Spokane Zephyr (W)",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CD+Universidad+Cat%C3%B3lica+0+-+1+Guayaquil+City&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F939e96b6c15c986a9545f7963ca8792d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dallas+Trinity+Women+2+-+0+Spokane+Zephyr+%28W%29&t2=&live=1&lg=United+States+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F226187bc71b508a45bf286720ff76745%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ed35a865b0097d653dbb8b463e9fa405/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghg5809q82",
+          "name": "CD Universidad Católica 2 - 1 Guayaquil City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CD+Universidad+Cat%C3%B3lica+2+-+1+Guayaquil+City&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F939e96b6c15c986a9545f7963ca8792d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -813,13 +897,13 @@
         },
         {
           "id": "l5ergph4l8n0r8k",
-          "name": "Colon de Santa Fe 1 - 0 CA San Miguel",
+          "name": "Colon de Santa Fe 2 - 0 CA San Miguel",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Colon+de+Santa+Fe+1+-+0+CA+San+Miguel&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F378f58cb1c78ce98be614c59b1f5af70%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Colon+de+Santa+Fe+2+-+0+CA+San+Miguel&t2=&live=1&lg=ARG+Primera+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F378f58cb1c78ce98be614c59b1f5af70%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -844,6 +928,174 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/8f6828fde9b202347d195d521a829d81/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6o1xnmoj",
+          "name": "Club Atletico Progreso 0 - 2 CA Penarol",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Atletico+Progreso+0+-+2+CA+Penarol&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff4634493acaaff5e5eb83d15be6048cd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e6a84c2140c9954dc5b89ab87cb4f6ef/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvk47vmd7",
+          "name": "North Carolina Courage Women 0 - 1 Portland Thorns FC Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=North+Carolina+Courage+Women+0+-+1+Portland+Thorns+FC+Women&t2=&live=1&lg=United+States+Women%27s+National+Soccer+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F46a87c0a99da98fd1b5948ec5ea5f983%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/61e29eff4cdf7743cb18e46078ed4be5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhkkx8vr1g",
+          "name": "Maringa FC 0 - 1 Ferroviaria SP",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maringa+FC+0+-+1+Ferroviaria+SP&t2=&live=1&lg=Brazilian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c8d93e20a8d2924538ac3dfae5d371e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/05c94e356a491c6f1efcb918f2c3c31d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnn644qvy",
+          "name": "Botafogo PB 0 - 0 Barra FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Botafogo+PB+0+-+0+Barra+FC&t2=&live=1&lg=Brazilian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F80aedd028c8fb25a41cd70456c0630c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c85d4cdf0b4f266860852ba29f293820/playlist.m3u8"
                         }
                       ]
                     }
