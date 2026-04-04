@@ -70,54 +70,6 @@
       "name": "Spanish La Liga",
       "channels": [
         {
-          "id": "116055",
-          "name": "Atletico Madrid vs FC Barcelona | 02:00 05-04 | BLV Củ Cải",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Madrid&t2=FC+Barcelona&blv=BLV+C%E1%BB%A7+C%E1%BA%A3i&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F15f730f481d1ae7c75c1d28ee2862adc.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ff378eb1ea04e53999b89051aa3244de6.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:00 05-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV Củ Cải",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV Củ Cải",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/360663.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "116098",
           "name": "Getafe vs Athletic Club | 19:00 05-04 | BLV COCA",
           "type": "single",
