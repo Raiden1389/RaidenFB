@@ -14,188 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "318q66hxgplpqo9",
-          "name": "LD Alajuelense 1 - 1 Guadalupe FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=LD+Alajuelense+1+-+1+Guadalupe+FC&t2=&live=1&lg=Costa+Rica+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6d6af3b60823d4104ba8269bca50d4d7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/e675011bbe58d77c97cb0fd842e3797e/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "n54qllhnp1pwqvy",
-          "name": "Pachuca Women 5 - 4 Leon Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pachuca+Women+5+-+4+Leon+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff28104ca4974d6796f1da29a751ed375%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/a21d79f8d9eeb41f4a19ea1e2267ecfd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4jwq2ghneo5lm0v",
-          "name": "Xelaju MC 1 - 0 Malacateco",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Xelaju+MC+1+-+0+Malacateco&t2=&live=1&lg=Guatemala+Liga+Nacional&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4709357c274fe8465e2113334ddb1708%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/98a5c84286f02d4cf067b36d58803ecf/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "965mkyhk2l0yr1g",
-          "name": "Club Deportivo Guadalajara 1 - 2 Pumas U.N.A.M.",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Deportivo+Guadalajara+1+-+2+Pumas+U.N.A.M.&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Mexico+Liga+MX&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe3b43dfdfb0304d8bbde3a324ce37e3e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Son",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Son",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/3a058bd3f9b6ac9e722dac71412d8c66/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "23xmvkh62w82qg8",
-          "name": "Melville United 1 - 0 Eastern Suburbs AFC",
+          "name": "Melville United 1 - 1 Eastern Suburbs AFC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Melville+United+1+-+0+Eastern+Suburbs+AFC&t2=&live=1&lg=New+Zealand+Northern+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc45b06db383163ce9e06cc28b8b6b94a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Melville+United+1+-+1+Eastern+Suburbs+AFC&t2=&live=1&lg=New+Zealand+Northern+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc45b06db383163ce9e06cc28b8b6b94a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -273,13 +99,13 @@
         },
         {
           "id": "23xmvkh6p9pzqg8",
-          "name": "Mazatlan FC Women 0 - 0 Saint Louis Athletica Women",
+          "name": "Mazatlan FC Women 0 - 1 Saint Louis Athletica Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mazatlan+FC+Women+0+-+0+Saint+Louis+Athletica+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F26566795653389559f0f4121a140c35e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mazatlan+FC+Women+0+-+1+Saint+Louis+Athletica+Women&t2=&live=1&lg=Mexico+Liga+MX+Femenil&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F26566795653389559f0f4121a140c35e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -304,6 +130,274 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/033a938b7fbaa754b783f52d38792823/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh6yey7qg8",
+          "name": "Chengdu Dingyao Jincheng 0 - 0 Suining Team",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chengdu+Dingyao+Jincheng+0+-+0+Suining+Team&t2=&live=1&lg=Chinese+Football+Association+Member+Association+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2059b511ea8eba372c886b8181a91cb6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4f586e3f897b9ae27a0ee01fe946d685/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8yomo4h1gyzeq0j",
+          "name": "Sydney United 58 FC 0 - 0 Marconi Stallions",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sydney+United+58+FC+0+-+0+Marconi+Stallions&t2=&live=1&lg=Australia+New+South+Wales+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F02ffe3cf2a77857a4b9ac10fab334fe4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/dfdac0c3f6db943e519cebd828a14079/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk8jwer1g",
+          "name": "Shenzhen Jixiang 1 - 1 Guizhou Open University",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shenzhen+Jixiang+1+-+1+Guizhou+Open+University&t2=&live=1&lg=Chinese+Football+Association+Member+Association+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fefe5e5d0f3566fa6b39d0dceb86a82f8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/47859b9753907cd9a95ab4d7210ca810/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a8c962c96fa24c379e9726c687b0f73e",
+          "name": "Hà Nội Tasco Auto 0 - 0 BC Thông tin BĐ19",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=H%C3%A0+N%E1%BB%99i+Tasco+Auto+0+-+0+BC+Th%C3%B4ng+tin+B%C4%9019&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Gi%E1%BA%A3i+B%C3%B3ng+Chuy%E1%BB%81n+V%C4%90QG+2026&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2F6%2F6a%2FLogo_H%25C3%25A0_N%25E1%25BB%2599i_Tasco_Auto.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "ednm9whw55x6ryo",
+          "name": "Maca Searle Women 1 - 0 Hills United (W)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maca+Searle+Women+1+-+0+Hills+United+%28W%29&t2=&live=1&lg=Australia+New+South+Wales+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9e3b53452d78a5871805bee93c5c7b2f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a613054f0f286c1581d5c5baed742c10/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fb58d62b48ca4163af8eda602630c7c2",
+          "name": "Indonesia 0 - 0 Brunei",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Indonesia+0+-+0+Brunei&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Futsal+%C4%90%C3%B4ng+Nam+%C3%81+2026&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fz51XtzyB-fRMecE0C.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "zp5rzghgo05dq82",
+          "name": "Western Springs AFC 2 - 1 East Coast Bays",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Western+Springs+AFC+2+-+1+East+Coast+Bays&t2=&live=1&lg=New+Zealand+Northern+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7c0212cbce72d50b4296710227e796bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3cea80ed27946620cfc4f3282ad666bc/playlist.m3u8"
                         }
                       ]
                     }
