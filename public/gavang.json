@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "318q66hx181kqo9",
-          "name": "City Club Chalakudy (W) 0 - 1 Gokulam Kerala FC (w)",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=City+Club+Chalakudy+%28W%29+0+-+1+Gokulam+Kerala+FC+%28w%29&t2=&live=1&lg=IND+KLW&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F86a678d913873f0f4c8b45afc794f24c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b2d81b4671fcf603d40455b15dbbc24d/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "ednm9whw5jozryo",
           "name": "Chongqing Dikai 1 - 3 Shenzhen Jixiang",
           "type": "single",
@@ -140,43 +98,14 @@
           ]
         },
         {
-          "id": "7c0a0fb918ad4f7c84c182e88b15414f",
-          "name": "Indonesia 1 - 0 Australia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Indonesia+1+-+0+Australia&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Futsal+%C4%90%C3%B4ng+Nam+%C3%81+2026&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fz51XtzyB-fRMecE0C.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Súp",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "jw2r09hk35z3rz8",
-          "name": "Persiweja 1 - 0 Eleven Wise Biak Numfor",
+          "name": "Persiweja 1 - 1 Eleven Wise Biak Numfor",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Persiweja+1+-+0+Eleven+Wise+Biak+Numfor&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbdc20bdd3e0ea7a57d5daf2205a19744%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Persiweja+1+-+1+Eleven+Wise+Biak+Numfor&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbdc20bdd3e0ea7a57d5daf2205a19744%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -254,13 +183,13 @@
         },
         {
           "id": "4wyrn4h669z8q86",
-          "name": "Philippine Army FC 0 - 0 Kaya FC-Iloilo",
+          "name": "Philippine Army FC 0 - 3 Kaya FC-Iloilo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philippine+Army+FC+0+-+0+Kaya+FC-Iloilo&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb398888524b00136f77f084c28c81f65%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Philippine+Army+FC+0+-+3+Kaya+FC-Iloilo&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb398888524b00136f77f084c28c81f65%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -285,6 +214,190 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/97275bd38b7ef5460234d6b23bdb4cc1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "07b80fa9b88249aa8d5e143f6bd4d977",
+          "name": "Thể công Tân Cảng 0 - 0 Hà Nội",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Th%E1%BB%83+c%C3%B4ng+T%C3%A2n+C%E1%BA%A3ng+0+-+0+H%C3%A0+N%E1%BB%99i&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Gi%E1%BA%A3i+B%C3%B3ng+Chuy%E1%BB%81n+V%C4%90QG+2026&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2Fthumb%2Fc%2Fc3%2FLogo_Th%25E1%25BB%2583_C%25C3%25B4ng_T%25C3%25A2n_C%25E1%25BA%25A3ng.png%2F250px-Logo_Th%25E1%25BB%2583_C%25C3%25B4ng_T%25C3%25A2n_C%25E1%25BA%25A3ng.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "7873894ac546439aa4bfb237cd02c540",
+          "name": "Malaysia 0 - 0 Brunei",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Malaysia+0+-+0+Brunei&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Futsal+%C4%90%C3%B4ng+Nam+%C3%81+2026&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FzsTGEOAr-U5lCk1c0.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "jw2r09hk35kwrz8",
+          "name": "Turkiye (w) U18 0 - 1 Paraguay (W) U18",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Turkiye+%28w%29+U18+0+-+1+Paraguay+%28W%29+U18&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9caf5d673ca1a8d0b17fcba9a7600ba8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/8d15392b9d3922c3c6ce1ac22b7507c3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh89v92qwz",
+          "name": "Suining Team 0 - 0 Guizhou Xufengtang",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Suining+Team+0+-+0+Guizhou+Xufengtang&t2=&live=1&lg=Chinese+Football+Association+Member+Association+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F098d9666e9436b5cb3b2ec2fddbdde21%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/dfba0637c7796ff9cda17cb592e74e71/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghg3noyq82",
+          "name": "Hubei Super Mr 0 - 0 Chengdu Dingyao Jincheng",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hubei+Super+Mr+0+-+0+Chengdu+Dingyao+Jincheng&t2=&live=1&lg=Chinese+Football+Association+Member+Association+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3a4b4e2201f7a06bbb99cabefc76a292%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c56da99ca561671f03b2b2e73220b589/playlist.m3u8"
                         }
                       ]
                     }
