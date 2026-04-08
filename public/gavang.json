@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "x7lm7phjvxlgm2w",
-          "name": " 0 - 1 Persipegaf",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=+0+-+1+Persipegaf&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F83cf078e1102dcf18c19740601ce6e6a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/d1a609c405272f05e50760196cdf773f/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "4wyrn4h669z8q86",
           "name": "Philippine Army FC 0 - 4 Kaya FC-Iloilo",
           "type": "single",
@@ -98,14 +56,14 @@
           ]
         },
         {
-          "id": "07b80fa9b88249aa8d5e143f6bd4d977",
-          "name": "Thể công Tân Cảng 0 - 0 Hà Nội",
+          "id": "6ypq3nhv3gl3md7",
+          "name": "Valenzuela PB–Mendiola 0 - 1 Stallion Laguna FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Th%E1%BB%83+c%C3%B4ng+T%C3%A2n+C%E1%BA%A3ng+0+-+0+H%C3%A0+N%E1%BB%99i&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Gi%E1%BA%A3i+B%C3%B3ng+Chuy%E1%BB%81n+V%C4%90QG+2026&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2Fthumb%2Fc%2Fc3%2FLogo_Th%25E1%25BB%2583_C%25C3%25B4ng_T%25C3%25A2n_C%25E1%25BA%25A3ng.png%2F250px-Logo_Th%25E1%25BB%2583_C%25C3%25B4ng_T%25C3%25A2n_C%25E1%25BA%25A3ng.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Valenzuela+PB%E2%80%93Mendiola+0+-+1+Stallion+Laguna+FC&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fef12378376bef03566574daf125c0ac0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -115,45 +73,29 @@
               "position": "top-left",
               "color": "#ff0000",
               "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Nhí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "7873894ac546439aa4bfb237cd02c540",
-          "name": "Malaysia 0 - 0 Brunei",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Malaysia+0+-+0+Brunei&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Futsal+%C4%90%C3%B4ng+Nam+%C3%81+2026&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FzsTGEOAr-U5lCk1c0.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
+          "sources": [
             {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Đô",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/98f85f8b4d4519f5720f61a77ab6b561/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "sources": [],
-          "enable_detail": false
+          ]
         },
         {
           "id": "jw2r09hk35kwrz8",
@@ -199,13 +141,13 @@
         },
         {
           "id": "n54qllhnj2lwqvy",
-          "name": "FC Shakhtar Donetsk U21 0 - 0 Karpaty U21",
+          "name": "FC Shakhtar Donetsk U21 1 - 0 Karpaty U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Shakhtar+Donetsk+U21+0+-+0+Karpaty+U21&t2=&live=1&lg=Ukrainian+Youth+Team+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdcc32d83a3ec3b4ae8802beecc528e1b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Shakhtar+Donetsk+U21+1+-+0+Karpaty+U21&t2=&live=1&lg=Ukrainian+Youth+Team+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdcc32d83a3ec3b4ae8802beecc528e1b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -325,13 +267,13 @@
         },
         {
           "id": "l7oqdehgxjg1r51",
-          "name": "Uruguay (W)U18 0 - 1 Ethiopia U18 Women",
+          "name": "Uruguay (W)U18 0 - 3 Ethiopia U18 Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uruguay+%28W%29U18+0+-+1+Ethiopia+U18+Women&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F219717aff48d8b41b468483f76d509ad%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uruguay+%28W%29U18+0+-+3+Ethiopia+U18+Women&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F219717aff48d8b41b468483f76d509ad%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -367,13 +309,13 @@
         },
         {
           "id": "dj2ryohlp4wzq1z",
-          "name": "Ansat 0 - 5 Tobol Kostanai",
+          "name": "Ansat 0 - 7 Tobol Kostanai",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ansat+0+-+5+Tobol+Kostanai&t2=&live=1&lg=Kazakhstan+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52bf6c19b1a6c3846bcf6fa9f993dde3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ansat+0+-+7+Tobol+Kostanai&t2=&live=1&lg=Kazakhstan+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F52bf6c19b1a6c3846bcf6fa9f993dde3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -409,13 +351,13 @@
         },
         {
           "id": "vjxm8ghew471r6o",
-          "name": "Japan Women U20 0 - 1 Australia Women U20",
+          "name": "Japan Women U20 4 - 1 Australia Women U20",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Japan+Women+U20+0+-+1+Australia+Women+U20&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=AFC+U-20+Women%27s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FSULQSxyB-E1YhvyqD.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Japan+Women+U20+4+-+1+Australia+Women+U20&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=AFC+U-20+Women%27s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FSULQSxyB-E1YhvyqD.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -541,13 +483,13 @@
         },
         {
           "id": "dn1m1ghl2j2zmoe",
-          "name": "Tochigi SC 0 - 0 Vanraure Hachinohe FC",
+          "name": "Tochigi SC 0 - 1 Vanraure Hachinohe FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tochigi+SC+0+-+0+Vanraure+Hachinohe+FC&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe62e7c826ac278dbffe2c5c85088a56e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tochigi+SC+0+-+1+Vanraure+Hachinohe+FC&t2=&live=1&lg=J2%2FJ3+100+Year+Vision+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe62e7c826ac278dbffe2c5c85088a56e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -583,13 +525,13 @@
         },
         {
           "id": "l5ergph4dkpgr8k",
-          "name": "South Melbourne Women 0 - 0 Boroondara Eagles Women",
+          "name": "South Melbourne Women 1 - 0 Boroondara Eagles Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=South+Melbourne+Women+0+-+0+Boroondara+Eagles+Women&t2=&live=1&lg=Australia+Victorian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd06a515884103b87e5f232560539cf48%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=South+Melbourne+Women+1+-+0+Boroondara+Eagles+Women&t2=&live=1&lg=Australia+Victorian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd06a515884103b87e5f232560539cf48%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -614,6 +556,280 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/59da5eb788ee7b16815e211814ccdf93/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "286a4a19997244d081079797d12b1820",
+          "name": "BC Thông tin BĐ19 0 - 0 Vietinbank",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=BC+Th%C3%B4ng+tin+B%C4%9019+0+-+0+Vietinbank&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Gi%E1%BA%A3i+B%C3%B3ng+Chuy%E1%BB%81n+V%C4%90QG+2026&l1=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Son",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "2y8m4zh57x22ql0",
+          "name": "BKS Almaty 1 - 1 FC Astana",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=BKS+Almaty+1+-+1+FC+Astana&t2=&live=1&lg=Kazakhstan+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdc1292efde89e7c303616663599f77b8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ccf8816d67ca8162ba014dc36816836a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgx032r51",
+          "name": "Jaiyq 1 - 1 FC Kairat Almaty",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jaiyq+1+-+1+FC+Kairat+Almaty&t2=&live=1&lg=Kazakhstan+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F37294e93e46fbab962b2870139c388ab%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/5674822c5dcb3cc2894a9f3794d0d5f1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhn43y4qvy",
+          "name": "Akademiya Ontustik 1 - 1 Ordabasy",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Akademiya+Ontustik+1+-+1+Ordabasy&t2=&live=1&lg=Kazakhstan+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0e3e95201a1f8d59e0fb1ac50cacb501%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1a62a743b6cdf806975303a74c64d460/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhyl5e3ryk",
+          "name": "Gamba Osaka 0 - 1 Bangkok United FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Gamba+Osaka+0+-+1+Bangkok+United+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=AFC+Champions+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa6170406c530fbb85103c4a8e49bd0a8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a829f47fe447326cffa988953dd407a0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "833091af3874440481ea59ce22578738",
+          "name": "Myanmar 0 - 0 Timor Leste",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Myanmar+0+-+0+Timor+Leste&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Futsal+%C4%90%C3%B4ng+Nam+%C3%81+2026&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FWKfiqHCa-vqjoDF7T.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Súp",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "y0or5jh85o4oqwz",
+          "name": "Sudeva Delhi 0 - 0 Delhi FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sudeva+Delhi+0+-+0+Delhi+FC&t2=&live=1&lg=Indian+I-League+2nd+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F188ed6732f6ffdd9ba481d11b4461926%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1a19dd394e03c00cfc2e041b9ac44685/playlist.m3u8"
                         }
                       ]
                     }
