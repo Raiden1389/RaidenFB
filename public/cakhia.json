@@ -8,64 +8,7 @@
     "type": "cover",
     "url": "https://cakhia.ink/favicon.ico"
   },
-  "groups": [
-    {
-      "id": "basketballchampionsleagueasia",
-      "name": "Basketball Champions League Asia",
-      "channels": [
-        {
-          "id": "116317",
-          "name": "South China AA vs Taoyuan Pilots | 19:00 09-04 | BLV HENRY",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=South+China+AA&t2=Taoyuan+Pilots&blv=BLV+HENRY&lg=Basketball+Champions+League+Asia&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F4111c7d7d365410bad2ba47133b8ebda.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F72071509f46ca594ce3da851a6c175a9.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 19:00 09-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV HENRY",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV HENRY",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/428392.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    }
-  ],
+  "groups": [],
   "option": {
     "save_history": false,
     "save_search_history": false,
