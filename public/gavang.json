@@ -15,13 +15,13 @@
       "channels": [
         {
           "id": "318q66hx8917qo9",
-          "name": "Chongqing Dikai 1 - 1 Guizhou Open University",
+          "name": "Chongqing Dikai 1 - 2 Guizhou Open University",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chongqing+Dikai+1+-+1+Guizhou+Open+University&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd51f601f2711849b781bdc1df8db6451%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chongqing+Dikai+1+-+2+Guizhou+Open+University&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd51f601f2711849b781bdc1df8db6451%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -56,43 +56,14 @@
           ]
         },
         {
-          "id": "3b293490a34e43878dc7c6aaef9d808e",
-          "name": "Hà Nội Tasco Auto 0 - 0 Vietinbank",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=H%C3%A0+N%E1%BB%99i+Tasco+Auto+0+-+0+Vietinbank&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Gi%E1%BA%A3i+B%C3%B3ng+Chuy%E1%BB%81n+V%C4%90QG+2026&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2F6%2F6a%2FLogo_H%25C3%25A0_N%25E1%25BB%2599i_Tasco_Auto.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Nhí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "4jwq2ghng8wkm0v",
-          "name": "Shenzhen Jixiang 0 - 0 Chengdu Yuhui Rende",
+          "name": "Shenzhen Jixiang 1 - 0 Chengdu Yuhui Rende",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shenzhen+Jixiang+0+-+0+Chengdu+Yuhui+Rende&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fefe5e5d0f3566fa6b39d0dceb86a82f8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shenzhen+Jixiang+1+-+0+Chengdu+Yuhui+Rende&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fefe5e5d0f3566fa6b39d0dceb86a82f8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -125,6 +96,610 @@
               ]
             }
           ]
+        },
+        {
+          "id": "3glrw7hn9326qdy",
+          "name": "Ferrymead Bays 1 - 0 Christchurch United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ferrymead+Bays+1+-+0+Christchurch+United&t2=&live=1&lg=New+Zealand+South+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F78b8192ddc47e3cb6410e0162d2e1653%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/bd1efc4cd4bc4b597b48332192c8528f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx1187qo9",
+          "name": "Beijing Yuhong Xiushan (W) 1 - 0 Zhejiang Hangzhou Bank Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Beijing+Yuhong+Xiushan+%28W%29+1+-+0+Zhejiang+Hangzhou+Bank+Women&t2=&live=1&lg=Chinese+National+Women%27s+Football+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F623b844a585f4ca78220dc413afe9243%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/86ee79691f19c6a3b407387fb13281bf/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn4pd2qdy",
+          "name": "Tai'an Tiankuang 0 - 0 Beijing IT",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tai%27an+Tiankuang+0+-+0+Beijing+IT&t2=&live=1&lg=Chinese+Football+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1c995da146e9e97ccb72bf7dc468306d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/9a950eb3a2935d7ebb9dca073a24eed9/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h6wwy2q86",
+          "name": "Wuhan Jianghan Women 0 - 0 Jiangsu Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wuhan+Jianghan+Women+0+-+0+Jiangsu+Women&t2=&live=1&lg=Chinese+National+Women%27s+Football+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3c5a88f9687af3d647b187fc9aec51dd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/b4bd92745f2b162359007026cbdf4175/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c0f591684a24b0ca49563bc1f5db6ed",
+          "name": "Thể Công Tân Cảng 0 - 0 Đà Nẵng",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Th%E1%BB%83+C%C3%B4ng+T%C3%A2n+C%E1%BA%A3ng+0+-+0+%C4%90%C3%A0+N%E1%BA%B5ng&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Gi%E1%BA%A3i+B%C3%B3ng+Chuy%E1%BB%81n+V%C4%90QG+2026&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2Fthumb%2Fc%2Fc3%2FLogo_Th%25E1%25BB%2583_C%25C3%25B4ng_T%25C3%25A2n_C%25E1%25BA%25A3ng.png%2F250px-Logo_Th%25E1%25BB%2583_C%25C3%25B4ng_T%25C3%25A2n_C%25E1%25BA%25A3ng.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "8yomo4h1y4n6q0j",
+          "name": "Shanghai Port B 0 - 0 Dalian Kewei",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shanghai+Port+B+0+-+0+Dalian+Kewei&t2=&live=1&lg=Chinese+Football+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F961cd23b61e165f6ab07eaccbf73b2a4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/3f068afc661f75a6d4ad90610569abfc/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghlxx9kmoe",
+          "name": "Changchun Dazhongzhuoyue Women 0 - 0 Guangdong Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Changchun+Dazhongzhuoyue+Women+0+-+0+Guangdong+Women&t2=&live=1&lg=Chinese+National+Women%27s+Football+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0db769f06785ae3fbec783833ba6ea60%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/682803616fe38c731328150b60399d95/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk3391rz8",
+          "name": "Northern United FC 0 - 0 Tarun Sangha FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Northern+United+FC+0+-+0+Tarun+Sangha+FC&t2=&live=1&lg=IND+DSD&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F43ad50723169a969b8a2e457b38aff4f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/4968bddf49a241b1f24f59d2c9767b17/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhgee21rep",
+          "name": "Shanghai RCB (W) 1 - 0 Sichuan Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shanghai+RCB+%28W%29+1+-+0+Sichuan+Women&t2=&live=1&lg=Chinese+National+Women%27s+Football+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4ee9dcc55937066bb17338f3405e76ef%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/5ec441aecc6b2e4fb3b371ace1419e5d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9n8g6m7v",
+          "name": "Suining Team 0 - 0 Hubei Super Mr",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Suining+Team+0+-+0+Hubei+Super+Mr&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F098d9666e9436b5cb3b2ec2fddbdde21%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/a99e178c0503f46ffb60d5f8c0bf3de9/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhn4zvvqvy",
+          "name": "Guangzhou Dandelion Alpha 0 - 0 Jiangxi Lushan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Guangzhou+Dandelion+Alpha+0+-+0+Jiangxi+Lushan&t2=&live=1&lg=Chinese+Football+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F74c46b08e59409df683ab945e634a550%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/afbd339f1498a70ab838d6669845d5fb/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjx2vjm2w",
+          "name": "ACS Dumbravita 0 - 0 Selimbar",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=ACS+Dumbravita+0+-+0+Selimbar&t2=&live=1&lg=Romanian+Liga+II&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a98e28d9bb2fe31593d171dc3dca64a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/a599a8db3fa3d1bc36bb4c48c918776d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjx741m2w",
+          "name": "Xiamen Feilu 0 - 0 Guangdong Mingtu",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Xiamen+Feilu+0+-+0+Guangdong+Mingtu&t2=&live=1&lg=Chinese+Football+League+2&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5d5e3465a9779619f6100e6dfa7883d7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/82deb3919907c733751aeec0ee9f653b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjxlx6m2w",
+          "name": "Guizhou Xufengtang 0 - 0 Chengdu Dingyao Jincheng",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Guizhou+Xufengtang+0+-+0+Chengdu+Dingyao+Jincheng&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3306cb2537b6e4e8f67f9a53cf8f5930%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://livez.alilicloud.com/live/fcc357d1daf163f7bb4102e753654ab1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx4ykvqo9",
+          "name": "PSIM Yogyakarta 0 - 0 Persatuan Sepakbola Makassar",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=PSIM+Yogyakarta+0+-+0+Persatuan+Sepakbola+Makassar&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Indonesian+Liga+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fab3ca0bb97e4080435ca6b1732448bf7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
         }
       ],
       "display": "vertical",
