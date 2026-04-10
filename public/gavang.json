@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "3glrw7hn7wv1qdy",
-          "name": "Vikingur Reykjavik 1 - 1 Breidablik",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vikingur+Reykjavik+1+-+1+Breidablik&t2=&live=1&lg=Iceland+Besta-deild+karla&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8bc79c3295827ac50acb30cf3e852b22%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/6c92bd6192e0d937dde79c03699c09ae/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "4wyrn4h648d6q86",
           "name": "FC Famalicao 1 - 1 Moreirense",
           "type": "single",
@@ -267,13 +225,13 @@
         },
         {
           "id": "y0or5jh8z88oqwz",
-          "name": "Loudoun United 1 - 2 Louisville City FC",
+          "name": "Loudoun United 2 - 2 Louisville City FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Loudoun+United+1+-+2+Louisville+City+FC&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92650eedcbb7e1a6cdc9ccbf34524550%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Loudoun+United+2+-+2+Louisville+City+FC&t2=&live=1&lg=USL+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F92650eedcbb7e1a6cdc9ccbf34524550%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -309,13 +267,13 @@
         },
         {
           "id": "4jwq2ghnwedjm0v",
-          "name": "International Miami B 0 - 0 Atlanta United FC II",
+          "name": "International Miami B 0 - 1 Atlanta United FC II",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=International+Miami+B+0+-+0+Atlanta+United+FC+II&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F86d7668b3191c95df0c2a5e92bdf471d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=International+Miami+B+0+-+1+Atlanta+United+FC+II&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F86d7668b3191c95df0c2a5e92bdf471d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -350,14 +308,98 @@
           ]
         },
         {
-          "id": "y0or5jh85g2oqwz",
-          "name": "Argentina U17 0 - 0 Brazil U17",
+          "id": "4wyrn4h6wvjjq86",
+          "name": "Cerro Largo 1 - 0 Cerro Montevideo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Argentina+U17+0+-+0+Brazil+U17&t2=&live=1&lg=CONMEBOL+U17+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F453b9a8968b93ded518f2017108a21d4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cerro+Largo+1+-+0+Cerro+Montevideo&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe158c0806ef72e2641c8e35784c8730d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/171eedc2c912e9d842ba77043fa733f5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohlppz8q1z",
+          "name": "Parana PR 2 - 0 Toledo Colonia Work PR",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Parana+PR+2+-+0+Toledo+Colonia+Work+PR&t2=&live=1&lg=Campeonato+Paranaense+Segunda+Divis%C3%A3o+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F24243e0413d76944fac76c7680dc4302%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c2daa23003a55154b93c92f612ed41e5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh85g2oqwz",
+          "name": "Argentina U17 0 - 2 Brazil U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Argentina+U17+0+-+2+Brazil+U17&t2=&live=1&lg=CONMEBOL+U17+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F453b9a8968b93ded518f2017108a21d4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -393,13 +435,13 @@
         },
         {
           "id": "y0or5jh86npnqwz",
-          "name": "Paraguay Women 0 - 0 Ecuador Women",
+          "name": "Paraguay Women 1 - 0 Ecuador Women",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Paraguay+Women+0+-+0+Ecuador+Women&t2=&live=1&lg=CNL+W&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21855149d10a326e2e7f0cbe89cf1236%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Paraguay+Women+1+-+0+Ecuador+Women&t2=&live=1&lg=CNL+W&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21855149d10a326e2e7f0cbe89cf1236%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -424,6 +466,132 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/52b4c4fa4f27535c06ab90ba066a8323/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghl2k6vmoe",
+          "name": "Sportivo San Lorenzo 0 - 0 Club Guaraní",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sportivo+San+Lorenzo+0+-+0+Club+Guaran%C3%AD&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fae960d17922fa74706c86cd96133dd98%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/89083a0a344310e4b21b93f3a1a04813/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghe05dwr6o",
+          "name": "Auckland FC Reserves 0 - 0 Tauranga City United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Auckland+FC+Reserves+0+-+0+Tauranga+City+United&t2=&live=1&lg=New+Zealand+Northern+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F11687c18097f7743c43fd55ee90af610%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0e5ce1139aa8fcbcb60064ab92601cca/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjjolem2w",
+          "name": "Criciuma 0 - 0 Botafogo SP",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Criciuma+0+-+0+Botafogo+SP&t2=&live=1&lg=Brazilian+Serie+B&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbb4317d7dc90badb8f9dbe9f07c3cbcf%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/aaca2b3ca098616bfc14840bfde3b7e4/playlist.m3u8"
                         }
                       ]
                     }
