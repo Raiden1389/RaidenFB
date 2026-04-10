@@ -14,90 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "23xmvkh60n0wqg8",
-          "name": "AC Semassi 1 - 0 Gbohloesu",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AC+Semassi+1+-+0+Gbohloesu&t2=&live=1&lg=Togolese+Premier+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb453fc573353c6e4db65d14238c9a623%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/b2211dc577cbcd576e5cf77684c69bbb/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ednm9whw0367ryo",
-          "name": "AC Barracuda 3 - 0 Gomido FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AC+Barracuda+3+-+0+Gomido+FC&t2=&live=1&lg=Togolese+Premier+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9d0982374b8f834be967e504e9ef1227%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4845f522cd04607b520105d32765d28b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "318q66hx8gx9qo9",
           "name": "Hermannstadt 1 - 0 Farul Constanta",
           "type": "single",
@@ -388,6 +304,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/fa5a24e5e3a70ea71fa94afd0366f9e1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hkxwk2rz8",
+          "name": "SK Austria Klagenfurt 1 - 0 Kapfenberg SV 1919",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SK+Austria+Klagenfurt+1+-+0+Kapfenberg+SV+1919&t2=&live=1&lg=Austrian+2.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fedd174ffbeee0bd4ca1a317fe864a79b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/32d8f9ab1043972aad5efd22a5cb7456/playlist.m3u8"
                         }
                       ]
                     }
@@ -1155,13 +1113,13 @@
         },
         {
           "id": "2y8m4zh5jxojql0",
-          "name": "Ferencvarosi TC 2 - 1 Diosgyor VTK",
+          "name": "Ferencvarosi TC 3 - 1 Diosgyor VTK",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ferencvarosi+TC+2+-+1+Diosgyor+VTK&t2=&live=1&lg=Hungary+Fizz+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9acd1ad9a99767913e09c6cc9009ebf1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ferencvarosi+TC+3+-+1+Diosgyor+VTK&t2=&live=1&lg=Hungary+Fizz+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9acd1ad9a99767913e09c6cc9009ebf1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1239,13 +1197,13 @@
         },
         {
           "id": "4wyrn4h604keq86",
-          "name": "Den Bosch 1 - 0 SC Cambuur Leeuwarden",
+          "name": "Den Bosch 1 - 1 SC Cambuur Leeuwarden",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Den+Bosch+1+-+0+SC+Cambuur+Leeuwarden&t2=&live=1&lg=Netherlands+Eerste+Divisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7edb19f5ba62cac34bbd2067cae3a9e8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Den+Bosch+1+-+1+SC+Cambuur+Leeuwarden&t2=&live=1&lg=Netherlands+Eerste+Divisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7edb19f5ba62cac34bbd2067cae3a9e8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1281,13 +1239,13 @@
         },
         {
           "id": "8yomo4h1kzwlq0j",
-          "name": "FC Twente Enschede 2 - 0 Volendam",
+          "name": "FC Twente Enschede 2 - 1 Volendam",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Twente+Enschede+2+-+0+Volendam&t2=&live=1&lg=Netherlands+Eredivisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F067f1cb5551b55f5355cf72a0e3a0cf9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Twente+Enschede+2+-+1+Volendam&t2=&live=1&lg=Netherlands+Eredivisie&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F067f1cb5551b55f5355cf72a0e3a0cf9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1323,13 +1281,13 @@
         },
         {
           "id": "8yomo4h1z5xxq0j",
-          "name": "Manchester United U21 1 - 2 Newcastle U21",
+          "name": "Manchester United U21 1 - 3 Newcastle U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manchester+United+U21+1+-+2+Newcastle+U21&t2=&live=1&lg=English+U21+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4ba4180ab770ae17c8dea269c0b95e22%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manchester+United+U21+1+-+3+Newcastle+U21&t2=&live=1&lg=English+U21+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4ba4180ab770ae17c8dea269c0b95e22%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1407,13 +1365,13 @@
         },
         {
           "id": "dj2ryohl2d4dq1z",
-          "name": "Fulham U21 1 - 1 Chelsea U21",
+          "name": "Fulham U21 2 - 1 Chelsea U21",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fulham+U21+1+-+1+Chelsea+U21&t2=&live=1&lg=English+U21+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd4516e8ede1190812870dab8f393482a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fulham+U21+2+-+1+Chelsea+U21&t2=&live=1&lg=English+U21+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd4516e8ede1190812870dab8f393482a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1533,13 +1491,13 @@
         },
         {
           "id": "jw2r09hk7xyerz8",
-          "name": "KAS Eupen 2 - 2 Beerschot Wilrijk",
+          "name": "KAS Eupen 3 - 3 Beerschot Wilrijk",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=KAS+Eupen+2+-+2+Beerschot+Wilrijk&t2=&live=1&lg=Belgian+Challenger+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5d131c7c7a029a32c5bc15fe2c891b7a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=KAS+Eupen+3+-+3+Beerschot+Wilrijk&t2=&live=1&lg=Belgian+Challenger+Pro+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5d131c7c7a029a32c5bc15fe2c891b7a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1575,13 +1533,13 @@
         },
         {
           "id": "6ypq3nhvnyeomd7",
-          "name": "Yverdon 1 - 1 Vaduz",
+          "name": "Yverdon 2 - 1 Vaduz",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yverdon+1+-+1+Vaduz&t2=&live=1&lg=Switzerland+Challenge+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb6e92b9da7e661ad8c131a484aa25390%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yverdon+2+-+1+Vaduz&t2=&live=1&lg=Switzerland+Challenge+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb6e92b9da7e661ad8c131a484aa25390%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1617,13 +1575,13 @@
         },
         {
           "id": "dj2ryohlx64pq1z",
-          "name": "Etoile Carouge 0 - 1 Stade Ouchy",
+          "name": "Etoile Carouge 1 - 1 Stade Ouchy",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Etoile+Carouge+0+-+1+Stade+Ouchy&t2=&live=1&lg=Switzerland+Challenge+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F15e075903d89dd579fddaeaea6192c7b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Etoile+Carouge+1+-+1+Stade+Ouchy&t2=&live=1&lg=Switzerland+Challenge+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F15e075903d89dd579fddaeaea6192c7b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1785,13 +1743,13 @@
         },
         {
           "id": "4jwq2ghnz15em0v",
-          "name": "Bohemians 1 - 1 Sligo Rovers",
+          "name": "Bohemians 1 - 2 Sligo Rovers",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bohemians+1+-+1+Sligo+Rovers&t2=&live=1&lg=Ireland+Premier+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5e1dac38475b2d062867f33ab010a204%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bohemians+1+-+2+Sligo+Rovers&t2=&live=1&lg=Ireland+Premier+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5e1dac38475b2d062867f33ab010a204%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1988,13 +1946,13 @@
         },
         {
           "id": "4wyrn4h6e46wq86",
-          "name": "West Ham United 0 - 0 Wolverhampton Wanderers",
+          "name": "West Ham United 1 - 0 Wolverhampton Wanderers",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Ham+United+0+-+0+Wolverhampton+Wanderers&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0dad10612185a2e8b832eb0b1c5dd35b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Ham+United+1+-+0+Wolverhampton+Wanderers&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=English+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0dad10612185a2e8b832eb0b1c5dd35b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -2115,6 +2073,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/6c92bd6192e0d937dde79c03699c09ae/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h648d6q86",
+          "name": "FC Famalicao 0 - 1 Moreirense",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Famalicao+0+-+1+Moreirense&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2b91efda8f1e808fedfe93e4bf2b12c4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/06597e7d608172b283c97b41dd7f7480/playlist.m3u8"
                         }
                       ]
                     }
