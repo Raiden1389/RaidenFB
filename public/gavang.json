@@ -14,174 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "8yomo4h18yzvq0j",
-          "name": "AC Oulu 1 - 2 Jaro",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=AC+Oulu+1+-+2+Jaro&t2=&live=1&lg=Finland+Suomen+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa3d569a4530d8d6b08504be55a625e16%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/f68b40a609f2a13620ffec5eee99b65c/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph4eejgr8k",
-          "name": "Borussia Monchengladbach II 2 - 1 Borussia Dortmund II",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Borussia+Monchengladbach+II+2+-+1+Borussia+Dortmund+II&t2=&live=1&lg=German+Regionalliga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0c74954a92ea0849c91eceb11cf3db33%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/c1ac439b0812a09052b74a079b1dbee0/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "n54qllhn34jpqvy",
-          "name": "PK Keski Uusimaa 2 - 3 Käpylän Pallo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=PK+Keski+Uusimaa+2+-+3+K%C3%A4pyl%C3%A4n+Pallo&t2=&live=1&lg=Finland+Suomen+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2c8b913cb630e9070e9dc00cf97d730e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/6ef9597d553f29e87549eb3f579879b5/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y0or5jh8nzxlqwz",
-          "name": "Kosovo U19 Women 0 - 1 Lithuania U19 Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kosovo+U19+Women+0+-+1+Lithuania+U19+Women&t2=&live=1&lg=UEFA+European+U19+Women%27s+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcc005fb18182dd252a56d61895f79126%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/0df3c50694a585fa1eb09df63a49b65f/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "23xmvkh62j1eqg8",
           "name": "Al Rayyan 2 - 0 Muaither SC",
           "type": "single",
@@ -945,13 +777,13 @@
         },
         {
           "id": "4wyrn4h6ww62q86",
-          "name": "Banfield Reserves 0 - 1 Godoy Cruz Reserves",
+          "name": "Banfield Reserves 2 - 1 Godoy Cruz Reserves",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Banfield+Reserves+0+-+1+Godoy+Cruz+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F26ea72aafa3952ab7da183a0970cae5e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Banfield+Reserves+2+-+1+Godoy+Cruz+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F26ea72aafa3952ab7da183a0970cae5e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -987,13 +819,13 @@
         },
         {
           "id": "dj2ryohlppllq1z",
-          "name": "Velez Sarsfield Reserves 3 - 0 CA Aldosivi Reserves",
+          "name": "Velez Sarsfield Reserves 4 - 0 CA Aldosivi Reserves",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Velez+Sarsfield+Reserves+3+-+0+CA+Aldosivi+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbc6291e99454fde13fe73fabdc757b41%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Velez+Sarsfield+Reserves+4+-+0+CA+Aldosivi+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbc6291e99454fde13fe73fabdc757b41%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1029,13 +861,13 @@
         },
         {
           "id": "jw2r09hk33k6rz8",
-          "name": "Platense Reserves 0 - 0 Ferro Carril Oeste Reserves",
+          "name": "Platense Reserves 1 - 1 Ferro Carril Oeste Reserves",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Platense+Reserves+0+-+0+Ferro+Carril+Oeste+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0787fca0400f3694af6bde50c667f161%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Platense+Reserves+1+-+1+Ferro+Carril+Oeste+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0787fca0400f3694af6bde50c667f161%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1071,13 +903,13 @@
         },
         {
           "id": "l5ergph4dd48r8k",
-          "name": "Deportivo Riestra Reserves 0 - 0 Belgrano Reserves",
+          "name": "Deportivo Riestra Reserves 3 - 0 Belgrano Reserves",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Riestra+Reserves+0+-+0+Belgrano+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb38f46a1261f5155b8ed3a2252caf0b0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Riestra+Reserves+3+-+0+Belgrano+Reserves&t2=&live=1&lg=Argentine+Reserve+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb38f46a1261f5155b8ed3a2252caf0b0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1239,13 +1071,13 @@
         },
         {
           "id": "vjxm8ghegozzr6o",
-          "name": "Luton Town 0 - 0 Northampton Town",
+          "name": "Luton Town 1 - 1 Northampton Town",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Luton+Town+0+-+0+Northampton+Town&t2=&live=1&lg=English+Football+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fabc745b4692d4befb47de9b4eaec5da8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Luton+Town+1+-+1+Northampton+Town&t2=&live=1&lg=English+Football+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fabc745b4692d4befb47de9b4eaec5da8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -1368,13 +1200,13 @@
         },
         {
           "id": "n54qllhn4g5nqvy",
-          "name": "FC Bayern Munich 0 - 0 Real Madrid",
+          "name": "FC Bayern Munich 2 - 3 Real Madrid",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bayern+Munich+0+-+0+Real+Madrid&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Feb25dc6db17aca6169a920592e366536%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bayern+Munich+2+-+3+Real+Madrid&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=UEFA+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Feb25dc6db17aca6169a920592e366536%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
