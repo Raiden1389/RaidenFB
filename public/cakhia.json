@@ -114,62 +114,6 @@
       "grid_number": 1
     },
     {
-      "id": "basketballchampionsleagueasia",
-      "name": "Basketball Champions League Asia",
-      "channels": [
-        {
-          "id": "116756",
-          "name": "Taoyuan Pilots vs South China AA | 18:00 16-04 | BLV HENRY",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Taoyuan+Pilots&t2=South+China+AA&blv=BLV+HENRY&lg=Basketball+Champions+League+Asia&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F72071509f46ca594ce3da851a6c175a9.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F4111c7d7d365410bad2ba47133b8ebda.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 18:00 16-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV HENRY",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV HENRY",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/428392.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
       "id": "concacafchampionsleague",
       "name": "CONCACAF Champions League",
       "channels": [
