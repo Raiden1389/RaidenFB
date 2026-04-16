@@ -14,14 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "72bb03fddbea4ecd91230c6701a97760",
-          "name": "Hà Nội Tasco Auto 0 - 0 VTV Bình Điền Long An",
+          "id": "vjxm8ghe07w1r6o",
+          "name": "Hubei Super Mr 0 - 0 Shenzhen Jixiang",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=H%C3%A0+N%E1%BB%99i+Tasco+Auto+0+-+0+VTV+B%C3%ACnh+%C4%90i%E1%BB%81n+Long+An&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Gi%E1%BA%A3i+B%C3%B3ng+Chuy%E1%BB%81n+V%C4%90QG+2026&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2F6%2F6a%2FLogo_H%25C3%25A0_N%25E1%25BB%2599i_Tasco_Auto.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hubei+Super+Mr+0+-+0+Shenzhen+Jixiang&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3a4b4e2201f7a06bbb99cabefc76a292%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -31,26 +31,81 @@
               "position": "top-left",
               "color": "#ff0000",
               "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Nhí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/309b5b35e5e8ff37cce6dbfec442a7a9/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "id": "318q66hx1yewqo9",
-          "name": " 0 - 0 Ransiki",
+          "id": "x7lm7phjv271m2w",
+          "name": "Chengdu Yuhui Rende 0 - 0 Guizhou Xufengtang",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=+0+-+0+Ransiki&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9d11117fb2ee36aaac2d601c43db4f10%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chengdu+Yuhui+Rende+0+-+0+Guizhou+Xufengtang&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3ac10ef11170d2b2b9caa70fa6d306c2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/884bafb4a0ab3cf6eb37f5a6462cd0b7/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx1yewqo9",
+          "name": " 0 - 2 Ransiki",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=+0+-+2+Ransiki&t2=&live=1&lg=Indo+D4&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9d11117fb2ee36aaac2d601c43db4f10%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -75,6 +130,125 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/cdd9e2e7a7e8f50ae8a873a662199741/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx1yz6qo9",
+          "name": "Debre Birhan Ketema 0 - 0 Soloda Adwa",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Debre+Birhan+Ketema+0+-+0+Soloda+Adwa&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3e0eb0760f973f17cbf7019b6340bb0c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6fc6d68baca20c98b2d0031f40eeb2f7/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3e57a655b5394e05b044918afba0f982",
+          "name": "Thể Công Tân Cảng 0 - 0 Biên Phòng MB",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Th%E1%BB%83+C%C3%B4ng+T%C3%A2n+C%E1%BA%A3ng+0+-+0+Bi%C3%AAn+Ph%C3%B2ng+MB&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Gi%E1%BA%A3i+B%C3%B3ng+Chuy%E1%BB%81n+V%C4%90QG+2026&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2Fthumb%2Fc%2Fc3%2FLogo_Th%25E1%25BB%2583_C%25C3%25B4ng_T%25C3%25A2n_C%25E1%25BA%25A3ng.png%2F250px-Logo_Th%25E1%25BB%2583_C%25C3%25B4ng_T%25C3%25A2n_C%25E1%25BA%25A3ng.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "3glrw7hn945xqdy",
+          "name": "Timor Leste U17 0 - 0 Vietnam U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Timor+Leste+U17+0+-+0+Vietnam+U17&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=AFF+U17+Youth+Championship&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FlS7tAeXg-UwEraWqr.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Son",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Son",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/e4698410357a992f492d7fb39661c0fa/playlist.m3u8"
                         }
                       ]
                     }
