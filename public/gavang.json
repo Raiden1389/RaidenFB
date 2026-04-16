@@ -267,13 +267,13 @@
         },
         {
           "id": "3glrw7hn945xqdy",
-          "name": "Timor Leste U17 0 - 4 Vietnam U17",
+          "name": "Timor Leste U17 0 - 10 Vietnam U17",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Timor+Leste+U17+0+-+4+Vietnam+U17&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=AFF+U17+Youth+Championship&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FlS7tAeXg-UwEraWqr.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Timor+Leste+U17+0+-+10+Vietnam+U17&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=AFF+U17+Youth+Championship&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FlS7tAeXg-UwEraWqr.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -304,6 +304,48 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/e4698410357a992f492d7fb39661c0fa/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq2ghnwyl0m0v",
+          "name": "Sululta Ketema 0 - 1 Nifas Silk Lafto Sub City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sululta+Ketema+0+-+1+Nifas+Silk+Lafto+Sub+City&t2=&live=1&lg=Ethiopian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F14d30d79e8e44a76ec6f35d9651287c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fd199ab34244617559bd182b3cb3bef8/playlist.m3u8"
                         }
                       ]
                     }
@@ -410,8 +452,27 @@
               "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7673eaf7fb779dacf85288496c9731d8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
