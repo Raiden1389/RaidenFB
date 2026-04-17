@@ -14,48 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "vjxm8ghe84jyr6o",
-          "name": "Rio Ave 0 - 0 AVS Futebol SAD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rio+Ave+0+-+0+AVS+Futebol+SAD&t2=&live=1&lg=Portuguese+Primera+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F542e8735c87f38ec7c5d77fe59082cfd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/132983bbb25f69d1caacd4e4f942a02b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "n54qllhn7z9dqvy",
           "name": "Los Chankas 2 - 0 Atletico Grau",
           "type": "single",
@@ -183,13 +141,13 @@
         },
         {
           "id": "n54qllhn7v1wqvy",
-          "name": "Club Leones del Norte 0 - 0 Sociedad Deportiva Aucas",
+          "name": "Club Leones del Norte 0 - 1 Sociedad Deportiva Aucas",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Leones+del+Norte+0+-+0+Sociedad+Deportiva+Aucas&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa9be2ff19f37804c4b8612c0c9a1e02%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Leones+del+Norte+0+-+1+Sociedad+Deportiva+Aucas&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa9be2ff19f37804c4b8612c0c9a1e02%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -309,13 +267,13 @@
         },
         {
           "id": "vjxm8ghe0oxzr6o",
-          "name": "Toronto FC II 0 - 0 Philadelphia Union II",
+          "name": "Toronto FC II 1 - 0 Philadelphia Union II",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Toronto+FC+II+0+-+0+Philadelphia+Union+II&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd36d6842bbc5cd2454fde98098f44587%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Toronto+FC+II+1+-+0+Philadelphia+Union+II&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd36d6842bbc5cd2454fde98098f44587%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -351,13 +309,13 @@
         },
         {
           "id": "y0or5jh855y0qwz",
-          "name": "Albion FC 0 - 0 Central Espanol",
+          "name": "Albion FC 0 - 1 Central Espanol",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Albion+FC+0+-+0+Central+Espanol&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F965912e40ae47b9b37f24cf8f3dee18d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Albion+FC+0+-+1+Central+Espanol&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F965912e40ae47b9b37f24cf8f3dee18d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -382,6 +340,90 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/65b14d241fa08f9d23fcd6c960f76ee9/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehg8y4lr51",
+          "name": "Club Atlético Unión 1 - 1 Club Atlético Newell's Old Boys",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Atl%C3%A9tico+Uni%C3%B3n+1+-+1+Club+Atl%C3%A9tico+Newell%27s+Old+Boys&t2=&live=1&lg=Argentine+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe3747b3a27abc05d5af993330788b5f5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/bea19e496e753038c2db6fffc0c7879a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhn3wy1qvy",
+          "name": "Cashmere Technical 2 - 0 Northern AFC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cashmere+Technical+2+-+0+Northern+AFC&t2=&live=1&lg=New+Zealand+South+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F929bf07a78b9659a482ffb5dabf3b39d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/1fcff2078fa2fa401d41d6ddd1bd1e3e/playlist.m3u8"
                         }
                       ]
                     }
