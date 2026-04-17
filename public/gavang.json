@@ -14,182 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "k82rekhge4xprep",
-          "name": "Uruguay U17 3 - 0 Venezuela U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uruguay+U17+3+-+0+Venezuela+U17&t2=&live=1&lg=CONMEBOL+U17+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F955a43a2273a1fa9a5f79ffd14765500%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/15ffb0015fcbb691a2cd531e129ecb14/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "2y8m4zh579wgql0",
-          "name": "ArgentinaU16 2 - 3 Mexico U16",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=ArgentinaU16+2+-+3+Mexico+U16&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3d9beae9434eb9fb24ef0084b50877c0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/4aa085742718b3c4b1f1cb5c00887c21/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "6ypq3nhvk9jkmd7",
-          "name": "Tocantinopolis 0 - 0 Atletico Clube Goianiense",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tocantinopolis+0+-+0+Atletico+Clube+Goianiense&t2=&live=1&lg=Brazilian+Copa+Verde&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F70040aeaad907a52a3efbb0d7e9b88f0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/28c8e94169dc78a12c36afacd9231d15/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l7oqdehgxz02r51",
-          "name": "HYH Export Sebaco FC 0 - 2 Diriangen",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=HYH+Export+Sebaco+FC+0+-+2+Diriangen&t2=&live=1&lg=Nicaragua+Liga+Primera&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9e5cd6bd272a52847abd201ef240dc4f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/bdd4c340c994aa4848c96841c4e8c67a/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "2y8m4zh5vo0wql0",
-          "name": "Atletico Mineiro 1 - 1 CA Juventud",
+          "name": "Atletico Mineiro 2 - 1 CA Juventud",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Mineiro+1+-+1+CA+Juventud&t2=&live=1&lg=CONMEBOL+Copa+Sudamericana&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcff6a86a569115cac9c633ebced9655e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Mineiro+2+-+1+CA+Juventud&t2=&live=1&lg=CONMEBOL+Copa+Sudamericana&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcff6a86a569115cac9c633ebced9655e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -267,13 +99,13 @@
         },
         {
           "id": "8yomo4h18ogvq0j",
-          "name": "Ecuador U17 0 - 1 Argentina U17",
+          "name": "Ecuador U17 1 - 3 Argentina U17",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ecuador+U17+0+-+1+Argentina+U17&t2=&live=1&lg=CONMEBOL+U17+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fb5c9e4c6a0d929b51225ee86ccb9e0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ecuador+U17+1+-+3+Argentina+U17&t2=&live=1&lg=CONMEBOL+U17+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fb5c9e4c6a0d929b51225ee86ccb9e0%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -477,13 +309,13 @@
         },
         {
           "id": "x7lm7phjx723m2w",
-          "name": "America FC Natal RN 0 - 1 Fortaleza",
+          "name": "America FC Natal RN 1 - 1 Fortaleza",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=America+FC+Natal+RN+0+-+1+Fortaleza&t2=&live=1&lg=Brazilian+Copa+do+Nordeste&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9b93baa3b51df09a74114787353d510a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=America+FC+Natal+RN+1+-+1+Fortaleza&t2=&live=1&lg=Brazilian+Copa+do+Nordeste&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9b93baa3b51df09a74114787353d510a%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -519,13 +351,13 @@
         },
         {
           "id": "318q66hx1pgeqo9",
-          "name": "Bolivia U17 0 - 1 Chile U17",
+          "name": "Bolivia U17 0 - 4 Chile U17",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bolivia+U17+0+-+1+Chile+U17&t2=&live=1&lg=CONMEBOL+U17+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd719da3305d1242542a1f48b90ad3299%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bolivia+U17+0+-+4+Chile+U17&t2=&live=1&lg=CONMEBOL+U17+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd719da3305d1242542a1f48b90ad3299%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -561,13 +393,13 @@
         },
         {
           "id": "jw2r09hk5on5rz8",
-          "name": "Operario MS 1 - 0 Primavera AC",
+          "name": "Operario MS 3 - 1 Primavera AC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Operario+MS+1+-+0+Primavera+AC&t2=&live=1&lg=Brazilian+Copa+Verde&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5e9682bc0699fc3acc5dc5f5417cbd53%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Operario+MS+3+-+1+Primavera+AC&t2=&live=1&lg=Brazilian+Copa+Verde&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5e9682bc0699fc3acc5dc5f5417cbd53%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -592,6 +424,180 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/2a82b74f1e2abb11e5b08ea761fb6292/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5vo3wql0",
+          "name": "San Lorenzo 0 - 0 Deportivo Cuenca",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=San+Lorenzo+0+-+0+Deportivo+Cuenca&t2=&live=1&lg=CONMEBOL+Copa+Sudamericana&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fad18242c277a5f5efab2078cf3010b05%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/3968b792dd2ee18d69345edec26dd8e2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5vogwql0",
+          "name": "Red Bull Bragantino 1 - 0 Blooming",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Red+Bull+Bragantino+1+-+0+Blooming&t2=&live=1&lg=CONMEBOL+Copa+Sudamericana&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fceadaa02f053d8c9849d150090c11bc1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7fdbae7447349e0730917552f59afdd5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4k15wr8k",
+          "name": "CA Penarol 0 - 1 CA Platense",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Penarol+0+-+1+CA+Platense&t2=&live=1&lg=CONMEBOL+Copa+Libertadores&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0b1952e9fdcbb44ce68adfa0f0f0e3fd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/692748e135b832abc7d4788631749b9f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4k1nwr8k",
+          "name": "CR Flamengo 1 - 0 Dep.Independiente Medellin",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CR+Flamengo+1+-+0+Dep.Independiente+Medellin&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=CONMEBOL+Copa+Libertadores&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1ba71d72ec79ce350fb10ca91df5cd99%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Đô",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9fdab10f32fda745ba1eedb88ed25fcc/playlist.m3u8"
                         }
                       ]
                     }
