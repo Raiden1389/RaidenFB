@@ -14,54 +14,6 @@
       "name": "English Premier League",
       "channels": [
         {
-          "id": "117182",
-          "name": "Burnley vs Manchester City | 02:00 23-04 | BLV COCA",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Burnley&t2=Manchester+City&blv=BLV+COCA&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F1091af5aa9fc4a30411785954edb9159.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc4a6528a2ee147b99c9885ef24385a4e.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:00 23-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV COCA",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV COCA",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/327159.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "117181",
           "name": "Bournemouth AFC vs Leeds United | 02:00 23-04 | BLV LION",
           "type": "single",
@@ -108,36 +60,28 @@
               ]
             }
           ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
-      "id": "spanishlaliga",
-      "name": "Spanish La Liga",
-      "channels": [
+        },
         {
-          "id": "117179",
-          "name": "Real Sociedad vs Getafe | 01:00 23-04 | BLV A WIN",
+          "id": "117182",
+          "name": "Burnley vs Manchester City | 02:00 23-04 | BLV COCA",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Sociedad&t2=Getafe&blv=BLV+A+WIN&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5c3c390fc1cb7b35f06ebbb160151c27.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F36bf5bf0c8fdf08c1270124808f060e1.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Burnley&t2=Manchester+City&blv=BLV+COCA&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F1091af5aa9fc4a30411785954edb9159.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc4a6528a2ee147b99c9885ef24385a4e.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 01:00 23-04",
+              "text": "⏰ 02:00 23-04",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV A WIN",
+              "text": "👨‍💼 BLV COCA",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -150,12 +94,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV A WIN",
+                      "name": "BLV BLV COCA",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/536185.m3u8"
+                          "url": "https://live.inplyr.com/room/327159.m3u8"
                         }
                       ]
                     }
@@ -164,7 +108,15 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "spanishlaliga",
+      "name": "Spanish La Liga",
+      "channels": [
         {
           "id": "117185",
           "name": "FC Barcelona vs RC Celta | 02:30 23-04 | BLV VITAMIN",
@@ -204,6 +156,150 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.inplyr.com/room/400722.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "117238",
+          "name": "Levante vs Sevilla FC | 00:00 24-04 | LOGAN",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Levante&t2=Sevilla+FC&blv=LOGAN&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F13e2038bd23a38ce32a3eb259c8bf7d8.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd20ed1da4f299cc3ef0e1e9eb06eced1.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 00:00 24-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 LOGAN",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV LOGAN",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/552832.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "117241",
+          "name": "Rayo Vallecano vs RCD Espanyol | 01:00 24-04 | LÃO LÂM",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rayo+Vallecano&t2=RCD+Espanyol&blv=L%C3%83O+L%C3%82M&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5005d8feab109ce64e40beb98073cc1f.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F214049d4df11756a2eb21bbd8266e2a1.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 01:00 24-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 LÃO LÂM",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV LÃO LÂM",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/527384.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "117251",
+          "name": "Real Oviedo vs Villarreal CF | 02:30 24-04 | BLV MIXI",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Oviedo&t2=Villarreal+CF&blv=BLV+MIXI&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F21551996567bcd206ee574043d509a84.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Faee62af96a956756cc29fe4831286357.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 02:30 24-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV MIXI",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV MIXI",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/290928.m3u8"
                         }
                       ]
                     }
