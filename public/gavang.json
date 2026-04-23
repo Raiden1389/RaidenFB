@@ -14,90 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "965mkyhk0lwlr1g",
-          "name": "Durtlang Ramthar FC 2 - 6 ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Durtlang+Ramthar+FC+2+-+6+&t2=&live=1&lg=Indian+MFA+Super+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faeffc98b2eb89e379dc87059fa797bde%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/6cdc6e9a1ad930a42b12c22bf824007e/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "dn1m1ghlgvx3moe",
-          "name": "Saikhamakawn FC 2 - 1 ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Saikhamakawn+FC+2+-+1+&t2=&live=1&lg=Indian+MFA+Super+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6befa8afe45038e0971e075724f17fee%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/8755651fcf664c4d32388ffb7ee32c35/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "2y8m4zh5e0dpql0",
           "name": "Fu Jen University 3 - 1 Taiwan University of Sport Football Team",
           "type": "single",
@@ -140,14 +56,56 @@
           ]
         },
         {
-          "id": "l7oqdehgjvxor51",
-          "name": "Wuhan Golden Banks of Two Rivers 0 - 1 Guangdong Wuchuan Youth",
+          "id": "dn1m1ghlx6ynmoe",
+          "name": "Yangthang United FC 1 - 0 Red Panda FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wuhan+Golden+Banks+of+Two+Rivers+0+-+1+Guangdong+Wuchuan+Youth&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F95c75717a75044f2fd6109006f413f52%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yangthang+United+FC+1+-+0+Red+Panda+FC&t2=&live=1&lg=Indian+Sikkim+S-League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21f6bcd4db7773a87bd32e0878ef95ea%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4e02250728585d90a7b248d0cecffb8c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgjvxor51",
+          "name": "Wuhan Golden Banks of Two Rivers 0 - 2 Guangdong Wuchuan Youth",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wuhan+Golden+Banks+of+Two+Rivers+0+-+2+Guangdong+Wuchuan+Youth&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F95c75717a75044f2fd6109006f413f52%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -225,13 +183,13 @@
         },
         {
           "id": "x7lm7phjxlv6m2w",
-          "name": "Yantai New Area 0 - 1 Meizhou Qiangmin",
+          "name": "Yantai New Area 0 - 3 Meizhou Qiangmin",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yantai+New+Area+0+-+1+Meizhou+Qiangmin&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3f712142a16c08c2dbfb1e9ca1b259bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yantai+New+Area+0+-+3+Meizhou+Qiangmin&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3f712142a16c08c2dbfb1e9ca1b259bb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -266,43 +224,14 @@
           ]
         },
         {
-          "id": "vjxm8ghe8d8wr6o",
-          "name": "Persita Tangerang 0 - 0 Bali United",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Persita+Tangerang+0+-+0+Bali+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+B%C3%AD&lg=Indonesian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F66939a8a3a47b6f40f3b7ddfd19dd0ef%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Bí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "ednm9whwo1pjryo",
-          "name": "Hellenic AC 0 - 0 Garuda FC",
+          "name": "Hellenic AC 4 - 4 Garuda FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hellenic+AC+0+-+0+Garuda+FC&t2=&live=1&lg=Australia+Darwin+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8099701abdd2cdaf0eb83d8e7735732f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hellenic+AC+4+-+4+Garuda+FC&t2=&live=1&lg=Australia+Darwin+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8099701abdd2cdaf0eb83d8e7735732f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -327,6 +256,264 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.alilicloud.com/live/75213b4da1ea381e2588f99798c20143/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhgjz3jrep",
+          "name": "Little Friends Club 1 - 1 Shuktara Jubo Sangsad",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Little+Friends+Club+1+-+1+Shuktara+Jubo+Sangsad&t2=&live=1&lg=Bangladesh+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5cdceb57f8d6d8e627a62fbbc4ca37c2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/dd3e0cad05caff4f3964a2e256664ab2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4704or8k",
+          "name": "Dhaka Wanderers 1 - 1 MSPCC City Club",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dhaka+Wanderers+1+-+1+MSPCC+City+Club&t2=&live=1&lg=Bangladesh+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5b8bf61e745a2ad9d59568616e92e9c5%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4090785e1f3125e4fc8acf1c4346231c/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx8975qo9",
+          "name": "Kairat Almaty II 2 - 0 FK Aktobe II",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kairat+Almaty+II+2+-+0+FK+Aktobe+II&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Kazakhstan+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5376e80922f4bd587d3914d1d0882eb6%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/002892d4b83d1e4aec818dea41844ed4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhv8wnvmd7",
+          "name": "Ekibastuzets 0 - 0 FK Kaspiy Aktau B",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ekibastuzets+0+-+0+FK+Kaspiy+Aktau+B&t2=&live=1&lg=Kazakhstan+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8b355ca68fe3e945dc47f001a1f3551e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/fda72fab0a62975cba8f55088dbbe469/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhg258krep",
+          "name": "FK Arys 0 - 2 FC Shakhtyor Karagandy",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Arys+0+-+2+FC+Shakhtyor+Karagandy&t2=&live=1&lg=Kazakhstan+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3b783a417936a39f785fb74d4045108d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/2e31ef35288de18d0ec4e1283937a21b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq2ghnwl53m0v",
+          "name": "Friends United 0 - 0 Garhwal FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Friends+United+0+-+0+Garhwal+FC&t2=&live=1&lg=IND+DSD&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F045ef545564088f717dbf396b523383c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4a5c17f571bec64637463e652d67c70f/playlist.m3u8"
                         }
                       ]
                     }
