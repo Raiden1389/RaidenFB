@@ -10,62 +10,6 @@
   },
   "groups": [
     {
-      "id": "afcchampionsleagueelite",
-      "name": "AFC Champions League Elite",
-      "channels": [
-        {
-          "id": "117360",
-          "name": "Al-Ahli SFC vs Machida Zelvia | 23:15 25-04 | BLV A WIN",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Ahli+SFC&t2=Machida+Zelvia&blv=BLV+A+WIN&lg=AFC+Champions+League+Elite&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ff33846605b005f6b139e9c9f1d9feeef.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F539c489a7bd94dd9d785308fd0f0a6b9.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 23:15 25-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV A WIN",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV A WIN",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/536185.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    },
-    {
       "id": "spanishlaliga",
       "name": "Spanish La Liga",
       "channels": [
