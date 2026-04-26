@@ -10,30 +10,30 @@
   },
   "groups": [
     {
-      "id": "spanishlaliga",
-      "name": "Spanish La Liga",
+      "id": "englishpremierleague",
+      "name": "English Premier League",
       "channels": [
         {
-          "id": "117998",
-          "name": "CA Osasuna vs Sevilla FC | 23:30 26-04 | LOKA",
+          "id": "119609",
+          "name": "Manchester United vs Brentford | 02:00 28-04 | RICKHANTER",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Osasuna&t2=Sevilla+FC&blv=LOKA&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc2050b940076df70b2ad0a6103c50df4.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd20ed1da4f299cc3ef0e1e9eb06eced1.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manchester+United&t2=Brentford&blv=RICKHANTER&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3d7cc3c41c8531284a6426c47ae66b91.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F60f1c7788be3148a370dbf59f914abfe.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 23:30 26-04",
+              "text": "⏰ 02:00 28-04",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 LOKA",
+              "text": "👨‍💼 RICKHANTER",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -46,12 +46,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV LOKA",
+                      "name": "BLV RICKHANTER",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/589848.m3u8"
+                          "url": "https://live.inplyr.com/room/123226.m3u8"
                         }
                       ]
                     }
@@ -60,7 +60,15 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "spanishlaliga",
+      "name": "Spanish La Liga",
+      "channels": [
         {
           "id": "118782",
           "name": "Villarreal CF vs RC Celta | 02:00 27-04 | BLV A TÚ",
@@ -100,6 +108,54 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.inplyr.com/room/557845.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "119608",
+          "name": "RCD Espanyol vs Levante | 02:00 28-04 | TRÀ ĐÁ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=RCD+Espanyol&t2=Levante&blv=TR%C3%80+%C4%90%C3%81&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F214049d4df11756a2eb21bbd8266e2a1.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F13e2038bd23a38ce32a3eb259c8bf7d8.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 02:00 28-04",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 TRÀ ĐÁ",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV TRÀ ĐÁ",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/603914.m3u8"
                         }
                       ]
                     }
