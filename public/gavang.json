@@ -14,56 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "x7lm7phj20lvm2w",
-          "name": "Samaleshwari SC 1 - 3 Zinc Football Academy",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Samaleshwari+SC+1+-+3+Zinc+Football+Academy&t2=&live=1&lg=IND+RAD&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F90597d9a529b7e08a2f79ccea9e5f252%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/1e44e3d37291199dfdd336f43c040129/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "dn1m1ghl925gmoe",
-          "name": "Liechtenstein U17 0 - 1 Armenia U17",
+          "name": "Liechtenstein U17 1 - 1 Armenia U17",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Liechtenstein+U17+0+-+1+Armenia+U17&t2=&live=1&lg=UEFA+European+U17+Football+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F75d3c23b0d97ef92c5e788acd60f091c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Liechtenstein+U17+1+-+1+Armenia+U17&t2=&live=1&lg=UEFA+European+U17+Football+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F75d3c23b0d97ef92c5e788acd60f091c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -98,14 +56,14 @@
           ]
         },
         {
-          "id": "4jwq2ghnxy18m0v",
-          "name": "PSBS Biak Numfor 0 - 0 Malut United",
+          "id": "4wyrn4h6xwn4q86",
+          "name": "FK Andijon 0 - 1 Dinamo Samarqand",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=PSBS+Biak+Numfor+0+-+0+Malut+United&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Indonesian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2fef1c9b780115b42caf9130b6a79083%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Andijon+0+-+1+Dinamo+Samarqand&t2=&live=1&lg=Uzbekistan+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3a7b14d9b2b871fa0c347867f22a9a06%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -114,27 +72,124 @@
               "text": "🔴 LIVE",
               "position": "top-left",
               "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Péo",
-              "position": "bottom-left",
-              "color": "#FFD700",
               "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/94cbe9802972eba158697f9b329fd298/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "id": "zp5rzghgp4l3q82",
-          "name": "Melaka FC 0 - 0 Johor Darul Ta'zim FC",
+          "id": "6ypq3nhv38o7md7",
+          "name": "Sogdiana Jizak 4 - 2 Termez Surkhon",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Melaka+FC+0+-+0+Johor+Darul+Ta%27zim+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Malaysian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff61a8bc60030a0c74f449dfc3d107f1e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sogdiana+Jizak+4+-+2+Termez+Surkhon&t2=&live=1&lg=Uzbekistan+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbd6437b994a3b12fdca49b1f46b010b2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/36f5f9d2adf2cd4f08d68856676814ca/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvk8kzmd7",
+          "name": "Petrojet 0 - 0 Ismaily SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Petrojet+0+-+0+Ismaily+SC&t2=&live=1&lg=Egyptian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd44c3cd3bc6c84f1a511ed64d7cfc6a1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/4f9c37d338958396ee5d085481f9efc6/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whwow0oryo",
+          "name": "Al Gharraf 0 - 1 Al-Mina'a SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Gharraf+0+-+1+Al-Mina%27a+SC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Iraq+Stars+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F270c0410615408082d817938f96a3d68%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -146,7 +201,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 Gà Siêu Nhí",
+              "text": "👨‍💼 Gà Siêu Mõm",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
@@ -159,12 +214,648 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV Gà Siêu Nhí",
+                      "name": "BLV Gà Siêu Mõm",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.alilicloud.com/live/8f04b8eb7dd39697eb7dd7873e887760/playlist.m3u8"
+                          "url": "https://live.alilicloud.com/live/1516790a33a1cd0b24dfeb35ea484214/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnndjgqvy",
+          "name": "East Bengal FC 2 - 0 Odisha FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=East+Bengal+FC+2+-+0+Odisha+FC&t2=&live=1&lg=Indian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3b21a7c47e6998936d29e802612b8fb3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/7aecf0283f3667145d1b0a7f839e2224/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnp7y3qvy",
+          "name": "Portimonense U23 0 - 1 Farense U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Portimonense+U23+0+-+1+Farense+U23&t2=&live=1&lg=Portuguese+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe841783fdfada333c0dd0384e32f4e85%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/17deb27f9e2352209a1f37a3be8f20b4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhylnljryk",
+          "name": "ZED FC 1 - 0 Pharco",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=ZED+FC+1+-+0+Pharco&t2=&live=1&lg=Egyptian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F64eed976edc93d9cab5807d0ee4bb1cf%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/b82e2d18f036d634a6ef44e21eb6e44e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghe5lolr6o",
+          "name": "Estoril U23 1 - 2 Gil Vicente U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Estoril+U23+1+-+2+Gil+Vicente+U23&t2=&live=1&lg=Portuguese+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F64a364c6715a92e18d770c9d19d45737%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/ed6e81f1059f2bf4398bcf7e4ff7cb50/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phj3zdjm2w",
+          "name": "Uniao Leiria U23 1 - 0 Rio Ave U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Uniao+Leiria+U23+1+-+0+Rio+Ave+U23&t2=&live=1&lg=Portuguese+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4dc137d65aa6aa21ac3727f28d19b7c2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/a7a7a6c5e13bfb43a1ed63cb61b22b47/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8znd9qwz",
+          "name": "Maritimo U23 1 - 0 Estrela FC U23",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maritimo+U23+1+-+0+Estrela+FC+U23&t2=&live=1&lg=Portuguese+U23+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee876e2214a6f015ce7693b72eae3f51%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/41a7aa6aa9a7b35e687a5daa3a6a777d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5679xql0",
+          "name": "Pakhtakor 0 - 0 Nasaf Qarshi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Pakhtakor+0+-+0+Nasaf+Qarshi&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Uzbekistan+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3179c699d1b7822e77c74eb810642d7e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Súp",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Súp",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/24d696530855b2cad1850e4705a5571a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhkwpdpr1g",
+          "name": "FK Minija 1 - 0 Suduva",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Minija+1+-+0+Suduva&t2=&live=1&lg=Lithuanian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1bc69917622aafdfa1a16cc76804943f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/f72305ecb2d73b4d86c2792ffb217ec8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhggy5xrep",
+          "name": "FK Liepaja 0 - 0 Grobina",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Liepaja+0+-+0+Grobina&t2=&live=1&lg=Latvian+Higher+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F660ad9f2c52430b11092d6f36c87d056%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/0cc2f33556f1a3c62a28f97b24865ba0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgx75or51",
+          "name": "Salon Palloilijat 0 - 0 TPS Turku",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Salon+Palloilijat+0+-+0+TPS+Turku&t2=&live=1&lg=Finland+Suomen+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa8d2530904bafc04076582b767187061%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/d4e734ab5ee57da862439b18443bdc34/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhyndkwryk",
+          "name": "VPS Vaasa-J 1 - 2 SJK Seinajoen",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=VPS+Vaasa-J+1+-+2+SJK+Seinajoen&t2=&live=1&lg=Finland+Suomen+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F06a27e2bd9094c57bb9b0a4fbf0aa5ad%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/6d667703e19caae092977eb1df254262/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghe0y1dr6o",
+          "name": "Toolon Taisto 1 - 3 JaPS",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Toolon+Taisto+1+-+3+JaPS&t2=&live=1&lg=Finland+Suomen+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc39449e92d7be5a086d2084c437f39eb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/c36c6b320c1b716c7e5d1401b1bdc2a1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6o7lvmoj",
+          "name": "Sveikata 0 - 2 Kauno Zalgiris",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sveikata+0+-+2+Kauno+Zalgiris&t2=&live=1&lg=Lithuanian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbc020d5e9e6d2f79096fc64c994ad6c7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/976194300e8273b9eeed6dcb6a7c983f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh57lkvql0",
+          "name": "Union Plaani 0 - 0 Lahti",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Union+Plaani+0+-+0+Lahti&t2=&live=1&lg=Finland+Suomen+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffb7d1be3fae48fb469573a9c439a5c1e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/084797bcaa612e749dfb9c1d9dfb2dbf/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhkwp6er1g",
+          "name": "HPS 0 - 0 IFK Mariehamn",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=HPS+0+-+0+IFK+Mariehamn&t2=&live=1&lg=Finland+Suomen+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe283fa41d74051ad8adeb0c7240437ca%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.alilicloud.com/live/9b69e775f8c4dfca2faebf01ea527f14/playlist.m3u8"
                         }
                       ]
                     }
