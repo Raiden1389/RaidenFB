@@ -8,58 +8,7 @@
     "type": "cover",
     "url": "https://cdn.fastestcdn-global.com/seo-gavangtv-v4/icons/logo.png"
   },
-  "groups": [
-    {
-      "id": "live",
-      "name": "🔴 LIVE",
-      "channels": [
-        {
-          "id": "965mkyhkwxwjr1g",
-          "name": "International San Carlos 2 - 0 Pitbulls",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=International+San+Carlos+2+-+0+Pitbulls&t2=&live=1&lg=Costa+Rica+2.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcaa38bc35c5f4c7c72cb1b18cb6f0a40%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.alilicloud.com/live/ac626f7d68daff86537ab8f4cb30553b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
-    }
-  ],
+  "groups": [],
   "option": {
     "save_history": false,
     "save_search_history": false,
