@@ -120,62 +120,6 @@
       ],
       "display": "vertical",
       "grid_number": 1
-    },
-    {
-      "id": "uefachampionsleague",
-      "name": "UEFA Champions League",
-      "channels": [
-        {
-          "id": "120219",
-          "name": "Atletico Madrid vs Arsenal | 02:00 30-04 | DECO",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Madrid&t2=Arsenal&blv=DECO&lg=UEFA+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F15f730f481d1ae7c75c1d28ee2862adc.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F2122445133f0eeeecbb61fe49fb69022.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:00 30-04",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 DECO",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV DECO",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/168740.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "display": "vertical",
-      "grid_number": 1
     }
   ],
   "option": {
