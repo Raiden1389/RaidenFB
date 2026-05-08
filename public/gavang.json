@@ -15,13 +15,13 @@
       "channels": [
         {
           "id": "zp5rzghgd4edq82",
-          "name": "Congtai District Zhaodu 1 - 0 Dalian Chuanyi",
+          "name": "Congtai District Zhaodu 1 - 1 Dalian Chuanyi",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Congtai+District+Zhaodu+1+-+0+Dalian+Chuanyi&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2a63ab44bccdceae62e28b995cb49690%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Congtai+District+Zhaodu+1+-+1+Dalian+Chuanyi&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2a63ab44bccdceae62e28b995cb49690%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -56,14 +56,98 @@
           ]
         },
         {
-          "id": "ednm9whwpg3gryo",
-          "name": "Zhejiang Hangzhou Women B 1 - 0 Shanghai Jiading Huilong Women",
+          "id": "965mkyhk0o86r1g",
+          "name": "Hohai University 3 - 1 ",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zhejiang+Hangzhou+Women+B+1+-+0+Shanghai+Jiading+Huilong+Women&t2=&live=1&lg=CFA+Women%27s+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe5a1b6616b3b284ecf82202144735717%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hohai+University+3+-+1+&t2=&live=1&lg=National+Youth+School+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F411d1e26655b74bc14979dd0fd173a91%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/be72f44da373da301203d10120249a62/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whwp05nryo",
+          "name": "Jiaying University 1 - 2 ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jiaying+University+1+-+2+&t2=&live=1&lg=National+Youth+School+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6ef785b60a5254f1dc9b895c93b84325%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/ab9330b93ad6a40921b0b528185ee358/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whwpg3gryo",
+          "name": "Zhejiang Hangzhou Women B 2 - 3 Shanghai Jiading Huilong Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zhejiang+Hangzhou+Women+B+2+-+3+Shanghai+Jiading+Huilong+Women&t2=&live=1&lg=CFA+Women%27s+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe5a1b6616b3b284ecf82202144735717%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -88,6 +172,132 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.rapidlive.shop/live/490ec4271c881add528dc2a8dbe10a68/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8wo99qwz",
+          "name": "Soongsil University 1 - 2 Yewon Arts University",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Soongsil+University+1+-+2+Yewon+Arts+University&t2=&live=1&lg=South+Korea+University+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4a7d8969cf29b95c98540b880859dbaf%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/f3bbfdd3cedefc59184a67f72301f6db/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "k82rekhgg862rep",
+          "name": "Japan U17 Women 2 - 0 Australia Women U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Japan+U17+Women+2+-+0+Australia+Women+U17&t2=&live=1&lg=AFC+U17+Women%27s+Asian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F689f21467d716dd59ff6cd7e7b7ca995%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/85c76b1105bb377af79f9bfcd8c799a2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph445y6r8k",
+          "name": "India Women U17 1 - 0 Lebanon U17 Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=India+Women+U17+1+-+0+Lebanon+U17+Women&t2=&live=1&lg=AFC+U17+Women%27s+Asian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd76cb4dd77100affba0d6f189a537f60%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/9af98fd6091a4ff938a4f504bf03a03b/playlist.m3u8"
                         }
                       ]
                     }
