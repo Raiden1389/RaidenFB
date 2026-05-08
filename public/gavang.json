@@ -14,14 +14,440 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "318q66hx3489qo9",
-          "name": "Box Hill Women 0 - 0 Keilor Park (w)",
+          "id": "k82rekhgg862rep",
+          "name": "Japan U17 Women 5 - 0 Australia Women U17",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Box+Hill+Women+0+-+0+Keilor+Park+%28w%29&t2=&live=1&lg=Australia+Victorian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F19372350dead3693d16c0c453741fc1f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Japan+U17+Women+5+-+0+Australia+Women+U17&t2=&live=1&lg=AFC+U17+Women%27s+Asian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F689f21467d716dd59ff6cd7e7b7ca995%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/85c76b1105bb377af79f9bfcd8c799a2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph445y6r8k",
+          "name": "India Women U17 4 - 0 Lebanon U17 Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=India+Women+U17+4+-+0+Lebanon+U17+Women&t2=&live=1&lg=AFC+U17+Women%27s+Asian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd76cb4dd77100affba0d6f189a537f60%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/9af98fd6091a4ff938a4f504bf03a03b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h65vkoq86",
+          "name": "Qingdao West Coast Women 2 - 1 Fujian Nanan Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Qingdao+West+Coast+Women+2+-+1+Fujian+Nanan+Women&t2=&live=1&lg=CFA+Women%27s+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1c68f892804c1bf6bc33a97daaf349d4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/411f15365dc120d31574e09dd1a11a60/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghgdw22q82",
+          "name": "Adelaide Comets Women 3 - 1 MetroStars (W)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+Comets+Women+3+-+1+MetroStars+%28W%29&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F432af51576ed9141bda517b178cbdb19%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/02094d772191095d1ae296cb9d6a22f8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hngpzwqdy",
+          "name": "Poland U16 1 - 2 Norway U16",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Poland+U16+1+-+2+Norway+U16&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a08dd8e52107a787f4584839ac0ccf9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/08aba8a1f511353b9414b3e825dd71fb/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whwp0d0ryo",
+          "name": "Cooks Hill United Reserves 11 - 1 Kahibah FC Reserves",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cooks+Hill+United+Reserves+11+-+1+Kahibah+FC+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2317bac20954a6a575d985a10f068b20%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/8be193af9e7837c4a97fe1bdf70f37c2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk51kprz8",
+          "name": "Bac Ninh 1 - 1 Truong Tuoi Dong Nai",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bac+Ninh+1+-+1+Truong+Tuoi+Dong+Nai&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Vietnam+National+First+Class+League&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2Fthumb%2F4%2F4c%2FLogo_of_Bac_Ninh_football_club%252C_from_Bac_Ninh%252C_from_2023.svg%2F250px-Logo_of_Bac_Ninh_football_club%252C_from_Bac_Ninh%252C_from_2023.svg.png%3F_%3D20250912124203&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Mõm",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Mõm",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/7b75f7ba6b88e05512c0c7a6c3d5d401/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph47yj3r8k",
+          "name": "Souths United SC Women 1 - 3 Brisbane Olympic Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Souths+United+SC+Women+1+-+3+Brisbane+Olympic+Women&t2=&live=1&lg=Australia+Queensland+State+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f4397c3c4a632a6c7fbb3cb78f7d5e1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/589cfbafc0dea98700b344e94b56781f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hxgggpqo9",
+          "name": "Brisbane City 1 - 2 Peninsula Power",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Brisbane+City+1+-+2+Peninsula+Power&t2=&live=1&lg=Australia+National+Premier+Leagues+Queensland&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2401f525a8ed465ccd4a6409da360cce%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/59e5ecda8bbf6fb58b1038d8bc9b6927/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9jnlgm7v",
+          "name": "Manly United 1 - 0 University NSW",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manly+United+1+-+0+University+NSW&t2=&live=1&lg=Australia+New+South+Wales+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F12af9acac239a1127e5a15204f79bfb1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/3501bf31d0340543fca4d8e65f75bd9d/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "318q66hx3489qo9",
+          "name": "Box Hill Women 2 - 0 Keilor Park (w)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Box+Hill+Women+2+-+0+Keilor+Park+%28w%29&t2=&live=1&lg=Australia+Victorian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F19372350dead3693d16c0c453741fc1f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -56,14 +482,14 @@
           ]
         },
         {
-          "id": "965mkyhk0o86r1g",
-          "name": "Hohai University 3 - 1 ",
+          "id": "318q66hx6yvwqo9",
+          "name": "Bentleigh greens 0 - 7 Melbourne City NPL",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hohai+University+3+-+1+&t2=&live=1&lg=National+Youth+School+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F411d1e26655b74bc14979dd0fd173a91%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bentleigh+greens+0+-+7+Melbourne+City+NPL&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcc3f7e1de4fc32434f30a973be1ece33%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -87,7 +513,7 @@
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/be72f44da373da301203d10120249a62/playlist.m3u8"
+                          "url": "https://live.rapidlive.shop/live/44818085788751e2ff015a523e655106/playlist.m3u8"
                         }
                       ]
                     }
@@ -98,14 +524,14 @@
           ]
         },
         {
-          "id": "ednm9whwp05nryo",
-          "name": "Jiaying University 1 - 2 ",
+          "id": "6ypq3nhv7oxpmd7",
+          "name": "St Albans Saints 1 - 0 Green Gully Cavaliers",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jiaying+University+1+-+2+&t2=&live=1&lg=National+Youth+School+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6ef785b60a5254f1dc9b895c93b84325%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=St+Albans+Saints+1+-+0+Green+Gully+Cavaliers&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fba7f26411c9f53da2f85500e5de52f35%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -129,7 +555,7 @@
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/ab9330b93ad6a40921b0b528185ee358/playlist.m3u8"
+                          "url": "https://live.rapidlive.shop/live/1cbb59388baa3874a39ef6975a06e1eb/playlist.m3u8"
                         }
                       ]
                     }
@@ -140,14 +566,14 @@
           ]
         },
         {
-          "id": "ednm9whwpg3gryo",
-          "name": "Zhejiang Hangzhou Women B 2 - 3 Shanghai Jiading Huilong Women",
+          "id": "8yomo4h1gon8q0j",
+          "name": "Heidelberg United 4 - 0 South Melbourne",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Zhejiang+Hangzhou+Women+B+2+-+3+Shanghai+Jiading+Huilong+Women&t2=&live=1&lg=CFA+Women%27s+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe5a1b6616b3b284ecf82202144735717%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Heidelberg+United+4+-+0+South+Melbourne&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8171e2bc6a228673f2ef4b5e26851def%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -171,7 +597,1015 @@
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/490ec4271c881add528dc2a8dbe10a68/playlist.m3u8"
+                          "url": "https://live.rapidlive.shop/live/e3d7c3153c37a1c56974d80126bbaf4a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw59kwryo",
+          "name": "Cumberland United FC 0 - 1 The Cove FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cumberland+United+FC+0+-+1+The+Cove+FC&t2=&live=1&lg=South+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6eb9595e7b68cca95aa195a3d7f41bdb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/704399fc6fb911c5d6300e25f29fafbb/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hkg9dxrz8",
+          "name": "Eastern Suburbs SC Women 1 - 0 Gold Coast Knights Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eastern+Suburbs+SC+Women+1+-+0+Gold+Coast+Knights+Women&t2=&live=1&lg=Australia+Queensland+State+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21fa7cc1f72af72dee14a1e8eafcf862%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/b1b5dccdf9c45c9b8a0a79935ccccfba/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8w04oqwz",
+          "name": "Neroca FC 2 - 2 Karbi Anglong",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Neroca+FC+2+-+2+Karbi+Anglong&t2=&live=1&lg=Indian+I-League+2nd+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fd64d2ce291e110e15c0920958a669b%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/5ff43ed2d940ec5f9d601eb1f0d70e14/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h66gz9q86",
+          "name": "PWD Sports Club 0 - 1 Abahani Limited Dhaka",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=PWD+Sports+Club+0+-+1+Abahani+Limited+Dhaka&t2=&live=1&lg=Bangladesh+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F23320bd96d598bb253a70aa214fb6b1e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/e51d594e5bda72090f135a94807275a5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghll6v8moe",
+          "name": "Fakirerpool Young Mens Club 1 - 3 Fortis FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fakirerpool+Young+Mens+Club+1+-+3+Fortis+FC&t2=&live=1&lg=Bangladesh+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F01dbcf818a53506d6216bb0234cfe17c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/ef93e5d66e28a84ddbed7a7102287ab1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hngyw5qdy",
+          "name": "SeaSters Odessa Women 0 - 0 Shakhtar Donetsk Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SeaSters+Odessa+Women+0+-+0+Shakhtar+Donetsk+Women&t2=&live=1&lg=Ukrainian+Women%27s+Professional+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8cb50f0559489647d4de58734a399446%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/7d528827279825d93aeb62d6e6a8fe79/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk0og2r1g",
+          "name": "Adamstown Rosebud Women 1 - 3 New Lambton FC Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adamstown+Rosebud+Women+1+-+3+New+Lambton+FC+Women&t2=&live=1&lg=Australia+New+South+Wales+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F345f4452be92d8d2a6ef535d299267f3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/3de729beb49c9b21275769488d3626e5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk8478r1g",
+          "name": "Adelaide Olympic 1 - 0 Adelaide Cobras FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+Olympic+1+-+0+Adelaide+Cobras+FC&t2=&live=1&lg=South+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8fef315a6a1b4118fada33a4f6567002%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/3a651978424910a0dd53dfc59fb3c64a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whw5w1lryo",
+          "name": "Hwacheon KSPO WFC 0 - 0 Seoul Amazones Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hwacheon+KSPO+WFC+0+-+0+Seoul+Amazones+Women&t2=&live=1&lg=Korean+WK+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7430eedbd458c803d1f0a5b202ce5acf%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/b652162089aadd257d283d0ecf3026c5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehggpj8r51",
+          "name": "Dynamo Moscow B 0 - 0 Kuban Krasnodar",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Dynamo+Moscow+B+0+-+0+Kuban+Krasnodar&t2=&live=1&lg=RUS+D3A&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7ea61e0552ce06de07df119877843a70%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/b508258099d43a16789e40d9137ad990/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgj1gdr51",
+          "name": "Thanh Niên TP. Hồ Chí Minh 0 - 2 Quy Nhon United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Thanh+Ni%C3%AAn+TP.+H%E1%BB%93+Ch%C3%AD+Minh+0+-+2+Quy+Nhon+United&t2=&live=1&lg=Vietnam+National+First+Class+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8b4c9ee3741c5bfa80810407c84e62f8%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/3c1d913b44229454f8c0ab500765d38b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgjvd6r51",
+          "name": "Ekibastuzets 1 - 1 FK Aktobe II",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ekibastuzets+1+-+1+FK+Aktobe+II&t2=&live=1&lg=Kazakhstan+Division+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8b355ca68fe3e945dc47f001a1f3551e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/cfd9e34480ac95a40f4facd7cd8ba2f4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7oqdehgoo6vr51",
+          "name": "Hearst Neville 0 - 0 Blacktown Spartans",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hearst+Neville+0+-+0+Blacktown+Spartans&t2=&live=1&lg=Australian+Welsh+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F33dc39dc70fc8f18753e86c31a1a09d1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/dc6bb7760589040682629c88e46b27cf/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghe784dr6o",
+          "name": "Vorskla Poltava Women 0 - 2 Metalist 1925 Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vorskla+Poltava+Women+0+-+2+Metalist+1925+Women&t2=&live=1&lg=Ukrainian+Women%27s+Professional+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7565f28daacd8715b5fa8e13065b9783%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/6a9849684554a9463ed3252170ed6697/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phj0j5km2w",
+          "name": "Kryvbas 0 - 0 FC Karpaty Lviv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kryvbas+0+-+0+FC+Karpaty+Lviv&t2=&live=1&lg=Ukrainian+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa80acba625cb6e6b4cf7cfab8f1aca31%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/c2febd638344ef120010cbc39214bdaf/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8w3lwqwz",
+          "name": "FC Kryvbas Kriviy Rih Women 3 - 1 Zhytomyr Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Kryvbas+Kriviy+Rih+Women+3+-+1+Zhytomyr+Women&t2=&live=1&lg=Ukrainian+Women%27s+Professional+Football+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7169487b69a60320f7280dd58f8c28d2%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/a98b69a970d9eea29658e445b9b86e76/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8wo37qwz",
+          "name": "North Macedonia (W) U16 0 - 1 Andorra (W) U16",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=North+Macedonia+%28W%29+U16+0+-+1+Andorra+%28W%29+U16&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F87e04050f22fa4ccf492b2cd0c895945%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/53f91ef53f3c9f2ca25d899393fc7ce3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhyxodwryk",
+          "name": "Oakleigh Cannons 0 - 0 Dandenong Thunder",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Oakleigh+Cannons+0+-+0+Dandenong+Thunder&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F376f1bd1ea18cd50c6fee5ae3e22b410%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/cd004636c62bb89d6c023bbb62957423/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6d53omoj",
+          "name": "Eastern United 0 - 0 Fulham United FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eastern+United+0+-+0+Fulham+United+FC&t2=&live=1&lg=South+Australia+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7de6f57e1d09daf921cf34bc3ca70da9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/91f7aec7646863c931c4062b01582703/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh6lgo8qg8",
+          "name": "FC Bengaluru United 0 - 0 Sporting Clube de Goa",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bengaluru+United+0+-+0+Sporting+Clube+de+Goa&t2=&live=1&lg=Indian+I-League+2nd+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F280419843fa4c0dec8d1571602319905%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/965bd0f835c882eda52581b13cecb7b2/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3glrw7hn35d5qdy",
+          "name": "Preston Lions 0 - 0 Dandenong City SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Preston+Lions+0+-+0+Dandenong+City+SC&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff40af6fee64c0f23d65f2a12a7ae2a51%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/20029029388d92013366b8e7e1c14b7e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h6625lq86",
+          "name": "Cooks Hill United 1 - 0 Kahibah FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cooks+Hill+United+1+-+0+Kahibah+FC&t2=&live=1&lg=Australia+Northern+New+South+Wales+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fac6df0899f589d6d1388527d6d8b558d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/1a8f028e170c08c85936f646946474c8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohlx133q1z",
+          "name": "Redlands United FC 0 - 0 Brisbane Strikers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Redlands+United+FC+0+-+0+Brisbane+Strikers&t2=&live=1&lg=Australia+Queensland+State+League+1&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21d12182372cb259dfcb484b2a7278bd%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/2b701a3514cb2205eafb528cfa84835b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hk6xl2rz8",
+          "name": "West Torrens Birkalla 0 - 0 Playford City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Torrens+Birkalla+0+-+0+Playford+City&t2=&live=1&lg=South+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F431f55ccd3fada4ca7ff3ab8c788a6cb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.rapidlive.shop/live/68673e993cebc4cd8c613f294b47d87f/playlist.m3u8"
                         }
                       ]
                     }
@@ -224,182 +1658,14 @@
           ]
         },
         {
-          "id": "y0or5jh8wo99qwz",
-          "name": "Soongsil University 1 - 2 Yewon Arts University",
+          "id": "l5ergph44jxor8k",
+          "name": "SHB Da Nang 0 - 0 Becamex Ho Chi Minh City",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Soongsil+University+1+-+2+Yewon+Arts+University&t2=&live=1&lg=South+Korea+University+Championship&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4a7d8969cf29b95c98540b880859dbaf%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/f3bbfdd3cedefc59184a67f72301f6db/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "k82rekhgg862rep",
-          "name": "Japan U17 Women 5 - 0 Australia Women U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Japan+U17+Women+5+-+0+Australia+Women+U17&t2=&live=1&lg=AFC+U17+Women%27s+Asian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F689f21467d716dd59ff6cd7e7b7ca995%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/85c76b1105bb377af79f9bfcd8c799a2/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph445y6r8k",
-          "name": "India Women U17 3 - 0 Lebanon U17 Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=India+Women+U17+3+-+0+Lebanon+U17+Women&t2=&live=1&lg=AFC+U17+Women%27s+Asian+Cup&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd76cb4dd77100affba0d6f189a537f60%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/9af98fd6091a4ff938a4f504bf03a03b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "4wyrn4h65vkoq86",
-          "name": "Qingdao West Coast Women 1 - 0 Fujian Nanan Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Qingdao+West+Coast+Women+1+-+0+Fujian+Nanan+Women&t2=&live=1&lg=CFA+Women%27s+League+One&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1c68f892804c1bf6bc33a97daaf349d4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/411f15365dc120d31574e09dd1a11a60/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "965mkyhkededr1g",
-          "name": "Semen Padang 0 - 1 Persatuan sepak bola Indonesia Kediri",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Semen+Padang+0+-+1+Persatuan+sepak+bola+Indonesia+Kediri&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Indonesian+Super+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fced802f236fccb8a959a0f8cabdf7fc4%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SHB+Da+Nang+0+-+0+Becamex+Ho+Chi+Minh+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Son&lg=Vietnam+National+Champion+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2b0346db7edc4a7c68d6654aeea3cf4d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -411,7 +1677,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 Gà Siêu Đô",
+              "text": "👨‍💼 Gà Siêu Son",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
@@ -419,222 +1685,6 @@
           ],
           "sources": [],
           "enable_detail": false
-        },
-        {
-          "id": "zp5rzghgdw22q82",
-          "name": "Adelaide Comets Women 1 - 0 MetroStars (W)",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+Comets+Women+1+-+0+MetroStars+%28W%29&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F432af51576ed9141bda517b178cbdb19%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/02094d772191095d1ae296cb9d6a22f8/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "3glrw7hngpzwqdy",
-          "name": "Poland U16 0 - 0 Norway U16",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Poland+U16+0+-+0+Norway+U16&t2=&live=1&lg=International+Friendly&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a08dd8e52107a787f4584839ac0ccf9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/08aba8a1f511353b9414b3e825dd71fb/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ednm9whwp0d0ryo",
-          "name": "Cooks Hill United Reserves 6 - 1 Kahibah FC Reserves",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cooks+Hill+United+Reserves+6+-+1+Kahibah+FC+Reserves&t2=&live=1&lg=Australia+Northern+New+South+Wales+Reserves+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2317bac20954a6a575d985a10f068b20%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/8be193af9e7837c4a97fe1bdf70f37c2/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "jw2r09hk51kprz8",
-          "name": "Bac Ninh 0 - 0 Truong Tuoi Dong Nai",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Bac+Ninh+0+-+0+Truong+Tuoi+Dong+Nai&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Vietnam+National+First+Class+League&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fvi%2Fthumb%2F4%2F4c%2FLogo_of_Bac_Ninh_football_club%252C_from_Bac_Ninh%252C_from_2023.svg%2F250px-Logo_of_Bac_Ninh_football_club%252C_from_Bac_Ninh%252C_from_2023.svg.png%3F_%3D20250912124203&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/7b75f7ba6b88e05512c0c7a6c3d5d401/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph47yj3r8k",
-          "name": "Souths United SC Women 0 - 0 Brisbane Olympic Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Souths+United+SC+Women+0+-+0+Brisbane+Olympic+Women&t2=&live=1&lg=Australia+Queensland+State+Women%27s+League&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f4397c3c4a632a6c7fbb3cb78f7d5e1%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.rapidlive.shop/live/589cfbafc0dea98700b344e94b56781f/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "display": "vertical",
