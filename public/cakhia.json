@@ -214,54 +214,6 @@
       "name": "Spanish La Liga",
       "channels": [
         {
-          "id": "121430",
-          "name": "Real Sociedad vs Real Betis | 02:00 10-05 | BLV LONG",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Sociedad&t2=Real+Betis&blv=BLV+LONG&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5c3c390fc1cb7b35f06ebbb160151c27.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F018e260ad68bdad741c61e3171c4c608.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 02:00 10-05",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV LONG",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV LONG",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/132343.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "121469",
           "name": "RCD Mallorca vs Villarreal CF | 19:00 10-05 | BLV TOMIA",
           "type": "single",
@@ -396,6 +348,54 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.inplyr.com/room/491873.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "121498",
+          "name": "FC Barcelona vs Real Madrid | 02:00 11-05 | BLV ĐỐM",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Barcelona&t2=Real+Madrid&blv=BLV+%C4%90%E1%BB%90M&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ff378eb1ea04e53999b89051aa3244de6.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F47ba2fe5caa3770cfa2e99dc4b7e72cd.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 02:00 11-05",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV ĐỐM",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV ĐỐM",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/434982.m3u8"
                         }
                       ]
                     }
