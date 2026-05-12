@@ -99,13 +99,13 @@
         },
         {
           "id": "318q66hxxp3lqo9",
-          "name": "Maringa FC 0 - 3 Guarani SP",
+          "name": "Maringa FC 0 - 5 Guarani SP",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maringa+FC+0+-+3+Guarani+SP&t2=&live=1&lg=Brazilian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c8d93e20a8d2924538ac3dfae5d371e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Maringa+FC+0+-+5+Guarani+SP&t2=&live=1&lg=Brazilian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c8d93e20a8d2924538ac3dfae5d371e%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -141,13 +141,13 @@
         },
         {
           "id": "ednm9whwp611ryo",
-          "name": "Deportivo Cali 0 - 0 Atletico Bucaramanga",
+          "name": "Deportivo Cali 2 - 0 Atletico Bucaramanga",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Cali+0+-+0+Atletico+Bucaramanga&t2=&live=1&lg=Colombian+Copa+BetPlay+DIMAYOR&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ac97fd30449a6161a51f16963801119%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Cali+2+-+0+Atletico+Bucaramanga&t2=&live=1&lg=Colombian+Copa+BetPlay+DIMAYOR&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9ac97fd30449a6161a51f16963801119%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -183,13 +183,13 @@
         },
         {
           "id": "ednm9whww4pyryo",
-          "name": "Inter de Limeira 0 - 0 Santa Cruz PE",
+          "name": "Inter de Limeira 1 - 2 Santa Cruz PE",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Inter+de+Limeira+0+-+0+Santa+Cruz+PE&t2=&live=1&lg=Brazilian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ca72b0eee32a39570c24790638a76fb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Inter+de+Limeira+1+-+2+Santa+Cruz+PE&t2=&live=1&lg=Brazilian+Serie+C&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ca72b0eee32a39570c24790638a76fb%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -266,14 +266,98 @@
           ]
         },
         {
-          "id": "n54qllhn7vzoqvy",
-          "name": "Mushuc Runa 0 - 0 Liga Dep Universitaria Quito",
+          "id": "dn1m1ghlgk45moe",
+          "name": "Cerro Largo 2 - 2 CA Penarol",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mushuc+Runa+0+-+0+Liga+Dep+Universitaria+Quito&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8759853d06d8bbbff58d82361fb0cf28%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cerro+Largo+2+-+2+CA+Penarol&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe158c0806ef72e2641c8e35784c8730d%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://dlqcalr.alilicloud.com/live/d7518fdb0376404fad5d3316fe3362c4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq2ghn5v33m0v",
+          "name": "Palestino 1 - 2 Deportes Limache",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Palestino+1+-+2+Deportes+Limache&t2=&live=1&lg=Copa+de+la+Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F99ee02ccc1a5091fe79db03df653715c%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://dlqcalr.alilicloud.com/live/cb684aa1361c41adc447704fbbae54e8/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhn7vzoqvy",
+          "name": "Mushuc Runa 0 - 1 Liga Dep Universitaria Quito",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mushuc+Runa+0+-+1+Liga+Dep+Universitaria+Quito&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8759853d06d8bbbff58d82361fb0cf28%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
             "width": 600,
             "height": 320
           },
@@ -304,6 +388,264 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://dlqcalr.alilicloud.com/live/feca766561ee0901eff9cc47a3a6b2aa/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n54qllhnw71yqvy",
+          "name": "Scherpenheuvel 3 - 2 CRKSV Jong Colombia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Scherpenheuvel+3+-+2+CRKSV+Jong+Colombia&t2=&live=1&lg=Curacao+Liga+MCB+1st+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc45491594f41e8093a2ea7710b8a1d79%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://dlqcalr.alilicloud.com/live/76e3a328ac06322dc2921d4fc38f6c62/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phj2z8vm2w",
+          "name": "Jong Holland 1 - 1 RKSV Centro Dominguito",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Jong+Holland+1+-+1+RKSV+Centro+Dominguito&t2=&live=1&lg=Curacao+Liga+MCB+1st+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff277baba00f3a0f553d29b77d13bcefa%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://dlqcalr.alilicloud.com/live/15b9491c42716b8a2c3333109abb8d04/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8wn6wqwz",
+          "name": "SV Victory Boys 2 - 0 Inter Willemstad",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SV+Victory+Boys+2+-+0+Inter+Willemstad&t2=&live=1&lg=Curacao+Liga+MCB+1st+Division&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F208802a93c57026c169b43beb28658f9%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://dlqcalr.alilicloud.com/live/81f442cdaa92d503bc9a075173652aa4/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhy0zejryk",
+          "name": "SV Deportivo Nacional 4 - 0 SV Estudiantes",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SV+Deportivo+Nacional+4+-+0+SV+Estudiantes&t2=&live=1&lg=Aruba+Division+Di+Honor&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3939f1bf1c051e39e27f036629ee8de3%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://dlqcalr.alilicloud.com/live/7e3c4a526ad88df606b63999376adc2e/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1l4rjnh9dxk6m7v",
+          "name": "Escorpiones Belen 0 - 0 International San Carlos",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Escorpiones+Belen+0+-+0+International+San+Carlos&t2=&live=1&lg=Costa+Rica+2.Liga&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe8512de5d820a82fc80242a3dc2b101f%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://dlqcalr.alilicloud.com/live/b478db142dfca82508ca0fb642dc2c80/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4jwq2ghn56l8m0v",
+          "name": "Millonarios 0 - 0 Llaneros FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Millonarios+0+-+0+Llaneros+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Colombian+Copa+BetPlay+DIMAYOR&l1=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fed2c3c63bb473c8c0dd589b06d395fc7%2Fimage%2Fsmall%3Fv%3D1768601124&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Péo",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://dlqcalr.alilicloud.com/live/ae838484751eb11832480013f6306bf4/playlist.m3u8"
                         }
                       ]
                     }
