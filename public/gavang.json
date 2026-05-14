@@ -8,7 +8,45 @@
     "type": "cover",
     "url": "https://cdn.fastestcdn-global.com/seo-gavangtv-v4/icons/logo.png"
   },
-  "groups": [],
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 LIVE",
+      "channels": [
+        {
+          "id": "pxwrxlhyl3oyryk",
+          "name": "China U17 Women 0 - 0 North Korea U17 Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=China+U17+Women+0+-+0+North+Korea+U17+Women&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=AFC+U17+Women%27s+Asian+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FAaPjt7Xg-OYO22blB.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    }
+  ],
   "option": {
     "save_history": false,
     "save_search_history": false,
