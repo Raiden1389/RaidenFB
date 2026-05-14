@@ -10,30 +10,30 @@
   },
   "groups": [
     {
-      "id": "spanishlaliga",
-      "name": "Spanish La Liga",
+      "id": "englishpremierleague",
+      "name": "English Premier League",
       "channels": [
         {
-          "id": "121953",
-          "name": "Valencia CF vs Rayo Vallecano | 00:00 15-05 | DECO",
+          "id": "122018",
+          "name": "Aston Villa vs Liverpool | 02:00 16-05 | SAO LA",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Valencia+CF&t2=Rayo+Vallecano&blv=DECO&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3b54543c1a584e2e9948d655142996d3.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5005d8feab109ce64e40beb98073cc1f.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Aston+Villa&t2=Liverpool&blv=SAO+LA&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc3316a83fde00ade0ad467114188a992.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F0a11e714b8ccb1e287520857bd6cf01c.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 00:00 15-05",
+              "text": "⏰ 02:00 16-05",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 DECO",
+              "text": "👨‍💼 SAO LA",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -46,12 +46,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV DECO",
+                      "name": "BLV SAO LA",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/168740.m3u8"
+                          "url": "https://live.inplyr.com/room/462413.m3u8"
                         }
                       ]
                     }
@@ -60,7 +60,15 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "spanishlaliga",
+      "name": "Spanish La Liga",
+      "channels": [
         {
           "id": "121955",
           "name": "Girona FC vs Real Sociedad | 01:00 15-05 | CÔNG CHẤT",
