@@ -14,14 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "1l4rjnh9nlpwm7v",
-          "name": "FC Copenhagen 0 - 0 Midtjylland",
+          "id": "l7oqdehg41ojr51",
+          "name": "Valencia CF 1 - 1 Rayo Vallecano",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Copenhagen+0+-+0+Midtjylland&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Danish+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FdvE1YECa-xv6lkb7q.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Valencia+CF+1+-+1+Rayo+Vallecano&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Spanish+La+Liga&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FIoshoye5-MHrRLNUo.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -43,14 +43,14 @@
           "enable_detail": false
         },
         {
-          "id": "dj2ryohl2pk2q1z",
-          "name": "Al Fateh SC 0 - 0 Al Najma(KSA)",
+          "id": "dn1m1ghln120moe",
+          "name": "Girona FC 0 - 0 Real Sociedad",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Fateh+SC+0+-+0+Al+Najma%28KSA%29&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Saudi+Professional+League&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FlCUr5Tg5-ll4pyUYI.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Girona+FC+0+-+0+Real+Sociedad&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Spanish+La+Liga&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FxGkOqFDa-vPm0hQMN.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -62,7 +62,36 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 Gà Siêu Péo",
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "pxwrxlhyvl63ryk",
+          "name": "Al Ettifaq FC 0 - 0 Al Ittihad Club",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Ettifaq+FC+0+-+0+Al+Ittihad+Club&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=Saudi+Professional+League&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F40ne2Ng5-ve6EavVg.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Mõm",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
