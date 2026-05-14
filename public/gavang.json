@@ -14,35 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "ednm9whwpzo7ryo",
-          "name": "Mjallby AIF 0 - 0 Hammarby",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mjallby+AIF+0+-+0+Hammarby&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Sweden+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FS8bG87fM-tl2CILaH.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Ngố",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "1l4rjnh9nlpwm7v",
           "name": "FC Copenhagen 0 - 0 Midtjylland",
           "type": "single",
@@ -63,6 +34,35 @@
             },
             {
               "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "dj2ryohl2pk2q1z",
+          "name": "Al Fateh SC 0 - 0 Al Najma(KSA)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Fateh+SC+0+-+0+Al+Najma%28KSA%29&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Saudi+Professional+League&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FlCUr5Tg5-ll4pyUYI.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
