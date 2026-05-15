@@ -8,7 +8,45 @@
     "type": "cover",
     "url": "https://cdn.fastestcdn-global.com/seo-gavangtv-v4/icons/logo.png"
   },
-  "groups": [],
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 LIVE",
+      "channels": [
+        {
+          "id": "jw2r09hkg9xprz8",
+          "name": "Patriotas FC 0 - 0 Millonarios",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Patriotas+FC+0+-+0+Millonarios&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Colombian+Copa+BetPlay+DIMAYOR&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F2JepZwg5-vPkIlTrP.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    }
+  ],
   "option": {
     "save_history": false,
     "save_search_history": false,
