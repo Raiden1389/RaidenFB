@@ -8,7 +8,45 @@
     "type": "cover",
     "url": "https://cdn.fastestcdn-global.com/seo-gavangtv-v4/icons/logo.png"
   },
-  "groups": [],
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 LIVE",
+      "channels": [
+        {
+          "id": "ad60d13fa2c145f69a44e2828732ecaa",
+          "name": "Binh chủng Thông Tin 0 - 0 Vietinbank",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Binh+ch%E1%BB%A7ng+Th%C3%B4ng+Tin+0+-+0+Vietinbank&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=B%C3%B3ng+Chuy%E1%BB%81n+N%E1%BB%AF+Qu%E1%BB%91c+T%E1%BA%BF&l1=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    }
+  ],
   "option": {
     "save_history": false,
     "save_search_history": false,
