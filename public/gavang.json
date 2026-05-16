@@ -14,14 +14,43 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "x7lm7phjozgkm2w",
-          "name": "FC Bayern Munich 5 - 1 FC Köln",
+          "id": "8yomo4h1z879q0j",
+          "name": "Al Hilal 1 - 0 NEOM Sports Club",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bayern+Munich+5+-+1+FC+K%C3%B6ln&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Bundesliga&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FtMir8iCr-SvLFaVNH.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al+Hilal+1+-+0+NEOM+Sports+Club&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=Saudi+Professional+League&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F8YrWgbEG-joUWHZ1t.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Nhí",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "673ec96e7ffa4630b567f584918b31ee",
+          "name": "Vietnam U17 0 - 0 Australia U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Vietnam+U17+0+-+0+Australia+U17&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=AFC+Asian+Cup+U17&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F2VXsWeFa-GWsEDOiC.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -34,64 +63,6 @@
             },
             {
               "text": "👨‍💼 Gà Siêu Súp",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "dce135b61f624dcfb5071d6624fd2032",
-          "name": "Chelsea 0 - 1 Manchester City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chelsea+0+-+1+Manchester+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m+%28+Fan+Chelsea+%29&lg=FA+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FGMmvDEdM-IROrZEJb.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm ( Fan Chelsea )",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
-          "id": "l7oqdehg967nr51",
-          "name": "Chelsea 0 - 1 Manchester City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chelsea+0+-+1+Manchester+City&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87+-+G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=FA+Cup&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FGMmvDEdM-IROrZEJb.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Phệ - Gà Siêu Ngố",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
