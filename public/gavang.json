@@ -14,35 +14,6 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "47c8413da2674d63aa978c073e0788b8",
-          "name": "VTV Bình Điền Long An 0 - 0 Vietinbank",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=VTV+B%C3%ACnh+%C4%90i%E1%BB%81n+Long+An+0+-+0+Vietinbank&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Nh%C3%AD&lg=B%C3%B3ng+Chuy%E1%BB%81n+N%E1%BB%AF+Qu%E1%BB%91c+T%E1%BA%BF&l1=https%3A%2F%2Fi.pinimg.com%2F736x%2F1e%2Fe2%2F87%2F1ee28789b6239045707c29b0a15e9202.jpg&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Nhí",
-              "position": "bottom-left",
-              "color": "#FFD700",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [],
-          "enable_detail": false
-        },
-        {
           "id": "6ypq3nhv57xpmd7",
           "name": "SV Werder Bremen 0 - 0 Borussia Dortmund",
           "type": "single",
@@ -73,13 +44,13 @@
         },
         {
           "id": "l5ergph43w0dr8k",
-          "name": "Eintracht Frankfurt 0 - 0 VfB Stuttgart",
+          "name": "Eintracht Frankfurt 0 - 2 VfB Stuttgart",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eintracht+Frankfurt+0+-+0+VfB+Stuttgart&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Bundesliga&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Ff9dVVYCa-86lnAaq9.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Eintracht+Frankfurt+0+-+2+VfB+Stuttgart&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Bundesliga&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Ff9dVVYCa-86lnAaq9.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -102,13 +73,13 @@
         },
         {
           "id": "x7lm7phjozgkm2w",
-          "name": "FC Bayern Munich 0 - 0 FC Köln",
+          "name": "FC Bayern Munich 3 - 1 FC Köln",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bayern+Munich+0+-+0+FC+K%C3%B6ln&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Bundesliga&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FtMir8iCr-SvLFaVNH.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FC+Bayern+Munich+3+-+1+FC+K%C3%B6ln&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Bundesliga&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FtMir8iCr-SvLFaVNH.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -179,6 +150,43 @@
             },
             {
               "text": "👨‍💼 Gà Siêu Phệ - Gà Siêu Ngố",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
+      "id": "englishpremierleague",
+      "name": "English Premier League",
+      "channels": [
+        {
+          "id": "1l4rjnh91x21m7v",
+          "name": "Leeds United vs Brighton Hove Albion | 21:00 17-05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Leeds+United&t2=Brighton+Hove+Albion&blv=G%C3%A0+Si%C3%AAu+Ph%E1%BB%87&lg=English+Premier+League&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FrsvCPOh5-MTp25XgE.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 21:00 17-05",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Phệ",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
