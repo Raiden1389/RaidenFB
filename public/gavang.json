@@ -10,6 +10,43 @@
   },
   "groups": [
     {
+      "id": "live",
+      "name": "🔴 LIVE",
+      "channels": [
+        {
+          "id": "x7lm7phj7vjnm2w",
+          "name": "New England Revolution 0 - 0 Minnesota United FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=New+England+Revolution+0+-+0+Minnesota+United+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=United+States+Major+League+Soccer&l1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FEkWFIcAr-KI53uaQC.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    },
+    {
       "id": "englishpremierleague",
       "name": "English Premier League",
       "channels": [
