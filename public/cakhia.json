@@ -118,26 +118,26 @@
       "name": "English Premier League",
       "channels": [
         {
-          "id": "122133",
-          "name": "Manchester United vs Nottingham Forest | 18:30 17-05 | BLV TOMMY",
+          "id": "122144",
+          "name": "Wolverhampton Wanderers vs Fulham | 21:00 17-05 | BLV ROBBEN",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Manchester+United&t2=Nottingham+Forest&blv=BLV+TOMMY&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3d7cc3c41c8531284a6426c47ae66b91.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F0ec2f07e39b8f7b8139684093c894c88.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wolverhampton+Wanderers&t2=Fulham&blv=BLV+ROBBEN&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5759932ca2512c6701d86dfbd58380a7.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F29982511f1ea861967c3e6478d6a8a68.webp&s=vs",
             "width": 600,
             "height": 320
           },
           "labels": [
             {
-              "text": "⏰ 18:30 17-05",
+              "text": "⏰ 21:00 17-05",
               "position": "top-right",
               "color": "#333333",
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV TOMMY",
+              "text": "👨‍💼 BLV ROBBEN",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -150,12 +150,60 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV TOMMY",
+                      "name": "BLV BLV ROBBEN",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/414317.m3u8"
+                          "url": "https://live.inplyr.com/room/527383.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "122143",
+          "name": "Leeds United vs Brighton Hove Albion | 21:00 17-05 | SAO LA",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Leeds+United&t2=Brighton+Hove+Albion&blv=SAO+LA&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F257d758c5cf43453ecfb0a91d1802d3a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F9b43a690d5a09f1e319f036821e8e1d3.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 21:00 17-05",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 SAO LA",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV SAO LA",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/462413.m3u8"
                         }
                       ]
                     }
@@ -214,54 +262,6 @@
           ]
         },
         {
-          "id": "122144",
-          "name": "Wolverhampton Wanderers vs Fulham | 21:00 17-05 | BLV ROBBEN",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Wolverhampton+Wanderers&t2=Fulham&blv=BLV+ROBBEN&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5759932ca2512c6701d86dfbd58380a7.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F29982511f1ea861967c3e6478d6a8a68.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 21:00 17-05",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV ROBBEN",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV ROBBEN",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/527383.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "122141",
           "name": "Brentford vs Crystal Palace | 21:00 17-05 | BLV 7UP",
           "type": "single",
@@ -300,54 +300,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.inplyr.com/room/534219.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "122143",
-          "name": "Leeds United vs Brighton Hove Albion | 21:00 17-05 | SAO LA",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Leeds+United&t2=Brighton+Hove+Albion&blv=SAO+LA&lg=English+Premier+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F257d758c5cf43453ecfb0a91d1802d3a.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F9b43a690d5a09f1e319f036821e8e1d3.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 21:00 17-05",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 SAO LA",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV SAO LA",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/462413.m3u8"
                         }
                       ]
                     }
@@ -414,14 +366,14 @@
       "name": "Spanish La Liga",
       "channels": [
         {
-          "id": "122167",
-          "name": "Sevilla FC vs Real Madrid | 00:00 18-05 | CR Bưởi",
+          "id": "122160",
+          "name": "Atletico Madrid vs Girona FC | 00:00 18-05 | BLV PEWPEW",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sevilla+FC&t2=Real+Madrid&blv=CR+B%C6%B0%E1%BB%9Fi&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd20ed1da4f299cc3ef0e1e9eb06eced1.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F47ba2fe5caa3770cfa2e99dc4b7e72cd.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Madrid&t2=Girona+FC&blv=BLV+PEWPEW&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F15f730f481d1ae7c75c1d28ee2862adc.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F006ce259b33ef72dd5570cfa8dc39f38.webp&s=vs",
             "width": 600,
             "height": 320
           },
@@ -433,7 +385,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 CR Bưởi",
+              "text": "👨‍💼 BLV PEWPEW",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -446,60 +398,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV CR Bưởi",
+                      "name": "BLV BLV PEWPEW",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/387694.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "122164",
-          "name": "Rayo Vallecano vs Villarreal CF | 00:00 18-05 | BLV LION",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rayo+Vallecano&t2=Villarreal+CF&blv=BLV+LION&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5005d8feab109ce64e40beb98073cc1f.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Faee62af96a956756cc29fe4831286357.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 00:00 18-05",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV LION",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV LION",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/603255.m3u8"
+                          "url": "https://live.inplyr.com/room/109053.m3u8"
                         }
                       ]
                     }
@@ -558,14 +462,14 @@
           ]
         },
         {
-          "id": "122160",
-          "name": "Atletico Madrid vs Girona FC | 00:00 18-05 | BLV PEWPEW",
+          "id": "122164",
+          "name": "Rayo Vallecano vs Villarreal CF | 00:00 18-05 | BLV LION",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Madrid&t2=Girona+FC&blv=BLV+PEWPEW&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F15f730f481d1ae7c75c1d28ee2862adc.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F006ce259b33ef72dd5570cfa8dc39f38.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rayo+Vallecano&t2=Villarreal+CF&blv=BLV+LION&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5005d8feab109ce64e40beb98073cc1f.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Faee62af96a956756cc29fe4831286357.webp&s=vs",
             "width": 600,
             "height": 320
           },
@@ -577,7 +481,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV PEWPEW",
+              "text": "👨‍💼 BLV LION",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -590,12 +494,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV PEWPEW",
+                      "name": "BLV BLV LION",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/109053.m3u8"
+                          "url": "https://live.inplyr.com/room/603255.m3u8"
                         }
                       ]
                     }
@@ -606,14 +510,14 @@
           ]
         },
         {
-          "id": "122162",
-          "name": "Levante vs RCD Mallorca | 00:00 18-05 | BLV GÔN",
+          "id": "122167",
+          "name": "Sevilla FC vs Real Madrid | 00:00 18-05 | CR Bưởi",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Levante&t2=RCD+Mallorca&blv=BLV+G%C3%94N&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F13e2038bd23a38ce32a3eb259c8bf7d8.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ffdef90456d2a2eee09976c558457aec7.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sevilla+FC&t2=Real+Madrid&blv=CR+B%C6%B0%E1%BB%9Fi&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd20ed1da4f299cc3ef0e1e9eb06eced1.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F47ba2fe5caa3770cfa2e99dc4b7e72cd.webp&s=vs",
             "width": 600,
             "height": 320
           },
@@ -625,7 +529,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 BLV GÔN",
+              "text": "👨‍💼 CR Bưởi",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -638,60 +542,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV BLV GÔN",
+                      "name": "BLV CR Bưởi",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/445260.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "122163",
-          "name": "CA Osasuna vs RCD Espanyol | 00:00 18-05 | BLV ANH TÀI",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Osasuna&t2=RCD+Espanyol&blv=BLV+ANH+T%C3%80I&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc2050b940076df70b2ad0a6103c50df4.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F214049d4df11756a2eb21bbd8266e2a1.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 00:00 18-05",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV ANH TÀI",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV ANH TÀI",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/406865.m3u8"
+                          "url": "https://live.inplyr.com/room/387694.m3u8"
                         }
                       ]
                     }
@@ -788,6 +644,102 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.inplyr.com/room/321443.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "122163",
+          "name": "CA Osasuna vs RCD Espanyol | 00:00 18-05 | BLV ANH TÀI",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Osasuna&t2=RCD+Espanyol&blv=BLV+ANH+T%C3%80I&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fc2050b940076df70b2ad0a6103c50df4.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F214049d4df11756a2eb21bbd8266e2a1.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 00:00 18-05",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV ANH TÀI",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV ANH TÀI",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/406865.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "122162",
+          "name": "Levante vs RCD Mallorca | 00:00 18-05 | BLV GÔN",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Levante&t2=RCD+Mallorca&blv=BLV+G%C3%94N&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F13e2038bd23a38ce32a3eb259c8bf7d8.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Ffdef90456d2a2eee09976c558457aec7.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 00:00 18-05",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 BLV GÔN",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV BLV GÔN",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/445260.m3u8"
                         }
                       ]
                     }
