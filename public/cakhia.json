@@ -174,6 +174,54 @@
       "name": "Spanish La Liga",
       "channels": [
         {
+          "id": "122167",
+          "name": "Sevilla FC vs Real Madrid | 00:00 18-05 | CR Bưởi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sevilla+FC&t2=Real+Madrid&blv=CR+B%C6%B0%E1%BB%9Fi&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd20ed1da4f299cc3ef0e1e9eb06eced1.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F47ba2fe5caa3770cfa2e99dc4b7e72cd.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 00:00 18-05",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 CR Bưởi",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV CR Bưởi",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/387694.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "122164",
           "name": "Rayo Vallecano vs Villarreal CF | 00:00 18-05 | BLV LION",
           "type": "single",
@@ -318,14 +366,14 @@
           ]
         },
         {
-          "id": "122167",
-          "name": "Sevilla FC vs Real Madrid | 00:00 18-05 | CR Bưởi",
+          "id": "122165",
+          "name": "Real Sociedad vs Valencia CF | 00:00 18-05 | BLV VIP",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Sevilla+FC&t2=Real+Madrid&blv=CR+B%C6%B0%E1%BB%9Fi&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fd20ed1da4f299cc3ef0e1e9eb06eced1.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F47ba2fe5caa3770cfa2e99dc4b7e72cd.webp&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Sociedad&t2=Valencia+CF&blv=BLV+VIP&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5c3c390fc1cb7b35f06ebbb160151c27.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3b54543c1a584e2e9948d655142996d3.webp&s=vs",
             "width": 600,
             "height": 320
           },
@@ -337,7 +385,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 CR Bưởi",
+              "text": "👨‍💼 BLV VIP",
               "position": "bottom-left",
               "color": "#ff6600",
               "text_color": "#ffffff"
@@ -350,12 +398,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV CR Bưởi",
+                      "name": "BLV BLV VIP",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://live.inplyr.com/room/387694.m3u8"
+                          "url": "https://live.inplyr.com/room/491873.m3u8"
                         }
                       ]
                     }
@@ -548,54 +596,6 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://live.inplyr.com/room/321443.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "122165",
-          "name": "Real Sociedad vs Valencia CF | 00:00 18-05 | BLV VIP",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Real+Sociedad&t2=Valencia+CF&blv=BLV+VIP&lg=Spanish+La+Liga&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F5c3c390fc1cb7b35f06ebbb160151c27.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F3b54543c1a584e2e9948d655142996d3.webp&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "⏰ 00:00 18-05",
-              "position": "top-right",
-              "color": "#333333",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 BLV VIP",
-              "position": "bottom-left",
-              "color": "#ff6600",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "BLV BLV VIP",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://live.inplyr.com/room/491873.m3u8"
                         }
                       ]
                     }
