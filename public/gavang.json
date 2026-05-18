@@ -14,14 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "965mkyhk2dler1g",
-          "name": "South Melbourne 0 - 0 Caroline Springs George Cross",
+          "id": "318q66hx89p7qo9",
+          "name": "Shaanxi United Soaring 1 - 0 Beijing Life＆Football",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=South+Melbourne+0+-+0+Caroline+Springs+George+Cross&t2=&live=1&lg=National+Premier+Leagues+Victoria&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F3728683390847f335552d077cf0b8752.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shaanxi+United+Soaring+1+-+0+Beijing+Life%EF%BC%86Football&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F3efbdef3b7086710b58f8ca978de0107.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -45,7 +45,7 @@
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/479d2654a2e8068c7664a470f9b460c6/playlist.m3u8"
+                          "url": "https://www3.f2k3.shop/live/0c70c3ade02f9ff12019d60f52352f17/playlist.m3u8"
                         }
                       ]
                     }
@@ -54,6 +54,238 @@
               ]
             }
           ]
+        },
+        {
+          "id": "4jwq2ghn55g3m0v",
+          "name": "Kairat Almaty (W) 1 - 0 FK Kaspyi Aktau W",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Kairat+Almaty+%28W%29+1+-+0+FK+Kaspyi+Aktau+W&t2=&live=1&lg=Kazakhstan+Women%27s+Super+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F58559beb73e69cca92048eb688becd12.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/af7802ad84430e21b996f42ea8b9eb76/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8w81dqwz",
+          "name": "Smorgon Women 0 - 1 Dnepr Mogilev Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Smorgon+Women+0+-+1+Dnepr+Mogilev+Women&t2=&live=1&lg=Belarusian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fa45bb2685aa0e44bb36e9c88da205998.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/239d776c2f024b5c991cce353d61cd66/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "x7lm7phjpegom2w",
+          "name": "Tanjong Pagar Utd 0 - 0 Hougang United FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Tanjong+Pagar+Utd+0+-+0+Hougang+United+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Singapore+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F6383c94b1ad9982eeaabbb99e0431ea3.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Đô",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/c9a9b69ca10e53e53b5e98c8d391d709/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jw2r09hkgkverz8",
+          "name": "Thimphu City 0 - 0 Drukpa FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Thimphu+City+0+-+0+Drukpa+FC&t2=&live=1&lg=Bhutan+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F25399874c890dd346ebde00e3c2bcb7b.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/b3ef936af3c1debc7d239eb83bd6e1a3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3e3d2a7c1c384c00a0f229aeb11411e8",
+          "name": "LP Bank Ninh Bình 0 - 0 Hà Nội Tasco Auto",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=LP+Bank+Ninh+B%C3%ACnh+0+-+0+H%C3%A0+N%E1%BB%99i+Tasco+Auto&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=B%C3%B3ng+Chuy%E1%BB%81n+VTV+-+B%C3%ACnh+%C4%90i%E1%BB%81n+2026&l1=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F0%2F06%2FLP_Bank_Ninh_B%25C3%25ACnh_logo.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Péo",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
+        },
+        {
+          "id": "dj2ryohlp7kzq1z",
+          "name": "Yaypan FK 0 - 0 FC Kattaqorgon",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Yaypan+FK+0+-+0+FC+Kattaqorgon&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+S%C3%BAp&lg=Uzbekistan+Cup&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fa4f0f6927ad2a2ab41fc8606b0d826cd.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Súp",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
         }
       ],
       "display": "vertical",
