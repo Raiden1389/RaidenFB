@@ -14,14 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "k82rekhgjg4drep",
-          "name": "Deportivo Maldonado 1 - 0 Danubio FC",
+          "id": "2y8m4zh55g0dql0",
+          "name": "Ponte Preta 0 - 1 Londrina PR",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deportivo+Maldonado+1+-+0+Danubio+FC&t2=&live=1&lg=Uruguay+Primera+Division&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F932f3790a25e5c4f40ae328ad9060055.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ponte+Preta+0+-+1+Londrina+PR&t2=&live=1&lg=Brazilian+Serie+B&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Ffb735adffa94a7306c7f68b9609d929f.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -45,7 +45,7 @@
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/11133c2f02aa01e86c591f382a58d4b4/playlist.m3u8"
+                          "url": "https://www3.f2k3.shop/live/69120d9c92b134fe9c0154e51bf34d2e/playlist.m3u8"
                         }
                       ]
                     }
@@ -54,6 +54,35 @@
               ]
             }
           ]
+        },
+        {
+          "id": "y0or5jh8w1kxqwz",
+          "name": "CD Motagua 0 - 0 Génesis Policía Nacional",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CD+Motagua+0+-+0+G%C3%A9nesis+Polic%C3%ADa+Nacional&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Honduras+Primera+Division&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F8e1e189812b7c939bcbeb55a07ef6a2e.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 Gà Siêu Đô",
+              "position": "bottom-left",
+              "color": "#FFD700",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [],
+          "enable_detail": false
         }
       ],
       "display": "vertical",
