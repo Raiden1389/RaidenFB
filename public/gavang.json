@@ -14,14 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "2y8m4zh55g0dql0",
-          "name": "Ponte Preta 0 - 1 Londrina PR",
+          "id": "dn1m1ghl26pomoe",
+          "name": "Guayaquil City 0 - 1 Orense SC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ponte+Preta+0+-+1+Londrina+PR&t2=&live=1&lg=Brazilian+Serie+B&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Ffb735adffa94a7306c7f68b9609d929f.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Guayaquil+City+0+-+1+Orense+SC&t2=&live=1&lg=LigaPro+Serie+A+&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F06c168e54604cc2392646b4c8cea7d9b.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -45,7 +45,91 @@
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/69120d9c92b134fe9c0154e51bf34d2e/playlist.m3u8"
+                          "url": "https://www3.f2k3.shop/live/e680b8ede6ee517608ea86a67e3ad1bb/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whwppd7ryo",
+          "name": "Inter Palmira 2 - 1 Tigres Zipaquira",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Inter+Palmira+2+-+1+Tigres+Zipaquira&t2=&live=1&lg=Colombian+Torneo+BetPlay+Dimayor&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fe362b02676ca21aa27e93bfa85f6e925.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/3515407d1aad43c1db7aab1cb4e4c628/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh8now5qwz",
+          "name": "Cruzeiro Women 2 - 1 Corinthians Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Cruzeiro+Women+2+-+1+Corinthians+Women&t2=&live=1&lg=Brazil+W+L&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fa3786f417bab73cbf4b3a789584ef8f8.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/33ec7f3f3a1422fbbe75812617f0626b/playlist.m3u8"
                         }
                       ]
                     }
@@ -57,13 +141,13 @@
         },
         {
           "id": "y0or5jh8w1kxqwz",
-          "name": "CD Motagua 0 - 0 Génesis Policía Nacional",
+          "name": "CD Motagua 1 - 1 Génesis Policía Nacional",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=CD+Motagua+0+-+0+G%C3%A9nesis+Polic%C3%ADa+Nacional&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Honduras+Primera+Division&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F8e1e189812b7c939bcbeb55a07ef6a2e.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CD+Motagua+1+-+1+G%C3%A9nesis+Polic%C3%ADa+Nacional&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Honduras+Primera+Division&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F8e1e189812b7c939bcbeb55a07ef6a2e.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -81,8 +165,69 @@
               "text_color": "#ffffff"
             }
           ],
-          "sources": [],
-          "enable_detail": false
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV Gà Siêu Đô",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/e9c73295a609a117c36f768dfad56fd0/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pxwrxlhy0055ryk",
+          "name": "SV Brazil Juniors 0 - 0 SV Unistars",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=SV+Brazil+Juniors+0+-+0+SV+Unistars&t2=&live=1&lg=Aruba+Division+Di+Honor&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fd0e07bf810d9e05fe33df4c535b03b91.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/c328c0e7aaa8c9e0a6fc334f805ed909/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "display": "vertical",
