@@ -14,14 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "1l4rjnh91x31m7v",
-          "name": "Chelsea 1 - 0 Tottenham Hotspur",
+          "id": "23xmvkh6y59xqg8",
+          "name": "Rosario Central 0 - 0 Universidad Central de Venezuela",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chelsea+1+-+0+Tottenham+Hotspur&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=English+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fb365ad0e85e2b1bcbf63f7a0f2f70a79.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Rosario+Central+0+-+0+Universidad+Central+de+Venezuela&t2=&live=1&lg=CONMEBOL+Copa+Libertadores&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F925e9365900b159acf4493eb401fdc18.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -30,12 +30,6 @@
               "text": "🔴 LIVE",
               "position": "top-left",
               "color": "#ff0000",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "👨‍💼 Gà Siêu Mõm",
-              "position": "bottom-left",
-              "color": "#FFD700",
               "text_color": "#ffffff"
             }
           ],
@@ -46,12 +40,180 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV Gà Siêu Mõm",
+                      "name": "Stream",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/6132c47a39c40660a6b4869b92135522/playlist.m3u8"
+                          "url": "https://www3.f2k3.shop/live/2dc3134187d8d7437f08a187539f4a45/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h6y3d9q86",
+          "name": "Audax Italiano 0 - 0 Barracas Central",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Audax+Italiano+0+-+0+Barracas+Central&t2=&live=1&lg=CONMEBOL+Copa+Sudamericana&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F7a8bb950293508aeb3199de3c45dd418.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/842718c02fa5220f911ca2758a6725fa/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvk91omd7",
+          "name": "Fluminense - RJ 0 - 0 Bolivar",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Fluminense+-+RJ+0+-+0+Bolivar&t2=&live=1&lg=CONMEBOL+Copa+Libertadores&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fa6bce9adfac7903426bed2b253991a18.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/f05dfa39fa31196d2444c3479b11f8b5/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "965mkyhk8vzzr1g",
+          "name": "Coquimbo Unido 0 - 0 Deportes Tolima",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Coquimbo+Unido+0+-+0+Deportes+Tolima&t2=&live=1&lg=CONMEBOL+Copa+Libertadores&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fe62f69a9de87796972eb59d19c27e59c.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/1c26d6af7315898aa91ec75cea261963/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y0or5jh89p4kqwz",
+          "name": "Montevideo City Torque 0 - 0 Deportivo Riestra",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Montevideo+City+Torque+0+-+0+Deportivo+Riestra&t2=&live=1&lg=CONMEBOL+Copa+Sudamericana&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fbb5004650a388d73f47cc3ca08623cc8.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/ef169e510c123826270a8f3d90a3da16/playlist.m3u8"
                         }
                       ]
                     }
