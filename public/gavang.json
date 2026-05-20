@@ -8,7 +8,184 @@
     "type": "cover",
     "url": "https://cdn.fastestcdn-global.com/seo-gavangtv-v4/icons/logo.png"
   },
-  "groups": [],
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 LIVE",
+      "channels": [
+        {
+          "id": "23xmvkh6ldpdqg8",
+          "name": "Deren FC 5 - 0 Bishrelt Khoromkhon",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Deren+FC+5+-+0+Bishrelt+Khoromkhon&t2=&live=1&lg=Mongolia+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fe4f8faa800643a16387371e8f8234079.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/0a55a24831337c8b607d220df6c33588/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghl95zkmoe",
+          "name": "Beijing Life＆Football 0 - 0 Xinjiang Spartak",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Beijing+Life%EF%BC%86Football+0+-+0+Xinjiang+Spartak&t2=&live=1&lg=CFA+Member+Champions+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Faf24a7bebb46cde36a94725750ed1bcf.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/31c24b945be80baa8aee24ce69ae627b/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh51zd1ql0",
+          "name": "Taichung Blue Whale Women 0 - 0 Hang Yuan FC Women",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Taichung+Blue+Whale+Women+0+-+0+Hang+Yuan+FC+Women&t2=&live=1&lg=Chinese+Taiwan+Mulan+Football+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F8db3bf45c485cacf4f4709fd26a79f74.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/ebbfaba349fab14036a64b4aff2c2366/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dn1m1ghlgkxzmoe",
+          "name": "Don Bosco Garelli United 1 - 0 Philippine Army FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Don+Bosco+Garelli+United+1+-+0+Philippine+Army+FC&t2=&live=1&lg=Philippines+United+Football+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fb552130737a6d7dd22dcbba499342904.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/d28bfeb7f4bfdb319c7a3b0ec948cb60/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    }
+  ],
   "option": {
     "save_history": false,
     "save_search_history": false,
