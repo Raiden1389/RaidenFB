@@ -8,7 +8,64 @@
     "type": "cover",
     "url": "https://cakhia.ink/favicon.ico"
   },
-  "groups": [],
+  "groups": [
+    {
+      "id": "uefawomenschampionsleague",
+      "name": "UEFA Women's Champions League",
+      "channels": [
+        {
+          "id": "124233",
+          "name": "Barcelona Women vs OL Lyonnes Women | 23:00 23-05 | A BỆU",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Barcelona+Women&t2=OL+Lyonnes+Women&blv=A+B%E1%BB%86U&lg=UEFA+Women%27s+Champions+League&l1=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2Fb65ee16a9cfe056825b1e0c15c05cf54.webp&l2=https%3A%2F%2Fartbyciara.com%2Fwp-content%2Fuploads%2Ftruc-tiep%2Flogos%2Ffootball%2Fteam%2F484ae7b7bd74733551f909e8bcf6f43f.webp&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "⏰ 23:00 23-05",
+              "position": "top-right",
+              "color": "#333333",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "👨‍💼 A BỆU",
+              "position": "bottom-left",
+              "color": "#ff6600",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "BLV A BỆU",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://live.inplyr.com/room/484845.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "display": "vertical",
+      "grid_number": 1
+    }
+  ],
   "option": {
     "save_history": false,
     "save_search_history": false,
