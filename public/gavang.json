@@ -14,98 +14,14 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "3glrw7hngeyyqdy",
-          "name": "KACM Marrakech 2 - 0 CODM Meknes",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=KACM+Marrakech+2+-+0+CODM+Meknes&t2=&live=1&lg=The+Botola+Pro&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fe6d014b447c5ebded36c1976fd866cb4.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/3e928278572badf05ef7ec2fb6bc1baf/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "k82rekhgwxgprep",
-          "name": "Juan Pablo II 0 - 1 FBC Melgar",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Juan+Pablo+II+0+-+1+FBC+Melgar&t2=&live=1&lg=Peruvian+Liga+1&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F135610c6dd7e50332c14838339453b86.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/2ba762f0ab26b2ef4bab7f3dd63429d7/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "6ypq3nhv3e6gmd7",
-          "name": "Club Sportivo 2 de Mayo 0 - 0 Sportivo San Lorenzo",
+          "name": "Club Sportivo 2 de Mayo 0 - 1 Sportivo San Lorenzo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Sportivo+2+de+Mayo+0+-+0+Sportivo+San+Lorenzo&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fef90155d7ce7ad5223e50df90eff5d19.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Club+Sportivo+2+de+Mayo+0+-+1+Sportivo+San+Lorenzo&t2=&live=1&lg=Paraguayan+Primera+Division&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fef90155d7ce7ad5223e50df90eff5d19.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -130,6 +46,132 @@
                           "id": "hls",
                           "type": "hls",
                           "url": "https://www3.f2k3.shop/live/a21ef14027062c87ab2c56c5dc53f67a/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dj2ryohl71voq1z",
+          "name": "Atletico Futbol Club 2 - 1 Gualaceo SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Atletico+Futbol+Club+2+-+1+Gualaceo+SC&t2=&live=1&lg=Ecuadorian+Campeonato+Serie+B&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F489f996b5ad720c508e1df7b86a33ccb.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/4f0782528cec7bd6b63976311a42170f/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2y8m4zh5e742ql0",
+          "name": "Crown Legacy FC 0 - 0 New England Revolution B",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Crown+Legacy+FC+0+-+0+New+England+Revolution+B&t2=&live=1&lg=MLS+Next+Pro&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fd91b2d80126742d8195a693ac4d7d6e0.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/1834e87a4bdf94127207ac1ddf9093a1/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4wyrn4h6xn9eq86",
+          "name": "CA Brown Adrogue 0 - 0 Deportivo Merlo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=CA+Brown+Adrogue+0+-+0+Deportivo+Merlo&t2=&live=1&lg=Argentine+Group+B+Tebolidun+League+Manchester&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Ffc616842475a2d4badbe81ad69bf4625.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/c83bfcb517ebce191532895ad4de8350/playlist.m3u8"
                         }
                       ]
                     }
