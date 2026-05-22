@@ -14,14 +14,350 @@
       "name": "🔴 LIVE",
       "channels": [
         {
-          "id": "4wyrn4h6o250q86",
-          "name": "Machida Zelvia 1 - 0 Urawa Red Diamonds",
+          "id": "zp5rzghg3yp0q82",
+          "name": "Ravshan Kulob 2 - 1 Sardor Tursunzoda",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Machida+Zelvia+1+-+0+Urawa+Red+Diamonds&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+%C4%90%C3%B4&lg=Japanese+J1+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F539c489a7bd94dd9d785308fd0f0a6b9.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Ravshan+Kulob+2+-+1+Sardor+Tursunzoda&t2=&live=1&lg=Tajikistan+Higher+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F82560a88a439752dcf0f31923d87586a.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/971e569aca5bc55358ba41d10517d837/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23xmvkh6yvkgqg8",
+          "name": "FK Parvoz Bobojon Ghafurov 0 - 1 FK Eskhata",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Parvoz+Bobojon+Ghafurov+0+-+1+FK+Eskhata&t2=&live=1&lg=Tajikistan+Higher+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F90e500f4c59aaa22f721dd715f73fd50.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/8cc4cc2c05b2e6ce44d9cd4cbcdd41cc/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6ypq3nhvvxyemd7",
+          "name": "FK Rostov Youth 0 - 0 Dinamo Moscow Youth",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Rostov+Youth+0+-+0+Dinamo+Moscow+Youth&t2=&live=1&lg=RUS+M-League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F6d5b77ca9aa09b1c235c13bdb22a60d6.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/104d73eafe30e1f72b5bf0800957acc9/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ednm9whwplnxryo",
+          "name": "ETO Akademia 1 - 1 SC Sopron",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=ETO+Akademia+1+-+1+SC+Sopron&t2=&live=1&lg=Hungary+Nemzeti+Bajnoksug+III&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fe84537c9f0c893faabf32d58179e17b9.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/95136bb1b2b77b9535e92889d0608c24/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ergph4vegdr8k",
+          "name": "NK Osijek 0 - 0 Slaven Belupo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=NK+Osijek+0+-+0+Slaven+Belupo&t2=&live=1&lg=Croatian+Football+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F92cc8702aeb25510aeca93022432699d.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/0be704bf4b84407120e873be43e67fd3/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8gheeydlr6o",
+          "name": "Spartak Moscow Youth 0 - 1 Rubin Kazan Reserves",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Spartak+Moscow+Youth+0+-+1+Rubin+Kazan+Reserves&t2=&live=1&lg=RUS+M-League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F69a788841fd6ee41f48081a7e440cb8f.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/bc7243f6ab99911d8c8ea2e1819b0116/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vjxm8ghek4vyr6o",
+          "name": "FK Kaspyi Aktau 1 - 1 Irtysh Pavlodar",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Kaspyi+Aktau+1+-+1+Irtysh+Pavlodar&t2=&live=1&lg=Kazakhstan+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F093b019417397a95732e569df7f2a8f0.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/6be85b8e5d6c3a32e707748c4be322cf/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "y39mp1h6o14jmoj",
+          "name": "Khan Tengri FC 1 - 0 Tobol Kostanai B",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Khan+Tengri+FC+1+-+0+Tobol+Kostanai+B&t2=&live=1&lg=Kazakhstan+Division+1&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F05cf441029dee335fd968c6bf40f9ad5.png&s=vs",
+            "width": 600,
+            "height": 320
+          },
+          "labels": [
+            {
+              "text": "🔴 LIVE",
+              "position": "top-left",
+              "color": "#ff0000",
+              "text_color": "#ffffff"
+            }
+          ],
+          "sources": [
+            {
+              "contents": [
+                {
+                  "streams": [
+                    {
+                      "id": "default",
+                      "name": "Stream",
+                      "stream_links": [
+                        {
+                          "id": "hls",
+                          "type": "hls",
+                          "url": "https://www3.f2k3.shop/live/834d47b2c6b1cac4a3c36c5552510e35/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "zp5rzghgo3p0q82",
+          "name": "El Gounah 0 - 1 Tala'ea El Gaish",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "display": "cover",
+            "shape": "rectangle",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=El+Gounah+0+-+1+Tala%27ea+El+Gaish&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+Ng%E1%BB%91&lg=Egyptian+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F35e665fa4086e183fda582249d625c2b.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -33,7 +369,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 Gà Siêu Đô",
+              "text": "👨‍💼 Gà Siêu Ngố",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
@@ -46,12 +382,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV Gà Siêu Đô",
+                      "name": "BLV Gà Siêu Ngố",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/df24a1751e033082b5d88b3134ae4740/playlist.m3u8"
+                          "url": "https://www3.f2k3.shop/live/26829e719a893b22eb53d3a6500b75b3/playlist.m3u8"
                         }
                       ]
                     }
@@ -62,434 +398,14 @@
           ]
         },
         {
-          "id": "k82rekhgjdj8rep",
-          "name": "West Torrens Birkalla Women 3 - 1 Modbury Vista (w)",
+          "id": "vjxm8ghe74ygr6o",
+          "name": "Al-Jazira(UAE) 0 - 0 Al-Ain FC",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
             "display": "cover",
             "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=West+Torrens+Birkalla+Women+3+-+1+Modbury+Vista+%28w%29&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F22b8a1add9247e3d7ab27d27e4f15fa8.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/ff36f179e16bb2368bb229e4e5abb682/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l7oqdehg9lo0r51",
-          "name": "Chejiang 2 Village 0 - 0 Longquanjing Village",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Chejiang+2+Village+0+-+0+Longquanjing+Village&t2=&live=1&lg=Rural+Football+Super+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F8b93d1c98aa3b2e4d0af1553406e029f.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/30a0b1cf0b30dc3676b454733d6a0811/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "y0or5jh8w35nqwz",
-          "name": "Preston Lions Women 2 - 0 Heidelberg United Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Preston+Lions+Women+2+-+0+Heidelberg+United+Women&t2=&live=1&lg=Australia+Victorian+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fa58d1203ea2a8726c62f8a6d17cd0a24.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/56ba9f7ca62703af4bdcd0da086c5f56/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "318q66hx3pp8qo9",
-          "name": "Adelaide University Women 1 - 2 FFSA NTC Girls Women",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Adelaide+University+Women+1+-+2+FFSA+NTC+Girls+Women&t2=&live=1&lg=South+Australia+Women%27s+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fb97f737098da96f517929ce3855b9be3.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/7531464739a89fa0173989023182292b/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "1l4rjnh99xegm7v",
-          "name": "Perth RedStar 1 - 1 Perth SC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Perth+RedStar+1+-+1+Perth+SC&t2=&live=1&lg=Western+Australia+National+Premier+Leagues&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Ff4e70082100fd164fd55016ca61cbf35.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/b86fb60a431b09bc3ce65affeb0c25bf/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "23xmvkh62k05qg8",
-          "name": "FK Kaspiy Aktau B 0 - 0 Jaiyq",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=FK+Kaspiy+Aktau+B+0+-+0+Jaiyq&t2=&live=1&lg=Kazakhstan+Division+1&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F651ba39aae3985527e69ba4511a29fb5.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/eeaba90d623286374341cd42b21e40c6/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "jw2r09hk580prz8",
-          "name": "Hirnyk-Sport 0 - 0 FC Trostianets",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Hirnyk-Sport+0+-+0+FC+Trostianets&t2=&live=1&lg=Ukrainian+Second+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F873e907a88b0248171f67a6f3085e2d3.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/389a5e5652f1621e29de3bd0299603bd/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph47jyor8k",
-          "name": "Mindil Aces 2 - 0 Garuda FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Mindil+Aces+2+-+0+Garuda+FC&t2=&live=1&lg=Australia+Darwin+Premier+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F96bd74eb5dc25cd28291119d11ad9a94.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/36d935411af692043bc1ec5652307588/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "l5ergph4k8zlr8k",
-          "name": "Shandong Taishan B 0 - 1 Shanghai Port B",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Shandong+Taishan+B+0+-+1+Shanghai+Port+B&t2=&live=1&lg=Chinese+Football+League+2&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fb1a78064a75015a25f216657f860392f.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/87a833eec14ae727796f12bf0198e1bf/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "zp5rzghg31gkq82",
-          "name": "Xuan Thien Phu Tho 0 - 0 Dong Thap",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=Xuan+Thien+Phu+Tho+0+-+0+Dong+Thap&t2=&live=1&lg=Vietnam+National+First+Class+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fa3fa1f2bd7dbd79b0c531417b56647d6.png&s=vs",
-            "width": 600,
-            "height": 320
-          },
-          "labels": [
-            {
-              "text": "🔴 LIVE",
-              "position": "top-left",
-              "color": "#ff0000",
-              "text_color": "#ffffff"
-            }
-          ],
-          "sources": [
-            {
-              "contents": [
-                {
-                  "streams": [
-                    {
-                      "id": "default",
-                      "name": "Stream",
-                      "stream_links": [
-                        {
-                          "id": "hls",
-                          "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/2197628dc0173ade02443b17fdf36770/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "zp5rzghggevoq82",
-          "name": "The Cong Viettel 0 - 0 PVF-CAND FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "display": "cover",
-            "shape": "rectangle",
-            "url": "https://raidenfb-card.vercel.app/api/card?t1=The+Cong+Viettel+0+-+0+PVF-CAND+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+P%C3%A9o&lg=Vietnam+National+Champion+League&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F840e2d7165cf2a34ec6c65a1fd9b58a9.png&s=vs",
+            "url": "https://raidenfb-card.vercel.app/api/card?t1=Al-Jazira%28UAE%29+0+-+0+Al-Ain+FC&t2=&live=1&blv=G%C3%A0+Si%C3%AAu+M%C3%B5m&lg=United+Arab+Emirates+President+Cup&l1=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F9352b8e0b9515b84abf716a32c42777e.png&s=vs",
             "width": 600,
             "height": 320
           },
@@ -501,7 +417,7 @@
               "text_color": "#ffffff"
             },
             {
-              "text": "👨‍💼 Gà Siêu Péo",
+              "text": "👨‍💼 Gà Siêu Mõm",
               "position": "bottom-left",
               "color": "#FFD700",
               "text_color": "#ffffff"
@@ -514,12 +430,12 @@
                   "streams": [
                     {
                       "id": "default",
-                      "name": "BLV Gà Siêu Péo",
+                      "name": "BLV Gà Siêu Mõm",
                       "stream_links": [
                         {
                           "id": "hls",
                           "type": "hls",
-                          "url": "https://www3.f2k3.shop/live/c71b36513b44584ecead8c63a720b93f/playlist.m3u8"
+                          "url": "https://www3.f2k3.shop/live/76b1969db7bb23303f4087ad8f880bb1/playlist.m3u8"
                         }
                       ]
                     }
